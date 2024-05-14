@@ -1,7 +1,7 @@
 ---
 title: "AI in Oil and Gas Industry: Benefits and Use Cases"
-draft: true
-publishDate: 2023-10-05T00:00:00Z
+draft: false
+publishDate: 2023-10-05T00:00:00.000Z
 image: ai_oil_gas.png
 og_image: ai_oil_gas_socials.png
 description: With the right approaches, AI can revolutionize the work of many
