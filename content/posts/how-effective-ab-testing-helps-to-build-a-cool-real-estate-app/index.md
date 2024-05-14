@@ -1,8 +1,6 @@
 ---
-promote:
-  promote: false
-draft: true
 title: How Effective A/B Testing Helps to Build a Cool Real Estate App
+draft: false
 publishDate: 2019-07-22T00:00:00.000Z
 image: ab-test-testing.jpg
 og_image: ab-test-testing.jpg
@@ -12,6 +10,8 @@ description: The success of real estate web giants like Zillow, Trulia,
   picture, you will not achieve success until all the components are brought
   together. Today we are going to talk about one of the fragments - a/b testing
   for real estate platform.
+promote:
+  promote: false
 top: false
 authors:
   - Web Development Team
