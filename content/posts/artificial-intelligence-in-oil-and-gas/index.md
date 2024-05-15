@@ -35,7 +35,7 @@ questionary:
       Thirdly, it is vital to make sure that the used tools are fully compliant
       with the existing regulations.
 ---
-!The use of advanced technologies like artificial intelligence, machine learning, VR/AR, and others is typically associated in our minds with startups working in emerging markets. However, it is not fully true. Modern technologies are gradually entering a lot of [industries](https://anadea.info/guides/the-impact-of-ai-on-business), including those that may seem to be too traditional and not susceptible to change, such as the oil and gas industry, for example. In this article, we are going to prove it by demonstrating how AI-powered systems can be used by enterprises and companies working in this market. Just keep reading if you want to know more about Artificial Intelligence use cases in oil and gas industry.
+The use of advanced technologies like artificial intelligence, machine learning, VR/AR, and others is typically associated in our minds with startups working in emerging markets. However, it is not fully true. Modern technologies are gradually entering a lot of [industries](https://anadea.info/guides/the-impact-of-ai-on-business), including those that may seem to be too traditional and not susceptible to change, such as the oil and gas industry, for example. In this article, we are going to prove it by demonstrating how AI-powered systems can be used by enterprises and companies working in this market. Just keep reading if you want to know more about Artificial Intelligence use cases in oil and gas industry.
 
 ## Digitalization of the oil and gas industry
 
@@ -142,6 +142,7 @@ Risk-taking, experimentation, adaptability, and continuous learning should becom
 Before implementing any AI for oil and gas business, managers should clearly define areas where AI can be of great use and prepare the existing workflows and processes for the introduction of new solutions. Only when every team member clearly understands the role of new solutions in his or her work as well as in the functioning of the entire enterprise in general, it is possible to expect any positive outcomes of digitalization and AI adoption.
 
 ## AI and complementary technologies
+
 
 AI is a technology that has enormous potential for dealing with an extremely wide range of tasks across many industries. But it shouldn't be considered only in isolation. To achieve the highest results, AI and ML can be combined with other advanced technologies.
 
