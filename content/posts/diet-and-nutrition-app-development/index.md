@@ -9,7 +9,8 @@ description: Build an app for dieting that will stand out from competitors
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - Mobile Development Team
 categories: []
 industries:
   - Sports
@@ -151,13 +152,11 @@ Instead of giving a list of all the possible features of diet tracking software,
 
 The above-listed apps for dieting and their features can be mixed in any way you prefer depending on the idea you have. Of course, developing a comprehensive healthy eating app will take longer and cost more than an app focused on one side of dieting and nutrition, however, there’s no need to start big. If you start with an <a href="https://anadea.info/guides/what-is-mvp" target="_blank">MVP development</a> and launch the basic version first, you will be able to pile up new features step by step, release by release, and not spend much at a time. From our point of view, the best and most effective combinations to start with are:
 
-Weight loss diary + Calorie counter;<br />
-Calorie counter + Food scanner;<br />
-Meal planner + Recipe app;<br />
-<a href="https://anadea.info/blog/how-to-build-workout-fitness-app" target="_blank">Fitness workout app</a> + Calorie counter;<br />
-Dietician consultation app + Weight loss tracker.
-
-<a name="avoid"></a>
+* Weight loss diary + Calorie counter
+* Calorie counter + Food scanner
+* Meal planner + Recipe app
+* <a href="https://anadea.info/blog/how-to-build-workout-fitness-app" target="_blank">Fitness workout app</a> + Calorie counter
+* Dietician consultation app + Weight loss tracker
 
 ## What to avoid in diet and nutrition app development
 
