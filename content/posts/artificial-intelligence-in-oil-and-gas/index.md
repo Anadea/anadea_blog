@@ -12,6 +12,7 @@ promote:
 top: false
 authors:
   - AI/ML Team
+  - Web Development Team
 categories:
   - Business
 industries: []
