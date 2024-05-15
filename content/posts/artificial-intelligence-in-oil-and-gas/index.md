@@ -12,7 +12,6 @@ promote:
 top: false
 authors:
   - AI/ML Team
-  - Web Development Team
 categories:
   - Business
 industries: []
@@ -36,7 +35,7 @@ questionary:
       Thirdly, it is vital to make sure that the used tools are fully compliant
       with the existing regulations.
 ---
-The use of advanced technologies like artificial intelligence, machine learning, VR/AR, and others is typically associated in our minds with startups working in emerging markets. However, it is not fully true. Modern technologies are gradually entering a lot of [industries](https://anadea.info/guides/the-impact-of-ai-on-business), including those that may seem to be too traditional and not susceptible to change, such as the oil and gas industry, for example. In this article, we are going to prove it by demonstrating how AI-powered systems can be used by enterprises and companies working in this market. Just keep reading if you want to know more about Artificial Intelligence use cases in oil and gas industry.
+!The use of advanced technologies like artificial intelligence, machine learning, VR/AR, and others is typically associated in our minds with startups working in emerging markets. However, it is not fully true. Modern technologies are gradually entering a lot of [industries](https://anadea.info/guides/the-impact-of-ai-on-business), including those that may seem to be too traditional and not susceptible to change, such as the oil and gas industry, for example. In this article, we are going to prove it by demonstrating how AI-powered systems can be used by enterprises and companies working in this market. Just keep reading if you want to know more about Artificial Intelligence use cases in oil and gas industry.
 
 ## Digitalization of the oil and gas industry
 
