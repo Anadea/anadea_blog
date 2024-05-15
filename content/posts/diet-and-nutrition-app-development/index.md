@@ -1,9 +1,9 @@
 ---
 title: "Building an App for Nutrition and Dieting: All You Need to Know"
 draft: true
-publishDate: 2022-07-25T00:00:00Z
+publishDate: 2022-07-25T00:00:00.000Z
 image: hamster.jpg
-og_image: hamster.png
+og_image: ""
 description: Build an app for dieting that will stand out from competitors
   following our tips!
 promote:
