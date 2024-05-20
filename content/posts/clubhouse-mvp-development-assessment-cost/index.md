@@ -25,8 +25,7 @@ So, what’s so special about this newcomer into a cohesive class of popular soc
 
 ## What is the Clubhouse app?
 
-<img src="socila_app_interface.png" alt="Sicial App Interface" width='350' class="float-right">
-
+![](socila_app_interface.png)
 
 Some time ago social networks were used for the purpose of communication and establishing connections between people. Shortly they became so popular that they started to grow in their amount and gain specific goals - showcase photos, establish professional connections, share short messages, etc. No wonder that the Clubhouse idea of conducting conversations among people with common interests or of one social circle in the format of live voice chat appeared to become so popular.
 
