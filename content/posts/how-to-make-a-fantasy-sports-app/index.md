@@ -1,10 +1,10 @@
 ---
-ceoTitle: ⚽How to Create a Fantasy Sports Website & App in 2023?
+ceoTitle: ⚽How to Create a Fantasy Sports Website & App?
 title: How to Build a Fantasy Sports App - Cost & Features
 breadcrumbs: Fantasy League App
 slug: how-to-make-a-fantasy-sports-app
 draft: false
-publishDate: 2022-10-07T00:00:00Z
+publishDate: 2022-10-07T00:00:00.000Z
 image: fantasy_sports.jpg
 og_image: fantasy_sports_socials.png
 description: Want to learn how to create a fantasy league app? Be it football,
