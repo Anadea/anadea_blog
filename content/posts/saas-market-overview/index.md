@@ -4,7 +4,7 @@ title: What Businesses Should Know About the SaaS Market in 2023
 breadcrumbs: SaaS Market Overview
 slug: saas-market-overview
 draft: false
-publishDate: 2023-01-10T00:00:00Z
+publishDate: 2023-01-10T00:00:00.000Z
 image: SaaS_market_notext.jpg
 og_image: SaaS_market.png
 description: A comprehensive overview of the SaaS market exploring the current
@@ -12,7 +12,8 @@ description: A comprehensive overview of the SaaS market exploring the current
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - business
 industries: []
