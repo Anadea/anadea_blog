@@ -4,7 +4,7 @@ title: A Guide to Digital Transformation
 breadcrumbs: A Guide to Digital Transformation
 slug: digital-transformation
 draft: true
-publishDate: 2021-03-31T00:00:00Z
+publishDate: 2021-03-31T00:00:00.000Z
 image: hero.png
 og_image: hero.png
 description: Digital transformation is about making a profound change in an
@@ -110,12 +110,7 @@ Not every provider is equal, of course. Some have a better reputation than other
 
 Digital transformation is transforming sectors across the world. Even those many wouldn't imagine, such as industrial, logistics and shipping. Between big data, new cloud and app-based ways of working, AI and machine learning, whether through wholesale transformation or creeping adoption, new ways are replacing outdated methods and processes.
 
-
-
-<figure>
- <img src="quote_4.jpeg" alt="Best quotes on digital transformation: You look at marketing: everything that's happening in marketing is digitized. Everything that's happening in finance is digitized. So pretty much every industry, every function in every industry, has a huge element that's driven by information technology. It's no longer discrete, said Satya Nadella, CEO of Microsoft Corporation." style="width:100%">
- <figcaption><center><sub>Source: <a href="https://qz.com/172668/heres-where-microsofts-next-ceo-satya-nadella-sees-opportunity/" rel="nofollow" target="_blank">Quartz</a></sub></center></figcaption>
-</figure>
+![Best quotes on digital transformation: You look at marketing: everything that's happening in marketing is digitized. Everything that's happening in finance is digitized. So pretty much every industry, every function in every industry, has a huge element that's driven by information technology. It's no longer discrete, said Satya Nadella, CEO of Microsoft Corporation.](quote_4.jpeg "Source: Quartz")
 
 In this next section of our digital transformation guide we look at the impact of digital transformation on the real estate, healthcare and education sectors.
 
