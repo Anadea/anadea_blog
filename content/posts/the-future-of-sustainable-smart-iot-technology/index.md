@@ -1,7 +1,7 @@
 ---
 title: The Future of Sustainable Smart IoT-Technology
 draft: false
-publishDate: 2020-03-26T00:00:00Z
+publishDate: 2020-03-26T00:00:00.000Z
 image: Iot-and-sustainability.jpg
 og_image: Sustainable-IoT-technology.jpg
 description: From solar panels to smart vehicles, energy-saving devices for the
@@ -10,7 +10,8 @@ description: From solar panels to smart vehicles, energy-saving devices for the
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - business
 industries: []
