@@ -1,6 +1,6 @@
 ---
 title: "The Future of Retail: Building Functional Mobile Apps"
-draft: true
+draft: false
 publishDate: 2016-08-30T00:00:00Z
 image: mcommerce.jpg
 og_image: mcommerce.jpg
