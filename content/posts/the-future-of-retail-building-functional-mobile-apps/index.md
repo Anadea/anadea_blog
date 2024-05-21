@@ -1,7 +1,7 @@
 ---
 title: "The Future of Retail: Building Functional Mobile Apps"
 draft: false
-publishDate: 2016-08-30T00:00:00Z
+publishDate: 2016-08-30T00:00:00.000Z
 image: mcommerce.jpg
 og_image: mcommerce.jpg
 description: The world of eCommerce is growing with every single year. Why to
