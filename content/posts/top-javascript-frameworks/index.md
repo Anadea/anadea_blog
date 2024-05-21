@@ -1,7 +1,8 @@
 ---
 title: Top 5 JavaScript Frameworks For Your Projects
+slug: top-javascript-frameworks
 draft: false
-publishDate: 2017-10-06T00:00:00Z
+publishDate: 2017-10-06T00:00:00.000Z
 image: top-5-js-frameworks.jpg
 og_image: Infogr_top-js_frameworks_view.jpg
 description: In the world of front-end development, things are a bit
@@ -13,7 +14,8 @@ description: In the world of front-end development, things are a bit
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - development
 industries: []
