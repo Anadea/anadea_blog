@@ -3,7 +3,7 @@ title: "Sports Apps: Turn Your Phone Into a Personal Coach"
 breadcrumbs: Types of Sports Apps
 slug: ""
 draft: false
-publishDate: 2017-04-04T00:00:00Z
+publishDate: 2017-04-04T00:00:00.000Z
 image: sports_apps.jpg
 og_image: sports_apps.jpg
 description: "We live in the decade of applications. Take a look around: apps
@@ -48,7 +48,7 @@ Applications like this use a simple server where all videos are stored. They als
 
 **Team management apps** are somewhat similar to the previous types. A sports team app allows users to find teammates, watch their activity, set up training schedule, choose venues and events to jump in. Such apps also keep story of all games and memorable moments of your team. A nice tool to raise your team spirit! We've recently developed a new [sports team management app](https://anadea.info/projects/online-platform-for-team-sports), check it out in our portfolio. It's awesome, really.
 
-{{< advert >}}Find more sports projects on our <a href="https://anadea.info/projects#sports">software company portfolio</a>{{< /advert >}}
+{{< advert >}}Find more sports projects <a href="https://anadea.info/projects#sports">here</a>{{< /advert >}}
 
 All apps with social features look like small pieces of a big pie. I guess, you already know what I'm aimimg at: **social networks for sports**. The idea of creating a sports connection app is not new and there are some existing applications of that kind. However, social networks never get old. You can experiment with the design, features or something else - just make sure you do it better than your predecessors. A sports network app can put together booking and coaching apps, provide interactive map with sport events, shops and places for training and so on.
 
@@ -56,4 +56,4 @@ All apps with social features look like small pieces of a big pie. I guess, you 
 
 That's it for sport applications. As you can see, they continue to get bigger and stronger, just like their users. Wearable devices became tightly associated with sport and they continue to evolve in this direction. Sooner or later they will be able to track all user's activities, including swimming and barbell exercises. Integration of new technologies such as neural networks and virtual reality will also introduce huge improvements and we just can't wait for them!
 
-If you have a great idea and look for sports app developers to bring it to life, feel free to drop us a message. We would be happy to help you out!
+If you have a great idea and look for sports app developers to bring it to life, feel free to [drop us a message](https://anadea.info/contacts). We would be happy to help you out!
