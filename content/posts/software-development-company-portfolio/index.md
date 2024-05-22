@@ -5,7 +5,7 @@ title: How to Assess a Software Company Portfolio? [Checklist]
 breadcrumbs: Software Company Portfolio
 slug: software-development-company-portfolio
 draft: false
-publishDate: 2022-08-29T00:00:00Z
+publishDate: 2022-08-29T00:00:00.000Z
 image: red_berries.jpg
 og_image: red_berries.jpg
 description: A software company portfolio may say a lot more than any
@@ -13,7 +13,8 @@ description: A software company portfolio may say a lot more than any
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - marketing-team
 categories:
   - business
 industries: []
