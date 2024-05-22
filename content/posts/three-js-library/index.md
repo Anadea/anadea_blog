@@ -1,5 +1,6 @@
 ---
 title: Our experience with Three.js library
+breadcrumbs: Three.js library
 slug: three-js-library
 draft: false
 publishDate: 2022-08-24T00:00:00.000Z
