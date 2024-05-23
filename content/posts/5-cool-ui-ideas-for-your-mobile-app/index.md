@@ -1,20 +1,24 @@
 ---
-title: 5 Cool User Interface Ideas for Your Mobile App
-publishDate: '2018-09-28T00:00:00Z'
-authors: []
-description: Design of user interfaces is something similar to a mixture of art and
-  science. However, it has never been an act of pure creativity. So if you are inspired
-  by the quote "Good artists copy, great - steal", be careful, do not cut yourself
-  with shards of broken illusions. Because Pablo Picasso didn't say that, guys.
+ceoTitle: " 5 Cool User Interface Ideas for Your Mobile App"
+title: " 5 Cool UI Ideas for Your Mobile App"
+breadcrumbs: " Mobile App UI Design Ideas"
+slug: 5-cool-ui-ideas-for-your-mobile-app
+draft: true
+publishDate: 2018-09-28T00:00:00Z
 image: user-interface.png
 og_image: user-interface.png
+description: Design of user interfaces is something similar to a mixture of art
+  and science. However, it has never been an act of pure creativity. So if you
+  are inspired by the quote "Good artists copy, great - steal", be careful, do
+  not cut yourself with shards of broken illusions. Because Pablo Picasso didn't
+  say that, guys.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- ux-ui
+  - ux-ui
+industries: []
 ---
 Design of user interfaces is something similar to a mixture of art and science. However, it has never been an act of pure creativity. So if you are inspired by the quote "Good artists copy, great - steal", be careful, do not cut yourself with shards of broken illusions. Because Pablo Picasso didn't say that, guys. It is the same dubious creature of the Internet as the fake quotes of Abraham Lincoln circulating online.
 
