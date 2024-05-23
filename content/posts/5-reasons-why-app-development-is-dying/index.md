@@ -1,21 +1,23 @@
 ---
-title: 5 Reasons Why App Development is Dying & Why We Need Superior Apps
-publishDate: '2018-03-09T00:00:00Z'
-authors:
-- alma-causey
-description: Just as the dinosaurs never imagined their extinction, it's hard to believe
-  that the millions of apps in the app store are being threatened with termination.
-  Yes, it may be difficult to digest, but industry experts claim that the app ecosystem
-  – one of the largest - is on the verge of failing.
+ceoTitle: 5 Reasons Why App Development is Dying & Why We Need Superior App
+title: Are Mobile App Development Services Dying? Let's Take a Look
+breadcrumbs: Mobile App Development Services Are Dying
+slug: 5-reasons-why-app-development-is-dying
+draft: true
+publishDate: 2018-03-09T00:00:00Z
 image: Is-app-development-dying.jpg
 og_image: app-dev-future.jpg
+description: Just as the dinosaurs never imagined their extinction, it's hard to
+  believe that the millions of apps in the app store are being threatened with
+  termination. Yes, it may be difficult to digest, but industry experts claim
+  that the app ecosystem – one of the largest - is on the verge of failing.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 Just as the dinosaurs never imagined their extinction, it's hard to believe that the millions of apps in the app store are being threatened with termination. Yes, it may be difficult to digest, but industry experts claim that the app ecosystem – one of the largest - is on the verge of failing.
 
