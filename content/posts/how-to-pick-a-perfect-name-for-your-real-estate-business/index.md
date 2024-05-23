@@ -1,7 +1,7 @@
 ---
 title: How to Pick a Perfect Name for Your Real Estate Business?
 draft: false
-publishDate: 2016-12-28T00:00:00Z
+publishDate: 2016-12-28T00:00:00.000Z
 image: real_estate_company_names.jpg
 og_image: real_estate_company_names.jpg
 description: Real estate industry is a wide and profitable segment that will
@@ -14,7 +14,8 @@ promote:
 top: false
 authors:
   - marketing-team
-categories: []
+categories:
+  - business
 industries:
   - real-estate
 ---
