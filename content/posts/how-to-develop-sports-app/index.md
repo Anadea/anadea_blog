@@ -1,18 +1,22 @@
 ---
-title: " How to Develop a Sports App in 2023"
-publishDate: '2022-05-12T00:00:00Z'
-authors: []
-description: Explore the spots app market and develop your own sports app with Anadea.
-  Sports apps industry is one of the fastest growing market in the world now.
+ceoTitle: How to Develop a Sports App in 2023
+title: How to Create Your Own Sports App?
+breadcrumbs: " Sports App Development"
+slug: how-to-develop-sports-app
+draft: true
+publishDate: 2022-05-12T00:00:00Z
 image: sports-apps.jpg
 og_image: sports-apps.jpg
+description: Explore the spots app market and develop your own sports app with
+  Anadea. Sports apps industry is one of the fastest growing market in the world
+  now.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- sports
+authors: []
 categories: []
+industries:
+  - sports
 ---
 _Updated July, 2022._
 
