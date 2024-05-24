@@ -1,20 +1,23 @@
 ---
-title: A First Look at WebAssembly - Turning Browsers Into Power Lifters
-publishDate: '2017-03-15T00:00:00Z'
-authors: []
-description: Evolution never stops. All things come into the world, grow and fade
-  away in the end, letting other things take their place - that's the circle of life.
-  Being a part of life, web browsers can't escape the same fate. It's time for them
-  to grow and evolve. Today we'll look at WebAssembly. It's a pretty interesting technology
-  that can take web browsers to a new level.
+ceoTitle: A First Look at WebAssembly - Turning Browsers Into Power Lifters
+title: A First Look at WebAssembly - Gainer That Will Turn Browsers Into Power Lifters
+breadcrumbs: Impressions from WebAssembly
+slug: a-first-look-at-webassembly-gainer-that-will-turn-browsers-into-power-lifters
+draft: true
+publishDate: 2017-03-15T00:00:00Z
 image: WebAssembly.jpg
 og_image: WebAssembly.jpg
+description: Evolution never stops. All things come into the world, grow and
+  fade away in the end, letting other things take their place - that's the
+  circle of life. Being a part of life, web browsers can't escape the same fate.
+  It's time for them to grow and evolve. Today we'll look at WebAssembly. It's a
+  pretty interesting technology that can take web browsers to a new level.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories: []
+industries: []
 ---
 Evolution never stops. All things come into the world, grow and fade away in the end, letting other things take their place - that's the circle of life. Being a part of life, web browsers can't escape the same fate. It's time for them to grow and evolve.
 
