@@ -1,22 +1,25 @@
 ---
+ceoTitle: A Simple Way to Decrease Complexity of Routes in Rails
 title: A Simple Way to Decrease Complexity of Routes in Rails
-publishDate: '2017-10-27T00:00:00Z'
-authors: []
-description: Sometimes, when you are working with a large codebase, your `routes.rb`
-  files grow really fast and become very dirty.There are several things that make
-  your routes file bigger:* Customization of devise;* Specific gems that mount additional
-  routes (Active Admin, ActionCable);* Sidekiq + SidekiqWeb + Basic authentication;*
-  Namespaces with APP or API.
+breadcrumbs: A Simple Way to Decrease Complexity of Routes in Rails
+slug: decrease-complexity-of-routes-in-rails
+draft: true
+publishDate: 2017-10-27T00:00:00Z
 image: complexity_of_routes.jpg
 og_image: complexity_of_routes.jpg
+description: Sometimes, when you are working with a large codebase, your
+  `routes.rb` files grow really fast and become very dirty.There are several
+  things that make your routes file bigger:* Customization of devise;* Specific
+  gems that mount additional routes (Active Admin, ActionCable);* Sidekiq +
+  SidekiqWeb + Basic authentication;* Namespaces with APP or API.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
-- ruby-on-rails
+  - development
+  - ruby-on-rails
+industries: []
 ---
 Sometimes, when you are working with a large codebase, your `routes.rb` files grow really fast and become very dirty.
 
