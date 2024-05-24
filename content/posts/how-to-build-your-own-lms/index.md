@@ -1,18 +1,21 @@
 ---
-title: 6 Steps Toward Developing Your Own Learning Management System
-publishDate: '2022-08-31T00:00:00Z'
-authors: []
-description: Essential points to consider when developing custom learning management
-  systems that are extremely popular these days.
+ceoTitle: 6 Steps Toward Developing Your Own Learning Management System
+title: How to Build a Learning Management System?
+breadcrumbs: Build Your Own LMS
+slug: how-to-build-your-own-lms
+draft: true
+publishDate: 2022-08-31T00:00:00Z
 image: mushrooms.jpg
 og_image: mushrooms.jpg
+description: Essential points to consider when developing custom learning
+  management systems that are extremely popular these days.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
+authors: []
 categories: []
+industries:
+  - elearning
 ---
 Even judging by our incoming contact requests, we can say that the demand for LMS development has grown a lot lately. To support this impression, we turned to statistics that stated that the LMS market value is expected to grow to $38 billion by 2027 (in 2019, it was valued at $8.76 billion). For us, that was the starting point to proceed investigating this topic and preparing this overview of the main steps of <a href="https://anadea.info/solutions/e-learning-software-development/lms" target="_blank">custom LMS development</a>.
 
