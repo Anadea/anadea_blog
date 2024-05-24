@@ -1,23 +1,26 @@
 ---
-title: 'A Guide to Z-Index: Challenges and Solutions'
-publishDate: '2019-05-22T00:00:00Z'
-authors:
-- anastasiya-bakuta
-description: Z-index is a CSS property of an element that determines its position
-  relative to other elements on the Z-axis. It applies only to elements with `absolute`,
-  `fixed`, `sticky` or `relative` position (respectively, if the position property
-  is not set to one of these values, adding z-index doesn’t affect the position of
-  an element).
+ceoTitle: "A Guide to Z-Index: Challenges and Solutions"
+title: Terms of Use Modal Z-Index
+breadcrumbs: Terms of Use Modal Z-Index
+slug: a-guide-to-z-index
+draft: true
+publishDate: 2019-05-22T00:00:00Z
 image: z-index-tutorial.jpg
 og_image: z-index-tutorial.jpg
+description: Z-index is a CSS property of an element that determines its
+  position relative to other elements on the Z-axis. It applies only to elements
+  with `absolute`, `fixed`, `sticky` or `relative` position (respectively, if
+  the position property is not set to one of these values, adding z-index
+  doesn’t affect the position of an element).
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - anastasiya-bakuta
 categories:
-- development
-- design
+  - development
+  - design
+industries: []
 ---
 ## What is z-index?
 
