@@ -1,22 +1,24 @@
 ---
-title: 9 Best Programming Languages to Learn in 2019
-publishDate: '2019-02-28T00:00:00Z'
-authors:
-- neeraj
-description: There is no doubt that the IT industry has taken over as one of the most
-  productive industries. And more than half of the jobs in the IT field require good
-  programming knowledge. The demand for developers has skyrocketed recently as every
-  company tends to rely on software tools, and this has also lead to an increase in
-  the online learning platforms.
+ceoTitle: 9 Best Programming Languages to Learn in 2019
+title: " Top Programming Languages to Learn in 2019"
+breadcrumbs: " Top Programming Languages to Learn in 2019"
+slug: 9-best-programming-languages-to-learn-in-2019
+draft: true
+publishDate: 2019-02-28T00:00:00Z
 image: Programming-languages.jpg
 og_image: Programming-languages.jpg
+description: There is no doubt that the IT industry has taken over as one of the
+  most productive industries. And more than half of the jobs in the IT field
+  require good programming knowledge. The demand for developers has skyrocketed
+  recently as every company tends to rely on software tools, and this has also
+  lead to an increase in the online learning platforms.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
+  - development
+industries: []
 ---
 ***There is no doubt that the IT industry has taken over as one of the most productive industries. And more than half of the jobs in the IT field require good programming knowledge.***
 
