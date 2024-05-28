@@ -62,7 +62,9 @@ The emergence of HTML 5 websites with mobile-responsive designs, exclusive featu
 
 ## Final thoughts: to invest or not to invest?
 
-Red Smith, the legendary sportswriter, once said, _"Dying is no big deal, living is the trick."_
+Red Smith, the legendary sportswriter, once said, 
+
+> Dying is no big deal, living is the trick.
 
 From the above-explained scenario, it may seem that the app industry is heading towards doom. However, there are several opportunities that the developers can make use of to improve the situation. This includes integrating existing apps with bots, Internet of Things, and screenless devices such as Amazon Echo and Apple's iPod.
 
