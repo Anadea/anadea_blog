@@ -3,8 +3,8 @@ ceoTitle: A Simple Way to Decrease Complexity of Routes in Rails
 title: A Simple Way to Decrease Complexity of Routes in Rails
 breadcrumbs: A Simple Way to Decrease Complexity of Routes in Rails
 slug: decrease-complexity-of-routes-in-rails
-draft: true
-publishDate: 2017-10-27T00:00:00Z
+draft: false
+publishDate: 2017-10-27T00:00:00.000Z
 image: complexity_of_routes.jpg
 og_image: complexity_of_routes.jpg
 description: Sometimes, when you are working with a large codebase, your
@@ -15,7 +15,8 @@ description: Sometimes, when you are working with a large codebase, your
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - development
   - ruby-on-rails
@@ -40,7 +41,7 @@ However, do you need all this staff in regular work, when you add some controlle
 
 With that line of code we can split our `routes.rb` file into small compact pieces and forget about huge and long file.
 
-<center><figure><img src="routes_splitting.png" alt="After routes splitting" style="width: 40%;"/><figcaption>after routes splitting</figcaption></figure></center>
+![After routes splitting](routes_splitting.png)
 
 <script src="https://gist.github.com/DmytroVasin/fd1814f8cb80316332f87185f2066998.js"></script>
 
