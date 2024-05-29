@@ -1,7 +1,8 @@
 ---
 title: "Advantages of React JS: Open-source JavaScript Library"
+slug: advantages-of-react-js
 draft: false
-publishDate: 2020-08-05T00:00:00Z
+publishDate: 2020-08-05T00:00:00.000Z
 image: advantages-react-header-img.jpg
 og_image: advantages-react-blog-img.jpg
 description: "Due to the growing popularity of reactive approaches to software
