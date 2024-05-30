@@ -1,19 +1,22 @@
 ---
+ceoTitle: " A Timely Introduction to Intelligent Process Automation"
 title: A Timely Introduction to Intelligent Process Automation
-publishDate: '2020-07-14T00:00:00Z'
-authors:
-- olga-veretskaya
-description: Intelligent process automation, and other ways of automating previously
-  manual ways of working, has never been more timely or relevant.
+breadcrumbs: " A Timely Introduction to Intelligent Process Automation"
+slug: a-timely-introduction-to-intelligent-process-automation
+draft: true
+publishDate: 2020-07-14T00:00:00Z
 image: a-timely-Introduction-to-intelligent-process-automation.jpg
 og_image: a-timely-Introduction-to-intelligent-process-automation.jpg
+description: Intelligent process automation, and other ways of automating
+  previously manual ways of working, has never been more timely or relevant.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - olga-veretskaya
 categories:
-- business
+  - business
+industries: []
 ---
 ***Intelligent process automation, and other ways of automating previously manual ways of working, has never been more timely or relevant.***
 
