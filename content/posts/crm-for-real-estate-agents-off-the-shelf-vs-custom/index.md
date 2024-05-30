@@ -1,7 +1,10 @@
 ---
-title: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom? "
-draft: false
-publishDate: 2019-03-26T00:00:00.000Z
+ceoTitle: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+title: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+breadcrumbs: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+slug: crm-for-real-estate-agents-off-the-shelf-vs-custom
+draft: true
+publishDate: 2019-03-26T00:00:00Z
 image: crm-for-real-estate.jpg
 og_image: crm-for-real-estate-agents.jpg
 description: At the core of every business is the relationship a company has
@@ -12,10 +15,8 @@ description: At the core of every business is the relationship a company has
 promote:
   promote: false
 top: false
-authors:
-  - daria-lopukhina
-categories:
-  - business
+authors: []
+categories: []
 industries:
   - real-estate
 ---
@@ -67,8 +68,18 @@ With a custom-built solution, you can make sure it's tailored around the needs o
 
 Everyone who needs access should have input on the features. You can also ensure that your team has the support they need from the vendor. Instead of paying extra for 24/7 support, work with your project manager to make any changes that are needed down the road and access any extra help your team might need.
 
-{{< advert >}}Related read: [How to Create a Custom Real Estate Website](https://anadea.info/blog/how-to-create-a-real-estate-web-platform){{< /advert >}}
+---
+
+***Related read: [How to Create a Custom Real Estate Website](https://anadea.info/blog/how-to-create-a-real-estate-web-platform)***
+
+---
 
 ## Real estate CRM: buy or build?
 
 Off-the-shelf might seem a cheaper option. But in reality, CRMs are expensive and time consuming. A smarter investment is to custom-build from the start, creating the features and functionality that you know your team is going to need. Reduce long-term costs and enjoy a system that more closely resembles the way your team works and interacts with customers. Your customers will thank you for an improved and more efficient service, making it easier for them to pick your agency for their next real estate purchase.
+
+
+<br />
+
+---
+*About author: Dariya Lopukhina is excited to be a part of the Anadea team where we leverage our strong technology expertise to help property companies digitally transform and grow through developing efficient real estate software solutions. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
