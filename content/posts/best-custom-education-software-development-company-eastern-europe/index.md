@@ -1,18 +1,22 @@
 ---
-title: Best Custom Education Software Development Company in East Europe
-publishDate: '2019-06-18T00:00:00Z'
-authors: []
-description: We are excited to announce that Corporate Vision Magazine recognized
-  Anadea as Best Custom Education Software Development Company in Eastern Europe.
+ceoTitle: Best Custom Education Software Development Company in East Europe
+title: Anadea Wins Private Education & Development Award 2019 by CV Magazine
+breadcrumbs: Anadea Wins Private Education & Development Award 2019 by CV Magazine
+slug: best-custom-education-software-development-company-eastern-europe
+draft: true
+publishDate: 2019-06-18T00:00:00Z
 image: Best-Custom-Education-Software-Development-Company.jpg
 og_image: Best-Custom-Education-Software-Development-Company.jpg
+description: We are excited to announce that Corporate Vision Magazine
+  recognized Anadea as Best Custom Education Software Development Company in
+  Eastern Europe.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- news
+  - news
+industries: []
 ---
 ***Anadea has been awarded Best Custom Education Software Development Company - Eastern Europe, 2019.***
 
