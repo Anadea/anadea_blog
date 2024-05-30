@@ -1,22 +1,25 @@
 ---
-title: 'Chatbots In Healthcare Industry: a New Remedy for Old Problems'
-publishDate: '2019-03-20T00:00:00Z'
-authors: []
-description: Modern medicine is technological medicine. Health institutions are moving
-  from analog to digital, mastering computer analysis and forecasting systems. Technologies
-  in healthcare are not only the latest medical equipment but also industry-specific
-  software that automates work processes. One of the promising areas is the chatbot
-  application in healthcare.
+ceoTitle: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
+title: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
+breadcrumbs: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
+slug: chatbots-in-healthcare-industry-a-new-remedy-for-old-problems
+draft: true
+publishDate: 2019-03-20T00:00:00Z
 image: chatbot-healthcare.jpg
 og_image: chatbot-healthcare.jpg
+description: Modern medicine is technological medicine. Health institutions are
+  moving from analog to digital, mastering computer analysis and forecasting
+  systems. Technologies in healthcare are not only the latest medical equipment
+  but also industry-specific software that automates work processes. One of the
+  promising areas is the chatbot application in healthcare.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors: []
 categories:
-- machine-learning
+  - machine-learning
+industries:
+  - healthcare
 ---
 Updated 7 September, 2021
 
