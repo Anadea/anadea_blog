@@ -1,19 +1,19 @@
 ---
 title: Building Applications with Unity 3D
-publishDate: '2017-03-07T00:00:00Z'
-authors: []
-description: Due to the growing scale and complexity of the challenges that app developers
-  have to deal with, there is a strong need of new tools to help them fight against
-  the titans.
+draft: false
+publishDate: 2017-03-07T00:00:00Z
 image: Unity-3d.jpg
 og_image: Unity-3d.jpg
+description: Due to the growing scale and complexity of the challenges that app
+  developers have to deal with, there is a strong need of new tools to help them
+  fight against the titans.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
+  - development
+industries: []
 ---
 Before on our blog, we explored the recent advancements in the mobile app development industry. The utilization of virtual and augmented reality, along with customers' fixation on mobile animation, 3D models, visual effects, and gaming elements, have propelled the industry to new heights. However, due to the increasing scale and complexity of app development challenges, developers require innovative tools to combat significant hurdles, not just minor ones. This is why the Unity 3D game engine is worthy of particular attention.
 
