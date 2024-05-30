@@ -1,20 +1,22 @@
 ---
+ceoTitle: Cross Platform Mobile App Development Best Practices
 title: Cross Platform Mobile App Development Best Practices
-publishDate: '2021-08-26T00:00:00Z'
-authors: []
-description: Cross-platform mobile development can help your business or startup to
-  avoid additional expenses. Learn about the best frameworks and practices for cross
-  platform development
+breadcrumbs: Cross Platform Mobile App Development Best Practices
+slug: cross-platform-mobile-development
+draft: true
+publishDate: 2021-08-26T00:00:00Z
 image: cross-platform-apps.jpg
 og_image: cross-platform-apps.jpg
+description: Cross-platform mobile development can help your business or startup
+  to avoid additional expenses. Learn about the best frameworks and practices
+  for cross platform development
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- mobile
-- business
+  - business
+industries: []
 ---
 **Often in our practice, we, as a cross-platform development company, face the following questions: Will cross-platform do for my business? What benefits will I get if I choose cross-platform app development? How much does it cost to develop a cross-platform app? On these, and other questions, you’ll find a solid answer as far as you read this article.**
 
