@@ -1,21 +1,25 @@
 ---
-title: 'Health IT Startup Funding: Here’s How to Attract the Investment'
-publishDate: '2020-08-20T00:00:00Z'
-authors: []
-description: We have reached a new era in the digital world. The way healthcare organizations
-  are delivering patient care is shifting in the rise of a worldwide pandemic. Tele-health,
-  machine learning, and virtual care are emerging forces. To remain competitive, healthcare
-  providers must change the ways they operate.
+ceoTitle: "Health IT Startup Funding: Here’s How to Attract the Investment"
+title: "Health IT Startup Funding: Here’s How to Attract the Investment"
+breadcrumbs: Health IT Startup Funding
+slug: health-it-startup-funding-how-to-attract-the-investment
+draft: true
+publishDate: 2020-08-20T00:00:00Z
 image: health-IT-startup-funding-how-to-attract-the-investment.jpg
 og_image: health-IT-startup-funding-how-to-attract-the-investment.jpg
+description: We have reached a new era in the digital world. The way healthcare
+  organizations are delivering patient care is shifting in the rise of a
+  worldwide pandemic. Tele-health, machine learning, and virtual care are
+  emerging forces. To remain competitive, healthcare providers must change the
+  ways they operate.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors: []
 categories:
-- business
+  - business
+industries:
+  - healthcare
 ---
 We have reached a new era in the digital world. The way healthcare organizations are delivering patient care is shifting in the rise of a worldwide pandemic. Telehealth, machine learning, virtual care and <a href="https://anadea.info/solutions/medical-app-development" rel="dofollow" target="_blank">custom healthcare software development</a> are emerging forces. To remain competitive, healthcare providers must change the ways they operate.
 
