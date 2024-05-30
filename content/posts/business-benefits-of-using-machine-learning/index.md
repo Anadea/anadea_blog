@@ -3,8 +3,8 @@ ceoTitle: Business Benefits of Using Machine Learning
 title: Business Benefits of Using Machine Learning
 breadcrumbs: Business Benefits of Using Machine Learning
 slug: business-benefits-of-using-machine-learning
-draft: true
-publishDate: 2020-06-02T00:00:00Z
+draft: false
+publishDate: 2020-06-02T00:00:00.000Z
 image: business-benefits-of-using-machine-learning.jpg
 og_image: business-benefits-of-using-machine-learning.jpg
 description: Businesses everywhere are facing serious challenges, and adapting
@@ -14,12 +14,13 @@ description: Businesses everywhere are facing serious challenges, and adapting
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ai-ml-team
 categories:
   - machine-learning
 industries: []
 ---
-***Businesses everywhere are facing serious challenges, and adapting to a new economic reality. Around the world, the impact of Coronavirus (Covid-19) will be felt for years to come. Growth is slowing, and in some cases, countries are entering recession.***
+Businesses everywhere are facing serious challenges, and adapting to a new economic reality. Around the world, the impact of Coronavirus (Covid-19) will be felt for years to come. Growth is slowing, and in some cases, countries are entering recession.
 
 Now more than ever, businesses need to be competitive.
 
