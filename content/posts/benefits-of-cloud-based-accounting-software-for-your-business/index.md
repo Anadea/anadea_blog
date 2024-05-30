@@ -1,21 +1,23 @@
 ---
+ceoTitle: Benefits of Cloud-Based Accounting Software for Your Business
 title: Benefits of Cloud-Based Accounting Software for Your Business
-publishDate: '2019-02-07T00:00:00Z'
-authors:
-- victor-thomas
-description: As a business owner, you are pretty much aware of the ongoing tech and
-  business trends. It becomes essential to keep up with the latest technology developments
-  and run the business smoothly — one of the areas that have noticed significant changes
-  is the accounting and bookkeeping.
+breadcrumbs: Benefits of Cloud-Based Accounting Software for Your Business
+slug: benefits-of-cloud-based-accounting-software-for-your-business
+draft: true
+publishDate: 2019-02-07T00:00:00Z
 image: Accounting-software.jpg
 og_image: cloud_accounting.png
+description: As a business owner, you are pretty much aware of the ongoing tech
+  and business trends. It becomes essential to keep up with the latest
+  technology developments and run the business smoothly — one of the areas that
+  have noticed significant changes is the accounting and bookkeeping.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 As a business owner, you are pretty much aware of the ongoing tech and business trends. It becomes essential to keep up with the latest technology developments and run the business smoothly — one of the areas that have noticed significant changes is the accounting and bookkeeping.
 
