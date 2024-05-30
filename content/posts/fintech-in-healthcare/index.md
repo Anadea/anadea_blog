@@ -3,8 +3,8 @@ ceoTitle: "Fintech Healthcare Solutions: Benefits and New Opportunities"
 title: "Fintech in Healthcare: Does This Duo Make Sense?"
 breadcrumbs: Fintech in Healthcare
 slug: fintech-in-healthcare
-draft: true
-publishDate: 2024-04-09T00:00:00Z
+draft: false
+publishDate: 2024-04-09T00:00:00.000Z
 image: fintech_healthcare.jpg
 og_image: fintech_healthcare_socials.jpg
 description: The use of fintech in healthcare is gaining popularity. But how
@@ -12,10 +12,13 @@ description: The use of fintech in healthcare is gaining popularity. But how
 promote:
   promote: false
 top: false
-authors: []
-categories: []
+authors:
+  - business-analysis-team
+categories:
+  - business
 industries:
   - healthcare
+  - fintech
 questionary:
   - question: How much does it cost to develop a fintech healthcare solution?
     answer: Software development costs vary based on a large number of parameters,
@@ -25,7 +28,7 @@ questionary:
       influence. As a rule, fintech solutions today are built with the use of
       the most cutting-edge technologies, which explains the rather high costs
       of such projects. On average, the development of a fintech product starts
-      at $70K. However, before planning your project budget we strongly
+      at $50K. However, before planning your project budget we strongly
       recommend you have a consultation with the development team that will
       provide you with an estimate.
   - question: Does it make sense to invest in a healthcare fintech project now?
@@ -115,4 +118,4 @@ As you can see, the launch of your own fintech healthcare startup is not the eas
 
 Have a fresh idea for a fintech solution that will revolutionize the healthcare industry? Just let us know! With our expertise in this domain, we are sure that we will find the best approach to your project realization.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get started{{< /ctabutton >}}
+{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
