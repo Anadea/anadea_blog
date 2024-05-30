@@ -1,19 +1,21 @@
 ---
-title: How to Find a Web Developer - Full Guide
-publishDate: '2022-04-20T00:00:00Z'
-authors: []
-description: 'See useful tips to find the right web developer for your business: where
-  to find them, how to verify their skills, and more.'
+ceoTitle: How to Find a Web Developer - Full Guide
+title: How to Find the Right Web Developer for Your Project
+breadcrumbs: How to Choose a Website Developer for Your Project
+slug: how-to-find-a-web-developer
+draft: true
+publishDate: 2022-04-20T00:00:00Z
 image: where_to_find_web_developer_1600w.jpg
 og_image: where_to_find_web_developer.jpg
+description: "See useful tips to find the right web developer for your business:
+  where to find them, how to verify their skills, and more."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
-- web
+  - business
+industries: []
 ---
 If you are having a thought about placing your business on the web, your second thought will probably be about finding a web developer to help you. On where to find a web developer for your project and how to say the right one for you, we will be speaking in this post.
 
