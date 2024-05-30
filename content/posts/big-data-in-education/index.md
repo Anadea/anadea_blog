@@ -1,7 +1,9 @@
 ---
 title: "Big Data in Education: Realities, Challenges and Opportunities"
+breadcrumbs: Big Data in Education
+slug: big-data-in-education
 draft: false
-publishDate: 2018-06-20T00:00:00Z
+publishDate: 2018-06-20T00:00:00.000Z
 image: Big-data.jpg
 og_image: Big-data.jpg
 description: The Internet of Things (IoT) and a new, dynamic web (known as Web
@@ -12,7 +14,8 @@ description: The Internet of Things (IoT) and a new, dynamic web (known as Web
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ai-ml-team
 categories: []
 industries:
   - elearning
@@ -83,9 +86,3 @@ Granted, academic data may not be as sensitive as financial or health data, but 
 Big Data, although still in its infancy stages, has the potential to be a game-changer in the learning sector over the foreseeable future. It will result in smarter, more "complete" students who will undoubtedly have positive impacts on industries and the society at large. We believe that even with the challenges, Big Data and in extension, the Internet of Things, are the future of our existence, just like the World Wide Web was in the '80s.
 
 What are your ideas about Big Data? Do you think it will improve the learning sector? Share your thoughts with us.
-
-
-<br />
-
----
-*This is a guest post by **Charles Ebert.** Charles is a career mentor, content writer for <a href="https://custom-writings.net/" target="_blank">custom-writings.net</a>, motivational speaker & human resources consultant with over 10 years of experience in HR sector. Apart from career mentoring, he loves photography and football. Find him on <a href="https://www.linkedin.com/in/charles-ebert" target="_blank">Linkedin</a>, <a href="https://twitter.com/CharlesEbert78" rel="nofollow" target="_blank">Twitter</a>, <a href="https://www.facebook.com/profile.php?id=100015935020379" rel="nofollow" target="_blank">Facebook</a> & <a href="https://www.facebook.com/profile.php?id=100015935020379" rel="nofollow" target="_blank">Google+</a>.*
