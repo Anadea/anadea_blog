@@ -3,7 +3,7 @@ ceoTitle: "Fintech Business Model: Which One to Choose?"
 title: What You Should Know about a Fintech Business Model
 breadcrumbs: Fintech Business Model
 slug: fintech-business-model
-draft: true
+draft: false
 publishDate: 2024-04-17T00:00:00.000Z
 image: fintech_business_models.jpg
 og_image: fintech_business_models_socials.jpg
@@ -12,10 +12,12 @@ description: If you are planning to launch your own fintech project, you need to
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - business-analysis-team
 categories:
   - business
-industries: []
+industries:
+  - fintech
 questionary:
   - question: What is the best fintech business model?
     answer: Given the variety of new fintech business models, it is impossible to
