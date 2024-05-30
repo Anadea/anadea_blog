@@ -3,8 +3,8 @@ ceoTitle: Cool Ideas of Xmas Gifts for Geeks and IT Engineers
 title: Cool Ideas of Xmas Gifts for Geeks and IT Engineers
 breadcrumbs: Gifts for Programmers
 slug: ideas-of-xmas-gifts-for-geeks-and-it-engineers
-draft: true
-publishDate: 2017-12-18T00:00:00Z
+draft: false
+publishDate: 2017-12-18T00:00:00.000Z
 image: gifts-for-engineers.jpg
 og_image: gifts-for-engineers.jpg
 description: Christmas is a favorite holiday for both children and adults. The
@@ -16,7 +16,8 @@ description: Christmas is a favorite holiday for both children and adults. The
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - marketing-team
 categories: []
 industries: []
 ---
