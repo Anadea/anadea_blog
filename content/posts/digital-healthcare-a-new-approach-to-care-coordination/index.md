@@ -1,21 +1,24 @@
 ---
-title: 'Digital Healthcare: A New Approach to Care Coordination'
-publishDate: '2022-09-26T00:00:00Z'
-authors: []
-description: Healthcare is changing, it is going digital, and this is good news for
-  patients and healthcare providers. From telemedicine to genomics, digital transformation
-  in healthcare has the potential to improve patient outcomes, make healthcare as
-  much about prevention as curative treatments, and reduce the overall cost of medical
-  treatment.
+ceoTitle: "Digital Healthcare: A New Approach to Care Coordination"
+title: "Digital Transformation in Healthcare: Full Guide"
+breadcrumbs: Digital Health Transformation
+slug: digital-healthcare-a-new-approach-to-care-coordination
+draft: true
+publishDate: 2022-09-26T00:00:00Z
 image: daniel-sessler-hnw3Al47-KE-unsplash__1___1_.jpg
 og_image: trees.jpg
+description: Healthcare is changing, it is going digital, and this is good news
+  for patients and healthcare providers. From telemedicine to genomics, digital
+  transformation in healthcare has the potential to improve patient outcomes,
+  make healthcare as much about prevention as curative treatments, and reduce
+  the overall cost of medical treatment.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors: []
 categories: []
+industries:
+  - healthcare
 ---
 Healthcare is changing, it is going digital, and this is good news for patients, healthcare providers, as well as <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a>.
 
