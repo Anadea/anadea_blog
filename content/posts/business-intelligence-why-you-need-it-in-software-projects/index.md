@@ -1,6 +1,9 @@
 ---
+ceoTitle: "Business Intelligence: Why You Need It in Software Projects?"
 title: "Business Intelligence: Why You Need It in Software Projects?"
-draft: false
+breadcrumbs: "Business Intelligence: Why You Need It in Software Projects?"
+slug: business-intelligence-why-you-need-it-in-software-projects
+draft: true
 publishDate: 2020-01-29T00:00:00.000Z
 image: Business-intelligence.jpg
 og_image: Business-intelligence.jpg
