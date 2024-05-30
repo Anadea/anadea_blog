@@ -3,8 +3,8 @@ ceoTitle: How HR Software Can Boost Your Business
 title: How HR Software Can Boost Your Business
 breadcrumbs: Custom HR Software Development
 slug: how-hr-software-can-boost-your-business
-draft: true
-publishDate: 2018-07-19T00:00:00Z
+draft: false
+publishDate: 2018-07-19T00:00:00.000Z
 image: hr-software.jpg
 og_image: HR-software-preview.png
 description: A growing business is an indicator of its success, but more people
@@ -15,7 +15,8 @@ description: A growing business is an indicator of its success, but more people
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - business
 industries: []
@@ -73,9 +74,3 @@ Human error is an inevitable part of life, and it can lead to costly mistakes in
 The HR team is often bogged down with paperwork, meaning that there is less time for them to work on the real issues presenting themselves, such as employee issues or hiring new staff. By integrating a software that is designed specifically to perform the more mundane aspects of the role, real employees can perform their roles as they should.
 
 These are just few benefits of HR software. There are many more that both your HR staff and employees will undoubtedly appreciate.
-
-
-<br />
-
-
-Need super HR software for your company? Our sofware experts are here to help you create the IT solution your human-resources department needs to keep your business running efficiently – and exactly how you want it. [Speak to us](https://anadea.info/contacts) for any questions related to HR software development and associated services (integration, maintenance and consultancy).
