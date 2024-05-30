@@ -1,21 +1,24 @@
 ---
+ceoTitle: How HR Software Can Boost Your Business
 title: How HR Software Can Boost Your Business
-publishDate: '2018-07-19T00:00:00Z'
-authors: []
-description: A growing business is an indicator of its success, but more people on
-  the payroll can become a headache for HR personnel. Many tasks have to be duplicated
-  for every employee, often with minute alterations which can in turn affect other
-  aspects. Sifting through employee files is a major time-waster; cross-referencing
-  across multiple pieces of software is unwieldy and awkward.
+breadcrumbs: Custom HR Software Development
+slug: how-hr-software-can-boost-your-business
+draft: true
+publishDate: 2018-07-19T00:00:00Z
 image: hr-software.jpg
 og_image: HR-software-preview.png
+description: A growing business is an indicator of its success, but more people
+  on the payroll can become a headache for HR personnel. Many tasks have to be
+  duplicated for every employee, often with minute alterations which can in turn
+  affect other aspects. Sifting through employee files is a major time-waster;
+  cross-referencing across multiple pieces of software is unwieldy and awkward.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 A growing business is an indicator of its success, but more people on the payroll can become a headache for HR personnel.
 
