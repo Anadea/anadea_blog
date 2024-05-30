@@ -3,8 +3,8 @@ ceoTitle: "Healthcare SaaS App Development: Benefits and Trends"
 title: "How to Build SaaS Healthcare App: Benefits and Trends"
 breadcrumbs: Healthcare SaaS
 slug: healthcare-saas
-draft: true
-publishDate: 2024-01-29T00:00:00Z
+draft: false
+publishDate: 2024-01-29T00:00:00.000Z
 image: healthcare_saas.png
 og_image: healthcare_saas_socials.png
 description: Have an idea to create a SaaS healthcare app? In our article, we’ve
@@ -13,8 +13,11 @@ description: Have an idea to create a SaaS healthcare app? In our article, we’
 promote:
   promote: false
 top: false
-authors: []
-categories: []
+authors:
+  - web-development-team
+categories:
+  - trends
+  - business
 industries:
   - healthcare
 questionary:
