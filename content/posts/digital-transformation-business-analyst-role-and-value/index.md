@@ -1,21 +1,23 @@
 ---
-title: 'Digital Transformation: Business Analyst Role and Value'
-publishDate: '2019-09-23T00:00:00Z'
-authors:
-- max-holland
-description: When it comes to running a business, the only thing that’s inevitable
-  is change. Whether you’re targeting a new client base, striving to meet shareholder
-  expectations, or competing with a new player in the market, evolution is the name
-  of the game.
+ceoTitle: "Digital Transformation: Business Analyst Role and Value"
+title: "The Business Analyst's Role in Digital Transformation: Facilitator or Leader?"
+breadcrumbs: "Digital Transformation: Business Analyst Role and Value"
+slug: digital-transformation-business-analyst-role-and-value
+draft: true
+publishDate: 2019-09-23T00:00:00Z
 image: Business-analysis-digital-transformation.jpg
 og_image: Business-analysis-digital-transformation.jpg
+description: When it comes to running a business, the only thing that’s
+  inevitable is change. Whether you’re targeting a new client base, striving to
+  meet shareholder expectations, or competing with a new player in the market,
+  evolution is the name of the game.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business-analysis
+  - business-analysis
+industries: []
 ---
 When it comes to running a business, the only thing that’s inevitable is change. Whether you’re targeting a new client base, striving to meet shareholder expectations, or competing with a new player in the market, evolution is the name of the game. As a software development company, we know that change can be hard, especially when you’re transitioning from brick-and-mortar operations to digital-first or digital-only. In this article, we describe the strategies that have helped us navigate an ever-changing digital landscape, and helped our clients achieve meaningful, sustainable digital transformations.
 
