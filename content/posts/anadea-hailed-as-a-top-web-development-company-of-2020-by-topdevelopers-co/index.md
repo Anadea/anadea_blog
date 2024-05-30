@@ -1,18 +1,21 @@
 ---
-title: Anadea hailed as a Top Web Development Company of 2020 by TopDevelopers.co
-publishDate: '2020-07-20T00:00:00Z'
-authors: []
-description: Anadea has been recognized as a top web development company by a research
-  and review agency, TopDevelopers.co.
+ceoTitle: Anadea hailed as a Top Web Development Company of 2020 by TopDevelopers.co
+title: Anadea is a Top Web Development Company of 2020 by TopDevelopers.co
+breadcrumbs: Anadea is a Top Web Development Company of 2020 by TopDevelopers.co
+slug: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdevelopers-co
+draft: true
+publishDate: 2020-07-20T00:00:00Z
 image: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdevelopers-co.jpg
 og_image: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdevelopers-co.jpg
+description: Anadea has been recognized as a top web development company by a
+  research and review agency, TopDevelopers.co.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- news
+  - news
+industries: []
 ---
 At Anadea we have made perfection a habit and not a goal. This is the reason why in a recent <a href="https://www.topdevelopers.co/press-releases/leading-web-development-companies-june-2020" rel="nofollow" target="_blank">press release about the leading web developers</a> of June 2020 by TopDevelopers.co, has the name of Anadea in a prominent position in the list of efficient firms. TopDevelopers.co is a reputed research and review platform and directory of B2B IT Service Providers worldwide. We are happy and proud about this recognition.
 
