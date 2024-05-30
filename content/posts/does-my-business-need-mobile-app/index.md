@@ -3,8 +3,8 @@ ceoTitle: Does My Business Really Need a Mobile App?
 title: Does My Business Really Need a Mobile App?
 breadcrumbs: Does My Business Really Need a Mobile App?
 slug: does-my-business-need-mobile-app
-draft: true
-publishDate: 2020-10-01T00:00:00Z
+draft: false
+publishDate: 2020-10-01T00:00:00.000Z
 image: tree.jpg
 og_image: tree.jpg
 description: With thousands of apps being launched every day, is a mobile app a
@@ -48,7 +48,7 @@ Let’s list how exactly mobile apps give a boost to your business:
 
 * So, among the obvious reasons why your business needs a mobile app is that they **ensure an effective mobile marketing strategy, raise brand awareness, allow you to better interact with your customers, and of course position you ahead of competition**.
 
-## Android, IoS, or Both
+## Android, iOS, or Both
 
 Here we gathered some quick facts to provide you with information that may be useful if you hesitate about the operational system. In a nutshell, you should preliminarily get to know this info and decide what you need based on your markets and future business plans.
 
