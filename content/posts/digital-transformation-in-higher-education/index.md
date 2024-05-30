@@ -1,20 +1,24 @@
 ---
+ceoTitle: Digital Transformation in Education
 title: Digital Transformation in Education
-publishDate: '2019-07-02T00:00:00Z'
-authors: []
-description: Higher education and the nature of universities is changing and will
-  continue to change for the next decade. Twenty years ago, 'digital' was not a major
-  concern for universities. Although the World Wide Web started as an academic endeavor,
-  universities were slow to catchup with a global digital transformation.
+breadcrumbs: Digital Transformation in Education
+slug: digital-transformation-in-higher-education
+draft: true
+publishDate: 2019-07-02T00:00:00Z
 image: higher-education-technology.jpg
 og_image: higher-education-technology.jpg
+description: Higher education and the nature of universities is changing and
+  will continue to change for the next decade. Twenty years ago, 'digital' was
+  not a major concern for universities. Although the World Wide Web started as
+  an academic endeavor, universities were slow to catchup with a global digital
+  transformation.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
+authors: []
 categories: []
+industries:
+  - elearning
 ---
 Updated on 12 August, 2021
 
