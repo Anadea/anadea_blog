@@ -1,20 +1,24 @@
 ---
+ceoTitle: " All You Need to Know About Public & Private Blockchains"
 title: All You Need to Know About Public & Private Blockchains
-publishDate: '2018-07-10T00:00:00Z'
-authors: []
-description: No matter who you are or what industry you work in, you've probably heard
-  way more than you ever wanted to know about blockchain, cryptocurrencies and other
-  related things. However, despite being on everyone's lips, this technology still
-  remains far from broad adoption and full understanding of its potential.
+breadcrumbs: Public VS Private Blockchains
+slug: public-and-private-blockchains
+draft: true
+publishDate: 2018-07-10T00:00:00Z
 image: blockchain.jpg
 og_image: blockchain.jpg
+description: No matter who you are or what industry you work in, you've probably
+  heard way more than you ever wanted to know about blockchain, cryptocurrencies
+  and other related things. However, despite being on everyone's lips, this
+  technology still remains far from broad adoption and full understanding of its
+  potential.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
+  - development
+industries: []
 ---
 No matter who you are or what industry you work in, you've probably heard way more than you ever wanted to know about blockchain, cryptocurrencies and other related things. However, despite being on everyone's lips, this technology still remains far from broad adoption and full understanding of its potential.
 
