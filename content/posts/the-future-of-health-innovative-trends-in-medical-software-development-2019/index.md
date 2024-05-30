@@ -1,19 +1,22 @@
 ---
-title: Healthcare IT Trends that Innovate the Industry
-publishDate: '2022-09-27T00:00:00Z'
-authors: []
-description: How do latest technologies shape healthcare industry and medical software
-  development and what are the upcoming health technology trends?
+ceoTitle: Healthcare IT Trends that Innovate the Industry
+title: "The Future of Health Technology: Innovative Healthcare Trends 2023"
+breadcrumbs: Healthcare Trends 2023
+slug: the-future-of-health-innovative-trends-in-medical-software-development-2019
+draft: true
+publishDate: 2022-09-27T00:00:00Z
 image: trends_header.jpg
 og_image: trends.jpg
+description: How do latest technologies shape healthcare industry and medical
+  software development and what are the upcoming health technology trends?
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors: []
 categories:
-- trends
+  - trends
+industries:
+  - healthcare
 ---
 Medicine is an area where technology is always welcome. The transformation of healthcare with the help of digital technologies is happening all over the world. How do modern technologies shape the direction of <a href="https://anadea.info/solutions/medical-app-development" target="_blank">custom healthcare software development services</a> and what prospects are drawn in the future? Let's find out.
 
