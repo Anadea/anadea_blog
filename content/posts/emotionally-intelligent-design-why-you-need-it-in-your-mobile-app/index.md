@@ -1,21 +1,25 @@
 ---
-title: 'Emotionally Intelligent Design: Why You Need It in Your Mobile App'
-publishDate: '2018-06-26T00:00:00Z'
-authors: []
-description: We use various applications every day - document management, driving
-  assistance, dictionaries, workout tracking, brain puzzles, local weather, barcode
-  scanners. There are as many apps in App Store and Google Play as stars in the sky.
-  Now think of the applications that are now in your smartphone. Can you name at least
-  5 reasons why you have chosen the app that you use now over the other?
+ceoTitle: "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
+title: "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
+breadcrumbs: Emotional Intelligence in Design
+slug: emotionally-intelligent-design-why-you-need-it-in-your-mobile-app
+draft: true
+publishDate: 2018-06-26T00:00:00Z
 image: Emotional-ux.jpg
 og_image: Emotional-ux.jpg
+description: We use various applications every day - document management,
+  driving assistance, dictionaries, workout tracking, brain puzzles, local
+  weather, barcode scanners. There are as many apps in App Store and Google Play
+  as stars in the sky. Now think of the applications that are now in your
+  smartphone. Can you name at least 5 reasons why you have chosen the app that
+  you use now over the other?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- design
+  - design
+industries: []
 ---
 Nearly all of us have a smartphone. We use various applications every day - document management, driving assistance, dictionaries, workout tracking, [brain puzzles](https://anadea.info/blog/7-cool-apps-for-boosting-your-brain-power), local weather, barcode scanners, you name it. There are as many apps in App Store and Google Play as stars in the sky.
 
