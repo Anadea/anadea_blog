@@ -3,8 +3,8 @@ ceoTitle: "Carrierwave: How to Avoid Issues with Version Inheritance"
 title: "Carrierwave: How to Avoid Issues with Version Inheritance"
 breadcrumbs: "Carrierwave: How to Avoid Issues with Version Inheritance"
 slug: version-inheritance-in-carrierwave
-draft: true
-publishDate: 2017-10-15T00:00:00Z
+draft: false
+publishDate: 2017-10-15T00:00:00.000Z
 image: its_a_feature.jpg
 og_image: its_a_feature.jpg
 description: <a href="https://github.com/carrierwaveuploader/carrierwave"
@@ -16,7 +16,8 @@ description: <a href="https://github.com/carrierwaveuploader/carrierwave"
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - development
   - ruby-on-rails
@@ -38,20 +39,22 @@ Then I created PurchasedImageUploader that completely inherits from the previous
 
 Then I uploaded several files and got unexpected result:
 
-```
+```ruby
 PurchasedImage.last.file.small.url
 => "/image/9/small_file_name.png"
 PurchasedImage.last.file.url
 => "/purchased_image/9/file_name.png"
 ```
+
 ![Thinking](mono-1268646_1920.jpg)
+
 Hmm…
 
 ## What is going on?
 
 After some research I found out that existing behaviour was correct by design. `storage_dir`, that was defined inside the inherited class, would not be applied to versions. We should define `storage_dir` inside each block. It sounds confusing to me.
 
-> When you create inheritance structure with carriervave classes you should remember next: Versions of subclasses respects methods that defined only inside original class and previous version blocks.
+{{< advert >}}When you create inheritance structure with carriervave classes you should remember next: Versions of subclasses respects methods that defined only inside original class and previous version blocks.{{< /advert >}}
 
 **"original class"** means the first class in chain that inherits from the **"CarrierWave::Uploader::Base"**.
 
@@ -59,7 +62,7 @@ Let's review that behaviour.
 
 To provide more deep ancestor chain let's add:
 
-```
+```ruby
 # app/uploaders/purchased_image_uploader.rb
 version :small do
  process resize_to_fill: [120, 120]
@@ -68,7 +71,7 @@ end
 
 If we pick direct version we can find out ancestors chain:
 
-```
+```ruby
 PurchasedImage.last.file.versions[:small].class
 #=> PurchasedImageUploader::Uploader70329100898520
 PurchasedImage.last.file.versions[:small].class.ancestors
