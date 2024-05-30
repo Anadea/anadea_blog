@@ -1,21 +1,24 @@
 ---
+ceoTitle: Classroom in a Pocket? Creating a Mobile eLearning Environment
 title: Classroom in a Pocket? Creating a Mobile eLearning Environment
-publishDate: '2018-11-28T00:00:00Z'
-authors: []
-description: eLearning has transformed modern education. Over the last fifteen years,
-  education has gone from paper to platform and app-based, with students and teachers
-  learning together in remarkable new ways. One of those key trends is the move away
-  from laptops and tablets onto smartphones. Students want the convenience of a virtual
-  classroom on a much smaller screen.
+breadcrumbs: Mobile eLearning App Development
+slug: creating-a-mobile-elearning-environment
+draft: true
+publishDate: 2018-11-28T00:00:00Z
 image: Mobile-classroom.jpg
 og_image: Mobile-classroom.jpg
+description: eLearning has transformed modern education. Over the last fifteen
+  years, education has gone from paper to platform and app-based, with students
+  and teachers learning together in remarkable new ways. One of those key trends
+  is the move away from laptops and tablets onto smartphones. Students want the
+  convenience of a virtual classroom on a much smaller screen.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
+authors: []
 categories: []
+industries:
+  - elearning
 ---
 eLearning has transformed modern education. Over the last fifteen years, education has gone from paper to platform and app-based, with students and teachers learning together in remarkable new ways.
 
