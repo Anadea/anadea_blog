@@ -1,20 +1,24 @@
 ---
-title: 'CRM for Real Estate Agents: Off-the-Shelf vs. Custom? '
-publishDate: '2019-03-26T00:00:00Z'
-authors: []
-description: At the core of every business is the relationship a company has with
-  its customers. As part of those relationships, it is invaluable if every who interacts
-  with customers is on the same page and has access to the same information. A customer
-  relationship management (CRM) system is an invaluable tool for managing those relationships.
+ceoTitle: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+title: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+breadcrumbs: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+slug: crm-for-real-estate-agents-off-the-shelf-vs-custom
+draft: true
+publishDate: 2019-03-26T00:00:00Z
 image: crm-for-real-estate.jpg
 og_image: crm-for-real-estate-agents.jpg
+description: At the core of every business is the relationship a company has
+  with its customers. As part of those relationships, it is invaluable if every
+  who interacts with customers is on the same page and has access to the same
+  information. A customer relationship management (CRM) system is an invaluable
+  tool for managing those relationships.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors: []
 categories: []
+industries:
+  - real-estate
 ---
 ## What is CRM in real estate?
 
