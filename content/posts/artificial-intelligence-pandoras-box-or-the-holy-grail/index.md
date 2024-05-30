@@ -3,8 +3,8 @@ ceoTitle: "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
 title: "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
 breadcrumbs: What Is AI and Its Use Cases
 slug: artificial-intelligence-pandoras-box-or-the-holy-grail
-draft: true
-publishDate: 2017-11-10T00:00:00Z
+draft: false
+publishDate: 2017-11-10T00:00:00.000Z
 image: wall-e-1872683_1920.jpg
 og_image: wall-e-1872683_1920.jpg
 description: Google, Amazon, Facebook and other tech giants are working on the
@@ -96,6 +96,8 @@ Neural networks begin to learn at an amazing rate. Computer scientists already d
 Determining the purpose correctly and minimizing unintended consequences when something goes wrong are a major AI challenge. An advanced AI system meets the target by ensuring its existence and occupying processing power because it was programmed to carry out the task. Thus any mistake in machine learning can result in irreversible impacts. That is exactly what Bill Gates, Stephen Hawking, Elon Musk and others are worried about and not because they see the future dystopian.
 
 In order to understand the scale of the challenge, the rise of AI may be compared to discovery the neutron. It has brought us both an efficient type of energy and the most dangerous weapons on earth. AI also can provide stunning benefits for humanity - the brightest intelligence which provides almost infinite possibilities, or can become a Pandora's Box as well. And that is why it is essential to control the artificial intelligence development.
+
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
 
 ## Bottom line
 
