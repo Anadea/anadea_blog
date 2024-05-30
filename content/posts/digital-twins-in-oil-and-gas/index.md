@@ -1,5 +1,8 @@
 ---
-title: "Digital Twins in Oil and Gas: Core Insights"
+ceoTitle: "Digital Twins in Oil and Gas: Core Insights"
+title: What You Should Know About Digital Twins in Oil and Gas Industry
+breadcrumbs: Digital Twins in Oil and Gas
+slug: digital-twins-in-oil-and-gas
 draft: false
 publishDate: 2023-10-16T00:00:00.000Z
 image: digital_twins.png
