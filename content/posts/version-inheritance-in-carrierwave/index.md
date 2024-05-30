@@ -1,22 +1,26 @@
 ---
-title: 'Carrierwave: How to Avoid Issues with Version Inheritance'
-publishDate: '2017-10-15T00:00:00Z'
-authors: []
-description: <a href="https://github.com/carrierwaveuploader/carrierwave" rel="nofollow"
-  target="_blank">Сarrierwave</a> is a popular image upload gem used by the Rails
-  community to upload files to the server.Recently I had a task to upload two types
-  of images into the application. Under the hood,the only difference between them
-  was the target directory on the server. Sounds pretty simple, right?
+ceoTitle: "Carrierwave: How to Avoid Issues with Version Inheritance"
+title: "Carrierwave: How to Avoid Issues with Version Inheritance"
+breadcrumbs: "Carrierwave: How to Avoid Issues with Version Inheritance"
+slug: version-inheritance-in-carrierwave
+draft: true
+publishDate: 2017-10-15T00:00:00Z
 image: its_a_feature.jpg
 og_image: its_a_feature.jpg
+description: <a href="https://github.com/carrierwaveuploader/carrierwave"
+  rel="nofollow" target="_blank">Сarrierwave</a> is a popular image upload gem
+  used by the Rails community to upload files to the server.Recently I had a
+  task to upload two types of images into the application. Under the hood,the
+  only difference between them was the target directory on the server. Sounds
+  pretty simple, right?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
-- ruby-on-rails
+  - development
+  - ruby-on-rails
+industries: []
 ---
 <a href="https://github.com/carrierwaveuploader/carrierwave" rel="nofollow" target="_blank">Сarrierwave</a> is a popular image upload gem used by the Rails community to upload files to the server.
 
