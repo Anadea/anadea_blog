@@ -1,22 +1,26 @@
 ---
-title: 'Business Analysts: How to Avoid Problems with Project Requirements'
-publishDate: '2019-05-30T00:00:00Z'
-authors:
-- nick-karlsson
-description: One of the main reasons for project failure is poor requirements management.
-  In this article, we will give insights on what are project requirements, types of
-  requirements and how to gather requirements to ensure project success. We will also
-  give you the answer to what business analysts do to effectively handle project requirements.
-  Let’s start with the basics.
+ceoTitle: "Business Analysts: How to Avoid Problems with Project Requirements"
+title: When Business Analysts Run Into Problems with Project Requirements, This
+  Is What They Do
+breadcrumbs: When Business Analysts Run Into Problems with Project Requirements,
+  This Is What They Do
+slug: when-business-analysts-run-into-problems-with-project-requirements-this-is-what-they-do
+draft: true
+publishDate: 2019-05-30T00:00:00Z
 image: How-business-analysts-solve-problems-with-project-requirements.jpg
 og_image: How-business-analysts-solve-problems-with-project-requirements.jpg
+description: One of the main reasons for project failure is poor requirements
+  management. In this article, we will give insights on what are project
+  requirements, types of requirements and how to gather requirements to ensure
+  project success. We will also give you the answer to what business analysts do
+  to effectively handle project requirements. Let’s start with the basics.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business-analysis
+  - business-analysis
+industries: []
 ---
 One of the main reasons for project failure is poor requirements management. In this article, we will give insights on what are project requirements, types of requirements and how to gather requirements to ensure project success. We will also give you the answer to what [business analysts](https://anadea.info/guides/business-analyst-role) do to effectively handle project requirements. Let’s start with the basics.
 
