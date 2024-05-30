@@ -19,7 +19,8 @@ authors:
   - web-development-team
 categories:
   - business
-industries: []
+industries:
+  - enterprise
 ---
 A growing business is an indicator of its success, but more people on the payroll can become a headache for HR personnel.
 
