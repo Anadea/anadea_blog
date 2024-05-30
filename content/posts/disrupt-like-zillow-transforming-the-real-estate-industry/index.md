@@ -1,19 +1,23 @@
 ---
-title: 'Disrupt Like Zillow: Transforming the Real Estate Industry'
-publishDate: '2019-04-03T00:00:00Z'
-authors: []
-description: Zillow is a serious player in the U.S. real estate market. Founded in
-  2006, Zillow now contains a database of 110 million homes and apartments across
-  the U.S., with buyers, sellers and renters using the platform to move house.
+ceoTitle: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+title: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+breadcrumbs: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+slug: disrupt-like-zillow-transforming-the-real-estate-industry
+draft: true
+publishDate: 2019-04-03T00:00:00Z
 image: Real-estate-startup.jpg
 og_image: create-real-estate-app.jpg
+description: Zillow is a serious player in the U.S. real estate market. Founded
+  in 2006, Zillow now contains a database of 110 million homes and apartments
+  across the U.S., with buyers, sellers and renters using the platform to move
+  house.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors: []
 categories: []
+industries:
+  - real-estate
 ---
 ***Zillow is a serious player in the U.S. real estate market. Founded in 2006, Zillow now contains a database of 110 million homes and apartments across the U.S., with buyers, sellers and renters using the platform to move house.***
 
