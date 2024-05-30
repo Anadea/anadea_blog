@@ -3,8 +3,8 @@ ceoTitle: "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
 title: "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
 breadcrumbs: Emotional Intelligence in Design
 slug: emotionally-intelligent-design-why-you-need-it-in-your-mobile-app
-draft: true
-publishDate: 2018-06-26T00:00:00Z
+draft: false
+publishDate: 2018-06-26T00:00:00.000Z
 image: Emotional-ux.jpg
 og_image: Emotional-ux.jpg
 description: We use various applications every day - document management,
@@ -16,7 +16,8 @@ description: We use various applications every day - document management,
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ui-ux-design-team
 categories:
   - design
 industries: []
@@ -44,11 +45,12 @@ Such details give the product a unique identity and help to establish communicat
 Let's take a '404 not found' page. It is a good place to trigger emotions of your site visitors. Most users reaching the 404 error page will try to leave it as soon as possible. If small sites can monitor the correctness of their links, then on larger sites, tracking broken links leading to deleted or moved files or pages becomes more difficult. Well-thought-out UX design of the 404 page will not only offer visitors links to relevant material, it will spark their interest and encourage to explore your offerings.
 
 ![Not found page](Error-page.jpg)
+
 <center><sub>Source: <a href="https://www.pixar.com/404" rel="nofollow" target="_blank">pixar.com</a> / <a href="https://www.theuselesswebindex.com/error/" rel="nofollow" target="_blank">theuselesswebindex.com</a></sub></center>
 
 Designing for emotions also works great for educational apps. For example, we used emotional elements of UX design while developing an e-learning system [STAV Online](https://anadea.info/projects/stav-online) since emotions create motivation, allow to attract the attention of students and make it easier to memorize educational material.
 
-<center><img src="Stav.png" alt="Emotional UX in e-learning"></center>
+![Emotional UX in e-learning](Stav.png)
 
 ## Emotional UX design - the path to interactive relationships
 
