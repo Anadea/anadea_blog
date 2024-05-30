@@ -3,8 +3,8 @@ ceoTitle: "ChatGPT in Business: GPT-4 Use Cases"
 title: "GPT-4 Use Cases: How to Apply It to Your Business"
 breadcrumbs: GPT-4 Use Cases
 slug: gpt-4-use-cases
-draft: true
-publishDate: 2023-11-09T00:00:00Z
+draft: false
+publishDate: 2023-11-09T00:00:00.000Z
 image: gpt-4.png
 og_image: gpt-4-socials.png
 description: AI-powered chatbots can bring a wide range of benefits to your
@@ -13,9 +13,11 @@ description: AI-powered chatbots can bring a wide range of benefits to your
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ai-ml-team
 categories:
   - business
+  - trends
 industries: []
 questionary:
   - question: What is GPT-4?
@@ -139,7 +141,7 @@ As well as in the case of any other software development project, there are seve
 
 When you rely on experts who definitely know what and how should be done, you can be sure that you will have a powerful solution. Moreover, if you turn to our team with such a request, we can guarantee that all your tasks will be performed within reasonable time frames and with the highest quality.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to AI experts{{< /ctabutton >}}
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
 
 ## Conclusion
 
