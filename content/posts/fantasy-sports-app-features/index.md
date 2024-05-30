@@ -1,19 +1,22 @@
 ---
-title: Fantasy Sports App Development Features
-publishDate: '2021-07-05T00:00:00Z'
-authors: []
-description: This article describes what kind of must-have and advanced features you
-  should include in your Fantasy Sports App. And why you should develop a Fantasy
-  Sport App in the first place.
+ceoTitle: Fantasy Sports App Development Features
+title: What Kind of Features Should a Fantasy Sports App Include?
+breadcrumbs: What Kind of Features Should a Fantasy Sports App Include?
+slug: fantasy-sports-app-features
+draft: true
+publishDate: 2021-07-05T00:00:00Z
 image: "%D1%81ompressed.jpg"
 og_image: "%D1%81ompressed.jpg"
+description: This article describes what kind of must-have and advanced features
+  you should include in your Fantasy Sports App. And why you should develop a
+  Fantasy Sport App in the first place.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- sports
+authors: []
 categories: []
+industries:
+  - sports
 ---
 <h2>Contents</h2>
 <ol>
