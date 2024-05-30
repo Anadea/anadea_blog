@@ -1,22 +1,25 @@
 ---
-title: 'Artificial Intelligence: a Pandora''s Box or the Holy Grail?'
-publishDate: '2017-11-10T00:00:00Z'
-authors: []
-description: Google, Amazon, Facebook and other tech giants are working on the creation
-  of advanced artificial intelligence systems and their potential application. Have
-  you ever been interested in how it is going now in the field of computer science
-  dedicated to artificial intelligence? What progress has been made in AI and what
-  are the key issues in artificial intelligence?
+ceoTitle: "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
+title: "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
+breadcrumbs: What Is AI and Its Use Cases
+slug: artificial-intelligence-pandoras-box-or-the-holy-grail
+draft: true
+publishDate: 2017-11-10T00:00:00Z
 image: wall-e-1872683_1920.jpg
 og_image: wall-e-1872683_1920.jpg
+description: Google, Amazon, Facebook and other tech giants are working on the
+  creation of advanced artificial intelligence systems and their potential
+  application. Have you ever been interested in how it is going now in the field
+  of computer science dedicated to artificial intelligence? What progress has
+  been made in AI and what are the key issues in artificial intelligence?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
-- machine-learning
+  - business
+  - machine-learning
+industries: []
 ---
 Google, Amazon, Facebook and other tech giants are working on the creation of advanced artificial intelligence systems and their potential application. Have you ever been interested in how it is going now in the field of computer science dedicated to artificial intelligence? What progress has been made in AI and what are the key issues in artificial intelligence?
 
