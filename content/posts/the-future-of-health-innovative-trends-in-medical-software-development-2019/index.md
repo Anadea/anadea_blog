@@ -1,6 +1,6 @@
 ---
 ceoTitle: Healthcare IT Trends that Innovate the Industry
-title: "The Future of Health Technology: Innovative Healthcare Trends 2023"
+title: "The Future of Health Technology: Innovative Healthcare Trends"
 breadcrumbs: Healthcare Trends 2023
 slug: the-future-of-health-innovative-trends-in-medical-software-development-2019
 draft: false
