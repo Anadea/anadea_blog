@@ -1,18 +1,18 @@
 ---
 title: Best Healthcare Apps for Patients and Doctors
-publishDate: '2022-06-22T00:00:00Z'
-authors: []
-description: Healthcare apps are not limited to on-demand consultations concept. See
-  the examples of top healthcare apps in the market, all different.
+draft: false
+publishDate: 2022-06-22T00:00:00Z
 image: sunshine.png
 og_image: sunshine.png
+description: Healthcare apps are not limited to on-demand consultations concept.
+  See the examples of top healthcare apps in the market, all different.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors: []
 categories: []
+industries:
+  - healthcare
 ---
 Scientists in medicine synthesize organs and tissues, create realistic prosthetic devices, and make other things thought fantastic real. Impressive it is, but how is technology advancement applied in more routine healthcare operations? It is applied in a way, more precisely – in <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical app development</a>. But before going further, one issue has to be clarified.
 
