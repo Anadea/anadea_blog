@@ -1,10 +1,10 @@
 ---
-ceoTitle: " Atomic design 2.0 and style guide driven development"
-title: Atomic design 2.0 and style guide driven development
-breadcrumbs: " Atomic design 2.0 and style guide driven development"
+ceoTitle: " Atomic Design 2.0 and Style Guide Driven Development"
+title: " Atomic Design 2.0 and Style Guide Driven Development"
+breadcrumbs: " Atomic Design 2.0 and Style Guide Driven Development"
 slug: atomic-design-2-0-and-style-guide-driven-development
-draft: true
-publishDate: 2020-06-23T00:00:00Z
+draft: false
+publishDate: 2020-06-23T00:00:00.000Z
 image: atomic-design-2-0-and-style-guide-driven-development.jpg
 og_image: atomic-design-2-0-and-style-guide-driven-development-1.jpg
 description: "Design involves the entire process of creating components:
@@ -16,7 +16,8 @@ promote:
 top: false
 authors:
   - anastasiya-bakuta
-categories: []
+categories:
+  - development
 industries: []
 ---
 ## What is atomic design?
