@@ -1,22 +1,25 @@
 ---
+ceoTitle: Do You Know How Hash Table Works? (Ruby Examples)
 title: Do You Know How Hash Table Works? (Ruby Examples)
-publishDate: '2018-06-19T00:00:00Z'
-authors: []
-description: Hash table is a data structure that stores data in key-value pairs. It
-  is also named as a dictionary or associative array. It stores data in a way that
-  enables lookup and insertion in constant O(1) time. These properties of a hash make
-  it one of the most useful data structures in a programmer's toolbox. The main question
-  is where does this speed come from and how does it work?
+breadcrumbs: Do You Know How Hash Table Works? (Ruby Examples)
+slug: how-hash-table-works-ruby-examples
+draft: true
+publishDate: 2018-06-19T00:00:00Z
 image: Programming.jpg
 og_image: Programming.jpg
+description: Hash table is a data structure that stores data in key-value pairs.
+  It is also named as a dictionary or associative array. It stores data in a way
+  that enables lookup and insertion in constant O(1) time. These properties of a
+  hash make it one of the most useful data structures in a programmer's toolbox.
+  The main question is where does this speed come from and how does it work?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
-- ruby-on-rails
+  - development
+  - ruby-on-rails
+industries: []
 ---
 ## What is hash table?
 
