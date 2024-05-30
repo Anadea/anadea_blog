@@ -3,8 +3,8 @@ ceoTitle: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
 title: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
 breadcrumbs: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
 slug: ecommerce-mobile-app-trends-2017-new-opportunities-for-the-market
-draft: true
-publishDate: 2017-06-22T00:00:00Z
+draft: false
+publishDate: 2017-06-22T00:00:00.000Z
 image: mobile_commerce.jpg
 og_image: mobile_commerce.jpg
 description: Have you thought that just 20 years ago there were no smartphones?
@@ -16,7 +16,8 @@ description: Have you thought that just 20 years ago there were no smartphones?
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - mobile-development-team
 categories:
   - trends
 industries: []
@@ -27,7 +28,7 @@ A business with a strong base of regular clients and a mobile-optimized website 
 
 What is a smartphone without apps? It is a simple mobile device that allows making calls. Apps turn this device into an indispensable assistant. Look into your smartphone and count the number of apps there is. There are apps for all occasions: some of them are for hailing and paying for a taxi, some help to travel, some even prepare students for life on campus, and some are for shopping. A smartphone with shopping apps in hands of a buyer is a shop-assistant and an expert in discounts and best deals.
 
-If Google Analytics of your store shows visits from mobile devices around 50 per cent of total visits it's time to start thinking about looking for a [mobile development company](/services/mobile-development) company for creating an app. The existence of ironclad statistics is hard to ignore.
+If Google Analytics of your store shows visits from mobile devices around 50 per cent of total visits it's time to start thinking about looking for a [mobile development company](/services/mobile-development) for creating an app. The existence of ironclad statistics is hard to ignore.
 
 Here are trends of ecommerce mobile app development to watch in 2017.
 
