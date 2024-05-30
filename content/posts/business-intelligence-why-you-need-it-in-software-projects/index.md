@@ -1,20 +1,20 @@
 ---
-title: 'Business Intelligence: Why You Need It in Software Projects?'
-publishDate: '2020-01-29T00:00:00Z'
-authors: []
-description: When new software is developed, whether a simple app or something more
-  involved, it should always be a data-driven process. Business intelligence, or BI,
-  is the process whereby internal teams and stakeholders work with analysts to determine
-  the most effective ways to solve problems.
+title: "Business Intelligence: Why You Need It in Software Projects?"
+draft: false
+publishDate: 2020-01-29T00:00:00Z
 image: Business-intelligence.jpg
 og_image: Business-intelligence.jpg
+description: When new software is developed, whether a simple app or something
+  more involved, it should always be a data-driven process. Business
+  intelligence, or BI, is the process whereby internal teams and stakeholders
+  work with analysts to determine the most effective ways to solve problems.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 ***When new software is developed, whether a simple app or something more involved, it should always be a data-driven process. Business intelligence, or BI, is the process whereby internal teams and stakeholders work with analysts to determine the most effective ways to solve problems.***
 
