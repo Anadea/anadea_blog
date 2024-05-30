@@ -1,22 +1,24 @@
 ---
+ceoTitle: Does My Business Really Need a Mobile App?
 title: Does My Business Really Need a Mobile App?
-publishDate: '2020-10-01T00:00:00Z'
-authors: []
-description: With thousands of apps being launched every day, is a mobile app a necessity
-  or a luxury for my business? Is a mobile friendly website enough for my business?
-  Do I lose some opportunities without  a mobile app? Why should I spend my money
-  on developing a business application when it is practically the same thing as the
-  website? Or is it not?
+breadcrumbs: Does My Business Really Need a Mobile App?
+slug: does-my-business-need-mobile-app
+draft: true
+publishDate: 2020-10-01T00:00:00Z
 image: tree.jpg
 og_image: tree.jpg
+description: With thousands of apps being launched every day, is a mobile app a
+  necessity or a luxury for my business? Is a mobile friendly website enough for
+  my business? Do I lose some opportunities without  a mobile app? Why should I
+  spend my money on developing a business application when it is practically the
+  same thing as the website? Or is it not?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
-- mobile
+  - business
+industries: []
 ---
 With thousands of apps being launched every day, is a mobile app a necessity or a luxury for my business? Is a mobile friendly website enough for my business? Do I lose some opportunities without a mobile app? Why should I spend my money on developing a business application when it is practically the same thing as the website? Or is it not?
 
