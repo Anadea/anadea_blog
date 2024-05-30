@@ -1,22 +1,25 @@
 ---
+ceoTitle: Data Strategy for Digital Transformation in the Medical Industry
 title: Data Strategy for Digital Transformation in the Medical Industry
-publishDate: '2018-12-05T00:00:00Z'
-authors:
-- nick-andrew-rojas
-description: As technology blurs the line between digital and physical medical care,
-  private practices and doctors must start using technology to promote the intimate
-  connection necessary in doctor-patient relationships. In 2017, more than 95% of
-  non-federal acute care hospitals used information technology for health care. Technology
-  in medicine is widespread and growing, redefining how we think about healthcare.
+breadcrumbs: Healthcare Digital Transformation
+slug: data-strategy-for-digital-transformation-in-the-medical-industry
+draft: true
+publishDate: 2018-12-05T00:00:00Z
 image: Digital-medicine.jpg
 og_image: Digital-medicine.jpg
+description: As technology blurs the line between digital and physical medical
+  care, private practices and doctors must start using technology to promote the
+  intimate connection necessary in doctor-patient relationships. In 2017, more
+  than 95% of non-federal acute care hospitals used information technology for
+  health care. Technology in medicine is widespread and growing, redefining how
+  we think about healthcare.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors: []
 categories: []
+industries:
+  - healthcare
 ---
 As technology blurs the line between digital and physical medical care, private practices and doctors must start using technology to promote the intimate connection necessary in doctor-patient relationships. More than 95% of non-federal acute care hospitals used information technology for health care today. Technology in medicine is widespread and growing, redefining how we think about healthcare.
 
