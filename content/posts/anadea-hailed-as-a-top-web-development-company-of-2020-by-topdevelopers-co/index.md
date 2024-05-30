@@ -3,8 +3,8 @@ ceoTitle: Anadea hailed as a Top Web Development Company of 2020 by TopDeveloper
 title: Anadea is a Top Web Development Company of 2020 by TopDevelopers.co
 breadcrumbs: Anadea is a Top Web Development Company of 2020 by TopDevelopers.co
 slug: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdevelopers-co
-draft: true
-publishDate: 2020-07-20T00:00:00Z
+draft: false
+publishDate: 2020-07-20T00:00:00.000Z
 image: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdevelopers-co.jpg
 og_image: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdevelopers-co.jpg
 description: Anadea has been recognized as a top web development company by a
@@ -12,7 +12,8 @@ description: Anadea has been recognized as a top web development company by a
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - marketing-team
 categories:
   - news
 industries: []
@@ -35,7 +36,7 @@ We built the website using MongoDb and Ruby on Rails. The UI of the website was 
 
 And for the result, we’ll quote the exact words spoken by our client,
 
-> “With Anadea you get a complete organization with great project management methods, tools and working standards. I have been involved in many IT-projects and I have never experienced a project that went as smoothly as this one. Development is continuous and traceable. Errors and bugs were rare to find after a release and are always fixed very quickly.”
+> With Anadea you get a complete organization with great project management methods, tools and working standards. I have been involved in many IT-projects and I have never experienced a project that went as smoothly as this one. Development is continuous and traceable. Errors and bugs were rare to find after a release and are always fixed very quickly.
 
 Find out more such thrilling stories on our solutions...
 
