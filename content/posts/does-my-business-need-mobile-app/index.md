@@ -15,7 +15,8 @@ description: With thousands of apps being launched every day, is a mobile app a
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - mobile-development-team
 categories:
   - business
 industries: []
