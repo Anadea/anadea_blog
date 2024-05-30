@@ -1,22 +1,25 @@
 ---
-title: 'Ecommerce Mobile App Trends 2017: New Opportunities for the Market'
-publishDate: '2017-06-22T00:00:00Z'
-authors: []
-description: Have you thought that just 20 years ago there were no smartphones? The
-  web industry was focused on purely PC and laptop users. The emergence and rapid
-  spread of smartphones have dramatically changed not only our daily lives but also
-  the online industry. To date, more than half the world uses smartphones and the
-  volume of mobile and tablet traffic surpasses the volume of desktop traffic.
+ceoTitle: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
+title: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
+breadcrumbs: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
+slug: ecommerce-mobile-app-trends-2017-new-opportunities-for-the-market
+draft: true
+publishDate: 2017-06-22T00:00:00Z
 image: mobile_commerce.jpg
 og_image: mobile_commerce.jpg
+description: Have you thought that just 20 years ago there were no smartphones?
+  The web industry was focused on purely PC and laptop users. The emergence and
+  rapid spread of smartphones have dramatically changed not only our daily lives
+  but also the online industry. To date, more than half the world uses
+  smartphones and the volume of mobile and tablet traffic surpasses the volume
+  of desktop traffic.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- ecommerce
-- trends
+  - trends
+industries: []
 ---
 Have you thought that just 20 years ago there were no smartphones? The web industry was focused on purely PC and laptop users. The emergence and rapid spread of smartphones have dramatically changed not only our daily lives but also the online industry. To date, more than half the world uses smartphones and the volume of mobile and tablet traffic surpasses the volume of desktop traffic. That is why a great internet marketing strategy for famous brands as well as small businesses involves more than just a mobile-friendly site. A responsive design is no longer enough to win modern customers with smartphones.
 
