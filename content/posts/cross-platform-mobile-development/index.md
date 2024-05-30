@@ -3,8 +3,8 @@ ceoTitle: Cross Platform Mobile App Development Best Practices
 title: Cross Platform Mobile App Development Best Practices
 breadcrumbs: Cross Platform Mobile App Development Best Practices
 slug: cross-platform-mobile-development
-draft: true
-publishDate: 2021-08-26T00:00:00Z
+draft: false
+publishDate: 2021-08-26T00:00:00.000Z
 image: cross-platform-apps.jpg
 og_image: cross-platform-apps.jpg
 description: Cross-platform mobile development can help your business or startup
