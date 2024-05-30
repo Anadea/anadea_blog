@@ -1,21 +1,25 @@
 ---
+ceoTitle: How Gamification in the Workplace Impacts Employee Productivity
 title: How Gamification in the Workplace Impacts Employee Productivity
-publishDate: '2018-01-25T00:00:00Z'
-authors: []
-description: "> Happy employees are more productive. Staff who enjoy their work perform
-  better, work harder and stay with a company longer.Gamification is one-way employers
-  are making work for staff more enjoyable. Tapping into our need for instant rewards,
-  gratification and feedback, gamification tools are an effective way to engage employees,
-  improve productivity and reduce staff turnover."
+breadcrumbs: Employee Productivity App Development
+slug: how-gamification-in-the-workplace-impacts-employee-productivity
+draft: true
+publishDate: 2018-01-25T00:00:00Z
 image: gamification_workplace.jpg
 og_image: Workplace-gamification-infographic.jpg
+description: "> Happy employees are more productive. Staff who enjoy their work
+  perform better, work harder and stay with a company longer.Gamification is
+  one-way employers are making work for staff more enjoyable. Tapping into our
+  need for instant rewards, gratification and feedback, gamification tools are
+  an effective way to engage employees, improve productivity and reduce staff
+  turnover."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 > Happy employees are more productive. Staff who enjoy their work perform better, work harder and stay with a company longer.
 
