@@ -14,7 +14,8 @@ promote:
 top: false
 authors:
   - ai-ml-team
-categories: []
+categories:
+  - ai-ml
 ---
 From streamlining operations to enhancing customer experiences, AI applications can level up your business in numerous ways. This article reveals how AI transforms industries and how to create AI software that can propel your company toward success.
 
