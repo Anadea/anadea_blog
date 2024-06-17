@@ -12,8 +12,7 @@ description: The interview of Vyacheslav Dodatko, CEO and Co-founder of Anadea,
 promote:
   promote: false
 top: false
-authors:
-  - ai-ml-team
+authors: []
 categories: []
 industries: []
 ---
