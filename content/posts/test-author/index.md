@@ -7,5 +7,7 @@ description: test authortest author
 promote:
   promote: false
 top: false
+authors:
+  - ai-ml-team
 ---
 test author
