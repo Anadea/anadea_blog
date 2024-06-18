@@ -15,8 +15,7 @@ description: Today, we have millions of apps that are available in different
 promote:
   promote: false
 top: false
-authors:
-  - business-analysis-team
+authors: []
 categories:
   - business
 industries: []
