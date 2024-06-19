@@ -1,5 +1,5 @@
 ---
-ceoTitle: 10 Verticals Where AI Is Making an Impact
+ceoTitle: "10 Verticals Where AI Is Making an Impact "
 title: Industry Verticals Where AI Is Making an Impact
 breadcrumbs: AI Use Cases in Business
 slug: 10-verticals-where-ai-is-making-an-impact-in-2019
