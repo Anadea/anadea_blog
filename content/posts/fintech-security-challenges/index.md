@@ -15,7 +15,8 @@ promote:
 top: false
 authors:
   - eugene-stepchenko
-categories: []
+categories:
+  - security
 industries:
   - fintech
 ---
