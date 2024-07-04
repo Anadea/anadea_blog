@@ -19,7 +19,7 @@ In this article, we will explore the vital role of [business analysis](https://a
 
 Business analysts work on projects across various domains, however, the fintech industry presents unique challenges that only a skilled analyst can navigate.
 
-![Challenges_of_Fintech.jpg](/uploads/image_attachment/image/3722/Challenges_of_Fintech.jpg)
+![Challenges_of_Fintech.jpg](challenges-of-fintech.jpg)
 
 ### Domain knowledge
 
@@ -27,11 +27,11 @@ Fintech is a dynamic, multifaceted field requiring specific industry knowledge. 
 
 While expertise takes time to develop, investing in domain knowledge early on significantly reduces costs during [fintech software](https://anadea.info/solutions/financial-software-development) development. In their turn, a business analyst with domain expertise will:
 
-- Conduct domain-specific research.
-- Create a glossary of key terms.
-- Visualize processes using **Business Process Model & Notation** (BPMN) or **Unified Modeling Language** (UML).
-- Study existing documents and compliance regulations.
-- Analyze current product functionality.
+* Conduct domain-specific research.
+* Create a glossary of key terms.
+* Visualize processes using **Business Process Model & Notation** (BPMN) or **Unified Modeling Language** (UML).
+* Study existing documents and compliance regulations.
+* Analyze current product functionality.
 
 ### Ineffective stakeholder communication
 
@@ -39,11 +39,11 @@ Effective stakeholder engagement is crucial in fintech projects. However, stakeh
 
 These steps on the BA’s part ensure that stakeholders are informed, engaged, and able to contribute effectively to the project's success:
 
-- Developing and agreeing on a communication plan before project initiation.
-- Recording discussions and sharing them with all stakeholders.
-- Writing and distributing meeting minutes, highlighting significant decisions.
-- Asking stakeholders to review meeting agendas and materials beforehand.
-- Conducting all project-related correspondence in a single channel, avoiding direct messages, and tagging all relevant stakeholders.
+* Developing and agreeing on a communication plan before project initiation.
+* Recording discussions and sharing them with all stakeholders.
+* Writing and distributing meeting minutes, highlighting significant decisions.
+* Asking stakeholders to review meeting agendas and materials beforehand.
+* Conducting all project-related correspondence in a single channel, avoiding direct messages, and tagging all relevant stakeholders.
 
 ### Changing business needs
 
@@ -51,13 +51,13 @@ Business needs in fintech can change frequently, leading to revisions even after
 
 A business analyst helps avoid rewriting code later, ensuring smoother project execution and better resource management by:
 
-- Choosing an appropriate project delivery approach, such as Agile (Scrum or Kanban) for dynamic requirements.
-- Constantly improving requirements elicitation processes.
-- Thoroughly documenting and approving requirements with stakeholders before development begins.
-- Analyzing the impact of changes on the current solution, considering timelines, budget, and resources.
-- Discussing with the client which changes need immediate attention and which can be postponed.
-- Maintaining a backlog, regularly coordinating it with the client, and prioritizing high-priority tasks.
-- Overseeing change implementation, ensuring proper execution and tracking any subsequent modifications.
+* Choosing an appropriate project delivery approach, such as Agile (Scrum or Kanban) for dynamic requirements.
+* Constantly improving requirements elicitation processes.
+* Thoroughly documenting and approving requirements with stakeholders before development begins.
+* Analyzing the impact of changes on the current solution, considering timelines, budget, and resources.
+* Discussing with the client which changes need immediate attention and which can be postponed.
+* Maintaining a backlog, regularly coordinating it with the client, and prioritizing high-priority tasks.
+* Overseeing change implementation, ensuring proper execution and tracking any subsequent modifications.
 
 ### Unrealistic timelines
 
@@ -65,11 +65,11 @@ Setting up timelines for a project is a skill in itself. Tight ones can create p
 
 A BA is someone who navigates tight timelines while maintaining project quality and stakeholder satisfaction. They:
 
-- Evaluate the effects of timeline pressure and inform the client of potential costs and losses.
-- Conduct grooming sessions with the development team and set task estimations before approval.
-- Use outsourcing by attracting available specialists to resolve development issues quickly.
-- Discuss all additional expenses with the client to ensure transparency every week.
-- Manage unrealistic stakeholder expectations carefully to maintain balanced relationships without causing permanent damage.
+* Evaluate the effects of timeline pressure and inform the client of potential costs and losses.
+* Conduct grooming sessions with the development team and set task estimations before approval.
+* Use outsourcing by attracting available specialists to resolve development issues quickly.
+* Discuss all additional expenses with the client to ensure transparency every week.
+* Manage unrealistic stakeholder expectations carefully to maintain balanced relationships without causing permanent damage.
 
 ### Legacy systems
 
@@ -77,12 +77,12 @@ Fintech’s reliance on legacy systems is no surprise, complicating new project 
 
 A business analyst’s understanding of both legacy systems and new products makes software development easier and more cost-effective. It’s achieved through:
 
-- Engaging the development team to define system resource constraints and scalability issues.
-- Maintaining close communication with stakeholders for requirements elicitation and risk mitigation.
-- Researching the existing legacy product and documenting any missing workflows.
-- Creating clear and unambiguous requirements and conducting grooming sessions with the development team.
-- Performing functional, integration, and acceptance testing of business requirements.
-- Collecting feedback from end-users regarding implemented solutions.
+* Engaging the development team to define system resource constraints and scalability issues.
+* Maintaining close communication with stakeholders for requirements elicitation and risk mitigation.
+* Researching the existing legacy product and documenting any missing workflows.
+* Creating clear and unambiguous requirements and conducting grooming sessions with the development team.
+* Performing functional, integration, and acceptance testing of business requirements.
+* Collecting feedback from end-users regarding implemented solutions.
 
 {{< advert_with_cta title="Work with top Business Analysts" description="Benefit from 20+ years of Anadea's software development expertise" button="Book a consultation" >}}
 
@@ -90,7 +90,7 @@ A business analyst’s understanding of both legacy systems and new products mak
 
 Besides overcoming known industry challenges, how else can business analysts help on a fintech project? Take a look at a few examples of what you get when engaging these specialists.
 
-![fintech_business_analyst.jpg](/uploads/image_attachment/image/3720/fintech_business_analyst.jpg)
+![fintech_business_analyst.jpg](fintech-business-analyst.jpg)
 
 ### Ensuring compliance
 
@@ -118,7 +118,7 @@ BAs are key to keeping costs in check. They define the project's value stream, p
 
 Discovery phase, wireframes, documentation—we decided to gather in one place most buzzwords tightly associated with business analysis. Together, they will give a complete understanding of the tools and methods BAs master.
 
-![What__Business_Analysts__Do.jpg](/uploads/image_attachment/image/3724/What__Business_Analysts__Do.jpg)
+![What__Business_Analysts__Do.jpg](what-business-analysts-do.jpg)
 
 ### Perform discovery
 
@@ -140,8 +140,8 @@ Regular engagement with stakeholders is essential. BAs discuss project progress,
 
 BAs translate business requirements into clear documentation, choosing the appropriate type based on project needs and budget:
 
-- **User stories:** Describe functionality from the end-user's perspective.
-- **Use cases:** Detail interactions between users and the system for specific tasks.
+* **User stories:** Describe functionality from the end-user's perspective.
+* **Use cases:** Detail interactions between users and the system for specific tasks.
 
 ### Create diagrams
 
@@ -175,55 +175,55 @@ By following these steps, BAs ensure fintech projects align with business object
 
 Successful business analysts in the fintech industry need a mix of technical (hard) and common (soft) skills. When you hire a business analyst for your fintech project, you want them to possess the following skills:
 
-![Skills_of_a_Business_Analyst.jpg](/uploads/image_attachment/image/3721/Skills_of_a_Business_Analyst.jpg)
+![Skills_of_a_Business_Analyst.jpg](skills-of-a-business-analyst.jpg)
 
 ### Hard skills
 
 **Technical background**
 
-- **Understanding programming concepts.** Helps in breaking down functionality and communicating effectively with the development team.
-- **Knowledge of system architecture.** Provides robust, scalable, and integrated solutions.
-- **Proficiency in database technologies.** Necessary for extracting and analyzing large datasets.
+* **Understanding programming concepts.** Helps in breaking down functionality and communicating effectively with the development team.
+* **Knowledge of system architecture.** Provides robust, scalable, and integrated solutions.
+* **Proficiency in database technologies.** Necessary for extracting and analyzing large datasets.
 
 **Modeling skills**
 
-- **Proficiency in BPMN and UML diagramming.** Align and visualize requirements, identify bottlenecks.
-- **Data modeling expertise.** Use ERD and DFD to represent database structures and relationships.
+* **Proficiency in BPMN and UML diagramming.** Align and visualize requirements, identify bottlenecks.
+* **Data modeling expertise.** Use ERD and DFD to represent database structures and relationships.
 
 **Documentation skills**
 
-- **Creating clear reports.** Integrate technical decisions and business goals.
-- **Requirements documentation.** Document stakeholder needs through user stories, use cases, and technical specs.
+* **Creating clear reports.** Integrate technical decisions and business goals.
+* **Requirements documentation.** Document stakeholder needs through user stories, use cases, and technical specs.
 
 **Regulatory compliance**
 
-- **Knowledge of compliance regulations.** Ensure new products meet regional and service-specific regulations.
-- **Upholding ethical standards.** Maintain trust and integrity by recognizing ethical implications.
+* **Knowledge of compliance regulations.** Ensure new products meet regional and service-specific regulations.
+* **Upholding ethical standards.** Maintain trust and integrity by recognizing ethical implications.
 
 ### Soft skills
 
 **Communication skills**
 
-- **Effective stakeholder interaction.** Communicate clearly with technical teams, management, and end-users.
-- **Strong presentation skills.** Explain complex concepts in simple terms.
-- **Empathy and sensitivity.** Understand and respond to stakeholder needs.
+* **Effective stakeholder interaction.** Communicate clearly with technical teams, management, and end-users.
+* **Strong presentation skills.** Explain complex concepts in simple terms.
+* **Empathy and sensitivity.** Understand and respond to stakeholder needs.
 
 **Analytical skills**
 
-- **Advanced data analysis.** Use analytics tools to generate insights and guide decisions.
-- **Problem-solving acumen.** Identify patterns and solve complex problems.
+* **Advanced data analysis.** Use analytics tools to generate insights and guide decisions.
+* **Problem-solving acumen.** Identify patterns and solve complex problems.
 
 **Critical thinking**
 
-- **Logical evaluation of systems.** Navigate complex financial systems and make informed decisions.
-- **Risk assessment skills.** Identify potential risks and incorporate them into mitigation strategies.
+* **Logical evaluation of systems.** Navigate complex financial systems and make informed decisions.
+* **Risk assessment skills.** Identify potential risks and incorporate them into mitigation strategies.
 
 **Problem-solving skills**
 
-- **Innovative solution development.** Use new technologies and methods to improve processes.
-- **Quick decision-making.** Adapt swiftly to changing market or project conditions.
-- **Effective risk mitigation.** Develop strategies to ensure stability and security.
-- **Strong negotiation skills.** Reach beneficial agreements with stakeholders to streamline development.
+* **Innovative solution development.** Use new technologies and methods to improve processes.
+* **Quick decision-making.** Adapt swiftly to changing market or project conditions.
+* **Effective risk mitigation.** Develop strategies to ensure stability and security.
+* **Strong negotiation skills.** Reach beneficial agreements with stakeholders to streamline development.
 
 By mastering these skills, a fintech business analyst can effectively manage financial projects, ensuring success and continuous improvement.
 
@@ -231,7 +231,7 @@ By mastering these skills, a fintech business analyst can effectively manage fin
 
 **Flexidea**, an invoice factoring company, approached Anadea’s business analysts to integrate an annuity credit line into their existing solution, which already had a linear credit line. Without a clear technical task from the client, we had to dive deep into the domain, search for existing formulas, and conduct competitive analysis to find the optimal solution. Throughout this process, we maintained open communication with Flexidea to understand all the requirements.
 
-![Flexidea.jpg](/uploads/image_attachment/image/3719/Flexidea.jpg)
+![Flexidea.jpg](flexidea.jpg)
 
 ### Step 1. Modeling the credit line in sheets
 
