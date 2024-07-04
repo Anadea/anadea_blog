@@ -1,5 +1,5 @@
 ---
-title: иаваы
+title: "Machine Learning in Oil and Gas Industry: Benefits and Use Cases"
 draft: false
 publishDate: 2024-07-04T16:47:00+02:00
 description: смитьб
