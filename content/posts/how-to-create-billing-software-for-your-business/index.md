@@ -68,7 +68,7 @@ Even though some off-the-shelf solutions have excellent reputations and reviews,
 * **Data security**. In general, [security](https://anadea.info/blog/fintech-security-challenges) remains to be one of the most serious concerns regarding fintech products. Solutions provided by vendors to a wide audience can be vulnerable to various security threats. With custom billing software development, such risks can be successfully avoided. It is possible to introduce the most powerful security measures such as encryption, access management, and security protocols that will correspond to your business requirements.
 * **Cost-efficiency**. Of course, your software development project will require financial investments. Nevertheless, do not forget that you will still need to pay for off-the-shelf software solutions (usually on a monthly or annual basis in accordance with the subscription model). As a result, you will be able to leverage long-term cost savings compared to ongoing subscription fees of generic billing software.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="/contacts" style="color:white; text-decoration: none" target="_blank">Book a free consultation</a>
+{{< advert_with_cta title="Your custom billing software awaits!" description="Request a free quote from software developers" button="Send your request" >}}
 
 ## Key features of billing software
 
@@ -87,7 +87,7 @@ When you are thinking of building such a solution or have plans to customize bil
 * **Product and service management.** Thanks to this functionality, you can ensure higher accuracy in billing. It will provide a simple inclusion of the relevant items in your invoices.
 * **Notifications**. Your app should send notifications about sending invoices or payment dates. This will greatly enhance user experience.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="/contacts" style="color:white; text-decoration: none" target="_blank">Request a free quote</a>
+{{< ctabutton >}}Request a free quote{{< /ctabutton >}}
 
 ## How to create billing software: Step-by-step guide
 
@@ -124,7 +124,7 @@ That’s why when you are planning such a project, it’s necessary to have a co
 
 At Anadea, you can get estimates for free. For this, you just need to share your requirements with us.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="/contacts" style="color:white; text-decoration: none" target="_blank">Ask the price</a>
+{{< ctabutton >}}Ask the price{{< /ctabutton >}}
 
 ## Billing software development trends to watch out for
 
@@ -169,4 +169,4 @@ If you are thinking about launching your own project, the right choice of develo
 
 At Anadea, we have everything that is required: the best developers, a rich tech stack, and solid experience in building digital solutions for the financial industry. Want to learn more? Do not hesitate to contact us!
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="/contacts" style="color:white; text-decoration: none" target="_blank">Get in touch</a>
+{{< ctabutton >}}Get in touch{{< /ctabutton >}}
