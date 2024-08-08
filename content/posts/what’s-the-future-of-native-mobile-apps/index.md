@@ -13,6 +13,8 @@ description: Does native mobile development have a future? When should you
 promote:
   promote: false
 top: false
+authors:
+  - dzmitry-salauyeu
 categories:
   - business
   - development
