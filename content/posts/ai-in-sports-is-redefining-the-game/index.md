@@ -5,6 +5,8 @@ breadcrumbs: " AI in Sports"
 slug: ai-in-sports
 draft: false
 publishDate: 2024-09-12T10:07:00+02:00
+image: ai_in_sports.jpg
+og_image: ai_in_sports_socials.jpg
 description: The sports industry is open to innovation and AI is one of those
   technologies that can revolutionize it. Read this article to learn more about
   AI in sports.
