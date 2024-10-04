@@ -3,8 +3,8 @@ ceoTitle: Guide to Gamification Learning Platform Development
 title: "Gamified Learning Platforms: Benefits and Trends"
 breadcrumbs: Gamified Learning Platforms
 slug: gamification-in-e-learning
-draft: true
-publishDate: 2024-03-04T00:00:00Z
+draft: false
+publishDate: 2024-03-04T00:00:00.000Z
 image: gamified_learning.png
 og_image: gamified_learning_socials.png
 description: Gamified learning platforms are changing the game in education!
