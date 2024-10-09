@@ -88,6 +88,8 @@ Of course, the above-mentioned list contains only the key benefits that you can 
 
 For example, at Anadea we can offer such services. We will deeply study your needs and your current IT infrastructure to find the best answers to the questions on how to incorporate AI into your business and whether you should do it at all.
 
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a free consultation" >}}
+
 ## How to implement AI in your business: 8 essential steps
 
 Every company is unique. This means that the one-size-fits-all approach won’t be the best choice. Each case should be viewed individually. Nevertheless, some key steps can become the basis of your AI implementation plan.
@@ -158,7 +160,7 @@ While considering AI implementation, you also should think about the cost of suc
 
 Unfortunately, it is not possible to name any accurate figure for your AI implementation initiative without studying your requirements, needs, and expectations. Such projects can be too different for different companies. This explains why you can’t take somebody else’s estimates as a benchmark.
 
-Costs of the basic model developments can start at $5,000. At the same time, for the creation of some advanced systems with complex functionality, you may need to pay $500,000 or even more. Such figures do not look very helpful, right?
+Costs of the basic model developments can start at $5,000. At the same time, for the creation of some advanced systems with complex functionality, an investment of $80,000 and more may be required. Such figures do not look very helpful, right?
 
 That’s why it will be more sensible to consider the range of factors and parameters that will influence the cost of AI implementation at your organization.
 
@@ -178,4 +180,6 @@ As you can see AI implementation projects can require rather significant investm
 
 Nevertheless, to enjoy all the possible advantages, you need to make sure that your team has the knowledge and skills required to introduce AI to your business processes.
 
-At Anadea, we will be always ready to help you with AI implementation to maximize long-term benefits for your organization. Just [send us](https://anadea.info/free-project-estimate) your requirements and we will provide the project estimates for free.
+At Anadea, we will be always ready to help you with AI implementation to maximize long-term benefits for your organization. Just send your requirements and we will provide the project estimates for free.
+
+{{< ctabutton >}}Request estimate{{< /ctabutton >}}
