@@ -49,7 +49,7 @@ This category of software includes digital platforms and tools designed to strea
 
 In 2023, the global market of hospital management software [reached](https://virtuemarketresearch.com/report/hospital-management-software-market) a volume of $25 billion. Analysts predict that if it continues growing following their expectations, it will be valued at approximately $50 billion by 2030. The projected CAGR for the period from 2024 to 2030 is 10.5%.
 
-![](hospital-management-software-market-overview.png)
+![Hospital management software market overview](hospital-management-software-market-overview.png)
 
 The market expansion is driven by a range of important trends and factors that we can observe in the industry today.
 
@@ -109,7 +109,7 @@ The healthcare industry is strictly regulated. That’s why for hospitals, it is
 
 It can deal with all the financial aspects of hospital management. The range of the covered aspects usually includes billing, managing insurance claims, processing payments, and handling financial reporting.
 
-![](different-aspects-of-hospital-management-software.png)
+![Different aspects of hospital management software](different-aspects-of-hospital-management-software.png)
 
 ## 8 key perks of using hospital management software
 
@@ -141,7 +141,7 @@ When starting hospital management software development, you should define the se
 9. **Financial reporting tools**. These tools can provide insights into hospital revenue, expenses, and financial performance through automatically generated reports.
 10. **Customizable reports and data visualization**. Hospital management software can be equipped with the functionality to prepare reports on hospital performance, patient outcomes, revenue, and resource utilization. Moreover, it can use charts and graphs to visualize data trends and patterns. This will make complex information easier to interpret.
 
-![](core-features-of-hospital-management-software.png)
+![Core features of hospital management software](core-features-of-hospital-management-software.png)
 
 ## Efficient hospital management software: What’s it like?
 
