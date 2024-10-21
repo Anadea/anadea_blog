@@ -43,7 +43,7 @@ Advanced solutions powered by AI algorithms, machine learning, and data analytic
 
 AI in warehousing market size [achieved](https://www.gminsights.com/industry-analysis/ai-in-warehousing-market) a volume of $8.3 billion in 2023. However, according to experts, this figure will be significantly higher already in the near future. The projected CAGR for the period between 2024 and 2032 will be close to 27%. This means that by the end of this period, the market will be able to hit the level of over $70 billion. Its skyrocketing growth is greatly boosted by the pressing need for efficient automation and high performance of warehouse operations.
 
-![](ai-in-warehousing-market-overview.png)
+![AI in warehouse management market overview](ai-in-warehousing-market-overview.png)
 
 ## Role of AI in warehouse automation
 
@@ -81,7 +81,7 @@ Image recognition solutions are implemented to inspect goods for defects or dama
 
 Autonomous vehicles and robots can be used to automate many tasks, including picking, packing, sorting, and transporting goods within the warehousing facilities. This can greatly increase the accuracy and speed of such processes and optimize labor costs.
 
-![](ai-uses-in-warehouse-automation.png)
+![Use cases of AI in warehouse automation](ai-uses-in-warehouse-automation.png)
 
 ## Key benefits of AI in warehouse management
 
@@ -126,7 +126,7 @@ It is expected that quantum computing will bring immense computational power to 
 
 Edge computing will bring AI decision-making closer to warehouse operations. Data will be successfully processed directly on local devices, instead of being sent to the cloud. This approach will improve response times for critical warehouse operations, including robotics control, equipment monitoring, and inventory tracking.
 
-![](future-trends-in-ai-for-warehouse-management.png)
+![Future trends of AI in warehouse management](future-trends-in-ai-for-warehouse-management.png)
 
 ## How to implement AI warehouse management: Basic steps
 
@@ -174,7 +174,7 @@ You should track such parameters of performance as order accuracy, picking speed
 
 As AI systems learn and adapt over time, it is also required to feed them with new data and adjust the algorithms for better performance.
 
-![](implementation-of-ai-into-warehouse-management.png)
+![How to implement AI warehouse management](implementation-of-ai-into-warehouse-management.png)
 
 ## Final word
 
