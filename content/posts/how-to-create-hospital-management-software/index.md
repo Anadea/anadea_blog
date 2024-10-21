@@ -217,3 +217,5 @@ The system functions the following way. With its help, therapists can create cus
 Another example that can demonstrate our experience in this domain is the [OnTrac](https://anadea.info/projects/on-trac) electronic health record system. The solution was built to address the needs of Skilled Nursing Facilities (SNFs) and Assisted Living Facilities (ALFs). It automates multiple processes and facilitates the sharing of medical data. It includes such valuable features as a patient and resident census, care plans, an EHR module, report generation, admin and owner dashboards, billing, an accounting module, and others.
 
 Have a plan to create hospital management software? At Anadea, we will be always ready to help you. With our deep knowledge in this sphere and outstanding practical skills, we will be able to transform any of your ideas into real products. We offer flexible terms of cooperation and can make the process of working with us comfortable for everyone. Want to learn more? Do not hesitate to contact us.
+
+{{< ctabutton >}}Get in touch{{< /ctabutton >}}
