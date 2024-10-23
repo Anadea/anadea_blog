@@ -1,5 +1,5 @@
 ---
-ceoTitle: "How to Build Real Estate Crowdfunding Platform: Complete Guide"
+ceoTitle: How to Start a Real Estate Crowdfunding Platform? 🏡
 title: "How to Build Real Estate Crowdfunding Platform: Key Tips"
 breadcrumbs: Crowdfunding Real Estate Platforms
 slug: real-estate-crowdfunding-platform
@@ -7,8 +7,9 @@ draft: false
 publishDate: 2023-12-26T00:00:00.000Z
 image: re-crowd.png
 og_image: re-crowd-socials.png
-description: Have plans to launch your own real estate crowdfunding platform?
-  Learn about the specifics of this kind of solutions from our guide.
+description: How to start a real estate crowdfunding business? 💰 To navigate
+  the nuanced world of crowdfunding real estate with confidence, dive into our
+  expert guide. 📈
 promote:
   promote: false
 top: false
