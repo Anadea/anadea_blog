@@ -5,6 +5,7 @@ breadcrumbs: How to Manage Technical Debt in Mobile Apps
 slug: how-to-manage-technical-debt-in-mobile-apps
 draft: false
 publishDate: 2024-10-24T11:32:00+02:00
+image: technical-debt-in-mobile-apps.png
 description: This article dives into what technical debt means for mobile apps,
   why it’s a critical factor in long-term app health, and how to approach
   managing it effectively.
