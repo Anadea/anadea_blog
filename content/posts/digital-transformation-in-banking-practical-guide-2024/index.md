@@ -5,10 +5,9 @@ breadcrumbs: Digital Transformation in Banking
 slug: digital-transformation-in-banking
 draft: false
 publishDate: 2024-11-07T13:31:00+01:00
-image: ""
-description: In our blog post, you will find valuable tips for smooth digital
-  transformation in banking that will help you achieve the highest efficiency of
-  your efforts.
+image: banking-digital-transformation.jpg
+description: Explore valuable tips for smooth digital transformation in banking
+  that will help you achieve the highest efficiency of your efforts.
 promote:
   promote: false
 top: false
