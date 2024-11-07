@@ -36,6 +36,16 @@ questionary:
       offer similar services today, we highly recommend you work with a team
       that has a proven track record in building solutions for the sports
       industry and has a deep understanding of market trends.
+  - question: How much does it cost to build a sports betting app?
+    answer: The cost typically ranges from $35,000 to $65,000, depending on factors
+      like project complexity, scope, integrations, and team composition. We
+      recommend a consultation to assess your unique needs and provide a precise
+      estimate based on your vision.
+  - question: How do betting apps make money?
+    answer: Betting apps generate revenue through transaction fees, in-app
+      purchases, advertisements, and partnerships. Many also implement loyalty
+      programs and premium features to increase user engagement and
+      profitability.
 ---
 After the fall observed amid the coronavirus crisis, the sports betting and lottery market has started to grow again. And in 2022, it even managed to climb up to the pre-pandemic levels of around [$230 billion](https://www.statista.com/statistics/1186240/sports-betting-and-lottery-industry-market-size-global/). Today people demonstrate an increased interest in such activities. And it can be considered to be a very good sign for businesses that are thinking about the possibility of launching betting sports apps.
 
