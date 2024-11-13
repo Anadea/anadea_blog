@@ -3,8 +3,8 @@ ceoTitle: App Store and Google Play Ranking Factors - ASO Factors
 title: ASO Factors for Google Play and App Store
 breadcrumbs: ASO Factors for Google Play and App Store
 slug: app-store-ranking-factors
-draft: true
-publishDate: 2021-04-13T00:00:00Z
+draft: false
+publishDate: 2021-04-13T00:00:00.000Z
 image: aso.jpg
 og_image: aso.jpg
 description: Check the guidelines on App Store Optimization and learn how to do
