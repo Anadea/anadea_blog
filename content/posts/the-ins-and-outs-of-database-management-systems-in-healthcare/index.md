@@ -42,6 +42,8 @@ What is the role of databases in healthcare? Let’s explore together.
 * Healthcare databases help medical organizations to understand their daily activities and role in the healthcare industry, which enables healthcare professionals to make decisions about the way they are managed.
 * Database facilitates the exchange of information between hospitals. In case a patient needs a service from a different healthcare provider in a different hospital, a database is there to make sure that the exchange of information is successful.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
+
 ## Pros of database management systems in healthcare
 
 ![Pros of DMS in healthcare](Pros-of-dms-in-healthcare.jpg)
