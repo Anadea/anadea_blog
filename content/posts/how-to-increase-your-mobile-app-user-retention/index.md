@@ -37,6 +37,8 @@ Social media platforms are well aware of the importance of a smooth onboarding p
 
 In summary, the selling point of an app is the service that it provides. And if users have to pass through a gauntlet of questions, information or performance issues before they can enjoy this service, they will likely lose interest. So, test your app as many times as possible to ensure it works as it should. Keep the preliminaries brief, and allow users to get a taste of what your app has to offer without much hassle.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/gamification-in-business" target="_blank">Gamification in Business and Its Application to Software Development</a> {{< /advert >}}
+
 ## Provide the best user experience
 
 ![Excellent user experience](best-user-experience.jpg)
