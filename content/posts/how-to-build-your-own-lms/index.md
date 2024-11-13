@@ -160,7 +160,7 @@ If your LMS has eCommerce elements, such as selling courses and e-books, or if y
 
 ## Choosing a custom LMS development company
 
-The recognized practices for choosing a web development team are customer reviews on platforms like Clutch, assessment of the company portfolio, and getting an impression based on making contact with a potential partner. Let’s take a closer look at them.
+The recognized practices for [choosing a web development team ](https://anadea.info/blog/how-to-find-a-web-developer/)are customer reviews on platforms like Clutch, assessment of the company portfolio, and getting an impression based on making contact with a potential partner. Let’s take a closer look at them.
 
 ### Portfolio of delivered projects
 
