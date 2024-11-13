@@ -3,8 +3,8 @@ ceoTitle: How to Build Personal Financial App - Step by Step Guide
 title: How to Create Your Own Personal Finance App
 breadcrumbs: "Financial App Development: Cost & Features"
 slug: how-to-build-a-personal-finance-app
-draft: true
-publishDate: 2022-01-03T00:00:00Z
+draft: false
+publishDate: 2022-01-03T00:00:00.000Z
 image: Financial-App.png
 og_image: Financial-App.png
 description: Everyone aims at saving and multiplying their capital. For that,
