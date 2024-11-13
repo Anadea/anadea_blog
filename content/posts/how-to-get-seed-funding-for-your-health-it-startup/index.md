@@ -48,6 +48,8 @@ Crowdfunding platforms are an excellent way to raise seed funding for your healt
 
 Here, it is worth noting that crowdfunding works differently than direct seed funding. When you opt for crowdfunding, you need to convince members of the public that your project is feasible and viable. Additionally, you have to offer something in return for their investments. Sometimes, crowdfunding does not necessarily raise the needed amount while on the other hand, your health IT startup may attract more funds than you want.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
+
 ### Bank funding
 
 There are several banks worldwide that fund health IT startups. In the US, for example, Silicon Valley Bank ranks among the leading seed funder for health IT startups.
