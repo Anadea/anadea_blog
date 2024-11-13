@@ -3,8 +3,8 @@ ceoTitle: The Challenges of Introducing a New Mobile App to the Market
 title: The Challenges of Introducing a New Mobile App to the Market
 breadcrumbs: The Challenges of Introducing a New Mobile App to the Market
 slug: the-challenges-of-introducing-a-new-mobile-app-to-the-market
-draft: true
-publishDate: 2018-05-23T00:00:00Z
+draft: false
+publishDate: 2018-05-23T00:00:00.000Z
 image: Mobile-app.jpg
 og_image: Mobile-app.jpg
 description: A recent study conducted by digital experts AppAnnie predicts the
