@@ -3,8 +3,8 @@ ceoTitle: How to Improve Core Web Vitals
 title: "Core Web Vitals: What They Are & How to Improve Them"
 breadcrumbs: "Core Web Vitals: What They Are & How to Improve Them"
 slug: core-web-vitals
-draft: true
-publishDate: 2021-05-17T00:00:00Z
+draft: false
+publishDate: 2021-05-17T00:00:00.000Z
 image: core-web-vitals.jpg
 og_image: core-web-vitals.jpg
 description: Prepare your website for the Google update that will begin to roll
