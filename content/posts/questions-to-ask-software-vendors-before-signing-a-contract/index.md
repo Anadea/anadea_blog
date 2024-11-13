@@ -3,8 +3,8 @@ ceoTitle: Questions to ask software vendors before signing a contract
 title: "FAQ: Read It Before Signing a Contract with Software Vendor"
 breadcrumbs: What to ask software development company before signing an agreement - Q&A
 slug: questions-to-ask-software-vendors-before-signing-a-contract
-draft: true
-publishDate: 2022-02-04T00:00:00Z
+draft: false
+publishDate: 2022-02-04T00:00:00.000Z
 image: philosophers.jpg
 og_image: philosophers.jpg
 description: Before signing a contract with software developers, clarify all the
