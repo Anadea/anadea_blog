@@ -3,8 +3,8 @@ ceoTitle: Why start the software project with consulting rounds
 title: Why start the software project with consulting rounds
 breadcrumbs: Why start the software project with consulting rounds
 slug: why-start-the-software-project-with-consulting-rounds
-draft: true
-publishDate: 2019-11-22T00:00:00Z
+draft: false
+publishDate: 2019-11-22T00:00:00.000Z
 image: Why-start-the-software-project-with-consulting-rounds.jpg
 og_image: Why-start-the-software-project-with-consulting-rounds.jpg
 description: There are many opinions about digital technology consulting. Some
