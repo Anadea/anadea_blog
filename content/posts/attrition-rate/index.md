@@ -3,8 +3,8 @@ ceoTitle: How Attrition Rate Affects Your Product
 title: How Stability of Team Composition Affects Your Product
 breadcrumbs: How Stability of Team Composition Affects Your Product
 slug: attrition-rate
-draft: true
-publishDate: 2022-01-11T00:00:00Z
+draft: false
+publishDate: 2022-01-11T00:00:00.000Z
 image: group-people-working-out-business-plan-office.jpg
 og_image: group-people-working-out-business-plan-office.jpg
 description: When choosing a software development company, consider the
