@@ -61,6 +61,8 @@ Crowdfunding platforms not only help you raise seed funding for your health IT s
 
 While crowdfunding works differently from seed funding, a successful campaign proves that your idea is feasible and has a solid business value. When you put all the required components in place, your health IT startup may attract even more investment than you initially planned.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" rel="nofollow" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
+
 ## Don’t Ignore Traditional Bank Funding
 
 Innovation in healthcare is happening faster than most people realize. With the global pandemic unveiling, the massive adoption of healthcare technology globally is inevitable. That’s why many global banks offer funding to health IT startups. In fact, some of the global finance players invest significant amounts in innovative startups in healthcare IT.
