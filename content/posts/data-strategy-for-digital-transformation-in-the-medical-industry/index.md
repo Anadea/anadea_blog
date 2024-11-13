@@ -68,6 +68,8 @@ These innovations that we have seen in recent years in the medical industry have
 
 A quality, competitive strategy would feature using some or all of these venues and the data they collect in unique ways to extract the most <a href="https://www.liquibase.com/blog/data-strategy-digital-transformation" target="_blank">meaningful data</a> about patients doctors serve. Providers can use this data, for instance, to determine what care works and what care doesn't work and how to best cultivate the doctor-patient relationship. The future of data analytics in the medical industry has the potential to make healthcare not only more efficient and more cost-effective, but more personal, humane, and intimate as well.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
+
 ### Sensitive information protection
 
 The new innovations in digital medical technology have created several problems that need to be addressed. The security of sensitive medical information is now more important than ever as the world becomes increasingly interconnected. Safe data strategies should be in place to ensure data security while remaining HIPAA compliant.
