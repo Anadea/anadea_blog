@@ -3,8 +3,8 @@ ceoTitle: "How To Improve Website Accessibility: Best Tips"
 title: How to improve your website’s accessibility
 breadcrumbs: How to improve your website’s accessibility
 slug: how-to-improve-web-accessibility
-draft: true
-publishDate: 2021-05-31T00:00:00Z
+draft: false
+publishDate: 2021-05-31T00:00:00.000Z
 image: build_accessibility.jpg
 og_image: build_accessibility.jpg
 description: Web accessibility is very important now. Only 1 of 10 sites is
