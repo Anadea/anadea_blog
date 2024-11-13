@@ -182,7 +182,7 @@ Medical apps provide various opportunities. Some of them assist in finding the d
 * Placing laboratory orders
 * Reviewing diagnostic records via the app, and many others.
 
-Thus, the goal of the app influences what the set of features is going to be and therefore the cost of developing a medical app.
+Thus, the goal of the app influences what the set of features is going to be and therefore the [cost of developing a medical app](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare).
 
 ### Things to pay special attention to in medical app development
 
