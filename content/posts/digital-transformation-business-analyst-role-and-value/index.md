@@ -3,8 +3,8 @@ ceoTitle: "Digital Transformation: Business Analyst Role and Value"
 title: "The Business Analyst's Role in Digital Transformation: Facilitator or Leader?"
 breadcrumbs: "Digital Transformation: Business Analyst Role and Value"
 slug: digital-transformation-business-analyst-role-and-value
-draft: true
-publishDate: 2019-09-23T00:00:00Z
+draft: false
+publishDate: 2019-09-23T00:00:00.000Z
 image: Business-analysis-digital-transformation.jpg
 og_image: Business-analysis-digital-transformation.jpg
 description: When it comes to running a business, the only thing that’s
