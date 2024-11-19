@@ -55,6 +55,8 @@ While legacy systems may seem functional, their hidden costs are often staggerin
 
 Below, the diagram highlights the key differences between legacy and modern systems, showcasing the challenges of outdated technology and the advantages of modernization for fintech companies.
 
+![Legacy Systems vs. Modern Systems](legacy-systems-vs.-modern-systems.png)
+
 In summary, legacy systems hinder growth, innovation, and security, making modernization a necessity for fintech companies to thrive in a competitive landscape.
 
 ## The Risks of Ignoring Legacy Systems
@@ -190,6 +192,8 @@ Before & after re-factoring:
 
 Below is a diagram illustrating the code refactoring process:
 
+![The code refactoring process](the-code-refactoring-process.png)
+
 **Key Benefits:**
 
 * **Optimized codebase:** Simplifies the code, making the system easier to maintain.
@@ -324,9 +328,9 @@ Modernization is an ongoing process. Regular updates and a feedback loop are ess
 
 Below is a roadmap illustration showing each phase of the modernization process with specific tasks and timelines. This structured, phased approach ensures minimal disruption, clear milestones, and alignment with strategic goals.
 
+![Fintech Legacy System Modernization Roadmap](fintech-legacy-system-modernization-roadmap.png)
 
-
-## Summary 
+## Summary
 
 The fintech industry is evolving rapidly, making legacy system modernization a strategic imperative for companies aiming to stay competitive. Modernizing outdated systems not only ensures compliance and enhances security but also enables the adoption of cutting-edge technologies like AI and blockchain, allowing businesses to scale and adapt with ease.
 
