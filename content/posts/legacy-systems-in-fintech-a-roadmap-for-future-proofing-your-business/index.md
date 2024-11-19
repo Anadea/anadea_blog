@@ -100,40 +100,24 @@ Re-hosting involves moving existing systems to a modern infrastructure (e.g., cl
 **How re-hosting works:**
 
 <table border="1" cellpadding="5" cellspacing="0">
-
   <thead>
-
-\    <tr>
-
-\    <th>Legacy System</th>
-
-\    <th>Cloud-Based Infrastructure</th>
-
-\    </tr>
-
+    <tr>
+      <th>Legacy System</th>
+      <th>Cloud-Based Infrastructure</th>
+    </tr>
   </thead>
-
   <tbody>
-
-\    <tr>
-
-\    <td>On-premises server with high maintenance costs</td>
-
-\    <td>Cloud platform offering scalability and flexibility</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>High reliance on manual processes</td>
-
-\    <td>Automated scaling, real-time monitoring, lower costs</td>
-
-\    </tr>
-
+    <tr>
+      <td>On-premises server with high maintenance costs</td>
+      <td>Cloud platform offering scalability and flexibility</td>
+    </tr>
+    <tr>
+      <td>High reliance on manual processes</td>
+      <td>Automated scaling, real-time monitoring, lower costs</td>
+    </tr>
   </tbody>
-
 </table>
+
 
 **Benefits of re-hosting:**
 
@@ -147,48 +131,28 @@ Re-factoring focuses on improving the internal structure of legacy system code w
 Before & after re-factoring:
 
 <table border="1" cellpadding="5" cellspacing="0">
-
   <thead>
-
-\    <tr>
-
-\    <th>Before Refactoring</th>
-
-\    <th>After Refactoring</th>
-
-\    </tr>
-
+    <tr>
+      <th>Before Refactoring</th>
+      <th>After Refactoring</th>
+    </tr>
   </thead>
-
   <tbody>
-
-\    <tr>
-
-\    <td>Messy, inefficient code</td>
-
-\    <td>Simplified, optimized code</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>High maintenance costs</td>
-
-\    <td>Lower maintenance costs</td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td>Slow performance</td>
-
-\    <td>Improved performance and scalability</td>
-
-\    </tr>
-
+    <tr>
+      <td>Messy, inefficient code</td>
+      <td>Simplified, optimized code</td>
+    </tr>
+    <tr>
+      <td>High maintenance costs</td>
+      <td>Lower maintenance costs</td>
+    </tr>
+    <tr>
+      <td>Slow performance</td>
+      <td>Improved performance and scalability</td>
+    </tr>
   </tbody>
-
 </table>
+
 
 Below is a diagram illustrating the code refactoring process:
 
