@@ -14,7 +14,7 @@ promote:
   promote: false
 top: false
 authors:
-  - danyil-baltaksa
+  - alyona-sushko
 categories: []
 industries:
   - fintech
