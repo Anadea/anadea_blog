@@ -51,6 +51,8 @@ There can be different types of fantasy app cricket games that may address the n
 * ***Small or head-to-head leagues.*** They include a limited number of participants (usually from 2 to 10 players) who compete with each other for higher odds of winning.
 * ***Grand leagues.*** These are large-scale contests with thousands of participants. Quite often, these leagues feature significant prize pools.
 
+  ![Types of fantasy cricket apps](types-of-fantasy-cricket-apps.png)
+
 It’s quite difficult to estimate the exact number of fantasy cricket app users worldwide. However, even very approximate figures can provide valuable insights. India is one of the regions with the highest interest in cricket.
 
 In 2023, the number of registered fantasy sports players in this country hit the mark of over 180 million. According to the experts’ [expectations](https://www.statista.com/statistics/1322714/india-fantasy-sports-user-base/), this figure could reach a milestone of half a billion in 2027 already. And now just imagine, that around 85% of these people play fantasy cricket. This means that the user base of fantasy cricket apps is over 153 billion.
@@ -139,6 +141,8 @@ The creation of a fantasy cricket app involves multiple stages. And to achieve t
 ***Testing and QA***. It’s vital to make sure that your app functions as it is expected to. To do it, the development team traditionally applies tests of different types. For example, functional, performance, security, and usability testing. When all changes are implemented, it’s time for regression testing. It helps to verify whether new changes haven’t caused new problems.
 
 ***Deployment and post-launch support***. Is everything okay with your app’s functioning? Then it’s time to make it publicly available. Deploy your fantasy cricket app and publish it on Google Play and/or Apple App Store. It’s also vital to monitor the performance of your solution and address any issues reported by users. Do not forget to add new features based on players’ feedback and market trends, as well as handle traffic spikes during major tournaments.
+
+![Fantasy cricket app development process](fantasy-cricket-app-development-process.png)
 
 ## How much does it cost to build a fantasy cricket app?
 
