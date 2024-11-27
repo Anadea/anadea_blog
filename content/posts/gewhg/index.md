@@ -5,6 +5,8 @@ breadcrumbs: Fantasy cricket app development
 slug: fantasy-cricket-app-development-guide-2024
 draft: false
 publishDate: 2024-11-27T17:13:00+02:00
+image: man-white-uniform-is-playing-cricket-is-about-hit-ball.jpg
+og_image: man-white-uniform-is-playing-cricket-is-about-hit-ball.jpg
 description: >
   If you want to build a fantasy cricket app, it will be helpful for you to read
   our article. There you can find practical fantasy cricket app development
