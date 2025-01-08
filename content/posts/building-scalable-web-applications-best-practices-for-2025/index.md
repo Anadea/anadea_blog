@@ -5,6 +5,7 @@ breadcrumbs: Building Scalable Web Applications
 slug: building-scalable-web-applications-2025
 draft: false
 publishDate: 2025-01-08T11:57:00+02:00
+image: 3d-abstract-background-with-flowing-particles.jpg
 description: Discover how to build scalable web applications. Learn essential
   strategies for optimizing performance. Anadea helps you scale efficiently
   without unnecessary costs.
@@ -143,7 +144,100 @@ Cons of microservices:
 
 ### Comparison Table: Monolith vs. Microservices
 
-ТАБЛИЦЯ
+<table>
+<thead>
+<tr>
+<th>
+<p><span style="font-weight: 400;">Aspect</span></p>
+</th>
+<th>
+<p><span style="font-weight: 400;">Monolithic Architecture</span></p>
+</th>
+<th>
+<p><span style="font-weight: 400;">Microservices Architecture</span></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Scalability</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Vertical scaling</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Horizontal scaling by individual services</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Deployment</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Single deployment</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Independent deployment per service</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Fault tolerance</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">One failure affects the entire app</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Failures are isolated to specific services</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Development speed</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Faster at the beginning</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Slower initial setup, faster long-term growth</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Technology stack</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Unified across the app</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Flexible per service</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Maintenance</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">More challenging as the app grows</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Easier to update and maintain specific parts</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Cost</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Lower initial cost</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Higher initial cost but cost-effective long-term</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 When learning how to build scalable web applications, starting with a monolithic architecture works well for smaller projects. But as the app grows and becomes more complex, switching to microservices can make scaling easier. A common approach is to begin with a monolith and gradually break it into microservices as the need for scalability increases. This way, you avoid unnecessary complexity early on while keeping future growth in mind.
 
