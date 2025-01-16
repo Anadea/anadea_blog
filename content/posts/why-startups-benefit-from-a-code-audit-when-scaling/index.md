@@ -2,7 +2,7 @@
 ceoTitle: Why Startups Need a Code Audit When Scaling Their Business
 title: Why Startups Need a Code Audit When Scaling Their Business
 breadcrumbs: Why Startups Need a Code Audit
-slug: why-startups-benefit-from-a-code-audit-when-scaling
+slug: why-startups-need-code-audit
 draft: false
 publishDate: 2021-12-13T00:00:00.000Z
 image: software_code_audit.jpg
