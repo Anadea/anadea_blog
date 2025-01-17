@@ -1,6 +1,8 @@
 ---
 ceoTitle: "How to Integrate Google Maps into a Ruby on Rails App: Step-by-Step Guide"
 title: How to Integrate Google Maps into Ruby on Rails App
+breadcrumbs: How to Integrate Google Maps into Ruby on Rails App
+slug: integrate-google-maps-ruby-on-rails
 draft: false
 publishDate: 2016-08-10T00:00:00.000Z
 image: Google_maps.jpg
