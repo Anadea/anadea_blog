@@ -35,6 +35,7 @@ There is a great gem for Rails - [Geocoder](https://github.com/alexreisner/geoco
 geocoded_by :address
 after_validation :geocode
 ```
+
 and voila! – the coordinates will be updated each time when the record is saved.
 
 Geocoder also has other interesting geo features, like searching for specific objects in a local area or in the neighbourhood of the specified location.
@@ -44,6 +45,7 @@ Geocoder also has other interesting geo features, like searching for specific ob
 Google provides two kinds of maps – static maps and dynamic maps.
 
 It may seem that there is no field of use for static maps at all, since dynamic ones are much more functional and attractive. However there are two pros of using static Google Maps:
+
 * firstly, they are much more easy-to-integrate;
 * secondly and most importantly, they can be easily added to any generated static document like a PDF-file.
 
@@ -239,6 +241,7 @@ An argument against both gems and plugins is the fact that you have to build the
 Creating a method for integrating static and embedded maps is a straightforward task, and there is no need to look for pre-made solutions.
 
 Dynamic maps integration may be more complex, but it should not discourage you from attempting to integrate them from scratch, for the following reasons:
+
 * this will help you to deeply understand their API and capabilities, which will certainly come in handy in the future;
 * this will not take more time than the integration through turnkey solutions;
 * this will release you from spending time looking for a better solution;
