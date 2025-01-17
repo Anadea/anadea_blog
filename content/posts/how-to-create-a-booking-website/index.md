@@ -1,5 +1,5 @@
 ---
-ceoTitle: How to Create a Hotel Booking Website
+ceoTitle: "How to Create a Booking Website: Step-by-Step Guide"
 title: How to Create a Hotel Booking Website
 breadcrumbs: Hotel Booking Website
 slug: how-to-create-a-booking-website
