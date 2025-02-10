@@ -30,7 +30,7 @@ Private equity (PE) firms tend to conduct business using traditional software an
 
 Currently, this development is showing a steady growth trajectory. While in 2023 less than 10% of companies were using this technology, Deloitte reports that by 2030 [one in four](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions/2024/private-markets-innovation-leveraging-ai-for-portfolio-management.html) private equity firms will be using AI for portfolio valuations and other related applications in the field.
 
-ІНФОГРАФІКА
+![](by-2030-one-in-four-private-equity.png)
 
 So, what can artificial intelligence change for investors? In order to get to the bottom of this question, we first need to get on the same page about the core mechanisms behind this advancement.
 
@@ -90,7 +90,7 @@ Additionally, the model can assist in the current portfolio valuation and coordi
 
 One of the main reasons why artificial intelligence is rapidly gaining traction and is widely being implemented in various fields lies in optimizing internal processes. The capabilities of this technology enable companies to transform how decisions are made, the accuracy of predictions, and the automation of repetitive tasks. Private equity and investment corporations are no exception.
 
-ІНФОГРАФІКА
+![](private-investors-are-using-generative-ai-to.png)
 
 Depending on the end goals of the client, AI-powered software can bring a multiplicity of benefits to the table and improve business outcomes. In general, we can outline five primary advantages of using such systems that revolutionize operations. Let’s get to the bottom of each.
 
@@ -190,7 +190,7 @@ By leveraging [fintech software development](https://anadea.info/solutions/finte
 
 The Environmental, Social, and Governance (ESG) principle is gaining traction, driving more PE funds to evaluate companies based on their environmentally sustainable practices and social responsibility. However, firms that want to engage with responsible investing currently struggle with getting the full picture, as traditional ESG scores rely on self-reported data, which may be inconsistent.
 
-ІНФОГРАФІКА
+![](esg-considerations in-investment-decisions-1-.png)
 
 AI-driven tools can access a wider variety of data and provide a more in-depth analysis of the company’s performance. NLP technology can tackle sentiment analysis through public media, anomalies in corporate behavior through disputes and violations, etc. ML can evaluate environmental footprint through simulations and external data, greenwashing through misleading claims, and much more.
 
