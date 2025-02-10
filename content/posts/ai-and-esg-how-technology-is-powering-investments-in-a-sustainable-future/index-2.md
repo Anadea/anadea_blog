@@ -1,13 +1,23 @@
 ---
+ceoTitle: "AI and ESG: The perfect pair for a sustainable world"
 title: "AI and ESG: How technology is powering investments in a sustainable future"
+breadcrumbs: "AI and ESG: The perfect pair for a sustainable world"
+slug: how-ai-powers-environmental-social-governance-investments
 draft: false
 publishDate: 2025-02-10T16:55:00+02:00
 image: abstract-green-striped-nature-background.jpg
 og_image: abstract-green-striped-nature-background.jpg
-description: "AI and ESG: How technology is powering investments in a sustainable future"
+description: The intersection of AI and ESG principles is revolutionizing the
+  way businesses approach sustainability. Read our article to learn more about
+  it.
 promote:
   promote: false
 top: false
+authors:
+  - ai-ml-team
+categories:
+  - ai-ml
+  - business
 ---
 Over the past decades, the approach of businesses to their operations and investments has changed significantly. More and more leaders across all regions of the world recognize the importance of long-term planning, social responsibility, and sustainable development. These aspects are becoming primary priorities, pushing short-term gains to the background. Amid such shifts, we can observe the widespread implementation of Environmental, Social, and Governance (ESG) principles.
 
