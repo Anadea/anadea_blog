@@ -77,6 +77,8 @@ Artificial intelligence can greatly enhance accuracy and efficiency in both ESG 
 
 ### AI use cases in ESG monitoring
 
+![](ai-use-cases in-esg-monitoring.png)
+
 * ***Data collection and aggregation***. ESG-related data should be gathered from various sources, including corporate reports, news articles, social media, and government databases. As it is quite obvious this task is very challenging to be performed manually. Nevertheless, AI-powered tools can be successfully applied to gather this info. Such tools help companies maintain real-time insights and identify emerging risks before they become a real threat.
 * ***NLP for sentiment analysis***. Natural language processing algorithms can efficiently process textual data. Thanks to this, they can gauge public sentiment around companies’ ESG performance. This enables organizations to detect reputational risks and adjust strategies accordingly. At the same time, investors interested in allocating their funds to some companies can also use this data in making their decisions.
 * ***IoT integration***. ESG goals are closely related to various environmental factors, including but not limited to carbon emissions, deforestation, and water usage. The related data is often collected from IoT sensors and satellite images, which can be processed by AI. Such tools and the provided insights help businesses track their sustainability goals more accurately.
@@ -140,6 +142,8 @@ When it comes directly to any type of investing (and ESG is not an exception her
 3. Artificial intelligence in ESG can also find and evaluate various related risks like regulatory changes, environmental violations, and social controversies. Thanks to this, investors can minimize their financial risks and make sure that their portfolios align with ESG principles.
 
 Based on these potential areas of application of this technology, we can formulate the following benefits of AI for ESG investing:
+
+![](benefits-of-ai for-esg-investing_.png)
 
 * ***Facilitated and streamlined decision-making***. AI can analyze vast ESG datasets and provide valuable insights. This allows investors to make better data-driven decisions faster than in those cases when they need to process all data on their own. Moreover, AI can uncover trends that may be overlooked through traditional analysis.
 * ***Improved ESG scoring models***. Artificial intelligence can refine ESG ratings and scores by analyzing a wide range of data points. Here, it is vital to highlight that this technology can do it more accurately than traditional methods. Machine learning models can assess the performance of companies based on patterns in historical data to improve the precision of ESG metrics.
