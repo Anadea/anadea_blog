@@ -66,7 +66,7 @@ ensure that only authorized parties access the user data stored on the server.
 
 ### 4. Poor app security testing
 
-During your <a href="https://anadea.info/services/mobile-development" target="_blank">custom mobile app development</a> journey, the process of testing the app should be done even before a release
+During your <a href="https://anadea.info/services/mobile-development">custom mobile app development</a> journey, the process of testing the app should be done even before a release
 plan is conceived. The testing phase of the app covers how usable and compatible it is, but most
 importantly, how secure it is.
 
