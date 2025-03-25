@@ -74,7 +74,7 @@ This vision may help them overcome learning anxiety by shifting their attention 
 
 ### 3. Design a course that fits into their daily life
 
-When you design a course for adult learner, it will compete for their attention and time. You have to consider the fact that these people have responsibilities outside work. When you introduce a <a href="https://anadea.info/solutions/e-learning-software-development/lxp" target="_blank">corporate eLearning platform</a> and offer employees to take courses in their own time, you'll add more stress. Stress and anxiety - that's a combination you never want in your learners.
+When you design a course for adult learner, it will compete for their attention and time. You have to consider the fact that these people have responsibilities outside work. When you introduce a <a href="https://anadea.info/solutions/e-learning-software-development/lxp">corporate eLearning platform</a> and offer employees to take courses in their own time, you'll add more stress. Stress and anxiety - that's a combination you never want in your learners.
 
 The course must fit into the daily working schedule of a corporate learner. That's why you'll need to organize it into chapters that are no longer than half an hour. You'll recommend them to dedicate more time for learning and research outside working hours. But that's just a recommendation. You can't expect a parent to skip preparing dinner for their kids for weeks just because they have to study.
 
