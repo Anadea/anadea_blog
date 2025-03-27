@@ -21,7 +21,7 @@ industries: []
 ---
 When new software is developed, whether a simple app or something more involved, it should always be a data-driven process. Business intelligence, or BI, is the process whereby internal teams and stakeholders work with analysts to determine the most effective ways to solve problems.
 
-This sounds like a sensible approach, and ultimately whether a company is going through a <a href="https://anadea.info/blog/digital-transformation" target="_blank">digital transformation</a> or simply needs new software, the role of analysts and intelligence is about solving problems.
+This sounds like a sensible approach, and ultimately whether a company is going through a <a href="https://anadea.info/blog/digital-transformation">digital transformation</a> or simply needs new software, the role of analysts and intelligence is about solving problems.
 
 {{< advert >}}Digital transformation powered by business intelligence has tremendous potential for making faster, better-informed decisions and accelerating business growth.{{< /advert >}}
 
@@ -31,7 +31,7 @@ However, too many businesses have struggled with digital transformation projects
 
 ![Importance of business intelligence](Importance-of-business-intelligence.jpg)
 
-What is the purpose of business intelligence in a business? The purpose of business intelligence is to help business owners, managers and exacutives find <a href="https://anadea.info/services/business-analysis" target="_blank">the right solutions to business problems</a> through collecting relevant data and transforming it into meaningful, actionable insight.
+What is the purpose of business intelligence in a business? The purpose of business intelligence is to help business owners, managers and exacutives find <a href="https://anadea.info/services/business-analysis">the right solutions to business problems</a> through collecting relevant data and transforming it into meaningful, actionable insight.
 
 In our experience, and this an experience common across the sector, business don't always know what they need.
 
@@ -49,16 +49,13 @@ This disconnect between problems and solutions is why businesses need an intelli
 
 Now we understand the value of BI, it would be useful to know what business intelligence (BI) is.
 
-Although there is BI software, we are going to focus on BI as a process. However, that doesn't mean that software doesn't play a role in BI as a process. Often, whether companies are using custom business intelligence software dashboard, or even having one developed, or an analyst uses a suite of BI solutions during a <a href="https://anadea.info/services/consulting-and-audit" target="_blank">digital transformation consultation</a>, these are only a means to an end.
+Although there is BI software, we are going to focus on BI as a process. However, that doesn't mean that software doesn't play a role in BI as a process. Often, whether companies are using custom business intelligence software dashboard, or even having one developed, or an analyst uses a suite of BI solutions during a <a href="https://anadea.info/services/consulting-and-audit">digital transformation consultation</a>, these are only a means to an end.
 
 The objective, with any business intelligence analysis process, should be to come away with the following:
 
 * A detailed **problem analysis**. Starting at a high level, and then zooming in to a micro/user-centric analysis of the challenges a company is facing. This could be anything from an outdated process, to the need to overhaul or completely replace a system that is preventing a business from achieving its goals.
-
 * Project **goals**. Now that a company is clear on the problems that need solutions, there should be a set of goals for every project. What are the expected outcomes? What ROI does a company want to achieve with a new IT project?
-
 * A solution **specification**. Once the problem, or series of challenges has been identified, the solution needs a specification. Getting this right as a result of an intelligence-led approach avoids misunderstandings and keeps projects on time and in budget once work commence. In a specification, end-users, decision makers and budget holders should have a clear idea what and why a product is going to achieve. None of it should be a mystery. Every feature and aspect of an app, or another type of solution, should be tied to a business case and provide an operational answer to a problem internal or external customers or stakeholders are having.
-
 * A project **roadmap**. Once the specifications detail the solution that needs to be developed, both parties need to agree a roadmap. Like a specification, if this isn’t mapped out before work starts it can cause serious problems down the road.
 
 For businesses who've not gone through this sort of process in the past, this might sound like a lot of work. But avoiding it, or skipping through these stages too quickly causes more problems than it solves.
