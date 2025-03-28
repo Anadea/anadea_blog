@@ -93,9 +93,9 @@ Additionally, some platforms provide the possibility to pay for reserved instanc
 
 It’s also paramount to find out whether there aren’t any hidden costs (and if there are, whether they are reasonable and whether you can bear them).
 
-Want to optimize your expenses on cloud services? Our practical tips for cloud cost savings for SMBs and enterprises will help you! To explore them please [follow the link](https://anadea.info/blog/cloud-cost-optimization/). \
-**CTA Banner**\
-You can also read about a real project from our practice, where our experts helped the customer to reduce cloud infrastructure costs by 50%.
+Want to optimize your expenses on cloud services? Our practical tips for cloud cost savings for SMBs and enterprises will help you! To explore them please [follow the link](https://anadea.info/blog/cloud-cost-optimization/). 
+
+{{< advert >}}You can also read about a real project from our practice, where our experts helped the customer to reduce cloud infrastructure costs by 50%.{{< /advert >}}
 
 ### Performance and Scalability
 
@@ -120,6 +120,8 @@ For example, AWS Security Hub can help SMBs automate routine security tasks, pro
 Almost all leading cloud service providers offer ready-to-use AI models for various tasks. For example, there can be tools for text analysis, speech recognition, computer vision, and much more. That’s why if you are planning to integrate AI and ML into your workflows, it is vital to check the availability of such out-of-the-box solutions.
 
 Moreover, if you have more specific and ambitious plans for AI implementation, it is also recommended to consider the list of tools and frameworks for custom AI/ML models supported by the cloud platform. For example, TensorFlow, PyTorch, and Theano are among the most highly-demanded technologies.
+
+{{< advert_with_cta title="Have an idea for a cloud project?" description="Our experts will deeply analyze your needs to offer the most appropriate approach to its realization." button="Get started" url="https://anadea.info/free-project-estimate" >}}
 
 ## AWS, Azure, GCP, or DigitalOcean: The Best Option for SMBs and Enterprises
 
@@ -152,6 +154,334 @@ It provides all essential products that most businesses require, including but n
 Moreover, it has quite predictable pricing, which is highly important for budget planning.
 
 ### Comparison of Top Cloud Platforms
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>&nbsp;</th>
+
+<th>
+
+<p><strong>AWS</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>Azure</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>GCP</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>DigitalOcean</strong></p>
+
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Best for</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Businesses looking for a range of services and global infrastructure</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Organizations that work within the Microsoft ecosystem and need hybrid cloud solutions</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Data-driven projects and businesses leveraging AI/ML capabilities</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">SMBs and developers seeking cost-efficient and simple solutions</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Pros</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Service offerings covering compute, storage, AI/ML, and more;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Numerous data centers all across the globe;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Robust security features and compliance certifications.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Seamless integration with Microsoft products;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Extensive global reach with numerous data centers;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Strong support for hybrid cloud deployments.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Powerful data analytics and ML tools;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Competitive pricing;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Integration with Google's open-source technologies like Kubernetes.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">User-friendly interface;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Straightforward setup processes;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Transparent pricing models.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Cons</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Complex pricing structure;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Steep learning curve due to the vast array of available services.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Rather confusing pricing and subscription models;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Some services may have limitations compared to competitors.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Fewer global data centers compared to AWS and Azure;</span></p>
+
+<p><span style="font-weight: 400;">Smaller market share.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Limited enterprise features compared to many other cloud providers;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Linux-centric platform with no native support for Windows.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Pricing&nbsp;</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Pay-as-you-go pricing</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Structured pricing for different cloud offerings</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Free trial</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Three different types of free offers (including a 12-month free period)</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Free account with $200 credit</span></p>
+
+<p><span style="font-weight: 400;">to try Azure tools within 30 days</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">$300 in free credits for new users to test and deploy workloads</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">60-day trial period with free $200 credit</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Storage</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Scalable storage solutions like S3 for object storage and EBS for block storage</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Solutions like Blob Storage and Disk Storage suitable for businesses with different needs</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Scalable managed solutions, including Cloud Storage service for storing unstructured data</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Scalable block storage and S3-compatible object storage solutions</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">AI/ML tools</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Comprehensive suite including SageMaker for building, training, and deploying models</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Azure Machine Learning allows organizations to build and deploy models</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Wide range of AI and machine learning products, including Vertex AI Agent Builder</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Basic AI/ML capabilities suitable for smaller projects</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 ## Final Word
 
