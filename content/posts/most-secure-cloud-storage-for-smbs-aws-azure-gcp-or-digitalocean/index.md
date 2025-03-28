@@ -83,7 +83,7 @@ Before diving deep into the comparison of the available platforms, you should st
 * **Integrations**. You should make sure the cloud platform will seamlessly integrate with your existing IT ecosystem, databases, and third-party services that you rely on.
 * **Preferred cloud model**. It is necessary to decide whether you need public, private, hybrid, or multi-cloud support. Your choice should depend on your data sensitivity and infrastructure plans.
 
-### Cost and Pricing 
+### Cost and Pricing
 
 In many cases, the use of cloud services is considered to be a more feasible option than supporting on-premises infrastructure. However, to keep your expenses within the set frameworks and budget, you need to understand the peculiarities of cloud pricing.
 
@@ -97,7 +97,7 @@ Want to optimize your expenses on cloud services? Our practical tips for cloud c
 **CTA Banner**\
 You can also read about a real project from our practice, where our experts helped the customer to reduce cloud infrastructure costs by 50%.
 
-### Performance and Scalability 
+### Performance and Scalability
 
 The chosen cloud platform should not only support your current workloads but also grow with your business. What you need to check:
 
@@ -152,8 +152,6 @@ It provides all essential products that most businesses require, including but n
 Moreover, it has quite predictable pricing, which is highly important for budget planning.
 
 ### Comparison of Top Cloud Platforms
-
-TABLE
 
 ## Final Word
 
