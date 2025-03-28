@@ -40,7 +40,7 @@ However, to fully leverage the [benefits of cloud computing](https://anadea.info
 
 In 2024, the global cloud services market size reached US$618 billion. Now it is expected to hit the mark of around [US$2,726.94 billion](https://www.precedenceresearch.com/cloud-services-market) by 2034, which means that a CAGR over the forecast period will be 16%.
 
-ІНФОГРАФІКА
+![](cloud-services-market-size 2024-to-2034-usd-billion-.png)
 
 In 2025, cloud computing continues to evolve in accordance with general tech trends and changing business needs.
 
@@ -48,11 +48,11 @@ For example, it’s worth mentioning that organizations are increasingly adoptin
 
 According to the recently published [report](https://www.rackspace.com/blog/2025-state-cloud-report), in 2025, nearly 27% of businesses are expected to rely on private clouds. At the same time, 17% will use hybrid solutions. It is interesting that 48% of respondents admitted that hybrid cloud solutions will be of significant importance for their IT operations within the next 1-2 years.
 
-ІНФОГРАФІКА
+![](key-components-of decentralized-blockchain-architecture-1-.png)
 
 The integration of [Artificial Intelligence (AI)](https://anadea.info/services/ai-software-development) into cloud services is among other trends in this space. Cloud providers are investing heavily in AI capabilities. Many of them can offer access to such features as advanced analytics, machine learning, and natural language processing tools. This can fully revolutionize the way businesses work with vast amounts of data.
 
-ІНФОГРАФІКА
+![](image-3.png)
 
 ### Key Market Players
 
@@ -60,7 +60,7 @@ As for the popularity of different cloud service providers, the big three includ
 
 Azure and Google Cloud have 20% and 12% market shares respectively. Here’s a full list of top 8 cloud providers:
 
-ІНФОГРАФІКА
+![](amazon-and-microsoft-stay-ahead-in-global-cloud-market.png)
 
 Though the market shares of some cloud service providers are not as impressive as that of the big three, there are a lot of promising players among them. 
 
@@ -95,7 +95,8 @@ It’s also paramount to find out whether there aren’t any hidden costs (and i
 
 Want to optimize your expenses on cloud services? Our practical tips for cloud cost savings for SMBs and enterprises will help you! To explore them please [follow the link](https://anadea.info/blog/cloud-cost-optimization/). 
 
-{{< advert >}}You can also read about a real project from our practice, where our experts helped the customer to reduce cloud infrastructure costs by 50%.{{< /advert >}}
+{{< advert >}}You can also read about a <a href="https://anadea.info/projects/outfit-creator">real project</a> from our practice, where our experts helped the customer to reduce cloud infrastructure costs by 50%.
+{{< /advert >}}
 
 ### Performance and Scalability
 
