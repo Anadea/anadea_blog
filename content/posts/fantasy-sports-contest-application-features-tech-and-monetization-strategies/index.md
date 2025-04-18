@@ -48,7 +48,7 @@ Contests are an integral part of any fantasy sports app. They may come in many f
 
 ## Features of a Successful Fantasy App
 
-With custom fantasy sports app development, you can make your solutions absolutely unique. Nevertheless, there is a core set of features without which running fantasy contests would be impossible. Below, you can find a list of these essential functionalities.
+With [custom fantasy sports app development](https://anadea.info/services/custom-software-development), you can make your solutions absolutely unique. Nevertheless, there is a core set of features without which running fantasy contests would be impossible. Below, you can find a list of these essential functionalities.
 
 ### User Registration and Profile
 
@@ -80,7 +80,7 @@ To increase your app visibility, you can introduce built-in features for invitin
 
 ### Advanced Functionality
 
-Being a fantasy sports app development company, we stay on top of industry updates and emerging tech trends. Based on our experience and observations, we have identified the following advanced features that you could consider integrating into your fantasy sports app.
+Being a [fantasy sports app development company](https://anadea.info/projects), we stay on top of industry updates and emerging tech trends. Based on our experience and observations, we have identified the following advanced features that you could consider integrating into your fantasy sports app.
 
 #### AI and ML for Better Experiences
 
