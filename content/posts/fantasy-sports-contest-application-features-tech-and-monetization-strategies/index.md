@@ -21,8 +21,7 @@ categories:
   - design
 industries:
   - sports
-questionary:
-  - {}
+questionary: []
 ---
 With millions of users participating in daily fantasy sports contests and season-long leagues, this industry has redefined fan engagement. Now, passive viewers can become active strategists and feel the vibe of real competition. This rise in the popularity of fantasy sports apps is fueled by tech advancements, gamification innovations, and new AI-driven possibilities for working with real-time data. All this makes fantasy sports one of the most promising trends in the entertainment sector.
 
