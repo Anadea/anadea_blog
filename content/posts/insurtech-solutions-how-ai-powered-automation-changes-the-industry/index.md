@@ -59,6 +59,8 @@ Automated insurance claims processing systems are gaining traction today among i
 
 ### How Automated Claims Processing Works
 
+![](amazon-and-microsoft-stay-ahead-in-global-cloud-market-5-.png)
+
 1. The process begins when a customer submits a claim via an online platform or app.
 2. Advanced technologies like machine learning and optical character recognition (OCR) automatically extract and digitize relevant data from the submitted documents.
 3. The system searches internal databases and performs an initial assessment of the claim based on the policy rules and historical data.
@@ -142,6 +144,8 @@ Lemonade is one of the leading insurance companies that leverages artificial int
 
 According to the company’s report, its system manages to process a stolen bike claim and make a payment in just two seconds. The customer provided all necessary details and video evidence, which allowed AI to assess and approve the claim almost instantaneously.
 
+![](amazon-and-microsoft-stay-ahead-in-global-cloud-market-4-.png)
+
 ### Health Insurance
 
 Health insurers need to handle complex documentation, strict compliance requirements, and high risks of fraudulent claims. Emerging technologies, including AI in health insurance, are used to extract data from documents, apply business rules, and verify claims.
@@ -153,6 +157,8 @@ Health insurers need to handle complex documentation, strict compliance requirem
 * Decreased administrative costs.
 
 A good case of using AI in health insurance is Anthem. It utilizes ML-powered [Amazon Textract service](https://aws.amazon.com/solutions/case-studies/anthem/) to automatically extract printed text, handwriting, and other data from scanned documents. Additionally, Anthem has implemented a real-time fraud prevention framework that combines AI and NLP to monitor claims. Within 6 months after the implementation of this tool, Anthem achieved a 25% reduction in fraudulent payouts.
+
+![](amazon-and-microsoft-stay-ahead-in-global-cloud-market-6-.png)
 
 ### Property Insurance
 
