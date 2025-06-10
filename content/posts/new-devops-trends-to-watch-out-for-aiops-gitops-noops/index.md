@@ -36,36 +36,67 @@ AIOps processes data and delivers intelligent automation and insights in the fol
 
 ![AIOps Cycle](devops-vs-noops.png)
 
-DevOps vs. AIOps
+### DevOps vs. AIOps
 
-DevOps and AIOps are both intended to improve IT operations. However, they focus on different areas. DevOps principles are mainly concentrated on increasing the efficiency of the software development process. At the same time, AIOps relies on emerging technologies to enhance the performance of IT environments. It means that both methodologies complement each other and can be efficiently combined in a comprehensive approach to software lifecycle management.
+DevOps and AIOps are both intended to improve IT operations. However, they focus on different areas. **DevOps** principles are mainly concentrated on increasing the efficiency of the software development process. At the same time, **AIOps** relies on emerging technologies to enhance the performance of IT environments. It means that **both methodologies complement each other** and can be efficiently combined in a comprehensive approach to software lifecycle management.
 
-Key AIOps Functions
+### Key AIOps Functions
 
-Anomaly detection and failure prediction. AI tools are highly helpful for finding unusual patterns and predicting potential system failures before users notice their impact.
+* **Anomaly detection and failure prediction.** [AI tools](https://anadea.info/services/ai-software-development) are highly helpful for finding unusual patterns and predicting potential system failures before users notice their impact.
+* **Automated incident resolution.** AIOps platforms can automatically address and resolve incidents of certain severity, providing AI-driven insights.
+* **Performance optimization.** Such tools can continuously analyze system performance. The collected data can be applied to optimize resource utilization and increase the efficiency of system functioning.
+* **Root cause analysis.** AI models can pinpoint the underlying causes of technical issues, ensuring faster remediation.
 
-Automated incident resolution. AIOps platforms can automatically address and resolve incidents of certain severity, providing AI-driven insights.
+### Why Implement AIOps: Main Benefits
 
-Performance optimization. Such tools can continuously analyze system performance. The collected data can be applied to optimize resource utilization and increase the efficiency of system functioning.
+* **Higher operational efficiency.** AIOps plays a vital role in automating routine tasks, which enables IT teams to focus more on strategic tasks.
+* **Minimized business disruptions.** Thanks to accurate predictions, teams can proactively prevent potential issues, thus improving operational resilience.
+* **Faster and more efficient decision-making.** Artificial intelligence provides real-time insights that are essential for informed and timely decisions.
+* **Reduced mean time to repair (MTTR).** The use of advanced ML models significantly speeds up incident detection and issue troubleshooting.
+* **Scalability.** AIOps platforms can successfully manage ever-growing IT complexities and data volumes.
 
-Root cause analysis. AI models can pinpoint the underlying causes of technical issues, ensuring faster remediation.
-
-Why Implement AIOps: Main Benefits
-
-Higher operational efficiency. AIOps plays a vital role in automating routine tasks, which enables IT teams to focus more on strategic tasks.
-
-Minimized business disruptions. Thanks to accurate predictions, teams can proactively prevent potential issues, thus improving operational resilience.
-
-Faster and more efficient decision-making. Artificial intelligence provides real-time insights that are essential for informed and timely decisions.
-
-Reduced mean time to repair (MTTR). The use of advanced ML models significantly speeds up incident detection and issue troubleshooting.
-
-Scalability. AIOps platforms can successfully manage ever-growing IT complexities and data volumes.
-
-Examples of AIOps Platforms and Their Capabilities
+### Examples of AIOps Platforms and Their Capabilities
 
 With the skyrocketing popularity of this approach, the number of AIOps tools is growing as well. Here are a couple of the most popular platforms today.
 
-BigPanda
+#### BigPanda
 
 This AIOps platform helps teams accumulate and process the events collected from different tools. It relies on artificial intelligence to identify incidents in real time and transform the collected data into actionable insights.
+
+![Agentic ITOps](bigpanda.png)
+
+Among the features provided by this platform, we should mention:
+
+* Incident progression visualization, 
+* Root cause analysis, 
+* Identification of changes in infrastructure and services.
+
+#### Dynatrace
+
+It provides automatic observability for enterprise systems and cloud-native workloads. Dynatrace can analyze app data, monitor infrastructure performance, and detect underperforming functions.
+
+![Dynatrace](dynatrace.png)
+
+The list of its key features includes but is not limited to:
+
+Autonomous performance management, 
+
+Full-stack observability, 
+
+Issue identification, 
+
+Automated remediation.
+
+GitOps: How It Works
+
+GitOps is an approach to managing infrastructure and app configurations by relying on the distributed version control system Git as the single source of truth. As all configuration files and source code are stored in Git repositories, this method helps teams track and work with all changes to the desired state of the system.
+
+GitOps workflows are designed as follows:
+
+All the code files are stored and managed in Git.
+
+When a change is made to the codebase, this triggers an automated CI/CD pipeline.
+
+The CI/CD loop performs a series of predefined tasks (building, testing, and deploying).
+
+These tasks update the runtime environment to reflect the latest state stored in Git.
