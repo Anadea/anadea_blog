@@ -235,3 +235,5 @@ Of course, there are still no “one-size-fits-all” approaches. For example, w
 If you are ready to start your DevOps journey or need to modernize your existing workflows, [our team](https://anadea.info/services/server-administration-and-maintenance) is here to help. 
 
 [Contact us](https://anadea.info/free-project-estimate) to discuss an approach that will fit your goals and infrastructure.
+
+{{< advert_with_cta title="Want to streamline your operations with proven DevOps solutions?" description="Our DevOps experts will analyze your needs to bring resilience, speed, and continuity to your operations." button="Let’s start now!" url="https://anadea.info/contacts" >}}
