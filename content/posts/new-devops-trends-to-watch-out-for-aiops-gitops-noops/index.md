@@ -208,6 +208,98 @@ Each of the above-discussed DevOps trends has its strengths and suits for busine
 
 At the same time, **NoOps** is mainly intended for startups and small teams with limited DevOps resources. This method is the best solution for projects where speed and agility are more important than granular operational control.
 
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><strong>Aspects</strong></p>
+
+</td>
+
+<td>
+
+<p><strong>AIOps</strong></p>
+
+</td>
+
+<td>
+
+<p><strong>GitOps</strong></p>
+
+</td>
+
+<td>
+
+<p><strong>NoOps</strong></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><strong>Key users</strong></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Enterprises with complex systems</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Teams familiar with Kubernetes and Git</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Startups, rapidly growing teams</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><strong>Main benefits</strong></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Predictive and automated IT operations</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Controlled deployments and full traceability</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Fast feature delivery and minimal human intervention</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
 ## The Future of DevOps: What to Expect
 
 The evolution of the [software development space ](https://anadea.info/services/custom-software-development)has also become a reason behind the emergence of other trends that signal a clear shift from manual and reactive operations.
