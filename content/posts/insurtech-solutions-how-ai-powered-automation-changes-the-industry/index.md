@@ -11,7 +11,7 @@ description: Want to discover how insurtech transforms claims management through
   in insurance.
 promote:
   promote: false
-top: true
+top: false
 authors:
   - ai-ml-team
 categories:
