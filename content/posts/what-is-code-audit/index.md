@@ -305,3 +305,22 @@ Figuring out how much a code audit costs can feel like a mystery. The truth is, 
 * **Fancy tools**: Sometimes, special tools are needed for an audit, which can add to the bill.
 
 While the price tag upfront might seem steep, think of it as an investment. Unfixed code problems can lead to security breaches, fines, or even system crashes—all way more expensive than an audit! A good code audit can save you a ton of money, time, and headaches in the long run.
+
+## Anadea’s Experience in Code Audit Services
+
+### Case 1: Report-writing Apps on Android and iOS
+
+A client needed a security checkup for their native Android and iOS report-writing apps. We started with the usual steps: signing a non-disclosure agreement (NDA) and taking a peek at the code. After a quick review, we offered to audit these areas:
+
+* Code bugs and weaknesses
+* Security measures in place
+* How efficiently the app uses resources
+* Dependencies and project setup
+* Performance issues
+* Memory leaks
+* Potential code reuse in other native apps
+* Portability to a different platform (like switching from Android to iOS)
+
+We estimated 200 hours per platform and suggested separate audits by Android and iOS experts, or doing them both at once. In the end, each app took about 190 hours to audit. We delivered the full report before the deadline, but even cooler, we sent each section as soon as it was finished. This kept the client informed and allowed them to address issues right away.
+
+Thanks to the audit report, the client decided to rewrite the whole project using Flutter, a cross-platform development framework. This would let them maintain the native apps for a bit, but focus on building new features and a redesign for the Flutter version. A whole new app built on top of the learnings from the audit!
