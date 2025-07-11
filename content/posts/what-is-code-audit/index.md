@@ -149,7 +149,7 @@ Therefore, it's hard to say what digital product throughout its life doesn’t n
 
 {{< advert_with_cta title="Code audit awaits!" description="Get in touch and let's discuss your needs." button="Book a consultation" >}}
 
-## What are code audit deliverables?
+## What Are Code Audit Deliverables?
 
 **What do you get after the code audit is completed?** Code audit typically delivers a detailed report that outlines any problems or weaknesses found in your code. This report will also include suggestions on how to fix these issues and steps you can take to address them.
 
@@ -157,7 +157,7 @@ Therefore, it's hard to say what digital product throughout its life doesn’t n
 
 Here's how a code audit report benefits different stakeholders:
 
-### Business owners
+### Business Owners
 
 The report gives you a clear picture of your project's health, including how well it scales, how reliable it is, and how secure it is. It also explains how any code issues might affect your product. More importantly, a good report can help you make strategic decisions about your software. It's helpful to know what questions you want answered before the audit even starts, so the report can address those specifically.
 
@@ -165,7 +165,7 @@ The report gives you a clear picture of your project's health, including how wel
 
 The audit provides an objective assessment of a codebase, highlighting both its strengths and weaknesses. This comprehensive analysis helps developers understand the code better, potentially uncovering hidden issues they might have missed. Then, an audit helps prioritize vulnerabilities and technical debt. As a result, developers can focus on the most critical issues that could have the biggest impact on the application and allocate resources more effectively, ensuring the most significant risks are addressed first.
 
-### Technical leads and project managers
+### Technical Leads and Project Managers
 
 The audit findings can help tech leads and project managers make informed decisions about the project's future. Whether to refactor, rewrite, or maintain the current codebase becomes a clearer choice with the backing of a thorough audit. The report can also provide a cost-benefit analysis, helping you determine the most efficient path forward, whether it's investing in current solutions or exploring new ones.
 
