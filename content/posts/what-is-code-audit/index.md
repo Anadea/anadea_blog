@@ -82,7 +82,7 @@ In other words, code audit is a deeper dive compared to a review. It examines a 
 
 The key difference is that reviews are typically done by **fellow developers** during the development process. Code audits, on the other hand, can be done by **internal teams** or **external experts** and provide a more independent, in-depth analysis.
 
-Further, we will break down the code audit process, acting as external experts you can go to whenever you feel the need.
+Further, we will break down the source code auditing process from the perspective of external experts you can go to whenever you feel the need.
 
 {{< ctabutton url="https://anadea.info/contacts" >}}Talk to experts{{< /ctabutton >}}
 
