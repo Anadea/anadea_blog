@@ -126,16 +126,16 @@ While the specific focus areas of a code audit can vary depending on its objecti
 
 **Code audits cover a lot of ground.** They look for security weaknesses, code quality issues, how well your software performs, and if it follows established coding rules. By giving your code a good once-over in these areas, a code audit uncovers valuable information. This information can then be used to make improvements, tighten up security, and keep your software project on track for the long haul. By understanding what a code audit checks for, you'll see why it's such a valuable and thorough process.
 
-## When do you need a code audit?
+## When Do You Need a Software Code Audit?
 
 You probably need one if you are reading this article. But let’s highlight a couple of common scenarios where a code audit would be recommended.
 
-* **The project is at a pivot point or you are thinking through a strategic decision. Here are some questions a code audit can help answer:**
+**The project is at a pivot point or you are thinking through a strategic decision. Here are some questions a code audit can help answer:**
 
-  * Should we buy or invest in this solution?
-  * Is it better to rewrite our existing code from scratch or keep maintaining it? What are the costs involved in each option?
-  * Should we continue working with our current vendors?
-  * Are there any regulatory hurdles we need to address (like HIPAA for healthcare applications or GDPR for applications processing EU citizens' data)?
+* Should we buy or invest in this solution?
+* Is it better to rewrite our existing code from scratch or keep maintaining it? What are the costs involved in each option?
+* Should we continue working with our current vendors?
+* Are there any regulatory hurdles we need to address (like HIPAA for healthcare applications or GDPR for applications processing EU citizens' data)?
 * **The project works on a regular basis without a need for strategic changes but a code audit is still strongly recommended. Here's why:**
 
   * Your team has been focused on delivering new features quickly and accumulated technical debt. A code audit can help prioritize what needs to be addressed first.
