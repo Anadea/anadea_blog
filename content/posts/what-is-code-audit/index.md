@@ -294,6 +294,14 @@ You should demonstrate to your teams that audits can be a good way to learn and 
 
 Track and verify remediation, don’t trust reports blindly. Even if some issues are marked as resolved in a report, it doesn’t always mean that they are fully fixed. You need to verify fixes via re-audit or regression tests, as well as ensure accountability for remediation.
 
+## How Much does a Source Code Audit Cost?
 
+Figuring out how much a code audit costs can feel like a mystery. The truth is, it depends on a bunch of things:
 
-{{< ctabutton url="https://anadea.info/contacts" >}}Request a code audit{{< /ctabutton >}}
+* **Code size and complexity**: Bigger, more tangled code takes longer to audit, so it costs more.
+* **Audit goals**: Are you looking for security holes, performance tweaks, or making sure everything follows the rules? The more you want checked, the more it might cost.
+* **Auditor cred**: Highly experienced auditors might charge more, but they also bring the wisdom and battle scars to find deeper problems and give you better advice.
+* **Location**: Where the audit team lives can affect the cost. Big tech hubs might have pricier auditors than other areas, just like everything else costs more in those places.
+* **Fancy tools**: Sometimes, special tools are needed for an audit, which can add to the bill.
+
+While the price tag upfront might seem steep, think of it as an investment. Unfixed code problems can lead to security breaches, fines, or even system crashes—all way more expensive than an audit! A good code audit can save you a ton of money, time, and headaches in the long run.
