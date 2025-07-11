@@ -30,8 +30,8 @@ questionary:
       process. Code audits, on the other hand, can be done by internal teams or
       external experts and provide a more independent, in-depth analysis.
   - question: What does a code audit include?
-    answer: Most commonly, a code audit service will include security analysis, code
-      quality assessment, performance evaluation, compliance and standards
+    answer: Most commonly, a code audit service will include security code audit,
+      code quality assessment, performance evaluation, compliance and standards
       review, documentation and maintainability analysis, and testing coverage
       review.
   - question: When do I need a code audit?
@@ -45,14 +45,18 @@ questionary:
       suggestions on how to fix these issues and steps you can take to address
       them.
   - question: Why should I go for code audit from a third party?
-    answer: A third-party code audit offers a powerful way to gain a deeper
-      understanding of your code's strengths and weaknesses. This independent
-      perspective can be crucial for making informed decisions about your
-      software's security, performance, and overall success.
-  - question: What is the process of code audit?
-    answer: "Typically, the procedure for a code audit is the following: Preparation
-      and planning; Analysing the code; Documentation review; Reporting
-      findings; Review meeting; Implementing changes; Follow-up audit."
+    answer: Cooperation with an external source code auditor ensures a powerful way
+      to gain a deeper understanding of your code’s strengths and weaknesses.
+      This independent third party code review can be crucial for making
+      informed decisions about your software’s security, performance, and
+      overall success.
+  - question: How to audit code in a CI/CD pipeline without slowing down delivery?
+    answer: You need to integrate automated tools like SAST and dependency scanners
+      early in the pipeline and run them only on changed code. It will also be
+      helpful to combine lightweight checks during commits with deeper scans
+      post-merge. This way, you will avoid slowing delivery while maintaining
+      audit coverage. Apart from this, use code-based policies to automate
+      governance and reduce manual review steps.
   - question: What tools are used in code audit?
     answer: At Anadea, we use a variety of tools to conduct audits. Namely, these
       are static code analysis tools, dynamic analysis tools, dependency check
@@ -310,11 +314,11 @@ While the price tag upfront might seem steep, think of it as an investment. Unfi
 
 Figuring out how much a code audit costs can feel like a mystery. The truth is, it depends on a bunch of things:
 
-* Code size and complexity: Bigger, more tangled code takes longer to audit, so it costs more.
-* Audit goals: Are you looking for security holes, performance tweaks, or making sure everything follows the rules? The more you want checked, the more it might cost.
-* Auditor cred: Highly experienced auditors might charge more, but they also bring the wisdom and battle scars to find deeper problems and give you better advice.
-* Location: Where the audit team lives can affect the cost. Big tech hubs might have pricier auditors than other areas, just like everything else costs more in those places.
-* Fancy tools: Sometimes, special tools are needed for an audit, which can add to the bill.
+* **Code size and complexity**: Bigger, more tangled code takes longer to audit, so it costs more.
+* **Audit goals**: Are you looking for security holes, performance tweaks, or making sure everything follows the rules? The more you want checked, the more it might cost.
+* **Auditor cred**: Highly experienced auditors might charge more, but they also bring the wisdom and battle scars to find deeper problems and give you better advice.
+* **Location**: Where the audit team lives can affect the cost. Big tech hubs might have pricier auditors than other areas, just like everything else costs more in those places.
+* **Fancy tools**: Sometimes, special tools are needed for an audit, which can add to the bill.
 
 While the price tag upfront might seem steep, think of it as an investment. Unfixed code problems can lead to security breaches, fines, or even system crashes—all way more expensive than an audit! A good code audit can save you a ton of money, time, and headaches in the long run.
 
