@@ -242,7 +242,7 @@ Static code analysis tools examine the source code without executing it. They ar
 
 **Examples**: SonarQube, Coverity, Veracode.
 
-### Dynamic Analysis Tools 
+### Dynamic Analysis Tools
 
 Dynamic analysis tools evaluate the code while it is running. These tools are particularly useful for identifying runtime issues and security vulnerabilities.
 
@@ -276,7 +276,7 @@ Security analysis tools specifically focus on identifying security vulnerabiliti
 
 Without a well-designed structure, the audit process can become too complicated and time-consuming. Standardized checklists can become a good tool to ensure consistency. They should cover such key areas as code formatting, security, logic correctness, etc., and align with your project type and scope. This will guarantee their maximum relevance.
 
-### Combine Internal and External Auditors 
+### Combine Internal and External Auditors
 
 Internal teams always know the codebase much better than any external experts. That’s a huge benefit. However, they may bring unintentional bias to the results of the code audit. External auditors can provide a fresh perspective and valuable expertise from a wide range of projects and domains. 
 
@@ -294,91 +294,6 @@ You should demonstrate to your teams that audits can be a good way to learn and 
 
 Track and verify remediation, don’t trust reports blindly. Even if some issues are marked as resolved in a report, it doesn’t always mean that they are fully fixed. You need to verify fixes via re-audit or regression tests, as well as ensure accountability for remediation.
 
-## What skills should a code auditor have?
 
-A code auditor is not an ordinary role. To perform successful audits, one needs to possess a mix of tech skills, security knowledge, and a keen eye for detail. Education, experience, and staying on top of the latest trends are a must here.
-
-### Technical skills
-
-* Knowledge of **multiple programming languages**, depending on the project.
-* Familiarity with the **frameworks and tools** used to build the software they're checking is a must.
-
-### Security knowledge
-
-* Understanding **security principles** and standards is key.
-* Spotting and stopping **security weaknesses** is their specialty.
-* Knowing how to **encrypt data** and keep it safe is essential.
-
-### Analytical aptitude
-
-* They think critically about code to make sure it's efficient, reliable, and can handle growth. Basically, they become code whisperers, understanding complex systems and finding where things might go wrong.
-* Diagnosing issues and coming up with effective solutions is their game. It's not just about finding what's wrong, but why it's wrong and how to fix it for good.
-
-### Necessary experience
-
-* Hands-on experience developing software is a huge plus. It helps them understand the coding life and the challenges developers face.
-* Having done code audits before, either internally or as a consultant, gives them a solid foundation to find and fix problems effectively.
-
-![Skills of a code auditor](Must-Have_Skills_of_a_Code_Auditor.png)
-
-{{< ctabutton url="https://anadea.info/contacts" >}}Hire code audit pros{{< /ctabutton >}}
-
-## How much does a code audit cost?
-
-Figuring out how much a code audit costs can feel like a mystery. The truth is, it depends on a bunch of things:
-
-* **Code size and complexity:** Bigger, more tangled code takes longer to audit, so it costs more.
-* **Audit goals:** Are you looking for security holes, performance tweaks, or making sure everything follows the rules? The more you want checked, the more it might cost.
-* **Auditor cred:** Highly experienced auditors might charge more, but they also bring the wisdom and battle scars to find deeper problems and give you better advice.
-* **Location:** Where the audit team lives can affect the cost. Big tech hubs might have pricier auditors than other areas, just like everything else costs more in those places.
-* **Fancy tools:** Sometimes, special tools are needed for an audit, which can add to the bill.
-
-While the price tag upfront might seem steep, think of it as an investment. Unfixed code problems can lead to security breaches, fines, or even system crashes—all way more expensive than an audit! A good code audit can save you a ton of money, time, and headaches in the long run.
-
-## Anadea’s experience in code audit
-
-### Case 1: Report-writing apps on Android and iOS
-
-**A client needed a security checkup for their native Android and iOS report-writing apps.** We started with the usual steps: signing a non-disclosure agreement (NDA) and taking a peek at the code. After a quick review, we offered to audit these areas:
-
-* Code bugs and weaknesses
-* Security measures in place
-* How efficiently the app uses resources
-* Dependencies and project setup
-* Performance issues
-* Memory leaks
-* Potential code reuse in other native apps
-* Portability to a different platform (like switching from Android to iOS)
-
-We estimated 200 hours per platform and suggested separate audits by Android and iOS experts, or doing them both at once. In the end, each app took about **190 hours** to audit. We delivered the full report before the deadline, but even cooler, we sent each section as soon as it was finished. This kept the client informed and allowed them to address issues right away.
-
-Thanks to the audit report, the client decided to rewrite the whole project using <a href="https://anadea.info/services/mobile-development/flutter-development-services" target="_blank">Flutter</a>, a cross-platform development framework. This would let them maintain the native apps for a bit, but focus on building new features and a redesign for the Flutter version. A whole new app built on top of the learnings from the audit!
-
-### Case 2: Cross-platform service management app
-
-**Anadea team audited a cross-platform service management app built with the UNO framework.** The client wanted us to check out their code structure, how they used design patterns, code clarity, and how well-tested it was. After a deep dive, we figured the audit would take about **40 hours**, and we hit that deadline right on the nose.
-
-**The audit covered everything from the app's overall architecture to the nitty-gritty details of the code.** We looked for any weak spots and suggested ways to make things stronger. We also checked how they were using design patterns to make sure they were following best practices. Finally, we made sure the code was easy to read, which makes it easier to maintain and update later.
-
-Once the audit was done, we put together a detailed report. It listed all the issues we found and suggested fixes for each one. We even had a productive chat with the client's development team to explain the problems and how to tackle them.
-
-Communication was key throughout the project. We kept the client updated and answered any questions they had right away. This made everything run smoothly and led to a successful collaboration.
-
-### Case 3: Web shop app
-
-A client wanted their web shop app code audited. They were curious about our audit plan, their company's security standards, and their developers' skills. After the usual **NDA** and code exchange, we took a quick look and proposed this audit plan:
-
-* Checking out their current tech stack and app architecture
-* Making sure the code is high quality
-* Evaluating performance and scalability (how well it handles traffic and growth)
-* Spotting potential maintenance headaches
-* Hunting down security vulnerabilities
-* Wrapping it all up with a conclusion
-
-We estimated this would take about **50 hours**, and amazingly, we finished in just 46! The final product was a detailed audit report that analyzed everything from the app's structure to the code itself. We also included recommendations on how to improve deployment efficiency, make it easier for new developers to jump in, and speed up project setup.
-
-## Bottom line
-
-Whether you're building a simple app or a complex enterprise system, a code audit can be your secret weapon. It's an investment in peace of mind, knowing your software is built to last and can handle whatever challenges come its way. So, sleep sounder tonight, knowing your software's got your back (and a trusty code audit by its side).
 
 {{< ctabutton url="https://anadea.info/contacts" >}}Request a code audit{{< /ctabutton >}}
