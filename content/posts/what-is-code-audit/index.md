@@ -236,11 +236,11 @@ Conducting a follow-up audit after implementing the recommended changes may be n
 
 Having the right tools makes all the difference during a code audit. These trusty helpers can automate repetitive tasks and provide valuable insights.
 
-* **Static code analysis tools** examine the source code without executing it. They are instrumental in identifying syntax errors, code smells, and potential bugs at an early stage.
-* **Dynamic analysis tools** evaluate the code while it is running. These tools are particularly useful for identifying runtime issues and security vulnerabilities.
-* **Dependency check tools** analyze the libraries and frameworks the application depends on, identifying known vulnerabilities in these components.
-* **Performance profiling tools** help identify bottlenecks in the application that may affect its speed and responsiveness.
-* **Security analysis tools** specifically focus on identifying security vulnerabilities.
+### Static Code Analysis Tools
+
+Static code analysis tools examine the source code without executing it. They are instrumental in identifying syntax errors, code smells, and potential bugs at an early stage.
+
+**Examples**: SonarQube, Coverity, Veracode.
 
 **What are the best tools for code audit?** It depends on your specific project and the technologies used. Choose the ones that best suit your needs for a smooth and successful audit and remember that we’re always here to help.
 
