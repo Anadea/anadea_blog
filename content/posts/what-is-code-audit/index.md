@@ -242,6 +242,30 @@ Static code analysis tools examine the source code without executing it. They ar
 
 **Examples**: SonarQube, Coverity, Veracode.
 
+### Dynamic Analysis Tools 
+
+Dynamic analysis tools evaluate the code while it is running. These tools are particularly useful for identifying runtime issues and security vulnerabilities.
+
+**Examples**: New Relic, Iroh.js, Smartbear.
+
+### Dependency Check Tools
+
+Dependency check tools analyze the libraries and frameworks the application depends on, identifying known vulnerabilities in these components.
+
+**Examples**: Dependabot, OWASP Dependency-Check.
+
+### Performance Profiling Tools
+
+Performance profiling tools help identify bottlenecks in the application that may affect its speed and responsiveness.
+
+**Examples**: Datadog, Prefix, Orbit Profiler.
+
+### Security Analysis Tools
+
+Security analysis tools specifically focus on identifying security vulnerabilities.
+
+**Examples**: Codacy, Snyk, Semgrep.
+
 **What are the best tools for code audit?** It depends on your specific project and the technologies used. Choose the ones that best suit your needs for a smooth and successful audit and remember that we’re always here to help.
 
 {{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
