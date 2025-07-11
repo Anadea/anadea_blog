@@ -4,9 +4,9 @@ title: "What is Code Audit: Deep Dive into Software Quality"
 breadcrumbs: What is Code Audit
 slug: what-is-code-audit
 draft: false
-publishDate: 2024-03-19T00:00:00.000Z
-image: code_audit.jpg
-og_image: code_audit_socials.jpg
+publishDate: 2025-07-11T09:50:00+03:00
+image: ai-startup-office-software-developer-typing-computer-keyboard-close-up.jpg
+og_image: ai-startup-office-software-developer-typing-computer-keyboard-close-up.jpg
 description: Unsure about code audits? We answer burning questions! Discover how
   code audits improve software security, reliability, and save you money in the
   long run.
@@ -66,13 +66,17 @@ questionary:
 
 This article will give you the inside scoop on code audits: we'll explore what they are, why they're important, and how they work. Think of it as a guide to getting the best possible code for your business.
 
-## Code review vs. code audit: What's the difference?
+## Code Review vs. Code Audit: What’s the Difference?
 
-One question needs to be answered before we dive in: **are code audit and code review the same thing**? The answer is, although they sound similar and are frequently used interchangeably, those are two different processes.
+One question needs to be answered before we dive in: Are code audit and code review the same thing? Although they sound similar and are frequently used interchangeably, these are two different processes.
 
-**Think of a code review as a quick check-up.** It focuses on a smaller part of the code, like a single feature, and happens more often, typically before the code is merged or released. Reviewers look for errors, ensure the code works as planned, and make sure it follows coding standards. They offer suggestions that developers can choose to accept or reject.
+**Code review** is the process of systematically examining source code by peers to identify bugs, improve code quality, and facilitate knowledge sharing within the development team. Code reviews are usually less formal than audits and occur more frequently.
 
-**A code audit is a deep dive.** It examines a larger portion of code, like the entire codebase, and happens less frequently, maybe annually or before a big release. Audits are more thorough, checking for security vulnerabilities, compliance with regulations, performance issues, and how easy it is to maintain the code in the long run. The audit results in a report with a list of problems and recommendations that need to be addressed.
+You can think of a code review as a quick check-up. It focuses on a smaller part of the code, like a single feature, and typically happens before the code is merged or released. Reviewers offer suggestions that developers can choose to accept or reject.
+
+**Code audit** is a comprehensive analysis of a software codebase. Its primary goal is to identify security vulnerabilities, compliance issues, performance bottlenecks, and adherence to coding standards. Code audits are often required for regulatory or contractual compliance.
+
+In other words, code audit is a deeper dive compared to a review. It examines a larger portion of code, like the entire codebase. It can happen annually or before a big release. The audit results in a report with a list of problems and recommendations that need to be addressed.
 
 ![Code review vs code audit difference](Code_Review_vs._Code_Audit.png)
 
@@ -88,35 +92,35 @@ While the specific focus areas of a code audit can vary depending on its objecti
 
 ### Security analysis
 
-- **Vulnerability assessment:** Identifies security vulnerabilities within the code that could be exploited by attackers. This includes common security issues such as SQL injections, cross-site scripting (XSS), and buffer overflows.
-- **Code permissions and access control:** Reviews the implementation of permissions and access controls to ensure that users can only access data and actions that are appropriate for their privilege level.
-- **Data protection:** Evaluates how sensitive data is handled, stored, and transmitted, ensuring that encryption and other protective measures are adequately implemented.
+* **Vulnerability assessment:** Identifies security vulnerabilities within the code that could be exploited by attackers. This includes common security issues such as SQL injections, cross-site scripting (XSS), and buffer overflows.
+* **Code permissions and access control:** Reviews the implementation of permissions and access controls to ensure that users can only access data and actions that are appropriate for their privilege level.
+* **Data protection:** Evaluates how sensitive data is handled, stored, and transmitted, ensuring that encryption and other protective measures are adequately implemented.
 
 ### Code quality assessment
 
-- **Coding standards compliance:** Checks whether the code adheres to industry-standard coding conventions and guidelines. This includes naming conventions, commenting practices, and overall code structure.
-- **Code complexity:** Analyzes the complexity of the code to identify overly complex methods or classes that could be simplified. High complexity can indicate areas that are prone to errors or difficult to maintain.
-- **Refactoring opportunities:** Identifies parts of the code that could benefit from refactoring to improve readability, reduce complexity, or enhance performance.
+* **Coding standards compliance:** Checks whether the code adheres to industry-standard coding conventions and guidelines. This includes naming conventions, commenting practices, and overall code structure.
+* **Code complexity:** Analyzes the complexity of the code to identify overly complex methods or classes that could be simplified. High complexity can indicate areas that are prone to errors or difficult to maintain.
+* **Refactoring opportunities:** Identifies parts of the code that could benefit from refactoring to improve readability, reduce complexity, or enhance performance.
 
 ### Performance evaluation
 
-- **Bottleneck identification:** Pinpoints areas of the code that may be causing performance issues, such as slow response times or excessive memory usage.
-- **Scalability assessment:** Assesses whether the application can efficiently handle increased loads, identifying potential scalability issues before they become problems.
+* **Bottleneck identification:** Pinpoints areas of the code that may be causing performance issues, such as slow response times or excessive memory usage.
+* **Scalability assessment:** Assesses whether the application can efficiently handle increased loads, identifying potential scalability issues before they become problems.
 
 ### Compliance and standards
 
-- **Legal and regulatory compliance:** Ensures that the code complies with relevant legal and regulatory requirements, which may include data protection laws, accessibility standards, and industry-specific regulations.
-- **Dependency analysis:** Examines third-party libraries and frameworks for known vulnerabilities, licensing issues, and compatibility concerns.
+* **Legal and regulatory compliance:** Ensures that the code complies with relevant legal and regulatory requirements, which may include data protection laws, accessibility standards, and industry-specific regulations.
+* **Dependency analysis:** Examines third-party libraries and frameworks for known vulnerabilities, licensing issues, and compatibility concerns.
 
 ### Documentation and maintainability
 
-- **Code documentation review:** Evaluates the quality and completeness of code documentation, including inline comments and external documentation, to ensure that it adequately supports future maintenance and development efforts.
-- **Codebase organization:** Assesses the structure and organization of the codebase, including the use of patterns, modularity, and the separation of concerns, to ensure that it is logical and maintainable.
+* **Code documentation review:** Evaluates the quality and completeness of code documentation, including inline comments and external documentation, to ensure that it adequately supports future maintenance and development efforts.
+* **Codebase organization:** Assesses the structure and organization of the codebase, including the use of patterns, modularity, and the separation of concerns, to ensure that it is logical and maintainable.
 
 ### Testing coverage
 
-- **Unit and integration testing:** Reviews the comprehensiveness of existing tests, including unit and integration tests, to ensure they cover critical functionality and edge cases.
-- **Test automation and CI/CD integration:** Assesses the integration of automated testing within the development process, including continuous integration/continuous deployment (CI/CD) pipelines, to ensure that tests are run consistently and efficiently.
+* **Unit and integration testing:** Reviews the comprehensiveness of existing tests, including unit and integration tests, to ensure they cover critical functionality and edge cases.
+* **Test automation and CI/CD integration:** Assesses the integration of automated testing within the development process, including continuous integration/continuous deployment (CI/CD) pipelines, to ensure that tests are run consistently and efficiently.
 
 ![What does code audit include?](What__Code_Audit__Checks.png)
 
@@ -126,18 +130,19 @@ While the specific focus areas of a code audit can vary depending on its objecti
 
 You probably need one if you are reading this article. But let’s highlight a couple of common scenarios where a code audit would be recommended.
 
-- **The project is at a pivot point or you are thinking through a strategic decision. Here are some questions a code audit can help answer:**
-  - Should we buy or invest in this solution?
-  - Is it better to rewrite our existing code from scratch or keep maintaining it? What are the costs involved in each option?
-  - Should we continue working with our current vendors?
-  - Are there any regulatory hurdles we need to address (like HIPAA for healthcare applications or GDPR for applications processing EU citizens' data)?
+* **The project is at a pivot point or you are thinking through a strategic decision. Here are some questions a code audit can help answer:**
 
-- **The project works on a regular basis without a need for strategic changes but a code audit is still strongly recommended. Here's why:**
-  - Your team has been focused on delivering new features quickly and accumulated technical debt. A code audit can help prioritize what needs to be addressed first.
-  - Your product is experiencing serious issues.
-  - Your product handles sensitive data and you want regular independent verification that it's secure.
-  - You are preparing for a significant change in your development team composition. New team members might struggle to understand the code, especially if it lacks clarity or has maintenance issues. A code audit can help with this transition.
-  - It's been over a year since your last code audit.
+  * Should we buy or invest in this solution?
+  * Is it better to rewrite our existing code from scratch or keep maintaining it? What are the costs involved in each option?
+  * Should we continue working with our current vendors?
+  * Are there any regulatory hurdles we need to address (like HIPAA for healthcare applications or GDPR for applications processing EU citizens' data)?
+* **The project works on a regular basis without a need for strategic changes but a code audit is still strongly recommended. Here's why:**
+
+  * Your team has been focused on delivering new features quickly and accumulated technical debt. A code audit can help prioritize what needs to be addressed first.
+  * Your product is experiencing serious issues.
+  * Your product handles sensitive data and you want regular independent verification that it's secure.
+  * You are preparing for a significant change in your development team composition. New team members might struggle to understand the code, especially if it lacks clarity or has maintenance issues. A code audit can help with this transition.
+  * It's been over a year since your last code audit.
 
 Therefore, it's hard to say what digital product throughout its life doesn’t need a code audit. There are many reasons for making a code audit a part of a project's routine. Whenever you have doubts about whether you need a code audit or want an expert consultation, feel free to contact us—we will answer all your questions.
 
@@ -188,17 +193,17 @@ Our team approaches code audits with a meticulous process, ensuring a thorough a
 
 ### Step 1. Preparation and planning
 
-- **Defining objectives.** As step one, we clearly define the audit's goals. Is the focus on security vulnerabilities, coding standard compliance, performance improvement, or a combination?
-- **Gathering documentation.** That’s where we collect all relevant materials, including requirement specifications, design documents, and user manuals, to grasp the application's intended functionality and architecture.
-- **Choosing tools.** We select the most suitable technologies and tools for the audit. This might include static code analysis tools, security scanners, and performance benchmarking tools.
-- **Setting a timeline.** Establishing a realistic timeline for the audit considers the audit's scope and the codebase's size, while ensuring flexibility for collaboration.
+* **Defining objectives.** As step one, we clearly define the audit's goals. Is the focus on security vulnerabilities, coding standard compliance, performance improvement, or a combination?
+* **Gathering documentation.** That’s where we collect all relevant materials, including requirement specifications, design documents, and user manuals, to grasp the application's intended functionality and architecture.
+* **Choosing tools.** We select the most suitable technologies and tools for the audit. This might include static code analysis tools, security scanners, and performance benchmarking tools.
+* **Setting a timeline.** Establishing a realistic timeline for the audit considers the audit's scope and the codebase's size, while ensuring flexibility for collaboration.
 
 ### Step 2. Code audit
 
-- **Static analysis.** We use static code analysis tools that automatically detect potential issues within the code, such as syntax errors, code smells, and security vulnerabilities.
-- **Manual review.** When required, we conduct a thorough manual review of the code to identify issues that automated tools might miss.
-- **Security assessment.** Performing a detailed security assessment identifies vulnerabilities like SQL injection, cross-site scripting (XSS), and insecure authentication mechanisms.
-- **Performance evaluation.** Analyzing the code for performance bottlenecks, identifying inefficient algorithms, and collaborating with developers to explore optimization opportunities.
+* **Static analysis.** We use static code analysis tools that automatically detect potential issues within the code, such as syntax errors, code smells, and security vulnerabilities.
+* **Manual review.** When required, we conduct a thorough manual review of the code to identify issues that automated tools might miss.
+* **Security assessment.** Performing a detailed security assessment identifies vulnerabilities like SQL injection, cross-site scripting (XSS), and insecure authentication mechanisms.
+* **Performance evaluation.** Analyzing the code for performance bottlenecks, identifying inefficient algorithms, and collaborating with developers to explore optimization opportunities.
 
 ### Step 3. Documentation review
 
@@ -206,9 +211,9 @@ We make sure the existing documentation accurately reflects the codebase's curre
 
 ### Step 4. Reporting findings
 
-- **Compiling issues.** Our auditors draw a comprehensive report featuring all identified issues, categorizing them by severity and type (e.g., security, performance, compliance).
-- **Providing recommendations.** We offer detailed recommendations for resolving each issue, including code snippets, references to best practices, and links to relevant resources.
-- **Developing an action plan.** Our team creates an action plan to address the identified issues. Prioritization is based on severity and impact on the project.
+* **Compiling issues.** Our auditors draw a comprehensive report featuring all identified issues, categorizing them by severity and type (e.g., security, performance, compliance).
+* **Providing recommendations.** We offer detailed recommendations for resolving each issue, including code snippets, references to best practices, and links to relevant resources.
+* **Developing an action plan.** Our team creates an action plan to address the identified issues. Prioritization is based on severity and impact on the project.
 
 ### Step 5. Review meeting
 
@@ -230,11 +235,11 @@ Conducting a follow-up audit after implementing the recommended changes may be n
 
 Having the right tools makes all the difference during a code audit. These trusty helpers can automate repetitive tasks and provide valuable insights.
 
-- **Static code analysis tools** examine the source code without executing it. They are instrumental in identifying syntax errors, code smells, and potential bugs at an early stage.
-- **Dynamic analysis tools** evaluate the code while it is running. These tools are particularly useful for identifying runtime issues and security vulnerabilities.
-- **Dependency check tools** analyze the libraries and frameworks the application depends on, identifying known vulnerabilities in these components.
-- **Performance profiling tools** help identify bottlenecks in the application that may affect its speed and responsiveness.
-- **Security analysis tools** specifically focus on identifying security vulnerabilities.
+* **Static code analysis tools** examine the source code without executing it. They are instrumental in identifying syntax errors, code smells, and potential bugs at an early stage.
+* **Dynamic analysis tools** evaluate the code while it is running. These tools are particularly useful for identifying runtime issues and security vulnerabilities.
+* **Dependency check tools** analyze the libraries and frameworks the application depends on, identifying known vulnerabilities in these components.
+* **Performance profiling tools** help identify bottlenecks in the application that may affect its speed and responsiveness.
+* **Security analysis tools** specifically focus on identifying security vulnerabilities.
 
 **What are the best tools for code audit?** It depends on your specific project and the technologies used. Choose the ones that best suit your needs for a smooth and successful audit and remember that we’re always here to help.
 
@@ -246,24 +251,24 @@ A code auditor is not an ordinary role. To perform successful audits, one needs 
 
 ### Technical skills
 
-- Knowledge of **multiple programming languages**, depending on the project.
-- Familiarity with the **frameworks and tools** used to build the software they're checking is a must.
+* Knowledge of **multiple programming languages**, depending on the project.
+* Familiarity with the **frameworks and tools** used to build the software they're checking is a must.
 
 ### Security knowledge
 
-- Understanding **security principles** and standards is key.
-- Spotting and stopping **security weaknesses** is their specialty.
-- Knowing how to **encrypt data** and keep it safe is essential.
+* Understanding **security principles** and standards is key.
+* Spotting and stopping **security weaknesses** is their specialty.
+* Knowing how to **encrypt data** and keep it safe is essential.
 
 ### Analytical aptitude
 
-- They think critically about code to make sure it's efficient, reliable, and can handle growth. Basically, they become code whisperers, understanding complex systems and finding where things might go wrong.
-- Diagnosing issues and coming up with effective solutions is their game. It's not just about finding what's wrong, but why it's wrong and how to fix it for good.
+* They think critically about code to make sure it's efficient, reliable, and can handle growth. Basically, they become code whisperers, understanding complex systems and finding where things might go wrong.
+* Diagnosing issues and coming up with effective solutions is their game. It's not just about finding what's wrong, but why it's wrong and how to fix it for good.
 
 ### Necessary experience
 
-- Hands-on experience developing software is a huge plus. It helps them understand the coding life and the challenges developers face.
-- Having done code audits before, either internally or as a consultant, gives them a solid foundation to find and fix problems effectively.
+* Hands-on experience developing software is a huge plus. It helps them understand the coding life and the challenges developers face.
+* Having done code audits before, either internally or as a consultant, gives them a solid foundation to find and fix problems effectively.
 
 ![Skills of a code auditor](Must-Have_Skills_of_a_Code_Auditor.png)
 
@@ -273,11 +278,11 @@ A code auditor is not an ordinary role. To perform successful audits, one needs 
 
 Figuring out how much a code audit costs can feel like a mystery. The truth is, it depends on a bunch of things:
 
-- **Code size and complexity:** Bigger, more tangled code takes longer to audit, so it costs more.
-- **Audit goals:** Are you looking for security holes, performance tweaks, or making sure everything follows the rules? The more you want checked, the more it might cost.
-- **Auditor cred:** Highly experienced auditors might charge more, but they also bring the wisdom and battle scars to find deeper problems and give you better advice.
-- **Location:** Where the audit team lives can affect the cost. Big tech hubs might have pricier auditors than other areas, just like everything else costs more in those places.
-- **Fancy tools:** Sometimes, special tools are needed for an audit, which can add to the bill.
+* **Code size and complexity:** Bigger, more tangled code takes longer to audit, so it costs more.
+* **Audit goals:** Are you looking for security holes, performance tweaks, or making sure everything follows the rules? The more you want checked, the more it might cost.
+* **Auditor cred:** Highly experienced auditors might charge more, but they also bring the wisdom and battle scars to find deeper problems and give you better advice.
+* **Location:** Where the audit team lives can affect the cost. Big tech hubs might have pricier auditors than other areas, just like everything else costs more in those places.
+* **Fancy tools:** Sometimes, special tools are needed for an audit, which can add to the bill.
 
 While the price tag upfront might seem steep, think of it as an investment. Unfixed code problems can lead to security breaches, fines, or even system crashes—all way more expensive than an audit! A good code audit can save you a ton of money, time, and headaches in the long run.
 
@@ -287,14 +292,14 @@ While the price tag upfront might seem steep, think of it as an investment. Unfi
 
 **A client needed a security checkup for their native Android and iOS report-writing apps.** We started with the usual steps: signing a non-disclosure agreement (NDA) and taking a peek at the code. After a quick review, we offered to audit these areas:
 
-- Code bugs and weaknesses
-- Security measures in place
-- How efficiently the app uses resources
-- Dependencies and project setup
-- Performance issues
-- Memory leaks
-- Potential code reuse in other native apps
-- Portability to a different platform (like switching from Android to iOS)
+* Code bugs and weaknesses
+* Security measures in place
+* How efficiently the app uses resources
+* Dependencies and project setup
+* Performance issues
+* Memory leaks
+* Potential code reuse in other native apps
+* Portability to a different platform (like switching from Android to iOS)
 
 We estimated 200 hours per platform and suggested separate audits by Android and iOS experts, or doing them both at once. In the end, each app took about **190 hours** to audit. We delivered the full report before the deadline, but even cooler, we sent each section as soon as it was finished. This kept the client informed and allowed them to address issues right away.
 
@@ -314,12 +319,12 @@ Communication was key throughout the project. We kept the client updated and ans
 
 A client wanted their web shop app code audited. They were curious about our audit plan, their company's security standards, and their developers' skills. After the usual **NDA** and code exchange, we took a quick look and proposed this audit plan:
 
-- Checking out their current tech stack and app architecture
-- Making sure the code is high quality
-- Evaluating performance and scalability (how well it handles traffic and growth)
-- Spotting potential maintenance headaches
-- Hunting down security vulnerabilities
-- Wrapping it all up with a conclusion
+* Checking out their current tech stack and app architecture
+* Making sure the code is high quality
+* Evaluating performance and scalability (how well it handles traffic and growth)
+* Spotting potential maintenance headaches
+* Hunting down security vulnerabilities
+* Wrapping it all up with a conclusion
 
 We estimated this would take about **50 hours**, and amazingly, we finished in just 46! The final product was a detailed audit report that analyzed everything from the app's structure to the code itself. We also included recommendations on how to improve deployment efficiency, make it easier for new developers to jump in, and speed up project setup.
 
