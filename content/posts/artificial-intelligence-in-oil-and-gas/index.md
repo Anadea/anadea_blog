@@ -4,20 +4,21 @@ title: "AI in Oil and Gas Industry: Excellent Duo and Impressive Results"
 breadcrumbs: AI in the Oil and Gas Industry
 slug: artificial-intelligence-in-oil-and-gas
 draft: false
-publishDate: 2023-10-05T00:00:00.000Z
-image: ai_oil_gas.png
-og_image: ai_oil_gas_socials.png
+publishDate: 2025-07-18T14:37:00+03:00
+image: large-oil-rig-is-water-with-word-oil-it.jpg
+og_image: large-oil-rig-is-water-with-word-oil-it.jpg
 description: With the right approaches, AI can revolutionize the work of many
   companies. In this article, we’d like to talk about use cases of AI in oil and
   gas industry.
 promote:
   promote: false
-top: false
+top: true
 authors:
   - ai-ml-team
 categories:
   - business
   - ai-ml
+  - trends
 industries:
   - oil-and-gas
 questionary:
