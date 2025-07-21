@@ -41,9 +41,11 @@ questionary:
       Thirdly, it is vital to make sure that the used tools are fully compliant
       with the existing regulations.
 ---
-While AI is one of the trendiest and most innovative technologies today, the oil and gas industry is considered one of the most traditional markets, typically resistant to change. However, reality differs from common perception. In 2025, [emerging technologies](https://getglobalgroup.com/current-trends-shaping-the-upstream-oil-gas-industry-in-2025/), including AI, are being actively adopted by upstream companies. Around [70% of companies](https://wifitalents.com/ai-in-the-gas-industry-statistics/) in the oil and gas market use AI-powered tools for their exploration activities.
+Mounting operational costs, persistent accident risks, stringent emissions reduction requirements, market volatility, and vast data volumes – these are just a few of the critical challenges facing the oil and gas industry today. In search of solutions, this historically conservative sector is taking a bold leap into the future by turning en masse to cutting-edge technologies. Artificial intelligence is proving to be the powerful tool helping companies achieve remarkable results.
 
-In this article, we invite you to explore the role of AI in the oil and gas industry, its real-life use cases, benefits, and the most promising future trends.
+[A recent IBM report ](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/oil-and-gas-in-ai-era)confirms the rapid adoption of AI across all segments: currently, 44% of exploration and production (upstream) companies utilize AI, with another 45% planning implementation within the next three years. Downstream adoption is equally impressive: 41% already apply AI, and 52% are preparing for deployment.
+
+This article explores how AI is becoming the key to overcoming these challenges, featuring concrete success stories. Read on.
 
 ## Digitalization of the Oil and Gas Industry
 
