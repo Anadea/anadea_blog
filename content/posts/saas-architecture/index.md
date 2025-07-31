@@ -70,7 +70,7 @@ If you are currently at a crossroads, our article will explain the benefits of d
 
 SaaS: Quick Overview
 
-SaaS architecture is a structural design of cloud-based software applications that are delivered to users via the internet. It enables multiple users to access a software application over the internet. This approach eliminates the need for local installation, maintenance, or infrastructure management conducted by the user.
+SaaS application architecture is a structural design of cloud-based software applications that are delivered to users via the internet. It enables multiple users to access a software application over the internet. This approach eliminates the need for local installation, maintenance, or infrastructure management conducted by the user.
 
 
 
