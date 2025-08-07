@@ -140,7 +140,221 @@ When creating your monetization strategy for a new social media app, you need to
 
 In the table below, you can find the most popular monetization models for social networking apps with their pros and cons.
 
-ТАБЛИЦЯ
+<table>
+
+<thead>
+
+<tr>
+
+<th>
+
+<p><strong>Monetization model</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>Pluses</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>Minuses</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>Best&nbsp; for</strong></p>
+
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">In-app ads (native, video, banners)</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Easy integration with third-party ad networks;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Good scalability;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Revenue generation without charging users directly.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Risk of negative impact on user experience;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">High user engagement is needed for profitability;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Effectiveness can be limited due to ad blockers or low CTRs.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Apps with high user engagement and large daily active user counts</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Subscriptions and freemium models</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Predictable revenue stream;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Encouragement of long-term engagement;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Users have a choice between free and premium experiences.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Risk of entry barrier (if users don&rsquo;t see enough value up front);</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Continuous delivery of premium features is required to justify the cost;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Lower conversion rates (not all users are ready to pay).</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Apps with clear value-adds like analytics, exclusive communities, etc.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">In-app purchases (extra features, profile or content boosts, etc.)</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Flexible and user-friendly model;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">No interruption of the user experience (unlike the ad-based model);</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Revenue generation from both free and engaged users.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Unpredictable revenue;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Careful pricing and feature selection required;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Necessity to clearly demonstrate the compelling value of paid features beyond the free tier.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Apps that emphasize user-generated content or user discoverability</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Creator monetization (Premium features for influencers)</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Engagement of high-value content creators;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Self-sustaining ecosystem;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Potential for viral growth.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Advanced infrastructure required (for payment processing, money withdrawal, etc.);</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Risk of alienating non-creator users;</span></p>
+
+<br />
+
+<p><span style="font-weight: 400;">Complexity of moderation.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Creator-centric platforms</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 For your app, you don’t need to choose only one approach. You can combine multiple strategies. Nevertheless, you should be careful in this case in order to avoid overwhelming users. We recommend you conduct A/B testing before implementing any changes in your monetization model.
 
