@@ -55,7 +55,6 @@ Before this virus emerged, there were already other applications of Computer Vis
 
 Medical imagery was a long-established field in healthcare before Computer Vision became mainstream. Now with the integration of Computer Vision technology, it strengthens personalized medical plans, decision making, and care assistance. Computer vision projects in healthcare are numerous and varied in their applications.
 
-
 Medical vision technology is already helping doctors, across a range of specialisms, with image annotation, image segmentation, multimodal image fusion, and other possibilities that didn't exist until recently. A wide range of specialist systems are being evaluated as part of FDA trials. Some that have already been approved are playing a role in the diagnosis of patients, supporting decision making and helping doctors create more accurate and effective treatment plans.
 
 ### 2. Medical startups using Computer Vision solutions
@@ -64,11 +63,11 @@ Many of the largest tech companies in the world have already got actively involv
 
 One custom Сomputer Vision development company, Zebra Medical Vision, has developed a Computer Vision solution to identify coronary calcium scores. Another firm, Artery, has developed something similar to detect the flow of blood through the body without an MRI. Bay Labs are using another solution based on the same principles to detect cardiovascular disease using ultrasounds.
 
-It takes years of training for doctors and lab technicians to detect health conditions. Especially the rarer, more difficult to diagnose ones, which means mistakes can be made. Whereas, with a <a href="https://anadea.info/services/machine-learning-software-development" target="_blank">machine learning services</a> and cloud-based solutions, the number of images being analyzed in the system will increase accurate diagnosis.
+It takes years of training for doctors and lab technicians to detect health conditions. Especially the rarer, more difficult to diagnose ones, which means mistakes can be made. Whereas, with a <a href="https://anadea.info/services/machine-learning-software-development">machine learning services</a> and cloud-based solutions, the number of images being analyzed in the system will increase accurate diagnosis.
 
 ### 3. Making healthcare applications more accessible
 
-Continuous improvements in hardware and smartphones are making a scientific future more possible in the here and now. When it comes to Computer Vision technology, this means however images - either videos or pictures - are taken, they can be fed into <a href="https://anadea.info/blog/machine-learning-in-healthcare" target="_blank">AI and ML-powered systems</a> and used to diagnose diseases outside of a medical environment.
+Continuous improvements in hardware and smartphones are making a scientific future more possible in the here and now. When it comes to Computer Vision technology, this means however images - either videos or pictures - are taken, they can be fed into <a href="https://anadea.info/blog/machine-learning-in-healthcare">AI and ML-powered systems</a> and used to diagnose diseases outside of a medical environment.
 
 ### 4. Detect diseases at an earlier stage
 
