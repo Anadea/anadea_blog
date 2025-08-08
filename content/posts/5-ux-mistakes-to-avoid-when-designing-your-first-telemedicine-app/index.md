@@ -21,13 +21,13 @@ categories:
 industries:
   - healthcare
 ---
-Developing a mobile application is a complicated task, especially when you are designing a <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication" target="_blank">telemedicine app</a> that will facilitate online health visits. As a developer, you need to fit in the unique user interface with excellent app functionality to ensure smooth interaction between the patient and the doctor through video chat.
+Developing a mobile application is a complicated task, especially when you are designing a <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication">telemedicine app</a> that will facilitate online health visits. As a developer, you need to fit in the unique user interface with excellent app functionality to ensure smooth interaction between the patient and the doctor through video chat.
 
 When healthcare is involved, there's no room for designing mistakes. If you fail to avoid the common UX pitfalls, your mobile app will fail to get the much needed public attention. It also leaves a negative impression on potential clients because your app is not downloaded enough times or has negative reviews online.
 
 Without a doubt, UX (User Experience) is the primary reason why an app suffers. According to statistics, more than <a href="https://econsultancy.com/blog/10936-site-speed-case-studies-tips-and-tools-for-improving-your-conversion-rate" rel="nofollow" target="_blank">85%</a> of customers uninstall a mobile application and never download it again if they have a terrible experience. Of course, you don't want to fall into the same trap with your first telemedicine app.
 
-However, before we jump to highlighting the most common UX mistakes in <a href="https://anadea.info/solutions/medical-app-development/telemedicine-development" target="_blank">telemedicine software development</a>, let's dig deeper into what exactly is UX.
+However, before we jump to highlighting the most common UX mistakes in <a href="https://anadea.info/solutions/medical-app-development/telemedicine-development">telemedicine software development</a>, let's dig deeper into what exactly is UX.
 
 ## What is user experience (UX)
 
