@@ -257,23 +257,18 @@ If you’re planning to develop a doctor appointment app, there’s no universal
 
 #### Estimated Budget
 
-$20,000 - $35,000 – for a basic MVP with core functionality for patients and doctors (registration, doctor search, appointment booking, reminders, user profiles).
+* $20,000 - $35,000 – for a basic MVP with core functionality for patients and doctors (registration, doctor search, appointment booking, reminders, user profiles).
+* $35,000 - $60,000 – for a more advanced version that includes an admin panel, analytics, online consultations, and EHR system integration.
+* $60,000 and above – for apps with advanced features like AI symptom checkers, real-time video consultations, integration with wearable devices, complex business logic, or custom infrastructure.
 
-$35,000 - $60,000 – for a more advanced version that includes an admin panel, analytics, online consultations, and EHR system integration.
+#### Estimated Timeline
 
-$60,000 and above – for apps with advanced features like AI symptom checkers, real-time video consultations, integration with wearable devices, complex business logic, or custom infrastructure.
+* 5 to 8 months – typical development time for a full-scale solution for iOS, Android, and web platforms, including research, design, development, and testing.
+* 3 to 4 months – to launch a well-scoped MVP, assuming a focused team and clearly defined functionality.
 
-Estimated Timeline
+{{< advert_with_cta title="Have a product idea or a rough concept in mind?" description="We’ll help you estimate the scope of work, timeline, and budget – and suggest ways to optimize costs without compromising on quality." button="Contact us" url="https://anadea.info/contacts" >}}
 
-5 to 8 months – typical development time for a full-scale solution for iOS, Android, and web platforms, including research, design, development, and testing.
-
-3 to 4 months – to launch a well-scoped MVP, assuming a focused team and clearly defined functionality.
-
-Have a product idea or a rough concept in mind?
-
-We’ll help you estimate the scope of work, timeline, and budget – and suggest ways to optimize costs without compromising on quality.
-
-Step #6. Guarantee Thorough Testing Before Launch
+### Step #6. Guarantee Thorough Testing Before Launch
 
 Before launching the doctor appointment application to production, it’s essential to make sure everything works reliably and predictably. In healthcare, there’s no room for errors – especially when it comes to scheduling, payments, or access to personal data.
 
