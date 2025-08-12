@@ -262,31 +262,25 @@ An LLM powers the reasoning and generation capabilities of your AI agent.
 
 {{< advert_with_cta title="Want to see how LLMs are powering real business solutions?" description="Check out our GenAI applications for businesses article for practical examples and insights." button="Explore more" url="https://anadea.info/blog/gen-ai-applications-for-business/" >}}
 
-Vector Databases
+### Vector Databases
 
-Such databases are required for memory, context enrichment, and retrieval-augmented generation (RAG). Weaviate, Pinecone, FAISS are among the most commonly chosen options.
+Such databases are required for memory, context enrichment, and retrieval-augmented generation (RAG). **Weaviate**, **Pinecone**, **FAISS** are among the most commonly chosen options.
 
-Orchestration Tools
+### Orchestration Tools
 
-They are used to coordinate tasks, API calls, or background processes. For example, Celery helps organize job queues for heavy or async tasks.
+They are used to coordinate tasks, API calls, or background processes. For example, **Celery** helps organize job queues for heavy or async tasks.
 
-Meanwhile, LangGraph ensures visual and code-based orchestration for LangChain agents.
+Meanwhile, **LangGraph** ensures visual and code-based orchestration for LangChain agents.
 
-Other Utilities and Methods
+### Other Utilities and Methods
 
 There are also some other tools and techniques that can help you build advanced functionality for your AI agent.
 
-OpenAI function (tool) calling allows agents to call external systems and work with data that was not included in their training datasets.
+* **OpenAI function (tool) calling** allows agents to call external systems and work with data that was not included in their training datasets.
+* **ReAct (reason + act)** is a prompting pattern that will enable your agent to switch between reasoning and taking actions. As a result, they can think step-by-step and explain their decisions. Thanks to this, it is possible to reduce AI hallucinations and improve transparency.
+* **The RAG method** combines LLMs with search-based grounding. Your agent will be able to get access to real knowledge, like your company docs or product manuals.
 
-ReAct (reason + act) is a prompting pattern that will enable your agent to switch between reasoning and taking actions. As a result, they can think step-by-step and explain their decisions. Thanks to this, it is possible to reduce AI hallucinations and improve transparency.
-
-The RAG method combines LLMs with search-based grounding. Your agent will be able to get access to real knowledge, like your company docs or product manuals.
-
-Looking for developers to build your AI agent?
-
-At Anadea, we have rich experience in working with AI technologies. Share your requirements with us to get project estimates for free.
-
-Get a quote
+{{< advert_with_cta title="Looking for developers to build your AI agent?" description="At Anadea, we have rich experience in working with AI technologies. Share your requirements with us to get project estimates for free." button="Get a quote" url="https://anadea.info/free-project-estimate" >}}
 
 Step-by-Step Guide: How to Create an AI Agent for Summarizing Business Emails
 
