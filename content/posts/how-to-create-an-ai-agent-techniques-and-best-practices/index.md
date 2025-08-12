@@ -36,19 +36,17 @@ Already today, AI agents have found their use across industries. According to Pw
 
 Today, a lot of prominent companies have already successfully launched their AI agents.
 
-Customer support. Zendesk AI agents are powered by natural language understanding and action capabilities. They can handle 80%+ of customer interactions without human participation. AI agents detect customer intent and sentiment to craft responses in a human-like manner. Some of the businesses that implemented Zendesk AI agents in their processes report significant outcomes, like a 66% automation rate, up to 50% reduction in ticket volumes, and multi-hundred-thousand-dollar savings per year.
-
-Coding assistants. GitHub Copilot provides real-time code completions, from single lines to entire functions or boilerplate. Additionally, it can offer review suggestions to improve your codebase. In a controlled experiment, developers using GitHub Copilot completed coding tasks 55% faster than those without it. 87% of surveyed users said Copilot helped preserve mental energy during repetitive tasks. 73% noted Copilot helped them maintain focus and stay in the flow.
-
-Data analysis and reporting. Such agents can pull data, analyze trends, and generate reports. Power BI Copilot is one of the examples. Even non-technical users without specific knowledge can build reports, generate insights, and explore data through prompts in natural language. Power BI Copilot integrates smoothly with services like Azure Data Factory, Dynamics 365, and Microsoft Teams.
+* **Customer support**. [Zendesk AI agents](https://support.zendesk.com/hc/en-us/articles/6970583409690-About-AI-agents) are powered by natural language understanding and action capabilities. They can handle [80%+ of customer interactions](https://www.zendesk.com/service/ai/) without human participation. AI agents detect customer intent and sentiment to craft responses in a human-like manner. Some of the businesses that implemented Zendesk AI agents in their processes report significant outcomes, like a 66% automation rate, up to 50% reduction in ticket volumes, and multi-hundred-thousand-dollar savings per year.
+* **Coding assistants**. [GitHub Copilot](https://github.com/features/copilot) provides real-time code completions, from single lines to entire functions or boilerplate. Additionally, it can offer review suggestions to improve your codebase. In a controlled experiment, developers using GitHub Copilot completed coding tasks [55% faster](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) than those without it. 87% of surveyed users said Copilot helped preserve mental energy during repetitive tasks. 73% noted Copilot helped them maintain focus and stay in the flow.
+* **Data analysis and reporting**. Such agents can pull data, analyze trends, and generate reports. Power BI Copilot is one of the examples. Even non-technical users without specific knowledge can build reports, generate insights, and explore data through prompts in natural language. [Power BI Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction) integrates smoothly with services like Azure Data Factory, Dynamics 365, and Microsoft Teams.
 
 The data that comes from PwC’s survey shows that 66% of respondents cited increased productivity as the main advantage of using AI agents. Cost savings (57%), faster decision-making (55%), and improved customer experience (54%) are among other commonly mentioned benefits.
 
-Curious to learn more about the real-life value of AI tools? 
+![](ai-agent-use-by-business-function-1-.png)
 
-Explore the impact of AI on business in our blog post.
 
-Open the article
+
+{{< advert_with_cta title="Curious to learn more about the real-life value of AI tools? " description="Explore the impact of AI on business in our blog post." button="Open the article" url="https://anadea.info/guides/the-impact-of-ai-on-business" >}}
 
 AI Agent App vs Chatbot vs LLM Wrapper
 
