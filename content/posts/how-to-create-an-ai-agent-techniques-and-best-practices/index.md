@@ -26,11 +26,13 @@ An AI agent is an autonomous or semi-autonomous software system that can perceiv
 
 Such systems work based on a combination of inputs, including data received from users, sensors, or other systems, as well as algorithms and decision-making rules. Additionally, they are powered by an output mechanism that enables them to interact with users and the environment.
 
-How AI Agents Can Be Used
+### How AI Agents Can Be Used
 
 Already today, AI agents have found their use across industries. According to PwC’s AI Agent Survey, as of May 2025, 57% of companies have already implemented AI agents for customer support or are planning to do so within the next six months. Sales and marketing are the second most common applications of such solutions, while IT and cybersecurity are in third place.
 
-Real-life Examples of AI Agents
+![](ai-agent-use-by-business-function.png)
+
+#### Real-life Examples of AI Agents
 
 Today, a lot of prominent companies have already successfully launched their AI agents.
 
