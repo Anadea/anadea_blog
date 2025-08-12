@@ -5,6 +5,8 @@ breadcrumbs: "How to Build an AI Agent "
 slug: "how-to-build-an-ai-agent "
 draft: false
 publishDate: 2025-08-12T08:30:00+03:00
+image: cyborg-robot-hand-uniform-3d-rendering.jpg
+og_image: cyborg-robot-hand-uniform-3d-rendering.jpg
 description: Want to know how to create an AI agent for your business? Learn the
   basics of planning, building, and deploying an agent-based solution in our
   guide.
