@@ -282,13 +282,13 @@ There are also some other tools and techniques that can help you build advanced 
 
 {{< advert_with_cta title="Looking for developers to build your AI agent?" description="At Anadea, we have rich experience in working with AI technologies. Share your requirements with us to get project estimates for free." button="Get a quote" url="https://anadea.info/free-project-estimate" >}}
 
-Step-by-Step Guide: How to Create an AI Agent for Summarizing Business Emails
+## Step-by-Step Guide: How to Create an AI Agent for Summarizing Business Emails
 
 Now, when you know the key design principles and tools that can be used for building an AI agent app, it’s time to find out how to organize the development process. Of course, some steps can slightly differ depending on the exact type of your solution.
 
 For gaining a general understanding of how to build AI tools, we invite you to consider the basic stages of the development of a simple AI agent. As an example, we have decided to take an agent for summarizing business emails.
 
-Step 1. Define Your Goal
+### Step 1. Define Your Goal
 
 First of all, you need to define what your agent is supposed to do. 
 
@@ -296,7 +296,7 @@ For greater clarity, we will use an example from our practice. Our customer on t
 
 Here, the first thing that we needed to understand was whether the agent should summarize single messages one by one or entire threads, as well as how the email summary would be delivered to users. Given the company’s workflows, it was decided to summarize single messages and the summaries would be added to the top of each incoming email.
 
-Step 2. Choose Your LLM and Framework
+### Step 2. Choose Your LLM and Framework
 
 As we have highlighted in our article, today there is a rich choice of frameworks and large language models like GPT-4, Gemini, and Claude that can be used for building an AI solution. 
 
@@ -304,7 +304,7 @@ At this step, it will be necessary to choose the best-suited options for your pr
 
 For our AI agent for a law firm, we chose Claude. This model is known for its safety working in sensitive contexts. Moreover, it is good at summarization and understanding nuanced text.
 
-Step 3. Add Memory and Context Management
+### Step 3. Add Memory and Context Management
 
 Empower your agent with the ability to remember relevant context. This is especially important if you expect it to summarize multi-email threads.
 
@@ -312,7 +312,7 @@ You can use a simple document memory or a retrieval system. In the case of a ret
 
 We also enriched our agent with retrieval capabilities to let it get the latest updates from the legal field.
 
-Step 4. Integrate Tool Use
+### Step 4. Integrate Tool Use
 
 You need to allow the agent to interact with external systems and work with their data.
 
@@ -322,31 +322,25 @@ Integrations with a CRM system and/or Calendar can be done via an AI agents plug
 
 Apart from the email system, our AI agent was also integrated with a case management system. This integration enables the agent to add summaries into case records and automatically link emails to specific cases.
 
-Step 5. Test with Realistic Scenarios
+### Step 5. Test with Realistic Scenarios
 
 It’s essential to run real-world tests. For this, you can use actual or sample emails. When testing your agent, evaluate summary clarity and accuracy of key points.
 
 We also recommend using edge cases. We also did it. We tested our agent on long threads and emails from multiple senders.
 
-Step 6: Improve via Feedback
+### Step 6: Improve via Feedback
 
 When the first version of your agent is functional, you need to find out what users think about it. 
 
 It’s necessary to allow users to rate the quality of the agent's work and share their feedback. Thanks to this, you will get valuable insights for further tool and logic updates.
 
-
-
 For businesses, it can be pretty challenging to build AI tools, relying solely on their in-house teams. Quite often, they don’t have developers with relevant skills on board, while training or hiring can be expensive and time-consuming. That’s why working with AI software development companies like Anadea can become a good option for them. 
 
 At Anadea, we have been successfully building AI solutions since 2019, helping companies across various industries gain a competitive edge. This allowed us to gain a deep understanding of the specificity of this technology and its value for different domains.
 
-Need more practical tips?
+{{< advert_with_cta title="Need more practical tips?" description="Explore our comprehensive guide on AI software development." button="Read it now!" url="https://anadea.info/blog/how-to-create-ai-software/" >}}
 
-Explore our comprehensive guide on AI software development.
-
-Read it now!
-
-How to Debug and Enhance Your AI Agent
+## How to Debug and Enhance Your AI Agent
 
 Apart from knowing how to build AI software, it’s also crucial to know how to make it bring the highest value for your business. That’s why after performing 6 key development steps, you need to dive deeper into how to evaluate and strengthen the performance of your AI solution.
 
