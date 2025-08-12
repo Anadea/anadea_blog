@@ -218,53 +218,49 @@ Before we proceed to our practical tips on how to build AI software, let’s tak
 * **Memory**. This component enables an AI agent to remember decisions and results of previous interactions. Short-term memory stores the context within one session for task continuity. Meanwhile, long-term memory keeps knowledge across sessions. It stores historical data in vector databases for retrieval and future use. Such memory composition supports learning, iteration, and building on past work.
 * **Tools**. AI agents can be integrated with such tools as APIs, databases, web search, file systems, calculators, etc. to perform a wide range of real-world tasks.
 
-How to Build an AI Agent: Design Principles for Effective Solutions
+## How to Build an AI Agent: Design Principles for Effective Solutions
 
 Thanks to the capabilities of AI agents, they can be entrusted with highly important tasks and processes. That’s why it’s crucial to approach the creation of such solutions with excellent knowledge of design principles.
 
-Goal Orientation
+### Goal Orientation
 
 Your AI agents should not just respond to isolated inputs. They should have a clear understanding of the end goal.
 
 It is necessary to design them with a roadmap in mind. Each action or decision that agents make should contribute toward a larger goal (like improving client communication, automating repetitive tasks, or providing data-driven insights). 
 
-Modularity and Reusability
+### Modularity and Reusability
 
 With this approach to building your AI solution, your team should create a library of modular components (for example, for document summarization or data extraction). These components can be reused across different agents and projects.
 
 As a result, it will be faster and cheaper to develop and debug new tools. Instead of developing everything from scratch, your team will be able to integrate ready-to-use components into new solutions.
 
-Safety and Alignment
+### Safety and Alignment
 
 When your AI agents are built to act autonomously, you should be ready that their behavior can be unpredictable. Nevertheless, misalignment with user goals or unsafe practices can result in real-world harm, such as exposing sensitive client data or generating misleading information. 
 
 Implementing safety checks, strict access controls, and alignment testing during development are crucial for building trustworthy and safe AI tools.
 
-Feedback Loops and Continuous Learning
+### Feedback Loops and Continuous Learning
 
 One of the most important advantages of AI agents is their ability to learn from their experience. Thanks to this, they can better adapt to the environment and demonstrate higher results over time.
 
 Your team can integrate structured feedback loops of different types. For instance, users may have the possibility to rate outputs or flag errors. Over time, small gradual improvements can result in significantly better performance and higher accuracy of your AI models.
 
-Tool Stack Overview
+## Tool Stack Overview
 
 To build an AI agent that will address your needs, you should also choose the right frameworks and infrastructure tools for it. Let's consider the most popular technologies used in AI software development.
 
-Frameworks
+### Frameworks
 
-Frameworks define agent architecture and help you structure the elements of your solutions. Popular options are LangChain and Semantic Kernel. Some available frameworks offer specific possibilities. For instance, AutoGen and CrewAI allow developers to build multi-agent systems.
+Frameworks define agent architecture and help you structure the elements of your solutions. Popular options are **LangChain** and **Semantic Kernel**. Some available frameworks offer specific possibilities. For instance, **AutoGen** and **CrewAI** allow developers to build multi-agent systems.
 
-Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 An LLM powers the reasoning and generation capabilities of your AI agent.
 
-GPT models by OpenAI are suitable for general-purpose reasoning. Claude by Anthropic is good for following complex instructions with a long context. Meanwhile, Mixtral by Mistral is known as a high-performance model. There are also open-source LLMs like Llama by Meta or Grok by xAI that can offer great flexibility and customization. As a result, businesses can fine-tune such models on their own proprietary domain-specific data, deeply integrate them with internal systems and workflows, as well as deploy on private infrastructure.
+**GPT models** by OpenAI are suitable for general-purpose reasoning. **Claude** by Anthropic is good for following complex instructions with a long context. Meanwhile, **Mixtral** by Mistral is known as a high-performance model. There are also open-source LLMs like **Llama** by Meta or **Grok** by xAI that can offer great flexibility and customization. As a result, businesses can fine-tune such models on their own proprietary domain-specific data, deeply integrate them with internal systems and workflows, as well as deploy on private infrastructure.
 
-Want to see how LLMs are powering real business solutions?
-
-Check out our GenAI applications for businesses article for practical examples and insights.
-
-Explore more
+{{< advert_with_cta title="Want to see how LLMs are powering real business solutions?" description="Check out our GenAI applications for businesses article for practical examples and insights." button="Explore more" url="https://anadea.info/blog/gen-ai-applications-for-business/" >}}
 
 Vector Databases
 
