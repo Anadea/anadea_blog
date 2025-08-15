@@ -252,7 +252,7 @@ Buyers benefit from a wide variety of products, competitive pricing, and conveni
 
 At the same time, sellers appreciate low barriers to entry, the possibility of enhancing brand visibility, and efficient transaction processing. Additionally, they want to have advanced analytics on customer behavior, sales trends, and marketing performance as it can help them optimize their business growth.
 
-## Step 2. Choose the Right Monetization Model
+### Step 2. Choose the Right Monetization Model
 
 The revenue model is the foundation of the financial sustainability of your platform. That’s why, even before starting to design and code your online marketplace app, you should clearly understand how you will earn money on it.
 
@@ -483,103 +483,231 @@ When you are planning to create your own marketplace, you should define what fea
 
 {{< advert_with_cta title="Have plans to build a real estate marketplace?" description="On our blog, we’ve shared professional recommendations on the development of such a platform." button="Read our guide" url="https://anadea.info/blog/how-to-build-real-estate-marketplace/" >}}
 
-## Step 4. Design UX/UI for Two-Sided Interaction
+### Step 4. Design UX/UI for Two-Sided Interaction
 
 Your online marketplace app should not only have visually appealing interfaces. It should also allow users to easily complete their goals. That’s why, in the design stage, a smooth user experience should become your priority.
 
 Before moving into marketplace app development, create wireframes for user journeys. As you have buyers and sellers, you should think about two separate flows.
 
-Buyer’s journey
+<table>
 
-Seller’s journey
+<thead>
 
-Browsing
+<tr>
 
-Filtering and search
+<th>
 
-Viewing product/service details
+<p><strong>Buyer&rsquo;s journey</strong></p>
 
-Checkout
+</th>
 
-Order tracking
+<th>
 
-Profile creation
+<p><strong>Seller&rsquo;s journey</strong></p>
 
-Listing creation
+</th>
 
-Order management
+</tr>
 
-Viewing analytics
+</thead>
 
-Withdrawing earnings
+<tbody>
+
+<tr>
+
+<td>
+
+<ol>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Browsing</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Filtering and search</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Viewing product/service details</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Checkout</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Order tracking</span></li>
+
+</ol>
+
+</td>
+
+<td>
+
+<ol>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Profile creation</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Listing creation</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Order management</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Viewing analytics</span></li>
+
+<li style="font-weight: 400;"><span style="font-weight: 400;">Withdrawing earnings</span></li>
+
+</ol>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 If you visualize each step, you will be able to detect and optimize friction points before your team starts coding.
 
-UX/UI Design Best Practices
+#### UX/UI Design Best Practices
 
 These tips will help you build a marketplace app that will meet the expectations of modern users.
 
-Use the same design patterns, icons, and navigation styles across the entire app, including buyer and seller areas.
+* Use the same design patterns, icons, and navigation styles across the entire app, including buyer and seller areas.
+* Minimize the number of on-screen elements that a user can see at once. Limit them to only what’s needed for the current action.
+* Make sure that layouts can adapt smoothly to different devices.
+* Optimize images and code to reduce delays. According to Google, the probability of bounce is [32% higher](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/page-load-time-statistics/) if page load time increases from 1 to 3 seconds.
+* Think about the accessibility of your app. It should be easily and effectively used by as many individuals as possible, including people with disabilities. 
 
-Minimize the number of on-screen elements that a user can see at once. Limit them to only what’s needed for the current action.
-
-Make sure that layouts can adapt smoothly to different devices.
-
-Optimize images and code to reduce delays. According to Google, the probability of bounce is 32% higher if page load time increases from 1 to 3 seconds.
-
-Think about the accessibility of your app. It should be easily and effectively used by as many individuals as possible, including people with disabilities. For instance, you can consider such features as color accessibility, keyboard navigation, readable typography, and screen reader compatibility.
-
-Step 5: Choose the Tech Stack for Marketplace App Development
+### Step 5: Choose the Tech Stack for Marketplace App Development
 
 The right choice of the tech stack is an important factor in the success of your future app. It affects development speed, scalability, maintenance costs, and user experience. It may be challenging for non-technical specialists to make any decisions regarding the tools and frameworks to be used. That’s why you should discuss the tech stack choice with your development team or, if you don’t have in-house experts, with a marketplace app development company, like Anadea.
 
-Need help in choosing the right tech stack?
+{{< advert_with_cta title="Need help in choosing the right tech stack?" description="We are ready to support you at any step of your project realization." button="Book a consultation" url="https://anadea.info/contacts" >}}
 
-We are ready to support you at any step of your project realization.
-
-Book a consultation
-
-Native vs Cross-Platform Development
+#### Native vs Cross-Platform Development
 
 The first thing to consider before building a marketplace is whether you will build native apps (those that are developed separately for each mobile platform) or a cross-platform solution (in this case, code will be written just once and the same codebase will run on several platforms). Both approaches have their pluses and minuses.
 
-Characteristics
+<table>
 
-Native development
+<thead>
 
-Cross-platform development
+<tr>
 
-Pros
+<th>
 
-Best performance;
+<p><strong>Characteristics</strong></p>
 
-Full access to device features;
+</th>
 
-Highly optimized user experience
+<th>
 
-Single codebase for iOS and Android;
+<p><strong>Native development</strong></p>
 
-Faster development; 
+</th>
 
-Lower cost
+<th>
 
-Cons
+<p><strong>Cross-platform development</strong></p>
 
-Increased cost and development time
+</th>
 
-Such apps may require native modules for advanced features
+</tr>
 
-Best for
+</thead>
 
-High-performance apps with complex interactions or heavy graphics
+<tbody>
 
-MVPs and apps that prioritize faster time-to-market 
+<tr>
 
-Technologies
+<td>
 
-Swift for iOS, Kotlin/Java for Android
+<p><span style="font-weight: 400;">Pros</span></p>
 
-React Native, Flutter
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Best performance;</span></p>
+
+<p><span style="font-weight: 400;">Full access to device features;</span></p>
+
+<p><span style="font-weight: 400;">Highly optimized user experience</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Single codebase for iOS and Android;</span></p>
+
+<p><span style="font-weight: 400;">Faster development;&nbsp;</span></p>
+
+<p><span style="font-weight: 400;">Lower cost</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Cons</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Increased cost and development time</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Such apps may require native modules for advanced features</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Best for</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">High-performance apps with complex interactions or heavy graphics</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">MVPs and apps that prioritize faster time-to-market&nbsp;</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Technologies</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Swift for iOS, Kotlin/Java for Android</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">React Native, Flutter</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 Once the key technology for your app is chosen, it’s time to consider the other tools developers will use to create the desired functionality.
 
