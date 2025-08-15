@@ -230,33 +230,29 @@ Our company has been working in the software development industry for more than 
 
 This allowed us to develop a highly efficient approach to building scalable platforms with the needs of buyers and sellers in mind.
 
-Want to explore how we built a healthcare marketplace?
-
-For one of our clients, we developed a platform that unites patients, clinics, and healthcare specialists.
-
-Read our case study
+{{< advert_with_cta title="Want to explore how we built a healthcare marketplace?" description="For one of our clients, we developed a platform that unites patients, clinics, and healthcare specialists." button="Read our case study" url="https://anadea.info/projects/healthcare-marketplace" >}}
 
 Below you can find the explanation of the key project stages and the core decisions that should be made in each of them.
 
-Step 1. Define Your Niche and Value Proposition
+### Step 1. Define Your Niche and Value Proposition
 
 “What will make my marketplace unique? And why will users choose my app?” These are the first questions that you should ask yourself. If you can’t find the answers to them, it’s highly unlikely that your potential buyers and sellers will be able to do it.
 
 We recommend that you don’t try to cover all possible audiences and categories of goods at once. Instead, you can focus on a niche so that you will face less competition in a well-defined niche compared to the broader market. 
 
-One of the most successful niche marketplaces is StockX. It was launched in 2016 and is currently used by millions of people from more than 200 countries. It functions as a P2P resale platform and allows buyers to find unique sneakers, electronics, trading cards, collectibles, and accessories.
+One of the most successful niche marketplaces is [StockX](https://stockx.com/about/company/). It was launched in 2016 and is currently used by millions of people from more than 200 countries. It functions as a P2P resale platform and allows buyers to find unique sneakers, electronics, trading cards, collectibles, and accessories.
 
-In 2019, the platform’s gross merchandise value (GMV is a critical performance metric that is closely tracked by investors) surpassed $1 billion. Though the recent figures haven't been officially revealed, according to Digital Commerce 360, StockX’s GMV could have hit $8.04 billion in 2024.
+In 2019, the platform’s gross merchandise value (GMV is a critical performance metric that is closely tracked by investors) surpassed [$1 billion](https://stockx.com/about/en-us/stockx-reveals-resale-market-insights-and-company-momentum-surpasses-1-billion-in-gross-merchandise-value-in-2019/). Though the recent figures haven't been officially revealed, according to [Digital Commerce 360](https://www.digitalcommerce360.com/2024/11/12/stockx-selects-co-founder-as-its-new-ceo/), StockX’s GMV could have hit $8.04 billion in 2024.
 
-What are buyers and sellers looking for?
+#### What are buyers and sellers looking for?
 
-When you are just preparing to build a marketplace	app, you should clearly understand what is valued by the potential users.
+When you are just preparing to build a marketplace app, you should clearly understand what is valued by the potential users.
 
 Buyers benefit from a wide variety of products, competitive pricing, and convenient features such as easy search, ordering, delivery, and payment options. They also pay attention to the transparency of the processes and the availability of exclusive deals and promotions.
 
 At the same time, sellers appreciate low barriers to entry, the possibility of enhancing brand visibility, and efficient transaction processing. Additionally, they want to have advanced analytics on customer behavior, sales trends, and marketing performance as it can help them optimize their business growth.
 
-Step 2. Choose the Right Monetization Model
+## Step 2. Choose the Right Monetization Model
 
 The revenue model is the foundation of the financial sustainability of your platform. That’s why, even before starting to design and code your online marketplace app, you should clearly understand how you will earn money on it.
 
