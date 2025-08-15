@@ -5,6 +5,8 @@ breadcrumbs: How to Build a Marketplace App
 slug: how-to-build-a-marketplace-app
 draft: false
 publishDate: 2025-08-15T09:38:00+03:00
+image: shopping-cart-laptop.jpg
+og_image: shopping-cart-laptop.jpg
 description: Learn how to create a marketplace app from scratch in this
   step-by-step guide. Discover essential features, design principles, and tips
   for a successful launch.
