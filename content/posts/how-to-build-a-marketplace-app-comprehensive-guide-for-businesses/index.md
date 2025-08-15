@@ -711,85 +711,73 @@ The first thing to consider before building a marketplace is whether you will bu
 
 Once the key technology for your app is chosen, it’s time to consider the other tools developers will use to create the desired functionality.
 
-Backend Technologies
+#### Backend Technologies
 
 The backend is responsible for business logic and transaction execution. Online marketplace apps are often built with:
 
-Ruby on Rails. It allows teams to build apps fast. It includes a rich library ecosystem and is great for projects that require quick iterations. At Anadea, we have solid expertise in working with Ruby on Rails and know how to solve even the most challenging tasks with its help.
+* **Ruby on Rails**. It allows teams to build apps fast. It includes a rich library ecosystem and is great for projects that require quick iterations. At Anadea, we have solid expertise in working with [Ruby on Rails ](https://anadea.info/services/web-development/ruby-on-rails-development)and know how to solve even the most challenging tasks with its help.
+* **Node.js**. It is excellent for real-time features like live notifications and order tracking. Its architecture can support thousands of simultaneous connections.
+* **Django**. It’s highly secure and well-suited for scalable apps that need strong data protection 
 
-Node.js. It is excellent for real-time features like live notifications and order tracking. Its architecture can support thousands of simultaneous connections.
-
-Django. It’s highly secure and well-suited for scalable apps that need strong data protection 
-
-Database Options
+#### Database Options
 
 Your database choice should depend on how structured your data is. Apart from that, you should also analyze the complexity of queries and the need for scalability.
 
-Relational (SQL) databases like PostgreSQL and MySQL are well-suited for structured data, complex relationships, and transactions. 
+* Relational (SQL) databases like PostgreSQL and MySQL are well-suited for structured data, complex relationships, and transactions. 
+* Non-Relational (NoSQL) databases such as MongoDB and Redis are good for frequently changing data structures.
 
-Non-Relational (NoSQL) databases such as MongoDB and Redis are good for frequently changing data structures.
-
-Cloud Hosting and Infrastructure
+#### Cloud Hosting and Infrastructure
 
 The correctly chosen hosting determines the performance and scalability of your platform. That’s why you should carefully consider different available options and compare such parameters as speed, reliability, security, and cost structure.
 
 We recommend you consider industry leaders like AWS (Amazon Web Services), Google Cloud Platform, and Microsoft Azure. 
 
-Third-Party APIs and Services
+#### Third-Party APIs and Services
 
 Here are the examples of services that are often used for building marketplace apps.
 
-Payments: Stripe Connect, PayPal, MangoPay;
+* **Payments**: Stripe Connect, PayPal, MangoPay;
+* **Communication**: Twilio for SMS, SendGrid for email, CometChat for in-app communication;
+* **Maps and geolocation**: Google Maps, Mapbox;
+* **Analytics**: Google Analytics, Mixpanel, Amplitude.
 
-Communication: Twilio for SMS, SendGrid for email, CometChat for in-app communication;
-
-Maps and geolocation: Google Maps, Mapbox;
-
-Analytics: Google Analytics, Mixpanel, Amplitude.
-
-No-Code/Low-Code Options
+#### No-Code/Low-Code Options
 
 The development from scratch can be time-consuming, so some businesses use no-code or low-code platforms (like Bubble, Retool, or Adalo). Such platforms provide ready-to-use templates, components, and integrations. It means that even non-tech users can build basic solutions with zero or minimal coding.
 
 However, apps built on such platforms have a range of limitations in terms of scalability and customization. That’s why if you do not have in-house programmers, it’s better to partner with a professional development company, instead of relying on low-code tools.
 
-Step 6. Integrate Payments and Payouts
+### Step 6. Integrate Payments and Payouts
 
 Payments and payouts are among the key features of any marketplace. But they come with increased requirements for reliability and security. Users must be confident that making payments on your platform carries no risks and that their funds are safe. To ensure this, you should integrate trusted, reputable services and follow certain precautionary measures.
 
-Key Challenges
+#### Key Challenges
 
 These are the most important points that you should remember when building payment functionality.
 
-Split payments. Funds need to be automatically divided between the seller and the platform’s commission.
+* **Split payments**. Funds need to be automatically divided between the seller and the platform’s commission.
+* **Escrow**. Your platform needs to hold funds until the product is delivered or the service is completed. This is essential to protect both parties.
+* **Multi-currency support**. If you want to work with an international audience, you need to include conversions and local payment methods.
 
-Escrow. Your platform needs to hold funds until the product is delivered or the service is completed. This is essential to protect both parties.
-
-Multi-currency support. If you want to work with an international audience, you need to include conversions and local payment methods.
-
-Popular Payment Solutions
+#### Popular Payment Solutions
 
 Today, the majority of companies that build their own marketplaces choose some of the following options:
 
-Stripe Connect. This service was specially designed for marketplaces. It supports split payments, escrow, KYC, and multi-currency.
+* **Stripe Connect**. This service was specially designed for marketplaces. It supports split payments, escrow, KYC, and multi-currency.
+* **PayPal for Marketplaces**. PayPal will ensure global reach and easy integration. However, it is known for high transaction fees.
+* **MangoPay**. It is very popular in the European market. This service helps businesses meet compliance requirements in the region.
 
-PayPal for Marketplaces. PayPal will ensure global reach and easy integration. However, it is known for high transaction fees.
+#### Security and Compliance: Key Tips
 
-MangoPay. It is very popular in the European market. This service helps businesses meet compliance requirements in the region.
+* Use SSL/TLS encryption for all transactions.
+* Implement PCI DSS compliance. This will help protect cardholder data.
+* Introduce KYC verification. Pay attention to the fact that different regions may have different KYC requirements. While preparing your online marketplace app for expansion, check the regulations in the chosen jurisdictions.
 
-Security and Compliance: Key Tips
-
-Use SSL/TLS encryption for all transactions.
-
-Implement PCI DSS compliance. This will help protect cardholder data.
-
-Introduce KYC verification. Pay attention to the fact that different regions may have different KYC requirements. While preparing your online marketplace app for expansion, check the regulations in the chosen jurisdictions.
-
-Step 7: Build and Test the MVP
+### Step 7: Build and Test the MVP
 
 When you have defined the features for your app, it’s time to develop the minimum viable product (MVP). It should be a working version of your online marketplace app with only the core functionalities. These features should be sufficient to validate your idea and gather user feedback.
 
-In the case of a marketplace, such functionality can be product listings, search, basic payments, and messaging. If you need help in choosing the right features for your MVP, you can turn to our seasoned business analysts.
+In the case of a marketplace, such functionality can be product listings, search, basic payments, and messaging. If you need help in choosing the right features for your MVP, you can turn to our [seasoned business analysts](https://anadea.info/services/business-analysis).
 
 You need to carefully test your MVP before the release. Our team usually conducts functional, performance, and usability testing, along with other test types.
 
@@ -797,41 +785,31 @@ This first version of your app should be launched for a small group of real user
 
 Based on their feedback, you can refine a full-scale version of your marketplace.
 
-Want to launch a marketplace with more than 3M users per year?
+{{< advert_with_cta title="Want to launch a marketplace with more than 3M users per year?" description="We know how! For more than 14 years, we have been supporting the growth of the multi-market e-commerce platform by addressing emerging challenges with advanced tech solutions." button="Learn more" url="https://anadea.info/projects/visdeal" >}}
 
-We know how! For more than 14 years, we have been supporting the growth of the multi-market e-commerce platform by addressing emerging challenges with advanced tech solutions.
-
-Learn more
-
-Step 8: Define Your Launch Strategy
+### Step 8: Define Your Launch Strategy
 
 When you want to build a successful business, you need to focus not only on the technical part of the marketplace app development, but also on the right launch strategy.
 
 Here, you will have a rather challenging task. You need to attract both buyers and sellers simultaneously.
 
-How You Can Attract Users
+#### How You Can Attract Users
 
-Reach out to potential buyers and sellers in your target groups through online communities, forums, social media groups, and email lists.
+* Reach out to potential buyers and sellers in your target groups through online communities, forums, social media groups, and email lists.
+* Offer early access to build a sense of exclusivity. It’s also recommended to introduce promotions for early sellers, like fee discounts or enhanced visibility for free.
+* Collaborate with brands, influencers, or complementary platforms. This will help you gain initial traction on both sides of the marketplace.
+* Introduce a referral program. Encourage early users to invite friends. You can offer rewards, discounts, or premium features.
 
-Offer early access to build a sense of exclusivity. It’s also recommended to introduce promotions for early sellers, like fee discounts or enhanced visibility for free.
-
-Collaborate with brands, influencers, or complementary platforms. This will help you gain initial traction on both sides of the marketplace.
-
-Introduce a referral program. Encourage early users to invite friends. You can offer rewards, discounts, or premium features.
-
-How You Can Track Your App’s Growth
+#### How You Can Track Your App’s Growth
 
 Below you can find the key metrics that will help you monitor how your app is performing.
 
-Gross merchandise value (GMV). It shows the total value of all transactions on the platform.
+* **Gross merchandise value (GMV)**. It shows the total value of all transactions on the platform.
+* **User retention**. It is the percentage of users returning after their first visit.
+* **Customer acquisition cost (CAC) and lifetime value (LTV)**. This metric will demonstrate profitability. It compares what it costs to acquire a user with the revenue they generate over time.
+* **Engagement metrics**. Such metrics track active users, listings posted, and transaction frequency. With their help, you can identify areas for improvement.
 
-User retention. It is the percentage of users returning after their first visit.
-
-Customer acquisition cost (CAC) and lifetime value (LTV). This metric will demonstrate profitability. It compares what it costs to acquire a user with the revenue they generate over time.
-
-Engagement metrics. Such metrics track active users, listings posted, and transaction frequency. With their help, you can identify areas for improvement.
-
-Step 9: Scale and Iterate
+### Step 9: Scale and Iterate
 
 While the majority of startup founders want to know how to build a marketplace platform, it’s also crucial to discover how to expand it.	
 
@@ -839,42 +817,38 @@ When the first fully functional version of your app is successfully working and 
 
 There can be different approaches to this task.
 
-Cross-Platform Expansion
+#### Cross-Platform Expansion
 
 If you opted for native development and started only with one app, you can introduce new versions (web, Android, or iOS) of your platform later.
 
 We strongly recommend that you ensure consistent UX/UI across devices, but leverage native capabilities where it can be beneficial.
 
-International Expansion
+#### International Expansion
 
 If you began your journey only with one market or region, you can expand your app to buyers and sellers in new countries.
 
 Points to remember:
 
-Introduction of multi-currency support;
+* Introduction of multi-currency support;
+* Language localization;
+* Regional compliance.
 
-Language localization;
-
-Regional compliance.
-
-Functionality Expansion
+#### Functionality Expansion
 
 It’s very important to monitor reviews and support tickets to identify areas for improvement. The introduction of advanced features demanded by users can significantly enhance their experience and increase engagement.
 
 For example, you can enrich your platform with:
 
-AI-driven dynamic pricing;
+* AI-driven dynamic pricing;
+* Loyalty programs and gamification;
+* Social sharing.
 
-Loyalty programs and gamification;
+It’s vital to continuously enhance your app, optimize its performance, and equip it with new possibilities based on the ongoing industry trends. If you already have a solution built by another team, our specialists can help you modernize and upgrade it with new features. At Anadea, we have exclusive expertise in [AI development](https://anadea.info/services/ai-software-development) and can implement tools of any complexity.
 
-Social sharing.
-
-It’s vital to continuously enhance your app, optimize its performance, and equip it with new possibilities based on the ongoing industry trends. If you already have a solution built by another team, our specialists can help you modernize and upgrade it with new features. At Anadea, we have exclusive expertise in AI development and can implement tools of any complexity.
-
-Wrapping Up
+## Wrapping Up
 
 When you want to build a marketplace app that will succeed, you should be ready for careful planning and continuous iteration. From identifying a clear niche to post-launch performance tracking and software enhancement, each step plays a critical role.
 
 The key to success lies in balancing value for both sides of the marketplace. Your app should be helpful, secure, and convenient for sellers and buyers. And that’s what you should keep in mind during the entire lifecycle of your app.
 
-Already have an idea for your future marketplace? Share your requirements with us and we will provide project estimates for free.
+Already have an idea for your future marketplace? [Share your requirements](https://anadea.info/free-project-estimate) with us and we will provide project estimates for free.
