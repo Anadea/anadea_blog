@@ -258,121 +258,232 @@ The revenue model is the foundation of the financial sustainability of your plat
 
 In the table below, you can find a comparison of the most popular options among the companies that create marketplace apps.
 
-Aspects 
+<table>
 
-Commissions
+<thead>
 
-Subscription
+<tr>
 
-Listing fee
+<th>
 
-Freemium
+<p><strong>Aspects&nbsp;</strong></p>
 
-How it works
+</th>
 
-You take a percentage of each transaction between buyer and seller.
+<th>
 
-Sellers pay a recurring fee for access to the platform.
+<p><strong>Commissions</strong></p>
 
-Sellers pay a fee to list each product or service.
+</th>
 
-Core features are free, but advanced tools are paid.
+<th>
 
-Strengths
+<p><strong>Subscription</strong></p>
 
-Revenue grows with marketplace activity;
+</th>
 
-no upfront costs for sellers.
+<th>
 
-Predictable recurring revenue;
+<p><strong>Listing fee</strong></p>
 
-Stable cash flow.
+</th>
 
-Revenue generation even without sales;
+<th>
 
-encouragement for quality listings.
+<p><strong>Freemium</strong></p>
 
-Easy seller onboarding; large user base potential.
+</th>
 
-Weaknesses
+</tr>
 
-High commission rates may become an entry barrier for sellers.
+</thead>
 
-Risk of churn if the value proposition and ROI are not clear.
+<tbody>
 
-Difficulties in attracting new sellers;
+<tr>
 
-sellers may prefer not to post multiple items.
+<td>
 
-Requires clear upsell path to convert free users into paying ones.
+<p><span style="font-weight: 400;">How it works</span></p>
 
-Best for
+</td>
 
-High-volume marketplaces
+<td>
 
-Established platforms with proven value for sellers
+<p><span style="font-weight: 400;">You take a percentage of each transaction between buyer and seller.</span></p>
 
-Niche or high-value markets
+</td>
 
-Platforms seeking rapid user growth before monetization
+<td>
 
-Step 3. Plan the Core Features
+<p><span style="font-weight: 400;">Sellers pay a recurring fee for access to the platform.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Sellers pay a fee to list each product or service.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Core features are free, but advanced tools are paid.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Strengths</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Revenue grows with marketplace activity;</span></p>
+
+<p><span style="font-weight: 400;">no upfront costs for sellers.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Predictable recurring revenue;</span></p>
+
+<p><span style="font-weight: 400;">Stable cash flow.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Revenue generation even without sales;</span></p>
+
+<p><span style="font-weight: 400;">encouragement for quality listings.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Easy seller onboarding; large user base potential.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Weaknesses</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">High commission rates may become an entry barrier for sellers.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Risk of churn if the value proposition and ROI are not clear.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Difficulties in attracting new sellers;</span></p>
+
+<p><span style="font-weight: 400;">sellers may prefer not to post multiple items.</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Requires clear upsell path to convert free users into paying ones.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Best for</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">High-volume marketplaces</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Established platforms with proven value for sellers</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Niche or high-value markets</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Platforms seeking rapid user growth before monetization</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### Step 3. Plan the Core Features
 
 When you are planning to create your own marketplace, you should define what features it will have. There are three groups of users who will interact with your application. They are buyers, sellers, and admins. All these groups have unique needs that should be met with specific functionality.
 
-Features for buyers
+#### Features for buyers
 
-Search and filters. You should enable users to find relevant products or services by category, price, location, or other parameters.
+* **Search and filters**. You should enable users to find relevant products or services by category, price, location, or other parameters.
+* **Product/service pages**. This section should include high-quality images, detailed descriptions, and clear pricing. 
+* **Reviews and ratings**. Reviews can be accompanied by photos and videos recorded by buyers.
+* **Secure payments**. Payments can be made with the help of credit/debit cards, PayPal, and Apple/Google Pay. Given the growing adoption of cryptocurrencies, you can also add support for such assets.
+* **Wishlist or favorites**. You can provide users with the possibility to save items for later consideration.
+* **Order tracking**. Real-time updates on the order status will allow users to stay informed at every stage of the purchase process.
+* **Personalized recommendations**. You can use AI to suggest products or services based on user behavior and interests.
+* **Virtual try-on**. VR/AR tools will let users preview clothing or cosmetics on themselves before buying.
+* **3D product visualization**. This tool provides interactive 360-degree views for a realistic look at items.
 
-Product/service pages. This section should include high-quality images, detailed descriptions, and clear pricing. 
+#### Features for sellers
 
-Reviews and ratings. Reviews can be accompanied by photos and videos recorded by buyers.
+* **Listing creation and management**. Sellers should have tools to upload images, set prices, add descriptions, and update stock.
+* **Profile management**. Sellers need to create their public pages with bio, ratings, and contact info.
+* **AI-driven analytics**. A dashboard should contain insights on best-selling items, traffic, and revenue.
+* **Predictive analytics**. Artificial intelligence can forecast sales trends and inventory needs.
+* **Communication tools**. In-app messaging will enable sellers to communicate with buyers and answer their questions.
+* **Promotion tools**. Online marketplace apps traditionally have features for introducing discounts, coupons, and featured listings.
 
-Secure payments. Payments can be made with the help of credit/debit cards, PayPal, and Apple/Google Pay. Given the growing adoption of cryptocurrencies, you can also add support for such assets.
+#### Features for admins
 
-Wishlist or favorites. You can provide users with the possibility to save items for later consideration.
+* **User management**. Admins should have relevant tools to approve, suspend, and verify both buyers and sellers.
+* **Listing moderation**. You should provide admins with the rights to remove listings that violate rules.
+* **Payout management**. Admins need to have tools for handling seller payments and resolving disputes. 
+* **Platform analytics**. Administrators need to track the performance of the platform, including GMV, user growth, and engagement metrics.
+* **Fraud detection**. AI can detect suspicious transactions to protect buyers and sellers. It can block such operations and/or immediately notify admins.
 
-Order tracking. Real-time updates on the order status will allow users to stay informed at every stage of the purchase process.
+{{< advert_with_cta title="Have plans to build a real estate marketplace?" description="On our blog, we’ve shared professional recommendations on the development of such a platform." button="Read our guide" url="https://anadea.info/blog/how-to-build-real-estate-marketplace/" >}}
 
-Personalized recommendations. You can use AI to suggest products or services based on user behavior and interests.
-
-Virtual try-on. VR/AR tools will let users preview clothing or cosmetics on themselves before buying.
-
-3D product visualization. This tool provides interactive 360-degree views for a realistic look at items.
-
-Features for sellers
-
-Listing creation and management. Sellers should have tools to upload images, set prices, add descriptions, and update stock.
-
-Profile management. Sellers need to create their public pages with bio, ratings, and contact info.
-
-AI-driven analytics. A dashboard should contain insights on best-selling items, traffic, and revenue.
-
-Predictive analytics. Artificial intelligence can forecast sales trends and inventory needs.
-
-Communication tools. In-app messaging will enable sellers to communicate with buyers and answer their questions.
-
-Promotion tools. Online marketplace apps traditionally have features for introducing discounts, coupons, and featured listings.
-
-Features for admins
-
-User management. Admins should have relevant tools to approve, suspend, and verify both buyers and sellers.
-
-Listing moderation. You should provide admins with the rights to remove listings that violate rules.
-
-Payout management. Admins need to have tools for handling seller payments and resolving disputes. 
-
-Platform analytics. Administrators need to track the performance of the platform, including GMV, user growth, and engagement metrics.
-
-Fraud detection. AI can detect suspicious transactions to protect buyers and sellers. It can block such operations and/or immediately notify admins.
-
-Have plans to build a real estate marketplace?
-
-On our blog, we’ve shared professional recommendations on the development of such a platform.
-
-Read our guide
-
-Step 4. Design UX/UI for Two-Sided Interaction
+## Step 4. Design UX/UI for Two-Sided Interaction
 
 Your online marketplace app should not only have visually appealing interfaces. It should also allow users to easily complete their goals. That’s why, in the design stage, a smooth user experience should become your priority.
 
