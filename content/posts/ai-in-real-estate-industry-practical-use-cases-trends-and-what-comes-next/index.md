@@ -66,7 +66,7 @@ So, is artificial intelligence a friend or foe? I’d argue there’s little to 
 
 Which brings us to today’s topic: artificial intelligence in real estate. This is one of the industries where AI integration is moving at full speed. For example, in 2022, the value of AI in real estate was estimated at around $163 billion. By 2023, this figure had already reached about [$226 billion, reflecting an annual growth rate of over 37%](https://www.thebusinessresearchcompany.com/report/ai-in-real-estate-global-market-report).
 
-ІНФОГРАФІКА №1
+![](1-2-.png)
 
 So, sit back and get comfortable – over the next 10 minutes, you’ll discover everything you need to know about AI in real estate industry.
 
@@ -110,7 +110,7 @@ In design, the examples are even more striking. Platforms like [TestFit](https:/
 
 The sales and rental market is rapidly transitioning to a digital-first contact model. Real estate AI tools like [Matterport](https://matterport.com/industries/real-estate) or [Zillow 3D ](https://www.zillow.com/z/3d-home/)have already become the standard: they allow the client to independently walk through a property, assess the layout and condition of the premises without a physical visit. This tool is particularly important for commercial deals or international investors who make decisions remotely.
 
-ІНФОГРАФІКА №2
+![](zillow-3d-home-tours-4-.png)
 
 Generative AI in real estate industry adds another layer: dynamic virtual furnishing and design scenarios. For example, an apartment can be visualised in various interior styles with the ability to change colours, textures, and lighting. This helps the client imagine how it could look to meet their needs. For the developer or agent, this means a shorter time on market for the property and a higher level of buyer engagement.
 
@@ -160,6 +160,8 @@ You can also explore more real estate projects in our portfolio, such as [Agentf
 Over more than 20 years in the IT business, we've learned how to build software that drives real results. Since 2019, our company has been making a bold move into the AI space. Our team continues to grow with experts in deep learning and machine learning and in 2025, agentic AI became the fastest-growing direction inside Anadea.
 
 Here’s how we apply AI in commercial real estate:
+
+![](2-3-.png)
 
 * AI agents for automated property valuation based on object parameters, market trends, and location data.
 * ML models that forecast price shifts across neighborhoods or property types.
