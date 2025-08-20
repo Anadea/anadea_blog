@@ -106,15 +106,15 @@ In design, the examples are even more striking. Platforms like [TestFit](https:/
 
 ### Virtual Tours and Real Estate Visualisation
 
-The sales and rental market is rapidly transitioning to a digital-first contact model. Real estate AI tools like Matterport or Zillow 3D have already become the standard: they allow the client to independently walk through a property, assess the layout and condition of the premises without a physical visit. This tool is particularly important for commercial deals or international investors who make decisions remotely.
+The sales and rental market is rapidly transitioning to a digital-first contact model. Real estate AI tools like [Matterport](https://matterport.com/industries/real-estate) or [Zillow 3D ](https://www.zillow.com/z/3d-home/)have already become the standard: they allow the client to independently walk through a property, assess the layout and condition of the premises without a physical visit. This tool is particularly important for commercial deals or international investors who make decisions remotely.
 
 ІНФОГРАФІКА №2
 
 Generative AI in real estate industry adds another layer: dynamic virtual furnishing and design scenarios. For example, an apartment can be visualised in various interior styles with the ability to change colours, textures, and lighting. This helps the client imagine how it could look to meet their needs. For the developer or agent, this means a shorter time on market for the property and a higher level of buyer engagement.
 
-Learn how predictive analytics supports smarter decision-making and increases returns in real estate investments. Read “Real Estate Investments: Driving Revenue with Predictive Analytics”.
+Learn how predictive analytics supports smarter decision-making and increases returns in real estate investments. Read “[Real Estate Investments: Driving Revenue with Predictive Analytics](https://anadea.info/blog/real-estate-investments-driving-revenue-with-predictive-analytics/)”.
 
-How AI is Shaping Urban Planning and Development
+## How AI is Shaping Urban Planning and Development
 
 Cities face two major challenges: rapid population growth and climate instability. Traditional planning tools often fail to account for the volume of data needed for effective solutions. This is where artificial intelligence comes to the rescue: from analyzing traffic and energy consumption to creating digital twins and generative development scenarios.
 
