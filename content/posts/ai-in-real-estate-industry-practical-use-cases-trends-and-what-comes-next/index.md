@@ -138,49 +138,35 @@ The widespread adoption of artificial intelligence around the world indicates th
 
 ## Anadea and Real Estate
 
-Anadea has been building real estate software since the early 2000s. We’re deeply embedded in the industry and understand how agencies, marketplaces, and developers operate—along with the challenges they face daily.
+Anadea has been building [real estate software ](https://anadea.info/solutions/real-estate-software)since the early 2000s. We’re deeply embedded in the industry and understand how agencies, marketplaces, and developers operate—along with the challenges they face daily.
 
 Our strength lies in delivering complex systems with smart automation, deep analytics, and tailored business logic. Only custom solutions designed around specific use cases. We work with agencies, listing platforms, developers, and real estate startups looking to scale through technology.
 
-One of our most impactful collaborations is with StreetEasy, a major real estate platform serving New York City. We worked on the platform for several years and contributed to several critical improvements:
+One of our most impactful collaborations is with [StreetEasy](https://anadea.info/projects/streeteasy), a major real estate platform serving New York City. We worked on the platform for several years and contributed to several critical improvements:
 
-Migrated search to Elasticsearch, boosting performance by 33×
+* Migrated search to Elasticsearch, boosting performance by 33x.
+* Optimized result ranking logic, increasing CTR by 80%.
+* Introduced new tools for agents, resulting in an 18% lift in lead conversion.
+* Designed custom UI components for different user roles (agent, owner, renter).
+* Built internal analytics to track user interactions with search results.
+* Fully reworked the frontend architecture and added custom filtering, indexing, and caching mechanisms to support long-term growth.
 
-Optimized result ranking logic, increasing CTR by 80%
+You can also explore more real estate projects in our portfolio, such as [Agentfolio Mobile Apps ](https://anadea.info/projects/agentfolio-mobile-apps)and [ListingDoor](https://anadea.info/projects/listingdoor).
 
-Introduced new tools for agents, resulting in an 18% lift in lead conversion
-
-Designed custom UI components for different user roles (agent, owner, renter)
-
-Built internal analytics to track user interactions with search results
-
-Fully reworked the frontend architecture and added custom filtering, indexing, and caching mechanisms to support long-term growth
-
-You can also explore more real estate projects in our portfolio, such as Agentfolio Mobile Apps and ListingDoor.
-
-What We Do in AI for Real Estate
+### What We Do in AI for Real Estate
 
 Over more than 20 years in the IT business, we've learned how to build software that drives real results. Since 2019, our company has been making a bold move into the AI space. Our team continues to grow with experts in deep learning and machine learning and in 2025, agentic AI became the fastest-growing direction inside Anadea.
 
 Here’s how we apply AI in commercial real estate:
 
-AI agents for automated property valuation based on object parameters, market trends, and location data.
+* AI agents for automated property valuation based on object parameters, market trends, and location data.
+* ML models that forecast price shifts across neighborhoods or property types.
+* Intelligent search systems that personalize listings not just by filters, but by behavioral signals.
+* Generative AI tools to create 3D tours, floor plans, or assist agents in communicating with clients.
+* Seamless integrations with CRM systems, MLS databases, real estate APIs, maps, and analytics platforms.
+* [Multiple listing service development](https://anadea.info/solutions/real-estate-software/mls) for real estate.
 
-ML models that forecast price shifts across neighborhoods or property types.
-
-Intelligent search systems that personalize listings not just by filters, but by behavioral signals.
-
-Generative AI tools to create 3D tours, floor plans, or assist agents in communicating with clients.
-
-Seamless integrations with CRM systems, MLS databases, real estate APIs, maps, and analytics platforms.
-
-Multiple listing service development for real estate.
-
-Title: Build Your Real Estate App Efficiently
-
-Description: Cost, must-have features, and tech trends – everything you need to know before starting development.
-
-Button: Go to guide
+{{< advert_with_cta title="Build Your Real Estate App Efficiently" description="Cost, must-have features, and tech trends – everything you need to know before starting development." button="Go to guide" url="https://anadea.info/blog/how-to-embrace-the-power-of-mobile-apps-for-your-real-estate-business/" >}}
 
 What’s Next for AI in Real Estate?
 
