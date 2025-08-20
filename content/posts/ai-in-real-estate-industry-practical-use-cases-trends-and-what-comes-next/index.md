@@ -118,25 +118,25 @@ Learn how predictive analytics supports smarter decision-making and increases re
 
 Cities face two major challenges: rapid population growth and climate instability. Traditional planning tools often fail to account for the volume of data needed for effective solutions. This is where artificial intelligence comes to the rescue: from analyzing traffic and energy consumption to creating digital twins and generative development scenarios.
 
-Amsterdam: Open Data for Practical Planning
+### Amsterdam: Open Data for Practical Planning
 
-The city collects and opens data on public spaces, buildings, transportation, the environment, and other resources through its City Data platform. This allows planners and researchers to analyze urban behavior, track changes in transport or development, and test new policies based on up-to-date information.
+The city collects and opens data on public spaces, buildings, transportation, the environment, and other resources through its [City Data platform](https://amsterdamsmartcity.com/updates/news/city-data-a-treasure-full-of-data-about-the-city). This allows planners and researchers to analyze urban behavior, track changes in transport or development, and test new policies based on up-to-date information.
 
-Helsinki: A Digital Twin with Broad Analytical Capabilities
+### Helsinki: A Digital Twin with Broad Analytical Capabilities
 
-The Helsinki 3D+ project created an accurate 3D model of the city, integrating it with data on energy, climate, and urban infrastructure. This allows for testing how new construction will impact traffic, CO₂ emissions, or the need for green spaces. Additionally, a "Mobility Twin" is being developed, which integrates road infrastructure and traffic data to model future transport scenarios, including those for autonomous vehicle technologies.
+The Helsinki 3D+ project created an accurate [3D model of the city](https://profwurzer.com/smart-city-helsinkis-virtual-city-pioneers-sustainable-urban-development/), integrating it with data on energy, climate, and urban infrastructure. This allows for testing how new construction will impact traffic, CO₂ emissions, or the need for green spaces. Additionally, a ["Mobility Twin"](https://testbed.hel.fi/wp-content/uploads/2025/01/digital-twin-for-mobilty-working-paper-v2-1124.pdf) is being developed, which integrates road infrastructure and traffic data to model future transport scenarios, including those for autonomous vehicle technologies.
 
-Up to 500 Cities with Digital Twins
+### Up to 500 Cities with Digital Twins
 
-According to Reuters forecasts, over 500 cities worldwide will deploy AI-powered digital twins by 2025 (potentially saving $280 billion) to monitor climate risks, traffic, and environmental conditions. Amsterdam is already using these capabilities to balance its energy grid and manage surplus solar power.
+According to [Reuters forecasts](https://www.reuters.com/sustainability/climate-energy/how-ai-is-arming-cities-battle-climate-resilience-2024-05-23/), over 500 cities worldwide will deploy AI-powered digital twins by 2025 (potentially saving $280 billion) to monitor climate risks, traffic, and environmental conditions. Amsterdam is already using these capabilities to balance its energy grid and manage surplus solar power.
 
-Delve: Generative Design for Planning
+### Delve: Generative Design for Planning
 
-The Delve tool from Sidewalk Labs generates dozens of neighborhood development options, considering metrics like density, green space, sunlight exposure (insolation), and economics. This makes it possible to evaluate the consequences of different scenarios before making zoning changes, making the decision-making process transparent and evidence-based (Sidewalk Labs).
+[The Delve tool from Sidewalk Labs](https://www.aecplustech.com/tools/delve) generates dozens of neighborhood development options, considering metrics like density, green space, sunlight exposure (insolation), and economics. This makes it possible to evaluate the consequences of different scenarios before making zoning changes, making the decision-making process transparent and evidence-based.
 
 The widespread adoption of artificial intelligence around the world indicates that cities are beginning to make decisions based on data, not assumptions. This means fewer errors in zoning, faster responses to climate challenges, and more accurate predictions of the impact of new infrastructure solutions.
 
-Anadea and Real Estate
+## Anadea and Real Estate
 
 Anadea has been building real estate software since the early 2000s. We’re deeply embedded in the industry and understand how agencies, marketplaces, and developers operate—along with the challenges they face daily.
 
