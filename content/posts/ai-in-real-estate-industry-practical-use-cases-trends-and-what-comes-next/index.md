@@ -68,47 +68,43 @@ Which brings us to today’s topic: artificial intelligence in real estate. This
 
 So, sit back and get comfortable – over the next 10 minutes, you’ll discover everything you need to know about AI in real estate industry.
 
-How AI is Used in the Real Estate Industry?
+## How AI is Used in the Real Estate Industry?
 
 Artificial intelligence in real estate is a technology that genuinely impacts industry processes. It's not just about automating routine tasks, but about a deeper level: more accurate valuation models, market forecasting, risk management, and enhanced customer interaction. Market professionals are beginning to use AI as a decision-making tool, reducing errors and decreasing reliance on subjective assessments.
 
-Predictive Analytics for Valuation
+### Predictive Analytics for Valuation
 
 The use of AI for real estate investment extends beyond traditional property valuation approaches. Modern models simultaneously analyze market transactions, macroeconomic data, and specific object characteristics. This enables more accurate valuations and the construction of dynamic scenarios for pricing or investment calculations. Crucially, the algorithms reduce the role of the human factor, where emotions or biases often come into play.
 
-Lead Scoring and Buyer Matching
+### Lead Scoring and Buyer Matching
 
-Platforms like CoreLogic OneHome demonstrate how AI in real estate industry transforms client interaction: lead priority is automatically determined, buyers receive only relevant options, and agents focus on clients with the highest conversion probability. Additionally, integrated chatbots and virtual assistants handle initial communication, while CRM systems integrate with AI to automate broker tasks.
+Platforms like [CoreLogic OneHome ](https://builtin.com/artificial-intelligence/ai-real-estate#:~:text=CoreLogic%E2%80%99s%20OneHome,States%20and%20Canada)demonstrate how AI in real estate industry transforms client interaction: lead priority is automatically determined, buyers receive only relevant options, and agents focus on clients with the highest conversion probability. Additionally, integrated chatbots and virtual assistants handle initial communication, while CRM systems integrate with AI to automate broker tasks.
 
 Such solutions are already setting new market standards, and even free AI tools for real estate agents are becoming an entry point for professionals looking to optimize workflows without significant investment. The next step will involve the development of agentic systems, digital twins of buildings, and predictive modeling, which will provide not only the automation of routine tasks but also a strategic impact on the profitability of real estate portfolios.
 
 We also have practical experience in this area: we developed an AI-based CRM solution for one of the leading US real estate market players. The system automated lead processing, increased the accuracy of property matching, and allowed agents to focus on working with the most promising clients.
 
-Supporting scale at enterprise level
+{{< advert_with_cta title="Supporting scale at enterprise level" description="Together with StreetEasy, we’ve built a platform supporting 180M+ annual visits. Let’s apply the same expertise to your project." button="Full case study" url="https://anadea.info/projects/streeteasy" >}}
 
-Together with StreetEasy, we’ve built a platform supporting 180M+ annual visits. Let’s apply the same expertise to your project.
-
-Full case study
-
-Market Forecasting
+### Market Forecasting
 
 AI algorithms can detect patterns in large datasets (from demographic shifts in neighborhoods to changes in business activity). This makes price and profitability forecasts more accurate than traditional analysis methods. For investors, this means less speculation and more data-driven decisions.
 
-Property Management and Maintenance
+### Property Management and Maintenance
 
-In managing large properties, preventive maintenance comes to the fore. Machine learning algorithms process data from sensors in HVAC systems, elevators, or energy units to detect equipment performance deviations at early stages. This allows for designing an optimal service schedule based on the asset's actual condition, rather than average statistical norms. As a result, repair costs are reduced, and the infrastructure's lifespan is extended.
+In managing large properties, preventive maintenance comes to the fore. Machine learning algorithms process data from sensors in [HVAC systems](https://www.epa.gov/iaq-schools/heating-ventilation-and-air-conditioning-systems-part-indoor-air-quality-design-tools), elevators, or energy units to detect equipment performance deviations at early stages. This allows for designing an optimal service schedule based on the asset's actual condition, rather than average statistical norms. As a result, repair costs are reduced, and the infrastructure's lifespan is extended.
 
 Another development line is the automation of administrative processes. Collecting rent, sending reminders about lease renewals, or communicating with residents is now handled through integrated systems where AI doesn't just send template messages but personalises the tone of communication based on the history of interaction with the tenant. For owners of large portfolios, this means saving hundreds of work hours and achieving more controlled operational processes.
 
-Generative AI for Real Estate Marketing and Design
+### Generative AI for Real Estate Marketing and Design
 
-Generative AI opens up scenarios that classical analytics could not cover. According to estimates by the McKinsey Global Institute, its impact on the industry could range from $110 to $180 billion in generated value (McKinsey). 
+Generative AI opens up scenarios that classical analytics could not cover. According to estimates by the McKinsey Global Institute, its impact on the industry could range from $110 to $180 billion in generated value ([McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)). 
 
 In marketing, this means: each property receives its own description, created in a style that matches the target audience, instead of copying standard formulations. Advertisements or brochures are generated automatically but take into account local trends and even the emotional triggers of a specific buyer segment.
 
-In design, the examples are even more striking. Platforms like TestFit combine data about plots, topography, and client requirements to generate several variants of 2D and 3D plans in real-time. This reduces the time required to prepare schematics from days or weeks to minutes, lowers the risk of errors in calculating areas or units, and allows developers to check the economic viability of different scenarios right from the start. Essentially, this shifts the focus: the architect and analyst are not drawing by hand but are evaluating and selecting the best-generated options.
+In design, the examples are even more striking. Platforms like [TestFit](https://www.testfit.io/news/testfit-launches-groundbreaking-generative-design-for-better-building-optimization) combine data about plots, topography, and client requirements to generate several variants of 2D and 3D plans in real-time. This reduces the time required to prepare schematics from days or weeks to minutes, lowers the risk of errors in calculating areas or units, and allows developers to check the economic viability of different scenarios right from the start. Essentially, this shifts the focus: the architect and analyst are not drawing by hand but are evaluating and selecting the best-generated options.
 
-Virtual Tours and Real Estate Visualisation
+### Virtual Tours and Real Estate Visualisation
 
 The sales and rental market is rapidly transitioning to a digital-first contact model. Real estate AI tools like Matterport or Zillow 3D have already become the standard: they allow the client to independently walk through a property, assess the layout and condition of the premises without a physical visit. This tool is particularly important for commercial deals or international investors who make decisions remotely.
 
