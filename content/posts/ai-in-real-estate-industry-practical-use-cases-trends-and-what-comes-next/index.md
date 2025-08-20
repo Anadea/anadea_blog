@@ -5,6 +5,8 @@ breadcrumbs: AI in Real Estate Industry
 slug: ai-in-real-estate
 draft: false
 publishDate: 2025-08-20T12:49:00+03:00
+image: low-angle-view-modern-apartment-building-against-sky.jpg
+og_image: low-angle-view-modern-apartment-building-against-sky.jpg
 description: Explore how AI is transforming the real estate industry – from
   property valuation and market forecasting to generative design and smart
   building management. Real-world use cases, trends, and expert insights from
