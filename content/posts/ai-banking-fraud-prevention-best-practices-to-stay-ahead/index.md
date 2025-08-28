@@ -5,6 +5,8 @@ breadcrumbs: AI Banking Fraud Prevention
 slug: ai-fraud-detection-in-banking
 draft: false
 publishDate: 2025-08-28T09:52:00+03:00
+image: high-angle-shot-lock-around-dollar-bill-black-laptop.jpg
+og_image: high-angle-shot-lock-around-dollar-bill-black-laptop.jpg
 description: Discover how AI banking fraud prevention helps financial
   institutions detect suspicious activities, stop fraud in real time, and
   protect customers with advanced security.
