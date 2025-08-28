@@ -283,48 +283,45 @@ Thus, modern AI solutions in banking have transformed from fraud detection tools
 
 {{< advert_with_cta title="Looking to build your own fintech product? " description="Don’t miss our comprehensive guide on creating a mobile banking app" button="Read the article" url="https://anadea.info/blog/mobile-banking-app-development/" >}}
 
-AI Solutions in Combating Banking Fraud: IBM, U.S. Bank, and Infosys BPM
+## AI Solutions in Combating Banking Fraud
 
-The financial sector faces a dual challenge: on one hand, digital banking continues to break growth records, while on the other, fraud is becoming more technologically sophisticated, widespread, and difficult to detect. More than two-thirds of financial institutions reported an increase in consumer account fraud attempts over the past 12 months. Traditional fraud-fighting methods, based on static rules and manual monitoring, can no longer cope with new attack scenarios. Below, we examine three illustrative examples.
+The financial sector faces a dual challenge: on one hand, digital banking continues to break growth records, while on the other, fraud is becoming more technologically sophisticated, widespread, and difficult to detect. More than [two-thirds of financial institutions](https://www.alloy.com/state-of-fraud-benchmark-report-2024) reported an increase in consumer account fraud attempts over the past 12 months. Traditional fraud-fighting methods, based on static rules and manual monitoring, can no longer cope with new attack scenarios. Below, we examine three illustrative examples.
 
-IBM: Large-Scale Protection with AI
+### IBM: Large-Scale Protection with AI
 
-IBM is known as a provider of solutions for large banking systems, and its latest advancements in artificial intelligence open a new level in the fight against fraud. The company has integrated Telum AI accelerators directly into its z16 and z17 series mainframes, enabling machine learning algorithms to run right "on the spot," where transactions are processed. This eliminates delays associated with transferring data to external analytical environments and allows banks to make decisions within milliseconds.
+IBM is known as a provider of solutions for large banking systems, and its latest advancements in artificial intelligence open a new level in the fight against fraud. The company has integrated [Telum AI](https://www.macro4.com/blog/ai-on-the-mainframe-how-the-ibm-z17-transforms-fraud-detection/) accelerators directly into its z16 and z17 series mainframes, enabling machine learning algorithms to run right "on the spot," where transactions are processed. This eliminates delays associated with transferring data to external analytical environments and allows banks to make decisions within milliseconds.
 
-IBM Safer Payments plays a distinct role. This platform uses machine learning to analyze customer behavioral patterns, detect anomalies in real time, and adapt to new fraud scenarios. According to industry experts, the use of such technologies could help banks and payment systems reduce global fraud losses by tens or even hundreds of billions of dollars annually.
+[IBM Safer Payments](https://www.ibm.com/products/safer-payments) plays a distinct role. This platform uses machine learning to analyze customer behavioral patterns, detect anomalies in real time, and adapt to new fraud scenarios. According to industry experts, the use of such technologies could help banks and payment systems reduce global fraud losses by tens or even hundreds of billions of dollars annually.
 
-U.S. Bank: AI in Banking Fraud Detection
+### U.S. Bank: AI in Banking Fraud Detection
 
-U.S. Bank demonstrates that the scope of artificial intelligence fraud detection in banking extends far beyond card operations. The greatest risks are often concentrated in corporate payments and treasury processes, where large sums are involved and where malicious actors attempt attacks using business emails, fake invoices, or social engineering.
+[U.S. Bank ](https://www.usbank.com/corporate-and-commercial-banking/insights/payments-hub/trends/treasury-management-ai.html)demonstrates that the scope of artificial intelligence fraud detection in banking extends far beyond card operations. The greatest risks are often concentrated in corporate payments and treasury processes, where large sums are involved and where malicious actors attempt attacks using business emails, fake invoices, or social engineering.
 
-To counter these threats, the bank established an AI Center of Excellence, which focuses on integrating artificial intelligence into treasury management. Systems analyze SWIFT transfers, intra-bank payments, API requests, and detect suspicious patterns. They are capable of identifying BEC attacks, as well as other anomalies in user or corporate client behavior. On a global scale, similar solutions have already proven their effectiveness: according to U.S. Treasury authorities, AI and machine learning alone helped stop and recover over $4 billion in fraudulent payments in 2024.
+To counter these threats, the bank established an AI Center of Excellence, which focuses on integrating artificial intelligence into treasury management. Systems analyze SWIFT transfers, intra-bank payments, API requests, and detect suspicious patterns. They are capable of identifying BEC attacks, as well as other anomalies in user or corporate client behavior. On a global scale, similar solutions have already proven their effectiveness: according to U.S. Treasury authorities, AI and machine learning alone helped stop and recover [over $4 billion in fraudulent payments in 2024](https://home.treasury.gov/news/press-releases/jy2650).
 
-Infosys BPM: Fraud Detection Using Machine Learning in Banking
+### Infosys BPM: Fraud Detection Using Machine Learning in Banking
 
 For retail banks, the main challenge is the volume of customer transactions and the need to quickly assess risks. This is where solutions from Infosys BPM come into play, combining business process automation (RPA) and ML risk-scoring models.
 
-Their systems generate a risk score in real time, enabling banks to make quick decisions on loan approvals, blocking suspicious transactions, or conducting additional checks. Additionally, automation covers KYC/AML processes, account opening, payment processing, and data reconciliation, reducing reliance on manual operations and cutting operational costs.
+Their systems generate a risk score in real time, enabling banks to make quick decisions on loan approvals, blocking suspicious transactions, or conducting additional checks. Additionally, automation covers [KYC/AML processes](https://www.infosysbpm.com/blogs/financial-services/fintech-in-retail-banking-customer-engagement-and-efficiency.html), account opening, payment processing, and data reconciliation, reducing reliance on manual operations and cutting operational costs.
 
-Our Approach to AI-Powered Fraud Prevention
+## Our Approach to AI-Powered Fraud Prevention
 
-We know how to work with AI. We established a department for developing AI solutions back in 2019, and since then we have delivered up to a hundred projects of various scales. Our expertise covers work with digital banks, payment systems, brokerage platforms, and fintech startups.
+We know how to work with AI. We established a department for developing [AI solutions](https://anadea.info/services/ai-software-development) back in 2019, and since then we have delivered up to a hundred projects of various scales. Our expertise covers work with digital banks, payment systems, brokerage platforms, and fintech startups.
 
 Key principles of our work:
 
-Adapting models to new types of fraud in banking
+* Adapting models to new types of fraud in banking
+* Integration with clients' existing infrastructure
+* Balancing security with user convenience
+* Continuous improvement of algorithms
 
-Integration with clients' existing infrastructure
+Among our most significant projects is the development of [Admirals Market](https://anadea.info/projects/admirals), which has been downloaded by over 500,000 users. This experience confirms our ability to create effective and scalable solutions.
 
-Balancing security with user convenience
+Our clients note, particularly in reviews on [Clutch](https://clutch.co/profile/anadea), our ability to find non-standard approaches to complex tasks and our deep understanding of financial product specifics. 
 
-Continuous improvement of algorithms
+Our [technical stack ](https://anadea.info/technologies)includes Python-based machine learning frameworks (TensorFlow, PyTorch), cloud infrastructure (AWS, Azure), real-time data processing systems (Apache Kafka, Spark), and advanced behavioral analytics tools. We develop containerized solutions (Docker, Kubernetes) that ensure seamless deployment and scalability across different banking environments.
 
-Among our most significant projects is the development of Admirals Market, which has been downloaded by over 500,000 users. This experience confirms our ability to create effective and scalable solutions.
+## Conclusion
 
-Our clients note, particularly in reviews on Clutch, our ability to find non-standard approaches to complex tasks and our deep understanding of financial product specifics. 
-
-Our technical stack includes Python-based machine learning frameworks (TensorFlow, PyTorch), cloud infrastructure (AWS, Azure), real-time data processing systems (Apache Kafka, Spark), and advanced behavioral analytics tools. We develop containerized solutions (Docker, Kubernetes) that ensure seamless deployment and scalability across different banking environments.
-
-Conclusion
-
-In today's digital landscape where financial fraud grows increasingly sophisticated, traditional static rule-based protection systems can no longer effectively counter emerging threats – this is why implementing AI in banking interactions for fraud detection has transformed from an option into a necessity for any financial institution. Modern AI solutions analyze not only transactions but behavioral patterns, adapt in real-time, and significantly reduce false positives while ensuring both robust security and seamless customer experience. If you're ready to upgrade your financial security – contact our specialist for a personalized consultation and development of an AI protection implementation strategy for your business.
+In today's digital landscape where financial fraud grows increasingly sophisticated, traditional static rule-based protection systems can no longer effectively counter emerging threats – this is why implementing AI in banking interactions for fraud detection has transformed from an option into a necessity for any financial institution. Modern AI solutions analyze not only transactions but behavioral patterns, adapt in real-time, and significantly reduce false positives while ensuring both robust security and seamless customer experience. If you're ready to upgrade your financial security – [contact our specialist](https://anadea.info/contacts) for a personalized consultation and development of an AI protection implementation strategy for your business.
