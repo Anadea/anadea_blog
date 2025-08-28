@@ -52,63 +52,144 @@ So today, we will talk about two hot topics: artificial intelligence and money. 
 
 Modern financial institutions face a series of critical challenges in countering fraud, which demand advanced technological solutions. The increasing volume and complexity of attacks significantly surpass the capabilities of traditional security systems.
 
-Volume and Speed of Operations
+### Volume and Speed of Operations
 
 The online payment system generates millions of transactions daily. Manually analyzing each transaction is impossible. Security systems must process these massive datasets in real-time, making decisions within milliseconds to avoid disrupting legitimate financial flows.
 
-Evolution of Attacks
+### Evolution of Attacks
 
-Malicious actors not only refine their methods but also actively leverage cutting-edge technologies. Over 50% of modern fraud utilizes artificial intelligence. This creates a new level of threats:
+Malicious actors not only refine their methods but also actively leverage cutting-edge technologies. [Over 50% of modern fraud](https://www.feedzai.com/pressrelease/ai-fraud-trends-2025/) utilizes artificial intelligence. This creates a new level of threats:
 
-Deepfake attacks. In the US alone, Q1 2024 saw over 105,000 recorded cases with losses exceeding $200 million. A stolen voice (just a few seconds of recording) is sufficient for authentication in banking systems, making traditional biometrics vulnerable.
+* **Deepfake attacks**. In the US alone, [Q1 2024 saw over 105,000 recorded cases ](https://www.wsj.com/articles/ai-drives-rise-in-ceo-impersonator-scams-2bd675c4)with losses exceeding $200 million. A stolen voice (just a few seconds of recording) is sufficient for authentication in banking systems, making traditional biometrics vulnerable.
+* **APP fraud (Authorized Push Payment)**. Deepfakes make these attacks extremely convincing, where a client is manipulated, under the guise of a manager or bank representative, into legitimately initiating a fund transfer to fraudsters themselves.
+* **Latest schemes**. Malicious actors massively use methods like "pig butchering" (scamming money under the guise of investments through relationships) or "quishing" (QR-phishing).
 
-APP fraud (Authorized Push Payment). Deepfakes make these attacks extremely convincing, where a client is manipulated, under the guise of a manager or bank representative, into legitimately initiating a fund transfer to fraudsters themselves.
-
-Latest schemes. Malicious actors massively use methods like "pig butchering" (scamming money under the guise of investments through relationships) or "quishing" (QR-phishing).
-
-Demanding User Experience Requirements
+### Demanding User Experience Requirements
 
 Any interruption in the payment process (additional verification steps, blocking transactions for manual review) creates operational friction. This directly impacts customer loyalty, as users expect instant transactions. Thus, one of the key challenges for modern security systems is to strike a balance between the level of protection and minimizing disruptions to legitimate operations. An ideal system should be as invisible as possible to the genuine user, blocking only genuinely suspicious activities.
 
-High Cost of False Positives
+### High Cost of False Positives
 
 When a system mistakenly blocks a legitimate transaction (false positive), it leads to:
 
-Customer frustration and damage to their trust in the bank.
+* Customer frustration and damage to their trust in the bank.
+* Increased operational costs for handling contact center calls and investigating incidents.
 
-Increased operational costs for handling contact center calls and investigating incidents.
+### Biometrics No Longer Protects
 
-Biometrics No Longer Protects
+[OpenAI CEO Sam Altman](https://www.barrons.com/articles/openai-ceo-sam-altman-bank-fraud-crisis-57be8709) states directly: voice samples and facial scans are now forged using AI. This means that even the most advanced identification systems are becoming vulnerable. Malicious actors create deepfakes in real time, bypassing protections even in stringent fintech services. Banks urgently need to transition from static verification to analyzing behavior and patterns in real time.
 
-OpenAI CEO Sam Altman states directly: voice samples and facial scans are now forged using AI. This means that even the most advanced identification systems are becoming vulnerable. Malicious actors create deepfakes in real time, bypassing protections even in stringent fintech services. Banks urgently need to transition from static verification to analyzing behavior and patterns in real time.
-
-Why Traditional Banking Fraud Detection Systems Are Failing
+## Why Traditional Banking Fraud Detection Systems Are Failing
 
 Modern fraud has evolved much faster than outdated protection mechanisms. Here are the key shortcomings of classical approaches:
 
-Limitation
+<table>
 
-Impact on business and customers
+<thead>
 
-Rigid rule-based systems	
+<tr>
 
-Only reacts to known patterns, unable to detect new, sophisticated fraud schemes.
+<th>
 
-Reliance on manual reviews	
+<p><strong>Limitation</strong></p>
 
-Slow response times, high operational costs, and human errors in analysis.
+</th>
 
-Low adaptability
+<th>
 
-Cannot learn from emerging threats in real-time, making it vulnerable to AI-powered attacks.
+<p><strong>Impact on business and customers</strong></p>
 
-High false positive rate
+</th>
 
-Frequent blocking of legitimate transactions leads to customer frustration and increased support costs.
+</tr>
 
-Inability to detect cross-channel attacks	
+</thead>
 
-Fails to connect suspicious activities across mobile apps, online banking fraud, and call centers.
+<tbody>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Rigid rule-based systems</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Only reacts to known patterns, unable to detect new, sophisticated fraud schemes.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Reliance on manual reviews</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Slow response times, high operational costs, and human errors in analysis.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Low adaptability</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Cannot learn from emerging threats in real-time, making it vulnerable to AI-powered attacks.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">High false positive rate</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Frequent blocking of legitimate transactions leads to customer frustration and increased support costs.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Inability to detect cross-channel attacks</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Fails to connect suspicious activities across mobile apps, </span><span style="font-weight: 400;">online banking fraud</span><span style="font-weight: 400;">, and call centers.</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 These systems create an illusion of security while fraudsters use AI for large-scale targeted attacks. The only solution is transitioning to proactive machine learning-based solutions that analyze behavior rather than just pattern matching.
 
