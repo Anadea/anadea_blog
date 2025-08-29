@@ -62,81 +62,69 @@ AI is good at interpreting medical imagery and spotting even the smallest anomal
 
 Another example of using AI for disease detection is the technology offered by Google for Health. It developed an [AI system](https://health.google/mammography/) that analyzes mammograms to detect breast cancer earlier and with fewer false positives than radiologists. The model behind this solution was trained on thousands of mammograms and can identify complex features that can be signs of cancer.
 
-Predictive Analytics
+### Predictive Analytics
 
 AI can forecast clinical and population-level health events and trends, including:
 
-Patient health deterioration and readmissions. ML models can analyze vital signs and EHR data. Based on the analysis, they can anticipate deterioration or readmission risk, which is critical for early medical intervention.
+* **Patient health deterioration and readmissions**. ML models can analyze vital signs and EHR data. Based on the analysis, they can anticipate deterioration or readmission risk, which is critical for early medical intervention.
+* **Epidemic detection**. AI can process large datasets to predict epidemic outbreaks and enable proactive resource allocation and containment. 
 
-Epidemic detection. AI can process large datasets to predict epidemic outbreaks and enable proactive resource allocation and containment. 
+In 2020, it was reported by a range of credible news outlets, including [CNBC](https://www.cnbc.com/2020/03/03/bluedot-used-artificial-intelligence-to-predict-coronavirus-spread.html), that Canadian startup BlueDot identified the COVID-19 outbreak 9 days before official WHO alerts. The startup’s AI-powered platform analyzed global airline ticketing and news reports. Based on this, it detected a cluster of “unusual pneumonia” cases in Wuhan, China.
 
-In 2020, it was reported by a range of credible news outlets, including CNBC, that Canadian startup BlueDot identified the COVID-19 outbreak 9 days before official WHO alerts. The startup’s AI-powered platform analyzed global airline ticketing and news reports. Based on this, it detected a cluster of “unusual pneumonia” cases in Wuhan, China.
-
-Clinical Decision Support Systems (CDSS)
+### Clinical Decision Support Systems (CDSS)
 
 AI tools can provide clinicians with evidence-based insights.
 
-One of the tools of this kind, TriageGO, is used by The Johns Hopkins Hospital, Johns Hopkins Bayview Medical Center, and Howard County General Hospital. The tool utilizes AI to recommend triage acuity levels in emergency departments. This improves patient flow and outcomes under data-scarce conditions.
+One of the tools of this kind, [TriageGO](https://www.hopkinsmedicine.org/news/articles/2022/11/tool-developed-to-assist-with-triage-in-the-emergency-department), is used by The Johns Hopkins Hospital, Johns Hopkins Bayview Medical Center, and Howard County General Hospital. The tool utilizes AI to recommend triage acuity levels in emergency departments. This improves patient flow and outcomes under data-scarce conditions.
 
-Virtual Assistants and Symptom Checkers
+### Virtual Assistants and Symptom Checkers
 
 AI-driven chatbots assist patients with basic guidance and self-assessment, which is especially important in cases when people are waiting for doctor appointments.
 
 Ada is a well-known chatbot that can evaluate symptoms, ask targeted follow-up questions, and provide triage advice. It supports various languages and is particularly helpful for early guidance in rare diseases. Unlike many traditional medical services, Ada is available 24/7 and can help people better understand the reasons for and the ways to relieve any symptoms that can bother them, from anxiety to pain and allergy.
 
-Operational Efficiency
+### Operational Efficiency
 
 AI solutions in healthcare can also be used to streamline administrative workflows, like claims processing, scheduling, and note-taking. Healthcare organizations can automate such tasks to boost staff productivity, save employees’ time, and improve accuracy.
 
-For example, IBM’s AI agents can be implemented to enhance processes such as optimizing supply chains, streamlining claims management, and automating customer service. In addition to this, AI agents can analyze huge volumes of literature to support doctors in many tasks.
+For example, [IBM’s AI agents](https://www.ibm.com/industries/healthcare) can be implemented to enhance processes such as optimizing supply chains, streamlining claims management, and automating customer service. In addition to this, AI agents can analyze huge volumes of literature to support doctors in many tasks.
 
-Drug Discovery and Development
+### Drug Discovery and Development
 
 Artificial intelligence can be helpful for medical product development and testing.
 
-In 2024, Google DeepMind and Isomorphic Labs introduced an AI model dubbed AlphaFold 3. The model can predict the structure of proteins, DNA, RNA, and other elements, as well as analyze the potential effect of their interaction. 
+In 2024, Google DeepMind and Isomorphic Labs introduced an AI model dubbed [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/). The model can predict the structure of proteins, DNA, RNA, and other elements, as well as analyze the potential effect of their interaction. 
 
-Meanwhile, Insilico Medicine utilizes AI to design novel drug candidates. The use of this technology can reduce timelines from years to weeks. The company has already initiated human trials for some AI-identified therapeutics. For instance, in August 2025, it became known that the company plans to move its AI-designed Parkinson’s therapy to clinical trials.
+Meanwhile, Insilico Medicine utilizes AI to design novel drug candidates. The use of this technology can reduce timelines from years to weeks. The company has already initiated human trials for some AI-identified therapeutics. For instance, in August 2025, it became known that the company plans to move its [AI-designed Parkinson’s therapy](https://parkinsonsnewstoday.com/news/ai-designed-parkinsons-therapy-prepares-move-clinical-trials/) to clinical trials.
 
-Robotics in Surgery and Rehabilitation
+### Robotics in Surgery and Rehabilitation
 
 AI-powered robots can significantly enhance surgical precision and also support patient recovery.
 
-STAR (Smart Tissue Autonomous Robot) relies on computer vision and machine learning to autonomously conduct surgeries on soft tissues. In 2022, it was reported that the first laparoscopic surgery was successfully performed by a robot without human help. 
+STAR (Smart Tissue Autonomous Robot) relies on computer vision and machine learning to autonomously conduct surgeries on soft tissues. In 2022, it was [reported](https://hub.jhu.edu/2022/01/26/star-robot-performs-intestinal-surgery/) that the first laparoscopic surgery was successfully performed by a robot without human help. 
 
 Apart from this, it’s worth mentioning ReWalk. It provides AI-enhanced exoskeletons that can aid mobility recovery after spinal injuries. These wearable devices combine robotics, sensors, and AI algorithms. Such algorithms can interpret the wearer’s movements and provide real-time assistance for walking and standing. As a result, these devices deliver personalized support and can accelerate rehabilitation.
 
-Benefits of Using AI in Healthcare
+## Benefits of Using AI in Healthcare
 
 As we can see from the AI in healthcare examples, this technology can transform the industry by enhancing not only medical care but also operational efficiency. Here are some of the most important benefits of using AI-powered systems.
 
-Improved diagnostic accuracy. AI algorithms can analyze medical images, lab results, patient histories, and other data faster and more accurately than traditional methods. 
+* **Improved diagnostic accuracy**. AI algorithms can analyze medical images, lab results, patient histories, and other data faster and more accurately than traditional methods. 
+* **Increased efficiency**. By automating various administrative tasks, healthcare professionals have more time to focus on patient care.
+* **Personalized medicine**. AI enables the development of tailored treatment plans based on an individual’s genetic and clinical data. This approach improves treatment effectiveness.
+* **Enhanced access in remote areas**. Virtual assistants, telemedicine platforms, and AI-based diagnostic tools bring expert medical services to regions with limited access to traditional healthcare organizations.
+* **Accelerated research and development cycles**. AI can model molecular interactions, predict outcomes, and identify promising drug candidates rapidly. 
+* **Lower risks of human error**. AI assists clinicians in making decisions related to diagnoses, dosage calculations, and surgical plans. This reduces mistakes that could compromise patient safety.
+* **Cost reduction**. By streamlining workflows, reducing unnecessary tests, and enabling preventive care, AI helps lower healthcare costs.
+* **Enhanced training and education**. AI-powered simulations allow medical students and professionals to practice complex procedures safely and develop new skills.
 
-Increased efficiency. By automating various administrative tasks, healthcare professionals have more time to focus on patient care.
-
-Personalized medicine. AI enables the development of tailored treatment plans based on an individual’s genetic and clinical data. This approach improves treatment effectiveness.
-
-Enhanced access in remote areas. Virtual assistants, telemedicine platforms, and AI-based diagnostic tools bring expert medical services to regions with limited access to traditional healthcare organizations.
-
-Accelerated research and development cycles. AI can model molecular interactions, predict outcomes, and identify promising drug candidates rapidly. 
-
-Lower risks of human error. AI assists clinicians in making decisions related to diagnoses, dosage calculations, and surgical plans. This reduces mistakes that could compromise patient safety.
-
-Cost reduction. By streamlining workflows, reducing unnecessary tests, and enabling preventive care, AI helps lower healthcare costs.
-
-Enhanced training and education. AI-powered simulations allow medical students and professionals to practice complex procedures safely and develop new skills.
-
-Challenges of Using AI Solutions in Healthcare
+## Challenges of Using AI Solutions in Healthcare
 
 While AI provides a range of benefits for healthcare, its adoption comes with potential obstacles and pitfalls. Based on our practical experience in the implementation of AI solutions in different domains, we can define the most common challenges and the ways to mitigate the associated issues.
 
-What are the key tech challenges in healthcare?
+{{< advert_with_cta title="What are the key tech challenges in healthcare?" description="We’ve talked about them in our blog post." button="Learn more" url="https://anadea.info/blog/technology-challenges-in-healthcare/" >}}
 
-We’ve talked about them in our blog post.
-
-Learn more
-
-Lack of High-Quality Training Data
+### Lack of High-Quality Training Data
 
 AI models need extensive datasets to function effectively across all patient groups. Otherwise, it will be impossible to ensure the inclusion of minority populations.
 
