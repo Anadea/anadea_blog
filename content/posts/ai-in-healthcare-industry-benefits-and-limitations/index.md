@@ -5,6 +5,8 @@ breadcrumbs: AI in Healthcare Industry
 slug: ai-in-healthcare
 draft: false
 publishDate: 2025-08-29T10:06:00+03:00
+image: injured-patient-showing-doctor-broken-wrist-arm-with-bandage-hospital-office-emergency-room-sprain-stress-fracture-repetitive-strain-injury-hand-nurse-helping-customer-first-aid.jpg
+og_image: injured-patient-showing-doctor-broken-wrist-arm-with-bandage-hospital-office-emergency-room-sprain-stress-fracture-repetitive-strain-injury-hand-nurse-helping-customer-first-aid.jpg
 description: Want to introduce AI in healthcare? Explore the most common use
   cases of this technology, its benefits, and potential pitfalls in our blog
   post!
