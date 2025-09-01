@@ -5,8 +5,8 @@ breadcrumbs: Machine Learning and Supply Chain
 slug: "machine-learning-in-supply-chain "
 draft: false
 publishDate: 2025-09-01T20:43:00+03:00
-image: ""
-og_image: ""
+image: portrait-starting-small-businesses-sme-owners-two-asian-woman-check-online-orders-selling-products-working-with-boxs-freelance-work-home-office-sme-business-online-small-medium-enterprise.jpg
+og_image: portrait-starting-small-businesses-sme-owners-two-asian-woman-check-online-orders-selling-products-working-with-boxs-freelance-work-home-office-sme-business-online-small-medium-enterprise.jpg
 description: Explore this guide to learn how you can use ML tools to power your
   supply chain management, minimize manual intervention, and optimize logistics
   costs.
