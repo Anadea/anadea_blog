@@ -30,11 +30,11 @@ questionary:
       weather or market trends). With accurate data-driven prediction, companies
       can minimize both stockouts and excess inventory.
 ---
-High logistics costs are one of the most serious business challenges that many companies worldwide face today. Studies show such expenses can be 15%-25% lower thanks to increasing comprehensive supply chain visibility. It can be quite difficult to achieve such changes relying solely on manual processes that are prone to mistakes and have scalability limitations. However, modern machine learning systems can address these challenges.
+High logistics costs are one of the most serious business challenges that many companies worldwide face today. Studies show such expenses can be[ 15%-25% lower](https://stbfreight.com/supply-chain-visibility/) thanks to increasing comprehensive supply chain visibility. It can be quite difficult to achieve such changes relying solely on manual processes that are prone to mistakes and have scalability limitations. However, modern machine learning systems can address these challenges.
 
 This guide explains the role of ML in supply chain management and shows how businesses can use ML tools to stay strong even amid global disruptions.
 
-What Is Machine Learning in Supply Chain Management?
+## What Is Machine Learning in Supply Chain Management?
 
 Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions based on them. ML-driven systems operate without reliance on fixed rules or manual inputs. Moreover, they can improve their outputs over time as they process more information.
 
@@ -42,53 +42,157 @@ In supply chains, ML can automatically detect trends, anticipate disruptions, or
 
 The table below showcases the main differences between traditional approaches to analytics and ML-powered systems.
 
-Aspect
+<table>
 
-Traditional analytics
+<thead>
 
-ML analytics
+<tr>
 
-Approach
+<th>
 
-Rule-based solutions; they rely on predefined formulas and historical reports
+<p><strong>Aspect</strong></p>
 
-Data-driven systems; ML models learn patterns and improve with more data
+</th>
 
-Key questions to answer
+<th>
 
-What happened? Why did it happen?
+<p><strong>Traditional analytics</strong></p>
 
-What will happen? What should we do?
+</th>
 
-Flexibility
+<th>
 
-Limited flexibility; such tools require manual updates when conditions change
+<p><strong>ML analytics</strong></p>
 
-ML systems are adaptive and can automatically adjust to new data and trends
+</th>
 
-Decision-making
+</tr>
 
-Usually reactive, based on past events
+</thead>
 
-Proactive, enables forward-looking decisions
+<tbody>
 
-Data processing
+<tr>
 
-These systems work best with structured, clean datasets
+<td>
 
-ML solutions can process large and unstructured datasets (including IoT data, text, and images). The quality and diversity of data still remain crucial for correct functioning of such systems.
+<p><span style="font-weight: 400;">Approach</span></p>
 
+</td>
 
+<td>
 
+<p><span style="font-weight: 400;">Rule-based solutions; they rely on predefined formulas and historical reports</span></p>
 
+</td>
 
-According to the data published by Market Research Future, in 2024, the ML in supply chain management market was valued at $10.44 billion. By 2034, it is projected to hit $71.18 billion, which reflects the CAGR of approximately 21% during the period from 2025 to 2034. 
+<td>
 
+<p><span style="font-weight: 400;">Data-driven systems; ML models learn patterns and improve with more data</span></p>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Key questions to answer</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">What happened? Why did it happen?</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">What will happen? What should we do?</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Flexibility</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Limited flexibility; such tools require manual updates when conditions change</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">ML systems are adaptive and can automatically adjust to new data and trends</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Decision-making</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Usually reactive, based on past events</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Proactive, enables forward-looking decisions</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Data processing</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">These systems work best with structured, clean datasets</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">ML solutions can process large and unstructured datasets (including IoT data, text, and images). The quality and diversity of data still remain crucial for correct functioning of such systems.</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+According to the data published by [Market Research Future](https://www.marketresearchfuture.com/reports/machine-learning-in-supply-chain-management-market-32516), in 2024, the ML in supply chain management market was valued at $10.44 billion. By 2034, it is projected to hit $71.18 billion, which reflects the CAGR of approximately 21% during the period from 2025 to 2034. 
+
+![](social-networking-app-market-2025-–-2034-usd-billion-1-.png)
 
 The key factors that drive the market growth are technological advancements in AI and the need for data-driven decision-making. Moreover, today, businesses are striving for cost reduction and more efficient operations, which is quite challenging to ensure with traditional approaches to analytics.
 
-Benefits of ML Supply Chain Technology
+## Benefits of ML Supply Chain Technology
 
 As you can see, the use of AI/ML supply chain software is gaining popularity. But it is not just a modern trend. This innovation has practical value for businesses. Let’s consider the most significant advantages that companies can leverage when implementing ML supply chain technology.
 
@@ -206,15 +310,9 @@ UPS: Machine Learning in Logistics and Supply Chain
 
 UPS relies on AI and ML to transform its supply chain and delivery operations.
 
-
-
 The ORION system is the key element of its strategy. It can dynamically optimize delivery routes in real time and reduce mileage and fuel consumption. For instance, it can ensure the reduction of up to 100 million miles driven annually and savings of up to $400 million per year.
 
-
-
 Predictive analytics help UPS anticipate traffic, weather, and mechanical issues, which allows it to adjust routes and prevent delays. Apart from this, AI also enhances customer interactions through NLP-powered chatbots and virtual assistants, so that staff can focus on handling complex inquiries.
-
-
 
 Ready to launch your own supply chain solution?
 
