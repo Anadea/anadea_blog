@@ -57,17 +57,17 @@ Explore it now!
 
 {{< advert_with_cta title="Planning to launch your own AI agent?" description="In our guide, you can find our expert insights and practical recommendations on how to do it." button="Explore it now!" url="https://anadea.info/blog/how-to-build-an-ai-agent/" >}}
 
-Benefits of Using AI in Procurement 
+## Benefits of Using AI in Procurement 
 
 When you are preparing to use solutions powered by AI in procurement, you should clearly understand the value that they can bring. We invite you to explore the benefits of this technology and the parameters that will help you estimate the outcomes.
 
-Cost Reduction
+### Cost Reduction
 
 In traditional processes, procurement heavily relies on supplier data and manual analysis. Due to this, companies may miss the opportunities to save their budgets. At the same time, AI cost insights cover thousands of items and provide valuable data that often goes unnoticed to the human eye. 
 
 AI can detect duplicate or unnecessary purchase requests, analyze product specifications, and offer alternatives.
 
-Increased Efficiency
+### Increased Efficiency
 
 Procurement processes are often slowed down by administrative bottlenecks, manual reviews, and poor system integration. AI enables faster cycle times and higher throughput with fewer touches. 
 
@@ -75,13 +75,13 @@ Generative AI in procurement can be applied to automate the process of creating 
 
 AI agents can also validate requisitions and auto-code invoices, as well as triage mismatches and escalate only where it is impossible to avoid human judgment.
 
-High-Quality of Decisions
+### High-Quality of Decisions
 
 AI is used to augment judgment with predictive insights.
 
-ML models anticipate demand spikes and supply constraints to increase the accuracy of forecasts. For example, NLP tools can scan news, filings, and ESG data for detecting any signs of potential issues in cooperation wth suppliers. At the same time, the same insights can be applied for ranking sourcing events or suppliers by potential value.
+ML models anticipate demand spikes and supply constraints to increase the accuracy of forecasts. For example, NLP tools can scan news, filings, and ESG data for detecting any signs of potential issues in cooperation with suppliers. At the same time, the same insights can be applied for ranking sourcing events or suppliers by potential value.
 
-Risk and Compliance
+### Risk and Compliance
 
 The regulatory space is very dynamic. Manual compliance checks can be quite inconsistent and also slow. This can lead to fines and other penalties from regulators.
 
@@ -91,73 +91,145 @@ AI can check whether suppliers are not included in sanctions and whether they pr
 
 In addition to this, ML models can detect unusual patterns in invoices or supplier activities that can be signs of fraud.
 
-Aspect
+<table>
 
-KPIs to Track
+<thead>
 
-Cost reduction
+<tr>
 
-Price variance vs. market benchmark (how much your company overpays relative to the market);
+<th>
 
-Realized savings vs. negotiated savings;
+<p><strong>Aspect</strong></p>
 
-AI coverage breadth (percentage of total activities where AI tools are applied)
+</th>
 
-Increased efficiency
+<th>
 
-Average RFx cycle time (measured in days reduced);
+<p><strong>KPIs to Track</strong></p>
 
-First-pass match rate (process order and invoice match accuracy);
+</th>
 
-Exception rate (the percentage of transactions that cannot be processed automatically due to errors or missing data) and its reduction
+</tr>
 
-High-quality of decisions
+</thead>
 
-Forecast accuracy;
+<tbody>
 
-Early-warning lead time (days before disruption vs. average response time);
+<tr>
 
-False positive/false negative rates in risk detection;
+<td>
 
-Win rate in sourcing events (success ratio vs. historical average)
+<p><span style="font-weight: 400;">Cost reduction</span></p>
 
-Risk and compliance
+</td>
 
-Percentage of spend under automated compliance monitoring;
+<td>
 
-Reduction in audit findings (including their number and severity);
+<p><span style="font-weight: 400;">Price variance vs. market benchmark (how much your company overpays relative to the market);</span></p>
 
-Percentage of suppliers screened for ESG and sanctions risks;
+<p><span style="font-weight: 400;">Realized savings vs. negotiated savings;</span></p>
 
-Time to resolve compliance alerts
+<p><span style="font-weight: 400;">AI coverage breadth (percentage of total activities where AI tools are applied)</span></p>
 
-How to Implement Procurement Intelligence
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Increased efficiency</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Average RFx cycle time (measured in days reduced);</span></p>
+
+<p><span style="font-weight: 400;">First-pass match rate (process order and invoice match accuracy);</span></p>
+
+<p><span style="font-weight: 400;">Exception rate (the percentage of transactions that cannot be processed automatically due to errors or missing data) and its reduction</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">High-quality of decisions</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Forecast accuracy;</span></p>
+
+<p><span style="font-weight: 400;">Early-warning lead time (days before disruption vs. average response time);</span></p>
+
+<p><span style="font-weight: 400;">False positive/false negative rates in risk detection;</span></p>
+
+<p><span style="font-weight: 400;">Win rate in sourcing events (success ratio vs. historical average)</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Risk and compliance</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Percentage of spend under automated compliance monitoring;</span></p>
+
+<p><span style="font-weight: 400;">Reduction in audit findings (including their number and severity);</span></p>
+
+<p><span style="font-weight: 400;">Percentage of suppliers screened for ESG and sanctions risks;</span></p>
+
+<p><span style="font-weight: 400;">Time to resolve compliance alerts</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## How to Implement Procurement Intelligence
 
 AI in procurement is much bigger than just automation. It’s about augmenting human decision-making and reshaping roles in the related processes for ensuring strategic impact. That’s why implementation of this technology requires not only development efforts but also solid preparation and change management.
 
-At Anadea, we have been helping companies from different industries implement AI in their processes since 2019. Over this period, we have accumulated rich practical experience and a deep understanding of the peculiarities of AI-driven process transformation. Based on our knowledge and skills in custom software development, we have prepared a step-by-step practical guide that can become a backbone for your project.
+At Anadea, we have been helping companies from different industries implement AI in their processes since 2019. Over this period, we have accumulated rich practical experience and a deep understanding of the peculiarities of AI-driven process transformation. Based on our knowledge and skills in[ custom software development](https://anadea.info/services/custom-software-development), we have prepared a step-by-step practical guide that can become a backbone for your project.
 
-Step 1. Assess Your Business Readiness
+### Step 1. Assess Your Business Readiness
 
 Before introducing AI, ML, or deep learning in procurement, it’s essential to analyze the existing environment. Your data and your processes should be well prepared for the introduction of AI systems. Otherwise, your investments in AI procurement software won’t bring the expected results. And instead of addressing your pain points, it may create new bottlenecks.
 
-Conduct a data audit (check its sources, coverage, diversity, and reliability).
+* Conduct a data audit (check its sources, coverage, diversity, and reliability).
+* Create a process heatmap and identify the most error-prone, high-value, or repetitive tasks.
+* Prepare a legal and security checklist (make sure that your data processing approaches are compliant with the relevant regulations and analyze the efficiency of your cybersecurity.
 
-Create a process heatmap and identify the most error-prone, high-value, or repetitive tasks.
-
-Prepare a legal and security checklist (make sure that your data processing approaches are compliant with the relevant regulations and analyze the efficiency of your cybersecurity.
-
-Step 2. Prioritize Use Cases
+### Step 2. Prioritize Use Cases
 
 Trying to change everything at once and implement AI in all possible use cases is not only expensive but also inefficient. Instead, you should focus on small pilots. We recommend you prioritize quick wins and scalable applications.
 
 To detect such cases, you can rely on a 2x2 matrix. By identifying the potential impact and the required efforts and visualizing them, you will easily find those opportunities that should be used first.
 
+![](group-17722-1-.png)
+
 Quite often, companies start with such tasks as automated spend classification or exception handling, as well as contract extraction.
 
 Only when such tools prove their efficiency, you can consider expansion into predictive analytics and generative AI applications.
 
-Step 3. Choose Your Approach: Ready-to-Use or Custom Solutions
+### Step 3. Choose Your Approach (Ready-to-Use or Custom Solutions)
 
 When you define what tools you want to deploy, you need to decide on whether you will adopt vendor solutions or develop custom products.
 
@@ -165,41 +237,30 @@ There are arguments in favor of both approaches. For example, the introduction o
 
 Nevertheless, only custom solutions will be fully tailored to your needs and adjusted to the specificity of your tasks. Moreover, they can be smoothly embedded into your workflows, while in the case of vendor tools, you may face integration complexity.
 
-Looking for a team that will build AI procurement software for you?
+{{< advert_with_cta title="Looking for a team that will build AI procurement software for you?" description="With over 25 years of experience in software development and 600+ successfully delivered projects, Anadea can become your reliable tech partner." button="Book a consultation!" url="https://anadea.info/services/ai-software-development" >}}
 
-With over 25 years of experience in software development and 600+ successfully delivered projects, Anadea can become your reliable tech partner.
-
-Book a consultation!
-
-Step 4. Drive Changes through Effective Management
+#### Step 4. Drive Changes through Effective Management
 
 AI adoption results in significant changes for all stakeholders, and first of all, for your employees. People should be ready for the introduction of new tools and should clearly understand how they can leverage the highest value of new solutions.
 
-Engage stakeholders, including suppliers, finance, and legal departments, early to avoid resistance.
+* Engage stakeholders, including suppliers, finance, and legal departments, early to avoid resistance.
+* Clearly explain the role of AI and changes in the traditional workflows. Demonstrate how AI augments (not replaces) staff.
+* Develop a library of standardized prompts for GenAI tools to avoid misuse.
+* Train teams to understand AI outputs and introduce “trust but verify” practices.
+* Update KPIs to encourage AI use, reward efficiency gains, and innovation in applying AI.
 
-Clearly explain the role of AI and changes in the traditional workflows. Demonstrate how AI augments (not replaces) staff.
-
-Develop a library of standardized prompts for GenAI tools to avoid misuse.
-
-Train teams to understand AI outputs and introduce “trust but verify” practices.
-
-Update KPIs to encourage AI use, reward efficiency gains, and innovation in applying AI.
-
-Step 5. Run Pilots and Scale Gradually
+### Step 5. Run Pilots and Scale Gradually
 
 Pilots are crucial for proving the value of your solutions before their expansion. Here’s how you should analyze your projects:
 
-Efficiency (cycle time reduction in performing various tasks, like invoice matching or purchase order approvals);
-
-Financial results (measurable cost savings);
-
-Accuracy (percentage of correctly outputs);
-
-Adoption (number of active AI users and automated processes).
+* Efficiency (cycle time reduction in performing various tasks, like invoice matching or purchase order approvals);
+* Financial results (measurable cost savings);
+* Accuracy (percentage of correctly outputs);
+* Adoption (number of active AI users and automated processes).
 
 When you are satisfied with the results of pilots and no adjustments are needed, you can proceed to new AI use cases.
 
-Challenges of AI Procurement Software Implementation
+## Challenges of AI Procurement Software Implementation
 
 The use of AI in sourcing, contract management, and other procurement-related processes unlocks a lot of new opportunities for businesses. However, the adoption of this technology requires careful attention to different aspects like software integration and risk governance. Let’s take a closer look at the most common pitfalls of introducing artificial intelligence and machine learning in procurement and the ways to address them.
 
