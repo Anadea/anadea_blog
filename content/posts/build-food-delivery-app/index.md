@@ -5,8 +5,8 @@ breadcrumbs: ""
 slug: build-food-delivery-app
 draft: false
 publishDate: 2020-11-23T00:00:00.000Z
-image: larch-conifer-cone-branch-tree-40896.jpeg
-og_image: larch-conifer-cone-branch-tree-40896.jpeg
+image: jon-tyson-uuzufw4qepk-unsplash.jpg
+og_image: jon-tyson-uuzufw4qepk-unsplash.jpg
 description: "Learn how to create a food delivery app from scratch. Step-by-step
   guide covering market research, business models, development process, costs
   and timeline. "
