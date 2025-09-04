@@ -13,65 +13,49 @@ authors:
 categories:
   - ai-ml
 ---
-Title: Artificial Intelligence in Procurement: Comprehensive Guide
-
-Description: Want to enhance your procurement processes with AI? Read about the latest trends in AI software and the ways to make its implementation as smooth as possible.
-
-
-
-AI in Procurement: From Pilot to P&L Impact
-
-For many decades, procurement teams have been struggling with time-consuming manual processes, repetitive tasks, and errors in data. Such inefficiencies significantly slow down procurement cycles, as well as lead to increased costs and compliance risks. This is where AI can bring tangible value. As it was revealed by Deloitte, digital tools can decrease order approval time by 50% and reduce purchasing costs by up to 20%. Such changes can improve the overall operational efficiency.
+For many decades, procurement teams have been struggling with time-consuming manual processes, repetitive tasks, and errors in data. Such inefficiencies significantly slow down procurement cycles, as well as lead to increased costs and compliance risks. This is where AI can bring tangible value. As it was revealed by [Deloitte](https://www.deloitte.com/cz-sk/en/services/consulting/services/procurement-operations.html), digital tools can decrease order approval time by 50% and reduce purchasing costs by up to 20%. Such changes can improve the overall operational efficiency.
 
 The use of AI in procurement is aimed at making all related processes, like sourcing, purchasing, supplier management, and contract management, more efficient and strategic. In this guide, we will talk about the key capabilities of artificial intelligence that procurement teams can leverage. Moreover, we will share our practical tips on how to make the introduction of AI tools as seamless as possible.
 
-AI in Procurement: Current Landscape
+## AI in Procurement: Current Landscape
 
-According to the Cons & Insights report, the AI in procurement market size stood at $1.8 billion in 2024. If the positive tendencies in the market growth persist, by 2033, it can hit $3.4 billion.
+According to the[ Cons & Insights report](https://www.consainsights.com/reports/ai-in-procurement-market-size-market), the AI in procurement market size stood at $1.8 billion in 2024. If the positive tendencies in the market growth persist, by 2033, it can hit $3.4 billion.
 
-
+![](ai-in-banking-market-size-2024-to-2034-usd-billion-.png)
 
 Machine learning, natural language processing, and computer vision are the core technologies that power AI procurement processes. ML dominated the market in 2024, with a share of $1.1 billion. It is also expected to keep its leader position in the long term, as in 2033, its share is projected to be valued at $1.92 billion.
 
+![](group-17723.png)
 
+## Key Capabilities of AI to Be Used in Procurement
 
-Key Capabilities of AI to Be Used in Procurement
+Now, let’s consider how AI technologies can be used based on their capabilities. We suggest defining the following categories.
 
-Now, let’s consider how AI technologies can be used based on their capabilities. We suggest to define the following categories.
+* **Classification**. This capability can be applied to automatically categorize purchases across indirect and direct categories, standardize supplier master data across ERPs, resolve duplicates, and map to external taxonomies. For instance, Pentair, a water treatment company, implemented an AI-driven analytics platform to enhance its procurement performance. This solution helped consolidate data from different sources and analyze spend across different regions and systems. As a result, the company achieved [90% accuracy ](https://ai.business/case-studies/how-ai-enhanced-the-procurement-system-of-a-global-leader-in-water-treatment/)in spend classification. 
+* **Generation (creating text, insights, or documents)**. Generative AI in procurement can create reports and audit summaries, prepare RFx drafts with standardized templates, and write outreach messages.
+* **Forecasting (predicting future outcomes based on patterns)**. AI tools can provide accurate predictions. For instance, they can calculate future order volumes to improve inventory planning and supplier negotiations or detect early-warning signals in supply chain disruptions.
+* **Optimization (finding the best combination of outcomes)**. AI can use algorithms to determine the best way to balance cost, supplier capacity, risk, and sustainability commitments.
+* **Anomaly detection (spotting outliers and potential risks)**. AI models can identify irregularities in invoice data, flag purchases outside approved contracts or suppliers (maverick spend), as well as detect supplier performance issues.
 
-Classification. This capability can be applied to automatically categorize purchases across indirect and direct categories, standardize supplier master data across ERPs, resolve duplicates, and map to external taxonomies. For instance, Pentair, a water treatment company, implemented an AI-driven analytics platform to enhance its procurement performance. This solution helped consolidate data from different sources and analyze spend across different regions and systems. As a result, the company achieved 90% accuracy in spend classification. 
-
-Generation (creating text, insights, or documents). Generative AI in procurement can create reports and audit summaries, prepare RFx drafts with standardized templates, and write outreach messages.
-
-Forecasting (predicting future outcomes based on patterns). AI tools can provide accurate predictions. For instance, they can calculate future order volumes to improve inventory planning and supplier negotiations or detect early-warning signals in supply chain disruptions.
-
-Optimization (finding the best combination of outcomes). AI can use algorithms to determine the best way to balance cost, supplier capacity, risk, and sustainability commitments.
-
-Anomaly detection (spotting outliers and potential risks). AI models can identify irregularities in invoice data, flag purchases outside approved contracts or suppliers (maverick spend), as well as detect supplier performance issues.
-
-Latest Trends in AI-driven Solutions for Procurement
+## Latest Trends in AI-driven Solutions for Procurement
 
 As we have described the most valuable capabilities in procurement, it’s time to mention the most common types of AI-powered tools and systems that are currently implemented in this domain.
 
-Predictive analytics. Such tools use historical, transactional, and external data to anticipate future demand, risks, and inventory needs. For example, commodity procurement teams can integrate macro signals into cost forecasts to improve budget accuracy.
-
-AI-powered contract management. NLP models can process thousands of contracts to extract the required data, like key obligations (payment terms, ESG commitments, etc.) or expiry dates. Automation of such processes can not only enable staff to focus more on strategic tasks but also reduce mistakes caused by the human factor.
-
-ML tools in procurement. Machine learning technology powers the “procurement intelligence”. ML models can be used for autotagging spend and suppliers to ensure better source strategies. Apart from this, reinforcement learning (one of the ML methods) can be used to train AI agents based on the interaction with an environment through trial and error. 
-
-Computer vision in document processing and QA. Such tools can automate accounts payable (AP) by extracting data from invoices, purchase orders, or delivery notes, even if they are handwritten. Moreover, computer vision models can check goods upon arrival from suppliers.
-
-AI-driven supplier knowledge graphs. These connected data models link supplier-related entities (contracts, invoices, risk reports, ESG data, logistics routes, sub-tier suppliers) into a network. AI enhances the use of the models by automating entity resolution, relationship discovery, and insight generation.
-
-Guided procurement tools. AI-driven solutions of this type help employees and stakeholders navigate the procurement process. End-users are not expected to understand complex procurement rules. Such tools can guide them through every step and ensure the right actions and buying decisions with minimal effort.
-
-AI agents in procurement. These are autonomous or semi-autonomous software solutions powered by AI, ML, NLP, and other related technologies. They are used to analyze data, make recommendations, and automate tasks across the procurement lifecycle.
+* **Predictive analytics**. Such tools use historical, transactional, and external data to anticipate future demand, risks, and inventory needs. For example, commodity procurement teams can integrate macro signals into cost forecasts to improve budget accuracy.
+* **AI-powered contract management**. NLP models can process thousands of contracts to extract the required data, like key obligations (payment terms, ESG commitments, etc.) or expiry dates. Automation of such processes can not only enable staff to focus more on strategic tasks but also reduce mistakes caused by the human factor.
+* **ML tools in procurement**. Machine learning technology powers the “procurement intelligence”. ML models can be used for autotagging spend and suppliers to ensure better source strategies. Apart from this, reinforcement learning (one of the ML methods) can be used to train AI agents based on the interaction with an environment through trial and error. 
+* **Computer vision in document processing and QA**. Such tools can automate accounts payable (AP) by extracting data from invoices, purchase orders, or delivery notes, even if they are handwritten. Moreover, computer vision models can check goods upon arrival from suppliers.
+* **AI-driven supplier knowledge graphs**. These connected data models link supplier-related entities (contracts, invoices, risk reports, ESG data, logistics routes, sub-tier suppliers) into a network. AI enhances the use of the models by automating entity resolution, relationship discovery, and insight generation.
+* **Guided procurement tools**. AI-driven solutions of this type help employees and stakeholders navigate the procurement process. End-users are not expected to understand complex procurement rules. Such tools can guide them through every step and ensure the right actions and buying decisions with minimal effort.
+* **AI agents in procurement**. These are autonomous or semi-autonomous software solutions powered by AI, ML, NLP, and other related technologies. They are used to analyze data, make recommendations, and automate tasks across the procurement lifecycle.
 
 Planning to launch your own AI agent?
 
 In our guide, you can find our expert insights and practical recommendations on how to do it.
 
 Explore it now!
+
+{{< advert_with_cta title="Planning to launch your own AI agent?" description="In our guide, you can find our expert insights and practical recommendations on how to do it." button="Explore it now!" url="https://anadea.info/blog/how-to-build-an-ai-agent/" >}}
 
 Benefits of Using AI in Procurement 
 
@@ -107,8 +91,6 @@ AI can check whether suppliers are not included in sanctions and whether they pr
 
 In addition to this, ML models can detect unusual patterns in invoices or supplier activities that can be signs of fraud.
 
-
-
 Aspect
 
 KPIs to Track
@@ -121,15 +103,7 @@ Realized savings vs. negotiated savings;
 
 AI coverage breadth (percentage of total activities where AI tools are applied)
 
-
-
-
-
 Increased efficiency
-
-
-
-
 
 Average RFx cycle time (measured in days reduced);
 
@@ -157,10 +131,6 @@ Percentage of suppliers screened for ESG and sanctions risks;
 
 Time to resolve compliance alerts
 
-
-
-
-
 How to Implement Procurement Intelligence
 
 AI in procurement is much bigger than just automation. It’s about augmenting human decision-making and reshaping roles in the related processes for ensuring strategic impact. That’s why implementation of this technology requires not only development efforts but also solid preparation and change management.
@@ -182,8 +152,6 @@ Step 2. Prioritize Use Cases
 Trying to change everything at once and implement AI in all possible use cases is not only expensive but also inefficient. Instead, you should focus on small pilots. We recommend you prioritize quick wins and scalable applications.
 
 To detect such cases, you can rely on a 2x2 matrix. By identifying the potential impact and the required efforts and visualizing them, you will easily find those opportunities that should be used first.
-
-
 
 Quite often, companies start with such tasks as automated spend classification or exception handling, as well as contract extraction.
 
