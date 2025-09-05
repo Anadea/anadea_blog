@@ -14,6 +14,7 @@ authors:
   - ai-ml-team
 categories:
   - ai-ml
+  - business
 questionary:
   - question: Will procurement be automated with AI?
     answer: AI can automate much of procurement’s routine work, but not the entire
