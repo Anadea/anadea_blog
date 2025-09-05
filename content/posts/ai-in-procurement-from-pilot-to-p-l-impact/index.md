@@ -284,40 +284,40 @@ When you are satisfied with the results of pilots and no adjustments are needed,
 
 The use of AI in sourcing, contract management, and other procurement-related processes unlocks a lot of new opportunities for businesses. However, the adoption of this technology requires careful attention to different aspects like software integration and risk governance. Let’s take a closer look at the most common pitfalls of introducing artificial intelligence and machine learning in procurement and the ways to address them.
 
-Data Quality
+### Data Quality
 
 For the correct and efficient functioning of AI tools, diverse high-quality data is a must. Nevertheless, procurement data often exists in silos, has a fragmented taxonomy and duplicate or missing supplier identifiers.
 
 To address this issue, you can introduce a canonical data schema and supplier ID mastering. These steps will help create a single source of truth across systems.
 
-Integration with Legacy Systems
+### Integration with Legacy Systems
 
 Today, many companies still rely on outdated ERP and procurement systems. A lot of solutions of this kind were designed long before the mainstream adoption of AI tools. As a result, they are not ready to interact with modern AI tools.
 
 For scalable integration, you can utilize APIs and event streams. 
 
-AI Model Reliability
+### AI Model Reliability
 
 Hallucination of AI models (situations when AI fabricates false information that is false but presents it as if it were true) and biased outputs are quite common issues, which require continuous monitoring and supervision.
 
 Model tracking and bias detection techniques are designed to mitigate such risks. We also recommend using model cards to document limitations and performance metrics.
 
-Resistance to Change
+### Resistance to Change
 
 Procurement leaders and other stakeholders may distrust AI-driven recommendations. It is often related to the fear of losing control or being replaced by AI tools in decision-making processes.
 
 You need to clearly demonstrate the value of AI systems to stakeholders before shifting governance. It is possible to do so by launching an AI system in shadow mode first, in parallel to existing processes.
 
-Balance Between Automation and Human Judgment
+### Balance Between Automation and Human Judgment
 
 Over-automation can lead to the replacement of careful decision-making. The most serious risks are associated with strategic decisions and sensitive supplier negotiations or approvals.
 
 It will be helpful to implement tiered approval workflows and ensure explainability for AI recommendations.
 
-Conclusion
+## Conclusion
 
 AI in procurement delivers significant opportunities. But its efficient implementation will require specific efforts from your side. Apart from the reliable AI procurement software, you will also need to prepare high-quality data, change management strategies, and governance policies. 
 
 Moreover, it’s vital to avoid overreliance on technologies and keep the right balance between automation and human judgment. Only in this case, you will achieve the highest efficiency of your AI-driven workflows.
 
-Need professional help at any stage of your AI project? Contact our team, and we will find the right way to solve your tasks.
+Need professional help at any stage of your AI project? [Contact our team](https://anadea.info/free-project-estimate), and we will find the right way to solve your tasks.
