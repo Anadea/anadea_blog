@@ -227,29 +227,29 @@ In addition to this, ML models can detect unusual patterns in invoices or suppli
 
 AI in procurement is much bigger than just automation. It’s about augmenting human decision-making and reshaping roles in the related processes for ensuring strategic impact. That’s why implementation of this technology requires not only development efforts but also solid preparation and change management.
 
-At Anadea, we have been helping companies from different industries implement AI in their processes since 2019. Over this period, we have accumulated rich practical experience and a deep understanding of the peculiarities of AI-driven process transformation. Based on our knowledge and skills in custom software development, we have prepared a step-by-step practical guide that can become a backbone for your project.
+At Anadea, we have been helping companies from different industries implement AI in their processes since 2019. Over this period, we have accumulated rich practical experience and a deep understanding of the peculiarities of AI-driven process transformation. Based on our knowledge and skills in [custom software development](https://anadea.info/services/custom-software-development), we have prepared a step-by-step practical guide that can become a backbone for your project.
 
-Step 1. Assess Your Business Readiness
+### Step 1. Assess Your Business Readiness
 
 Before introducing AI, ML, or deep learning in procurement, it’s essential to analyze the existing environment. Your data and your processes should be well prepared for the introduction of AI systems. Otherwise, your investments in AI procurement software won’t bring the expected results. And instead of addressing your pain points, it may create new bottlenecks.
 
-Conduct a data audit (check its sources, coverage, diversity, and reliability).
+* Conduct a data audit (check its sources, coverage, diversity, and reliability).
+* Create a process heatmap and identify the most error-prone, high-value, or repetitive tasks.
+* Prepare a legal and security checklist (make sure that your data processing approaches are compliant with the relevant regulations and analyze the efficiency of your cybersecurity.
 
-Create a process heatmap and identify the most error-prone, high-value, or repetitive tasks.
-
-Prepare a legal and security checklist (make sure that your data processing approaches are compliant with the relevant regulations and analyze the efficiency of your cybersecurity.
-
-Step 2. Prioritize Use Cases
+### Step 2. Prioritize Use Cases
 
 Trying to change everything at once and implement AI in all possible use cases is not only expensive but also inefficient. Instead, you should focus on small pilots. We recommend you prioritize quick wins and scalable applications.
 
 To detect such cases, you can rely on a 2x2 matrix. By identifying the potential impact and the required efforts and visualizing them, you will easily find those opportunities that should be used first.
 
+![](group-17722-1-.png)
+
 Quite often, companies start with such tasks as automated spend classification or exception handling, as well as contract extraction.
 
 Only when such tools prove their efficiency, you can consider expansion into predictive analytics and generative AI applications.
 
-Step 3. Choose Your Approach: Ready-to-Use or Custom Solutions
+### Step 3. Choose Your Approach: Ready-to-Use or Custom Solutions
 
 When you define what tools you want to deploy, you need to decide on whether you will adopt vendor solutions or develop custom products.
 
@@ -257,78 +257,67 @@ There are arguments in favor of both approaches. For example, the introduction o
 
 Nevertheless, only custom solutions will be fully tailored to your needs and adjusted to the specificity of your tasks. Moreover, they can be smoothly embedded into your workflows, while in the case of vendor tools, you may face integration complexity.
 
-Looking for a team that will build AI procurement software for you?
+{{< advert_with_cta title="Looking for a team that will build AI procurement software for you?" description="With over 25 years of experience in software development and 600+ successfully delivered projects, Anadea can become your reliable tech partner." button="Book a consultation!" url="https://anadea.info/services/ai-software-development" >}}
 
-With over 25 years of experience in software development and 600+ successfully delivered projects, Anadea can become your reliable tech partner.
-
-Book a consultation!
-
-Step 4. Drive Changes through Effective Management
+### Step 4. Drive Changes through Effective Management
 
 AI adoption results in significant changes for all stakeholders, and first of all, for your employees. People should be ready for the introduction of new tools and should clearly understand how they can leverage the highest value of new solutions.
 
-Engage stakeholders, including suppliers, finance, and legal departments, early to avoid resistance.
+* Engage stakeholders, including suppliers, finance, and legal departments, early to avoid resistance.
+* Clearly explain the role of AI and changes in the traditional workflows. Demonstrate how AI augments (not replaces) staff.
+* Develop a library of standardized prompts for GenAI tools to avoid misuse.
+* Train teams to understand AI outputs and introduce “trust but verify” practices.
+* Update KPIs to encourage AI use, reward efficiency gains, and innovation in applying AI.
 
-Clearly explain the role of AI and changes in the traditional workflows. Demonstrate how AI augments (not replaces) staff.
-
-Develop a library of standardized prompts for GenAI tools to avoid misuse.
-
-Train teams to understand AI outputs and introduce “trust but verify” practices.
-
-Update KPIs to encourage AI use, reward efficiency gains, and innovation in applying AI.
-
-Step 5. Run Pilots and Scale Gradually
+### Step 5. Run Pilots and Scale Gradually
 
 Pilots are crucial for proving the value of your solutions before their expansion. Here’s how you should analyze your projects:
 
-Efficiency (cycle time reduction in performing various tasks, like invoice matching or purchase order approvals);
-
-Financial results (measurable cost savings);
-
-Accuracy (percentage of correctly outputs);
-
-Adoption (number of active AI users and automated processes).
+* Efficiency (cycle time reduction in performing various tasks, like invoice matching or purchase order approvals);
+* Financial results (measurable cost savings);
+* Accuracy (percentage of correctly outputs);
+* Adoption (number of active AI users and automated processes).
 
 When you are satisfied with the results of pilots and no adjustments are needed, you can proceed to new AI use cases.
 
-Challenges of AI Procurement Software Implementation
+## Challenges of AI Procurement Software Implementation
 
 The use of AI in sourcing, contract management, and other procurement-related processes unlocks a lot of new opportunities for businesses. However, the adoption of this technology requires careful attention to different aspects like software integration and risk governance. Let’s take a closer look at the most common pitfalls of introducing artificial intelligence and machine learning in procurement and the ways to address them.
 
-Data Quality
+### Data Quality
 
 For the correct and efficient functioning of AI tools, diverse high-quality data is a must. Nevertheless, procurement data often exists in silos, has a fragmented taxonomy and duplicate or missing supplier identifiers.
 
 To address this issue, you can introduce a canonical data schema and supplier ID mastering. These steps will help create a single source of truth across systems.
 
-Integration with Legacy Systems
+### Integration with Legacy Systems
 
 Today, many companies still rely on outdated ERP and procurement systems. A lot of solutions of this kind were designed long before the mainstream adoption of AI tools. As a result, they are not ready to interact with modern AI tools.
 
 For scalable integration, you can utilize APIs and event streams. 
 
-AI Model Reliability
+### AI Model Reliability
 
 Hallucination of AI models (situations when AI fabricates false information that is false but presents it as if it were true) and biased outputs are quite common issues, which require continuous monitoring and supervision.
 
 Model tracking and bias detection techniques are designed to mitigate such risks. We also recommend using model cards to document limitations and performance metrics.
 
-Resistance to Change
+### Resistance to Change
 
 Procurement leaders and other stakeholders may distrust AI-driven recommendations. It is often related to the fear of losing control or being replaced by AI tools in decision-making processes.
 
 You need to clearly demonstrate the value of AI systems to stakeholders before shifting governance. It is possible to do so by launching an AI system in shadow mode first, in parallel to existing processes.
 
-Balance Between Automation and Human Judgment
+### Balance Between Automation and Human Judgment
 
 Over-automation can lead to the replacement of careful decision-making. The most serious risks are associated with strategic decisions and sensitive supplier negotiations or approvals.
 
 It will be helpful to implement tiered approval workflows and ensure explainability for AI recommendations.
 
-Conclusion
+## Conclusion
 
 AI in procurement delivers significant opportunities. But its efficient implementation will require specific efforts from your side. Apart from the reliable AI procurement software, you will also need to prepare high-quality data, change management strategies, and governance policies. 
 
 Moreover, it’s vital to avoid overreliance on technologies and keep the right balance between automation and human judgment. Only in this case, you will achieve the highest efficiency of your AI-driven workflows.
 
-Need professional help at any stage of your AI project? Contact our team, and we will find the right way to solve your tasks.
+Need professional help at any stage of your AI project? [Contact our team](https://anadea.info/free-project-estimate), and we will find the right way to solve your tasks.
