@@ -18,12 +18,30 @@ authors:
 categories:
   - ai-ml
   - business
+questionary:
+  - question: Will procurement be automated with AI?
+    answer: AI can automate much of procurement’s routine work, but not the entire
+      function itself. For example, this technology is well-suited for
+      automating repetitive and data-heavy tasks (spend classification, RFx
+      drafting, supplier risk scanning, etc.). However, AI can’t replace human
+      judgment itself. In such areas as negotiations or ethical decisions,
+      critical thinking, strategic planning, and emotional intelligence remain
+      essential.
+  - question: What data does AI work with in procurement?
+    answer: To deliver insights and automate processes, AI works with a wide range
+      of structured and unstructured data, including supplier, transactional,
+      catalog, and contact data. Apart from this, in its decisions, it can rely
+      on historical trends and ongoing market conditions.
+  - question: Can Anadea build custom AI-driven procurement software?
+    answer: With over 25 years of experience in the custom software development
+      market, our team offers comprehensive AI services. In our practice, we
+      have partnered with companies from different industries and helped them
+      solve their business tasks with the power of modern technologies,
+      including AI and ML.
 ---
 Title: Artificial Intelligence in Procurement: Comprehensive Guide
 
 Description: Want to enhance your procurement processes with AI? Read about the latest trends in AI software and the ways to make its implementation as smooth as possible.
-
-
 
 AI in Procurement: From Pilot to P&L Impact
 
@@ -35,11 +53,7 @@ AI in Procurement: Current Landscape
 
 According to the Cons & Insights report, the AI in procurement market size stood at $1.8 billion in 2024. If the positive tendencies in the market growth persist, by 2033, it can hit $3.4 billion.
 
-
-
 Machine learning, natural language processing, and computer vision are the core technologies that power AI procurement processes. ML dominated the market in 2024, with a share of $1.1 billion. It is also expected to keep its leader position in the long term, as in 2033, its share is projected to be valued at $1.92 billion.
-
-
 
 Key Capabilities of AI to Be Used in Procurement
 
@@ -113,8 +127,6 @@ AI can check whether suppliers are not included in sanctions and whether they pr
 
 In addition to this, ML models can detect unusual patterns in invoices or supplier activities that can be signs of fraud.
 
-
-
 Aspect
 
 KPIs to Track
@@ -127,15 +139,7 @@ Realized savings vs. negotiated savings;
 
 AI coverage breadth (percentage of total activities where AI tools are applied)
 
-
-
-
-
 Increased efficiency
-
-
-
-
 
 Average RFx cycle time (measured in days reduced);
 
@@ -163,10 +167,6 @@ Percentage of suppliers screened for ESG and sanctions risks;
 
 Time to resolve compliance alerts
 
-
-
-
-
 How to Implement Procurement Intelligence
 
 AI in procurement is much bigger than just automation. It’s about augmenting human decision-making and reshaping roles in the related processes for ensuring strategic impact. That’s why implementation of this technology requires not only development efforts but also solid preparation and change management.
@@ -188,8 +188,6 @@ Step 2. Prioritize Use Cases
 Trying to change everything at once and implement AI in all possible use cases is not only expensive but also inefficient. Instead, you should focus on small pilots. We recommend you prioritize quick wins and scalable applications.
 
 To detect such cases, you can rely on a 2x2 matrix. By identifying the potential impact and the required efforts and visualizing them, you will easily find those opportunities that should be used first.
-
-
 
 Quite often, companies start with such tasks as automated spend classification or exception handling, as well as contract extraction.
 
@@ -278,17 +276,3 @@ AI in procurement delivers significant opportunities. But its efficient implemen
 Moreover, it’s vital to avoid overreliance on technologies and keep the right balance between automation and human judgment. Only in this case, you will achieve the highest efficiency of your AI-driven workflows.
 
 Need professional help at any stage of your AI project? Contact our team, and we will find the right way to solve your tasks.
-
-FAQ
-
-Will procurement be automated with AI?
-
-AI can automate much of procurement’s routine work, but not the entire function itself. For example, this technology is well-suited for automating repetitive and data-heavy tasks (spend classification, RFx drafting, supplier risk scanning, etc.). However, AI can’t replace human judgment itself. In such areas as negotiations or ethical decisions, critical thinking, strategic planning, and emotional intelligence remain essential.
-
-What data does AI work with in procurement?
-
-To deliver insights and automate processes, AI works with a wide range of structured and unstructured data, including supplier, transactional, catalog, and contact data. Apart from this, in its decisions, it can rely on historical trends and ongoing market conditions.
-
-Can Anadea build custom AI-driven procurement software?
-
-With over 25 years of experience in the custom software development market, our team offers comprehensive AI services. In our practice, we have partnered with companies from different industries and helped them solve their business tasks with the power of modern technologies, including AI and ML.
