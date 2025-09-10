@@ -261,11 +261,7 @@ Today, there are a great number of LLMs designed to solve different tasks. Let u
 * **Phi-3 (by Microsoft)**. This is a family of small language models that are suitable for edge devices and local inference with limited hardware. Despite their size, they demonstrate excellent performance. Microsoft allows the use of Phi models under the MIT License, which is one of the most permissive licenses. The models can be freely used, modified, and redistributed. The only real requirement is the inclusion of the original license text and a copyright notice attributing to Microsoft.
 * **Gemma (by Google DeepMind)**. These are lightweight models that are good at instruction-following. The use of the model is governed under the Gemma license. Google has the right to restrict particular use cases after consideration. Under the license terms, attribution is required.
 
-None of the available models can meet your requirements?
-
-It can be a good idea to build your own LLM. At Anadea, we can help you! Our specialists have multi-year experience in AI development and know how to solve even the most challenging tasks with this technology.
-
-Let’s discuss!
+{{< advert_with_cta title="None of the available models can meet your requirements?" description="It can be a good idea to build your own LLM. Our specialists have multi-year experience in AI development and know how to solve even the most challenging tasks with this technology." button="Let’s discuss!" url="https://anadea.info/services/ai-software-development" >}}
 
 Local LLM Setup Guide
 
