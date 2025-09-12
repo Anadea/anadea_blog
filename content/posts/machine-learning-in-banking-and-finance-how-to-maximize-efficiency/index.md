@@ -5,6 +5,8 @@ breadcrumbs: Machine Learning in Banking
 slug: machine-learning-in-banking
 draft: false
 publishDate: 2025-09-12T12:21:00+03:00
+image: macro-credit-card-selective-focus-financial-sale-buy-business-use.jpg
+og_image: macro-credit-card-selective-focus-financial-sale-buy-business-use.jpg
 description: Looking for smart ways to drive efficiency of banking operations?
   Explore the benefits of using machine learning in banking and finance in our
   blog post.
@@ -18,6 +20,32 @@ categories:
   - development
 industries:
   - fintech
+questionary:
+  - question: Is it required to give an in-house team for  ML banking software
+      development?
+    answer: In many cases, hiring an in-house team may not be the best approach in
+      terms of time and financial investments. Moreover, it can be challenging
+      to find specialists with the right expertise in AI/ML development and deep
+      domain knowledge. Instead, you can partner with an outsourcing company. At
+      Anadea, we have extensive experience in building banking solutions and
+      strong practical skills in working with machine learning technologies. We
+      are always open to collaboration and ready to join your software
+      development project at any stage of its realization.
+  - question: How to evaluate the performance of my ML tools?
+    answer: There are specific technical KPIs that you can apply to each use case.
+      For example, fraud dollars saved, false positive rate, and alert hit-rate
+      are typically used for fraud detection tools. At the same time, for
+      analyzing the efficiency of ML-powered onboarding systems, you can rely on
+      turnaround time (TAT), error rate, and straight-through-processing rate.
+      Apart from this, you can rely on traditional business KPIs, like net
+      interest margin (NIM), cross-sell uptake, customer lifetime value (CLV),
+      and others.
+  - question: Is it a good time to invest in ML software development now?
+    answer: "Yes, such projects are expected to ensure high ROI in the near future.
+      At the current moment, while ML solutions still haven’t become an industry
+      standard, they can become your competitive edge. At the same time, early
+      adopters report high practical value of such technology and significant
+      improvements in their operations. "
 ---
 Traditional loan approval processes can take weeks. According to [McKinsey & Company](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-lending-revolution-how-digital-credit-is-changing-banks-from-the-inside), “time to decision” for corporate loans in traditional systems can reach up to 5 weeks, which is an unacceptably long timeframe in the dynamic business world. ML-driven automation can reduce the time required for such decisions to hours and even minutes. 
 
@@ -112,80 +140,50 @@ The introduction of vendor solutions can significantly reduce time-to-market and
 
 That’s why quite often banks buy tools for:
 
-Identity verification;
-
-Device fingerprinting;
-
-Sanctions screening;
-
-Document optical character recognition (OCR) and extraction.
+* Identity verification;
+* Device fingerprinting;
+* Sanctions screening;
+* Document optical character recognition (OCR) and extraction.
 
 Nevertheless, there are a lot of areas where banks can gain a competitive edge by developing custom ML tools. These are use cases where proprietary data and deep domain knowledge can guarantee better results than any off-the-shelf solutions. For example, the range of such areas includes:
 
-Credit scoring;
+* Credit scoring;
+* Pricing models;
+* Proprietary fraud signals;
+* Customer propensity and next-best-action.
 
-Pricing models;
+To build really impactful and efficient solutions, you need to cooperate with specialists who have relevant expertise in ML and [fintech software development](https://anadea.info/solutions/fintech-software-development). If you don’t have such developers in-house and you are not going to expand your staff, the best approach will be to establish cooperation with an outsourcing software development company.
 
-Proprietary fraud signals;
+{{< advert_with_cta title="Looking for a professional partner to work with?" description="At Anadea, we have been successfully delivering custom ML solutions for over 6 years and know how to address your unique needs with the power of machine learning." button="Get more information" url="https://anadea.info/services/machine-learning-software-development" >}}
 
-Customer propensity and next-best-action.
-
-To build really impactful and efficient solutions, you need to cooperate with specialists who have relevant expertise in ML and fintech software development. If you don’t have such developers in-house and you are not going to expand your staff, the best approach will be to establish cooperation with an outsourcing software development company.
-
-Looking for a professional partner to work with?
-
-At Anadea, we have been successfully delivering custom ML solutions for over 6 years and know how to address your unique needs with the power of machine learning.
-
-Get more information
-
-Machine Learning in Banking and Finance: Compliance and Governance
+## Machine Learning in Banking and Finance: Compliance and Governance
 
 Banking is one of the most highly regulated industries. That’s why when you are deploying machine learning in private banking or public institutions, you should take care not only about performance, but also about staying compliant. Strong governance is a must to ensure your ML models stay aligned with global regulatory expectations.
 
-Regulators in different regions set high standards for model governance. In the US, principles for model risk management are defined by the Federal Reserve’s SR 11-7.
+Regulators in different regions set high standards for model governance. In the US, principles for model risk management are defined by the [Federal Reserve’s SR 11-7](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm).
 
-The European Central Bank has similar expectations around validation and accountability of ML models.  In July 2025, it published the revised guide to internal models. The document includes clarifications for the use of ML techniques in internal models and is aimed at helping organizations streamline the introduction of such tools in their processes.
+The European Central Bank has similar expectations around validation and accountability of ML models.  In July 2025, it published the revised [guide to internal models](https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guide202507.en.pdf?4460c67ecb5d677bacabc2e19942912f). The document includes clarifications for the use of ML techniques in internal models and is aimed at helping organizations streamline the introduction of such tools in their processes.
 
-Apart from banking-specific rules, there are also AI-focused frameworks, such as the NIST AI Risk Management Framework and ISO/IEC 23894. They are positioned as global references for managing AI/ML risks across the industries.
+Apart from banking-specific rules, there are also AI-focused frameworks, such as the [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) and [ISO/IEC 23894](https://www.iso.org/standard/77304.html). They are positioned as global references for managing AI/ML risks across the industries.
 
-It’s vital to highlight that, according to the EU AI Act, credit scoring is a “high-risk” use case. It is not prohibited, but it requires enhanced transparency, documentation, and human oversight. For banks operating in Europe, this will mean greater scrutiny on how credit models are trained and explained to consumers.
+It’s vital to highlight that, according to the [EU AI Act](https://artificialintelligenceact.eu/), credit scoring is a “high-risk” use case. It is not prohibited, but it requires enhanced transparency, documentation, and human oversight. For banks operating in Europe, this will mean greater scrutiny on how credit models are trained and explained to consumers.
 
 Moreover, the use of ML tools should also be governed by fair lending laws and privacy regulations (like GDPR and CCPA).
 
-Practical tips on how to ensure compliance and ethical use of your ML banking software
+### Practical Tips on How to Ensure Compliance and Ethical Use of Your ML Banking Software
 
-Conduct pre-deployment bias testing to identify discriminatory patterns.
+* Conduct pre-deployment bias testing to identify discriminatory patterns.
+* Regularly revalidate your models (as their accuracy may decrease over time).
+* Validate performance across different customer subgroups (age bands, geographies, and product lines).
+* Maintain one or more challenger models in shadow mode to continuously benchmark production models.
+* Store model lineage artifacts (data, feature definitions, training code, hyperparameters).
+* Keep versioned documentation for each model iteration, including fairness and performance reports.
+* Ensure model explainability. Integrate SHAP or LIME explanations directly into case-management tools for underwriters and investigators.
 
-Regularly revalidate your models (as their accuracy may decrease over time).
-
-Validate performance across different customer subgroups (age bands, geographies, and product lines).
-
-Maintain one or more challenger models in shadow mode to continuously benchmark production models.
-
-Store model lineage artifacts (data, feature definitions, training code, hyperparameters).
-
-Keep versioned documentation for each model iteration, including fairness and performance reports.
-
-Ensure model explainability. Integrate SHAP or LIME explanations directly into case-management tools for underwriters and investigators.
-
-Final Word
+## Final Word
 
 ML in banking has already proven that it can cut costs, reduce risk, streamline operations, and boost revenue. But what is also important is that the use of this technology can reshape customer experiences in this sector. Instant loan approvals, tailored recommendations, and faster transaction processing are just some of the new possibilities.
 
 However, the implementation of machine learning in banking is also tied to new responsibilities. Banks must ensure that models are compliant with evolving regulations and can ensure privacy and fair treatment for all social groups.
 
-If you are planning to introduce a banking ML-driven solution and need professional assistance in its development and deployment, contact us. At Anadea, we have the relevant experience and skills to design, build, and scale machine learning systems that deliver measurable business impact.
-
-FAQ
-
-Is it required to give an in-house team for  ML banking software development?
-
-In many cases, hiring an in-house team may not be the best approach in terms of time and financial investments. Moreover, it can be challenging to find specialists with the right expertise in AI/ML development and deep domain knowledge. Instead, you can partner with an outsourcing company. At Anadea, we have extensive experience in building banking solutions and strong practical skills in working with machine learning technologies. We are always open to collaboration and ready to join your software development project at any stage of its realization.
-
-How to evaluate the performance of my ML tools?
-
-There are specific technical KPIs that you can apply to each use case. For example, fraud dollars saved, false positive rate, and alert hit-rate are typically used for fraud detection tools. At the same time, for analyzing the efficiency of ML-powered onboarding systems, you can rely on turnaround time (TAT), error rate, and straight-through-processing rate. Apart from this, you can rely on traditional business KPIs, like net interest margin (NIM), cross-sell uptake, customer lifetime value (CLV), and others.
-
-Is it a good time to invest in ML software development now?
-
-Yes, such projects are expected to ensure high ROI in the near future. At the current moment, while ML solutions still haven’t become an industry standard, they can become your competitive edge. At the same time, early adopters report high practical value of such technology and significant improvements in their operations.
+If you are planning to introduce a banking ML-driven solution and need professional assistance in its development and deployment, [contact us](https://anadea.info/free-project-estimate). At Anadea, we have the relevant experience and skills to design, build, and scale machine learning systems that deliver measurable business impact.
