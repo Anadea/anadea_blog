@@ -5,6 +5,8 @@ breadcrumbs: AI Agents vs Chatbots
 slug: ai-agent-vs-chatbot
 draft: false
 publishDate: 2025-09-17T09:16:00+03:00
+image: close-up-blue-yellow-background.jpg
+og_image: close-up-blue-yellow-background.jpg
 description: Trying to make the right choice between an AI agent and a chatbot?
   Explore their key differences and use cases for each of them.
 promote:
