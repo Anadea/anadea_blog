@@ -354,7 +354,7 @@ In the picture below, you can see the basic elements of the AI agent architectur
 
 ## Chatbot vs AI Agent: How to Make the Right Choice
 
-If you haven't used solutions of these types before, the decision-making process can be rather frustrating for you. That’s why you should have a clear vision of how you can come to the right choice.
+If you haven't used solutions of these types before, the decision-making process can be rather frustrating for you. That's why you should have a clear vision of how you can come to the right choice.
 
 Here's a list of the key criteria that you should bear in mind.
 
