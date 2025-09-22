@@ -5,6 +5,8 @@ breadcrumbs: AI Orchestration
 slug: what-is-ai-orchestration
 draft: false
 publishDate: 2025-09-22T10:51:00+03:00
+image: close-up-piano-keys.jpg
+og_image: close-up-piano-keys.jpg
 description: What is AI orchestration? Does your organization need it now? And
   how to implement it without adding new bottlenecks? Find the answers in our
   article.
