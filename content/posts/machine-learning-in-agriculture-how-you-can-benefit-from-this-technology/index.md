@@ -61,13 +61,13 @@ This impact explains the growing adoption of ML systems within the agricultural 
 
 As per the report by Future Market Insights Inc, the AI in agriculture market will grow from [$5.9 billion in 2025 to $61.3 billion by 2035](https://www.futuremarketinsights.com/reports/ai-in-agriculture-market). And ML is the leading segment of this market. Its share is 47%, which means that it accounts for nearly $2.77 billion in 2025.
 
-ІНФОГРАФІКА
+![](ai-in-agriculture-market.png)
 
 ML techniques such as supervised and unsupervised learning drive multiple use cases, including yield estimation, crop disease recognition, and weed detection. In addition, ML enhances agricultural robotics and enables machines to perform automated weeding and harvesting. This significantly cuts labor demands and boosts productivity.
 
 The image below shows the use cases of ML in different stages of crop cultivation. We will further take a closer look at the most popular of them.
 
-ІНФОГРАФІКА
+![](machine-learning-in-agriculture.png)
 
 Machine learning is reshaping the way organizations operate. It enables smarter decisions, process automation, and the discovery of new growth opportunities. Our comprehensive guide dives into practical applications and shows how businesses can leverage ML to stay competitive. To find out how your organization can benefit, you can read this guide on our blog.
 
@@ -99,7 +99,7 @@ As a rule, such models are trained on high-resolution images, annotated disease 
 
 Here’s how disease detection tools powered by ML and computer vision typically work.
 
-ІНФОГРАФІКА
+![](3-3-.png)
 
 Researchers at Penn State University developed a smartphone application that employs ML to [diagnose cassava diseases with 93% accuracy](https://pure.psu.edu/en/publications/deep-learning-for-image-based-cassava-disease-detection). The app analyzes images of cassava leaves to identify symptoms of diseases such as cassava mosaic disease and cassava brown streak disease.
 
