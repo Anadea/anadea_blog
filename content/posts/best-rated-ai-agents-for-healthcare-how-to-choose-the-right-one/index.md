@@ -2,7 +2,7 @@
 ceoTitle: "Best AI Agents for Healthcare: What You Should Know"
 title: "Best Rated AI Agents for Healthcare: How to Choose the Right One"
 breadcrumbs: AI Agents for Healthcare
-slug: ai-agents-healthcare
+slug: ai-agents-for-healthcare
 draft: false
 publishDate: 2025-10-10T11:53:00+03:00
 image: medical-equipment-blue-stethoscope-tablet-white-background-medical-equipment.jpg
