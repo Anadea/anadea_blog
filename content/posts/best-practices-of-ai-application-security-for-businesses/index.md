@@ -47,7 +47,7 @@ How to secure AI applications, safeguard your intellectual property, and prevent
 
 ## What Makes AI Application Security Different from Traditional App Protection Measures?
 
-Traditional approaches to app security were elaborated long before the mass adoption of AI. That’s why all the measures are mainly focused on the protection of code and data from exploits. The range of the most common risks in this case includes injection attacks, privilege escalation, and API misuse. 
+Traditional approaches to app security were elaborated long before the mass adoption of AI. That's why all the measures are mainly focused on the protection of code and data from exploits. The range of the most common risks in this case includes injection attacks, privilege escalation, and API misuse. 
 
 AI application security introduces a new layer of complexity. 
 
@@ -215,7 +215,7 @@ Due to the peculiarities of AI systems, there are some risks that are unique to 
 
 <td>
 
-<p><span style="font-weight: 400;">A healthcare AI model reveals subtle differences in output when it is asked about certain patients. This allows attackers to make a conclusion that those individuals&rsquo; data was part of the training set.</span></p>
+<p><span style="font-weight: 400;">A healthcare AI model reveals subtle differences in output when it is asked about certain patients. This allows attackers to make a conclusion that those individuals.</span></p>
 
 </td>
 
@@ -259,7 +259,7 @@ Due to the peculiarities of AI systems, there are some risks that are unique to 
 
 <td>
 
-<p><span style="font-weight: 400;">When poisoned vectors are added to a company&rsquo;s knowledge base,&nbsp; they cause AI to retrieve misleading or malicious text when answering user queries.</span></p>
+<p><span style="font-weight: 400;">When poisoned vectors are added to a company knowledge base, they cause AI to retrieve misleading or malicious text when answering user queries.</span></p>
 
 </td>
 
@@ -269,7 +269,7 @@ Due to the peculiarities of AI systems, there are some risks that are unique to 
 
 <td>
 
-<p><span style="font-weight: 400;">API&nbsp;</span></p>
+<p><span style="font-weight: 400;">API</span></p>
 
 </td>
 
@@ -303,7 +303,7 @@ Due to the peculiarities of AI systems, there are some risks that are unique to 
 
 <td>
 
-<p><span style="font-weight: 400;">A chatbot connected to a file system can be &ldquo;convinced&rdquo; to send files from the chosen folder and share confidential data.</span></p>
+<p><span style="font-weight: 400;">A chatbot connected to a file system can be "convinced" to send files from the chosen folder and share confidential data.</span></p>
 
 </td>
 
@@ -348,13 +348,13 @@ AI applications introduce different attack vectors. Most frequently, exploiters 
 * CI/CD for ML workflows (it introduces risks of compromised model artifacts or credentials);
 * Shadow AI usage (it means unapproved or unmanaged AI tools in enterprise environments).
 
-{{< advert_with_cta title="Want to make sure that your AI app will be highly secure?" description="Then you should choose Anadea as your tech and strategic partner. At our company, we follow security principles at every step of the development process." button="Let’s discuss!" url="https://anadea.info/free-project-estimate" >}}
+{{< advert_with_cta title="Want to make sure that your AI app will be highly secure?" description="Then you should choose Anadea as your tech and strategic partner. At our company, we follow security principles at every step of the development process." button="Let's discuss!" url="https://anadea.info/free-project-estimate" >}}
 
 ## Best Ways to Secure AI Applications	
 
 At Anadea, we have been working in [custom AI software development ](https://anadea.info/services/ai-software-development)for more than 6 years, and the security of AI applications has always been among the top priorities for us. We fully realize all the negative results that can be a consequence of a weak model, data, infrastructure, or access protection.
 
-Let’s take a closer look at the AI application security best practices that our developers rely on.
+Let's take a closer look at the AI application security best practices that our developers rely on.
 
 ### Safeguarding Data Lifecycle
 
@@ -423,8 +423,8 @@ Retrieval-augmented generation systems connect AI models to external knowledge s
 
 ## Final Word
 
-Apart from AI development, our team also provides consulting services. When we discuss software security and any particular approach to it with our customers, we often hear a question, “Is it the best way to secure AI applications?”. However, no single solution can address all security scenarios
+Apart from AI development, our team also provides consulting services. When we discuss software security and any particular approach to it with our customers, we often hear a question, "Is it the best way to secure AI applications?". However, no single solution can address all security scenarios
 
-As a rule, it is necessary to apply different combinations of best practices of AI applications to ensure your organization minimizes risks and protects sensitive information. It’s vital to implement a comprehensive approach that will cover not only software itself, but also data pipelines, user interactions with AI, infrastructure, prompts, access, etc.
+As a rule, it is necessary to apply different combinations of best practices of AI applications to ensure your organization minimizes risks and protects sensitive information. It's vital to implement a comprehensive approach that will cover not only software itself, but also data pipelines, user interactions with AI, infrastructure, prompts, access, etc.
 
 If you want to build a new secure AI app or you are looking for ways to protect your existing systems from the growing threats, at Anadea, we will always be ready to help you. [Tell us about your needs](https://anadea.info/free-project-estimate), and we will find the best possible way to address them.
