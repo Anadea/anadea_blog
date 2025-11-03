@@ -18,6 +18,35 @@ categories:
   - ai-ml
   - business
   - development
+questionary:
+  - question: What AI technologies are usually used in product development?
+    answer: Machine learning is the backbone for predictive analytics and smart
+      automation in products. Natural language processing enables conversational
+      interfaces and intelligent search. At the same time, generative AI helps
+      teams streamline such design and code generation, which significantly
+      reduces the time needed for development.
+  - question: How can businesses find the right balance between automation and human
+      oversight in AI-driven development?
+    answer: It is vital to perceive AI as an assistant, not as a decision-maker. AI
+      systems can be used to automate repetitive tasks. But it is still
+      necessary to maintain human review for strategic and ethical decisions.
+      Regular audits and feedback loops between developers and AI tools prevent
+      overreliance on this technology and ensure a high level of accountability.
+  - question: How will AI-driven development evolve over the next five years?
+    answer: Based on the current AI-driven software development trends, we can
+      presuppose that in the near future, artificial intelligence will become
+      more deeply integrated into every stage of the software lifecycle. More
+      advanced AI assistants will be capable of reasoning about architecture and
+      user experience. At the same time, it is expected that low-code and
+      no-code platforms powered by generative AI will make the creation of basic
+      apps more accessible to non-technical users.
+  - question: Can AI fully replace human developers?
+    answer: The introduction of AI is not aimed at replacing human experts in the
+      development process. AI tools are designed to assist and augment
+      developers. AI is good at automating routine coding and testing tasks. But
+      it lacks the critical thinking and contextual understanding, which are
+      essential for complex problem-solving. Human oversight is still a must to
+      ensure ethical use of the technology and maintain software quality.
 ---
 The[ JetBrains Developer Ecosystem Survey 2025](https://devecosystem-2025.jetbrains.com/) revealed that 85% of developers use AI tools on a regular basis. At the same time, 62% of the experts who participated in the survey stated that they rely on at least one AI-powered coding assistant or code editor. These statistics suggest that AI has already entered the mainstream of software engineering. Intelligent tools are reshaping the way software is written and tested. AI-driven development amplifies human creativity and speeds up the process of app creation. 
 
