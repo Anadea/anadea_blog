@@ -209,9 +209,11 @@ Each of them represents a different combination of human oversight and AI autono
 
 </table>
 
+
+
 {{< advert_with_cta title="Looking for developers who can build powerful AI software for your needs?" description="With more than 6 years of practical experience in AI development, the Anadea team can successfully cope with tasks of any complexity!" button="Learn more!" url="https://anadea.info/services/ai-software-development" >}}
 
-AI-driven Development: Quick Wins and Long Bets
+## AI-driven Development: Quick Wins and Long Bets
 
 AI-driven software development can provide a lot of new opportunities and benefits for teams, from resource and cost optimization to code quality enhancements. But it is also very important to keep in mind that not every use case delivers equal value.
 
