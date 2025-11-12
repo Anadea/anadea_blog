@@ -74,7 +74,7 @@ The table below contains the key differences between these engagement models and
 
 <td>
 
-<p><strong>IT Staff Augmentation</strong></p>
+<p><strong>IT Staff Aug&shy;men&shy;ta&shy;tion</strong></p>
 
 </td>
 
