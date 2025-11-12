@@ -38,7 +38,7 @@ questionary:
 ---
 Internal hiring helps businesses maintain control and cultural alignment within their organization. However, the realities of the modern tech industry reveal significant gaps in this traditional approach. Rapidly evolving technologies, a global shortage of qualified specialists, and rising operational costs can make in-house hiring increasingly inefficient. Today's IT projects require fast access to niche skills and flexible scaling. Meanwhile, the average time needed to hire a new employee, according to the ["Time-to-Hire Factbook" report](https://go.weareams.com/TimeToHireFactBook) by AMS, is over 40 days, which is an unacceptably long period for the tech industry.
 
-ІНФОГРАФІКА №1
+![](days-to-hire.png)
 
 To avoid the challenges of traditional in-house hiring of [software development](https://anadea.info/services/custom-software-development) specialists, companies from different domains turn to IT staff augmentation. 
 
@@ -237,9 +237,9 @@ The table below contains the key differences between these engagement models and
 </tbody>
 
 </table>
-According to the estimates provided by [Verified Market Research](https://www.verifiedmarketresearch.com/product/it-staff-augmentation-service-market/), the IT staff augmentation market size is expected to reach $857.2 billion by 2031. The expansion of this market is explained by several important factors. Today, we can observe the growing need for workforce agility. Companies look for flexible staffing models to quickly adapt to changing market conditions and scale teams without long-term hiring processes. Staff augmentation helps businesses optimize their onboarding, administrative, and overhead costs associated with employing in-house specialists.
+According to the estimates provided by \[Verified Market Research](https://www.verifiedmarketresearch.com/product/it-staff-augmentation-service-market/), the IT staff augmentation market size is expected to reach $857.2 billion by 2031. The expansion of this market is explained by several important factors. Today, we can observe the growing need for workforce agility. Companies look for flexible staffing models to quickly adapt to changing market conditions and scale teams without long-term hiring processes. Staff augmentation helps businesses optimize their onboarding, administrative, and overhead costs associated with employing in-house specialists.
 
-ІНФОГРАФІКА №2
+![](global-it-staff-augmentation-service-market.png)
 
 Moreover, rapid technological advancements drive demand for experts with specialized skills in strategic areas, like data science or cloud computing. This pushes organizations to rely on IT staff augmentation services to avoid delays and skill gaps.
 
@@ -312,8 +312,9 @@ Moreover, when you are looking for resource and staff augmentation, you need to 
 
 If you are considering hiring external tech specialists to augment your in-house team, it will be useful for you to know how this process is organized.
 
-ІНФОГРАФІКА №3\
-Step 1. Formulate Your Needs
+![](it-staff-augmentation_ step-by-step-guide.png)
+
+### Step 1. Formulate Your Needs
 
 You should decide on the required skills, seniority level, technologies, and domain knowledge. Apart from this, it is necessary to define expected outcomes, duration of engagement, and budget constraints.
 
