@@ -111,9 +111,7 @@ AI forecasts product demand, taking into account seasonality, market trends, eco
 
 Computer vision monitors compliance with safety protocols in production – whether workers are wearing protective equipment, whether they're maintaining safe distances from equipment. Systems warn of hazardous situations before an accident occurs. AI analyzes incident history and identifies patterns that lead to injuries – certain shifts, areas, or types of operations. Based on the analysis, companies review procedures and strengthen control at critical points.
 
-## Looking to Transform Your Manufacturing Operations with AI?
-
-We've helped manufacturers implement custom AI solutions that deliver measurable results – from predictive maintenance systems to computer vision quality control. 
+{{< advert_with_cta title="Looking to Transform Your Manufacturing Operations with AI?" description="We've helped manufacturers implement custom AI solutions that deliver measurable results – from predictive maintenance systems to computer vision quality control. " button="Let's talk" url="https://calendly.com/irina_anadea/30min?back=1&month=2025-11" >}}
 
 Whether you're exploring your first AI pilot or scaling proven solutions across multiple facilities, we can help you navigate the implementation process.[ Explore our AI software development services](https://anadea.info/services/ai-software-development) or[ see how we've solved complex manufacturing challenges](https://anadea.info/projects/mpm-iii-erp-for-blast-curtain-manufacturing) for companies like yours.
 
