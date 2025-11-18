@@ -54,7 +54,7 @@ questionary:
 ---
 The global insurance analytics market was valued at [$13.84 billion in 2024](https://www.grandviewresearch.com/industry-analysis/insurance-analytics-market) and is projected to grow to $43.95 billion by 2030 according to Grand View Research. That's nearly a threefold increase in six years. The reason is simple: insurance companies generate massive amounts of data, but most of it remains unused. Underwriters still rely on outdated actuarial tables, analysts spend weeks preparing reports that become obsolete before publication, and fraudsters adapt faster than companies can respond.
 
-ІНФОГРАФІКА 1
+![](insurance-analytics-market.png)
 
 The scale of the problem is staggering: insurance fraud in the US costs [over $40 billion annually](https://www.sciencedirect.com/science/article/abs/pii/S0275531922001325), adding $400 to $700 to insurance premiums for every American family. In 2024, insurance fraud [increased by 19% compared to the previous year](https://www.fiercehealthcare.com/payers/insurance-fraud-increased-19-synthetic-voice-attacks-2024), while attacks using synthetic voice technology surged by 475%.
 
@@ -94,7 +94,7 @@ A modern Insurance Analytics Platform consists of five interconnected layers, ea
 4. **Intelligent decision-making layer** is the most sophisticated component. AI models analyze results from the previous layer and generate recommendations. Results are stored in an Analytical Database for rapid access.
 5. **Serving layer** provides the business interface. From here, data flows to the Insurance Portal for customers, underwriting systems, CRM, accounting software, claims management platforms, HR systems, and FP&A tools.
 
-ІНФОГРАФІКА 2
+![](insurance-data-analytics-system.png)
 
 The critical difference between traditional BI and insurance analytics lies in the depth of operational integration. A BI system will show you that claims increased by N% last month. Insurance claims analytics software identifies specific causes of the increase, forecasts trends for the next three months, determines risk groups, and suggests rate adjustments for each segment. Insights arrive directly in the underwriter's or adjuster's working tools at the moment decisions are being made.
 
