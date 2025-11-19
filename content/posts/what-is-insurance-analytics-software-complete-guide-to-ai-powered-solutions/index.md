@@ -18,6 +18,8 @@ authors:
 categories:
   - app-ideas
   - business
+industries:
+  - insurance
 questionary:
   - question: How fast do we actually see returns after implementing analytics?
     answer: Fraud detection shows results within weeks. You'll start catching
