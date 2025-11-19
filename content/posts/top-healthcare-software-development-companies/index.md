@@ -381,8 +381,6 @@ In this article, we've analyzed the market and selected top healthcare software 
 
 </table>
 
-{{< advert_with_cta title="Ready to Build Your Healthcare Solution?" description="Partner with a team that understands both technology and healthcare. Anadea has 20+ years of experience delivering HIPAA-compliant, FDA-ready healthcare software. From EHR integrations to AI-powered diagnostics, we turn your vision into reality." button="Schedule a Free Consultation" url="https://anadea.info/free-project-estimate" >}}
-
 ### 1. Anadea
 
 ![](anadea_healthcare.png)
@@ -434,6 +432,8 @@ Coherent Solutions is a large IT company with 20+ years of experience that inclu
 They work on enterprise-level healthcare IT solutions, cloud migration for medical systems, healthcare data analytics and BI, and integration with existing HIS (Hospital Information Systems). They also handle modernization of legacy healthcare systems.
 
 The company serves Fortune 500 healthcare companies and applies Agile methodologies and DevOps practices to their projects.
+
+{{< advert_with_cta title="Ready to Build Your Healthcare Solution?" description="Partner with a team that understands both technology and healthcare. Anadea has 20+ years of experience delivering HIPAA-compliant, FDA-ready healthcare software. From EHR integrations to AI-powered diagnostics, we turn your vision into reality." button="Schedule a Free Consultation" url="https://anadea.info/free-project-estimate" >}}
 
 ### 6. Digis
 
