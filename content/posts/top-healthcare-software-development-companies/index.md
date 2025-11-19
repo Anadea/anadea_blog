@@ -383,7 +383,7 @@ In this article, we've analyzed the market and selected top healthcare software 
 
 {{< advert_with_cta title="Ready to Build Your Healthcare Solution?" description="Partner with a team that understands both technology and healthcare. Anadea has 20+ years of experience delivering HIPAA-compliant, FDA-ready healthcare software. From EHR integrations to AI-powered diagnostics, we turn your vision into reality." button="Schedule a Free Consultation" url="https://anadea.info/free-project-estimate" >}}
 
-## 1. Anadea
+### 1. Anadea
 
 ![](anadea_healthcare.png)
 
