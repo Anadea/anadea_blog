@@ -92,7 +92,7 @@ Scalability becomes particularly acute for growing organizations. Solutions that
 
 Choosing between cloud and on-premises deployment becomes a strategic decision. Cloud solutions offer scaling flexibility and reduce burden on internal IT teams but create dependence on internet connection quality. On-premises deployment provides greater control over performance and security but requires substantial infrastructure investment and qualified staff for maintenance. Hybrid models attempt to capture the best of both approaches but add management complexity.
 
-![](types-of-ehr-software.png)
+![](types-of-ehr-software-1-.png)
 
 ### Security and Regulatory Compliance
 
