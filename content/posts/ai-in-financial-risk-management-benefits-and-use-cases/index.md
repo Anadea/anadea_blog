@@ -5,8 +5,8 @@ breadcrumbs: AI in Financial Risk Management
 slug: ai-in-financial-risk-management
 draft: false
 publishDate: 2025-11-27T10:15:00+02:00
-image: artificial-intelligence-ai-robot-business-assistant.jpg
-og_image: artificial-intelligence-ai-robot-business-assistant.jpg
+image: futuristic-robot-interacting-with-money.jpg
+og_image: futuristic-robot-interacting-with-money.jpg
 description: "Read our article to find out how AI is transforming financial risk
   management and discover the key benefits of this technology and new trends in
   this field. "
@@ -241,7 +241,7 @@ What types of data are used?
 
 To maintain the required accountability, it is crucial to introduce human-in-the-loop approvals for all material control changes and major predictive alerts.
 
-Financial Crime (AML, Fraud, Sanctions)
+### Financial Crime (AML, Fraud, Sanctions)
 
 Highly adaptive and fast AI systems are designed to detect evolving threats across vast networks of data.
 
@@ -323,7 +323,7 @@ As risk models are heavily regulated, documentation is mandatory. Moreover, the 
 
 Businesses should implement tools for the automatic generation of model cards and validation summaries. The use of Explainable AI (XAI) techniques like SHAP is also crucial for every high-risk model decision.
 
-## AI in Financial Risk Management Future Trends	
+## AI in Financial Risk Management Future Trends
 
 The following [fintech software development trends](https://anadea.info/solutions/fintech-software-development) highlight how AI will redefine the future of financial risk management in the near future.
 
