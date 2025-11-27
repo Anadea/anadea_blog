@@ -387,9 +387,9 @@ In this article, we've analyzed the market and selected top healthcare software 
 
 Anadea is an international software company founded in 2000, headquartered in Spain with a US office. Over two decades, they've built a substantial healthcare practice that represents a significant portion of their business. The company handles the full development cycle for medical software – from discovery and MVP to enterprise-level systems.
 
-They hold ISO 9001 and ISO 27001 certifications, demonstrating their commitment to quality processes and information security. Since 2019, Anadea has run its own AI department, enabling them to integrate artificial intelligence into healthcare projects.
+They are currently in the process of obtaining ISO 27001 certification, demonstrating their commitment to information security. Since 2019, Anadea has run its own AI department, enabling them to integrate artificial intelligence into healthcare projects.
 
-The team brings deep know-how in EHR/EMR systems with HL7, FHIR, and SMART on FHIR integration, telemedicine platform development, practice management software, and medical IoT solutions. Every project follows HIPAA compliance requirements and FDA regulatory guidelines for Software as a Medical Device. With extensive experience in[ medical app development](https://anadea.info/solutions/medical-app-development), they deliver solutions tailored to diverse healthcare needs.
+The team specializes in EHR/EMR systems, telemedicine platforms, practice management software, and medical IoT solutions. All projects are built with healthcare compliance requirements in mind. With extensive experience in [medical app development](https://anadea.info/solutions/healthcare-software-development), they deliver solutions tailored to diverse healthcare needs
 
 Their portfolio includes [GoGoof](https://anadea.info/projects/gogoof) (practice management for the German medical market), [Vivum Health](https://anadea.info/projects/vivum-health) (clinician application), and [OnTrac](https://anadea.info/projects/on-trac) (EHR system for skilled nursing facilities). Clients range from biotech companies and private clinics to SaaS providers in healthcare and medtech startups. 
 
