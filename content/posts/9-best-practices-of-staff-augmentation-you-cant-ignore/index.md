@@ -437,6 +437,8 @@ Without concrete numbers, you'll find out about problems when it's already too l
 </tbody>
 
 </table>
+
+
 Don't overcomplicate it. You already see most of this, you just don't write it down. Collect this data from week one and share it with your provider. A good partner wants to know how their people are doing and will help you solve problems before they become critical.
 
 ## Conclusion
