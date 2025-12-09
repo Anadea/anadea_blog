@@ -74,7 +74,7 @@ The table below covers the key differences between these approaches to hiring ex
 
 <td>
 
-<p><strong>Staff Augmentation&nbsp;</strong></p>
+<p><strong>Staff Augmentation</strong></p>
 
 </td>
 
@@ -287,7 +287,7 @@ Misclassification risk can be significantly reduced with the right operational g
 *  Ensure contractors retain control over tools, work methods, workflows, and sequencing. This is a major classification signal across most jurisdictions.
 * Review long-running contractor engagements every 6 or 12 months. Long duration plus day-to-day control is a high-risk combination. Periodic reviews help ensure that the structure still aligns with regulatory expectations.
 
-
+![](_which-hiring-model-fits your-needs_.png)
 
 ## How to Find the Best Vendor or Independent Contractor?
 
