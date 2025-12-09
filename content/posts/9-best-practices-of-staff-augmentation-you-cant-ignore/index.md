@@ -145,7 +145,7 @@ Augmentation is not a universal tool. It works well in specific situations and p
 
 ![](when-to-use-staff-augmentation.png)
 
-Before reaching out to a provider, try to describe what exactly the augmented specialist will do in their first two weeks. Specific tasks, specific scope. If you can't articulate it, you might not be ready for augmentation. Or maybe the problem isn't a lack of people but something else entirely.
+Before choosing between augmentation and hiring freelancers, understand the key differences in management overhead, reliability, and integration. Our guide on [staff augmentation vs independent contractors](https://anadea.info/blog/staff-augmentation-vs-independent-contractor) breaks down which model fits different scenarios.
 
 ## Clear Candidate Requirements
 
@@ -437,7 +437,6 @@ Without concrete numbers, you'll find out about problems when it's already too l
 </tbody>
 
 </table>
-
 
 Don't overcomplicate it. You already see most of this, you just don't write it down. Collect this data from week one and share it with your provider. A good partner wants to know how their people are doing and will help you solve problems before they become critical.
 
