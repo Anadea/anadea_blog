@@ -4,7 +4,7 @@ title: "Software Team Extension: How to Do it Right"
 breadcrumbs: Software Team Extension
 slug: software-development-team-extension-guide
 draft: false
-publishDate: 2025-12-18T08:49:00+02:00
+publishDate: 2025-12-17T17:25:00+02:00
 image: top-view-manager-using-laptop-send-data-while-team-wear-vr-directorate.jpg
 og_image: top-view-manager-using-laptop-send-data-while-team-wear-vr-directorate.jpg
 description: Learn how software team extension works, what it costs, and how to
