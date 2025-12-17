@@ -12,7 +12,7 @@ description: Learn how software team extension works, what it costs, and how to
   partnerships.
 promote:
   promote: false
-top: false
+top: true
 authors:
   - business-analysis-team
 categories:
