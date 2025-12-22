@@ -515,6 +515,8 @@ Two examples show how team extension works in practice.
 
 [StreetEasy](https://anadea.info/projects/streeteasy) is the largest real estate marketplace in New York with over 180 million annual visits. Our team joined the project in 2013 after Zillow acquired the platform. What started as a technical engagement turned into a 12-year partnership that continues today.
 
+![](streeteasy-3-.png)
+
 Anadea engineers became part of StreetEasy's product team. We led the migration from a monolithic architecture to microservices, rebuilt the search infrastructure and developed new features. The interactive map we shipped in 2022 increased sales lead generation by 115%. Page load times dropped from 10 seconds to 0.3 seconds after we implemented Elasticsearch.
 
 At any given time, 5 backend developers, 4 frontend engineers and 4 QA specialists from Anadea work alongside StreetEasy's internal team. 
@@ -522,6 +524,8 @@ At any given time, 5 backend developers, 4 frontend engineers and 4 QA specialis
 ### AI Platform for a $10B+ Private Equity Fund
 
 [A European private equity fund](https://anadea.info/projects/agentic-ai-platform-private-equity) came to us with a different challenge. Their analysts were drowning in manual work. Reviewing thousands of potential deals each year, collecting data from scattered sources, preparing investment committee presentations. 
+
+![](ai-platform-for-a-10b-private-equity-fund.png)
 
 We built an agentic AI platform that now analyzes 5,000 investment opportunities in hours instead of weeks. Five specialized AI agents handle everything from market monitoring to company profiling to business quality scoring. The fund's team reduced screening time by 80% and identified three times more qualified opportunities than before.
 
