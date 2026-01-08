@@ -389,7 +389,7 @@ The chosen engagement model should ensure the flexibility you need.
 
 <td>
 
-<p><span style="font-weight: 400;">Long-term products and scaling&nbsp;</span></p>
+<p><span style="font-weight: 400;">Long-term products and scaling</span></p>
 
 </td>
 
@@ -464,7 +464,7 @@ The table below contains the most popular technologies for real estate app devel
 
 <td>
 
-<p><strong>Tools and technologies&nbsp;</strong></p>
+<p><strong>Tools and technologies</strong></p>
 
 </td>
 
@@ -522,7 +522,7 @@ The table below contains the most popular technologies for real estate app devel
 
 <td>
 
-<p><span style="font-weight: 400;">Relational databases (PostgreSQL, MySQL)&nbsp;</span></p>
+<p><span style="font-weight: 400;">Relational databases (PostgreSQL, MySQL)</span></p>
 
 <p><span style="font-weight: 400;">NoSQL (MongoDB, DynamoDB)</span></p>
 
@@ -540,9 +540,9 @@ The table below contains the most popular technologies for real estate app devel
 
 <td>
 
-<p><span style="font-weight: 400;">Elasticsearch, OpenSearch&nbsp;</span></p>
+<p><span style="font-weight: 400;">Elasticsearch, OpenSearch</span></p>
 
-<p><span style="font-weight: 400;">Map providers (Google Maps, Mapbox)&nbsp;</span></p>
+<p><span style="font-weight: 400;">Map providers (Google Maps, Mapbox)</span></p>
 
 </td>
 
