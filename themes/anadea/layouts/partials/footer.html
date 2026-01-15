@@ -41,7 +41,6 @@
               <img alt="Tiktok logo" class="socialNetworks__icon" src="/blog/img/social_icons/Tiktok.svg" />
             </a>
           </div>
-
         </div>
         <div class="footer__utils">
           <a class="footer__utilsItem" href="https://anadea.info/sitemap">Sitemap</a>
@@ -132,10 +131,6 @@
       </div>
     </div>
     <div class="footer__bottomSection">
-      <div class="footer__copyright">
-        <div>© 2000-{{ time.Now.Year }} All rights reserved</div>
-        <a class="footer__copyrightItem" href="https://anadea.info/privacy-terms">Privacy &amp; Terms</a>
-      </div>
       <div class="footer__achievements">
         <div class="footer__withUa">
           <img alt="" width="35" height="33" loading="lazy" src="/blog/img/heart.svg" />
@@ -152,23 +147,29 @@
           <img alt="Goodfirms logo with five stars" src="/blog/img/social_icons/goodfirms.svg" />
         </a>
 
-        <!-- Clutch widget (заменяет статичный логотип Clutch) -->
         <div class="footer__clutch-widget">
           <script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
-          <div class="clutch-widget"
-               data-url="https://widget.clutch.co"
-               data-widget-type="14"
-               data-height="50"
-               data-nofollow="false"
-               data-expandifr="true"
-               data-clutchcompany-id="23937">
-          </div>
+          <div
+            class="clutch-widget"
+            data-url="https://widget.clutch.co"
+            data-widget-type="14"
+            data-height="50"
+            data-nofollow="false"
+            data-expandifr="true"
+            data-clutchcompany-id="23937"
+          ></div>
         </div>
 
         <noscript>
           <a href="https://clutch.co/profile/anadea" target="_blank" rel="nofollow" class="footer__wrapperlink">
             <span class="sr-only">Anadea on Clutch</span>
-            <img alt="Clutch logo (fallback)" width="42" height="48" loading="lazy" src="/blog/img/social_icons/clutch.svg" />
+            <img
+              alt="Clutch logo (fallback)"
+              width="42"
+              height="48"
+              loading="lazy"
+              src="/blog/img/social_icons/clutch.svg"
+            />
           </a>
         </noscript>
 
@@ -182,6 +183,16 @@
             <img alt="Top Mobile App Development Company" src="/blog/img/social_icons/company.svg" />
           </a>
         </div>
+
+        <div class="footer__review-group">
+          <a href="https://www.rightfirms.co/company/anadea/reviews" target="_blank" class="footer__wrapperlink">
+            <img alt="Awards achievements" loading="lazy" src="/blog/img/social_icons/review.svg" />
+          </a>
+        </div>
+      </div>
+      <div class="footer__copyright">
+        <div>© 2000-{{ time.Now.Year }} All rights reserved</div>
+        <a class="footer__copyrightItem" href="https://anadea.info/privacy-terms">Privacy &amp; Terms</a>
       </div>
     </div>
   </div>
