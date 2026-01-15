@@ -136,6 +136,16 @@ Tensorway works with businesses from a wide range of industries, including but n
 
 One of the custom AI agents built by Tensorway for deal sourcing is capable of [analyzing 5000 investment opportunities](https://www.tensorway.com/projects/deal-sourcing-ai-agent-private-equity) in just a few hours. Such a task may take days and weeks when performed fully manually.
 
+### S-PRO
+
+S-PRO is a digital innovation and software engineering company founded in 2014 and headquartered in Zürich. The team has strong expertise in AI/ML, data engineering, fintech software, blockchain, and cloud development. Over the last decade, S-PRO has grown into a global team of 250+ specialists who support clients in regulated and fast-moving industries.
+
+![](spro.png)
+
+Today, the company builds custom AI agents that automate multi-step workflows, process large volumes of structured and unstructured data, support compliance teams, and assist with decision-making. These solutions are used in banking, wealth management, payments, and sustainability-focused organizations. S-PRO has delivered 50+ AI and data projects, including agents for document processing, KYC operations, investment research, and transaction monitoring.
+
+S-PRO works with clients such as IUCN, Amina Bank, Hyposwiss, Sygnum, Treezor, Stableton, EarlyBird, Muuvs, TravelPlan Booker, and JobDone. Much of [S-PRO's portfolio](https://s-pro.io/works) comes from fintech, where it has experience building secure systems that meet strict regulatory standards. S-PRO is ISO 27001 and ISO 27701 certified and supports cloud, hybrid, and private deployments.
+
 ### Cognizant
 
 Cognizant is a strong player in IT services, consulting, and business process outsourcing.
