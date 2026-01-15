@@ -161,10 +161,6 @@ $hover-color: var(--persian-rose);
   }
 
   &__awards-group {
-    display: none;
-  }
-  
-  &__review-group {
     display: contents;
   }
 
@@ -484,15 +480,6 @@ $hover-color: var(--persian-rose);
     }
 
     &__awards-group {
-      align-items: center;
-      display: none;
-      flex-basis: 100%;
-      gap: 40px;
-      justify-content: center;
-      order: 0;
-      width: 100%;
-    }
-    &__review-group {
       align-items: center;
       display: flex;
       flex-basis: 100%;
