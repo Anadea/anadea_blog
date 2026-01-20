@@ -176,7 +176,7 @@ The table below offers a quick overview of the best BairesDev alternatives based
 
 <td>
 
-<p><span style="font-weight: 400;">Large global digital consulting and&nbsp; software engineering firm with 30+ years in digital projects&nbsp;</span></p>
+<p><span style="font-weight: 400;">Large global digital consulting and software engineering firm with 30+ years in digital projects</span></p>
 
 </td>
 
@@ -220,7 +220,7 @@ The table below offers a quick overview of the best BairesDev alternatives based
 
 <td>
 
-<p><span style="font-weight: 400;">US-led software development &amp; IT outsourcing firm blending onshore project management with global engineering teams</span></p>
+<p><span style="font-weight: 400;">US-led software development IT outsourcing firm blending onshore project management with global engineering teams</span></p>
 
 </td>
 
