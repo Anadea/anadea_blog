@@ -180,7 +180,7 @@ Before we proceed to a detailed EPAM vs SoftServe analysis, let’s start with a
 
 <td>
 
-<p><span style="font-weight: 400;">Public (NYSE: EPAM), member of the S&amp;P 500</span></p>
+<p><span style="font-weight: 400;">Public (NYSE: EPAM), member of the S&P 500</span></p>
 
 </td>
 
@@ -208,7 +208,7 @@ Before we proceed to a detailed EPAM vs SoftServe analysis, let’s start with a
 
 <li style="font-weight: 400;"><span style="font-weight: 400;">travel and hospitality;</span></li>
 
-<li style="font-weight: 400;"><span style="font-weight: 400;">retail and distribution;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">retail and distribution;</span></li>
 
 <li style="font-weight: 400;"><span style="font-weight: 400;">business information and publishing;</span></li>
 
