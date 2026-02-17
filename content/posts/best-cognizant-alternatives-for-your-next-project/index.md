@@ -200,13 +200,13 @@ The table below contains a brief comparison of these vendors.
 
 <td>
 
-<p><span style="font-weight: 400;">Engineering and R&amp;D services that bridge the gap between IT and physical engineering</span></p>
+<p><span style="font-weight: 400;">Engineering and R&D services that bridge the gap between IT and physical engineering</span></p>
 
 </td>
 
 <td>
 
-<p><span style="font-weight: 400;">Engineering-heavy development and R&amp;D outsourcing;</span></p>
+<p><span style="font-weight: 400;">Engineering-heavy development and R&D outsourcing;</span></p>
 
 <p><span style="font-weight: 400;">Automotive, aerospace, and telecom projects;</span></p>
 
@@ -250,7 +250,7 @@ The table below contains a brief comparison of these vendors.
 
 <td>
 
-<p><span style="font-weight: 400;">AI-native software development using nearshore/hybrid delivery models&nbsp;</span></p>
+<p><span style="font-weight: 400;">AI-native software development using nearshore/hybrid delivery models</span></p>
 
 </td>
 
