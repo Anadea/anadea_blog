@@ -93,7 +93,7 @@ The difference becomes obvious the moment something breaks. If a single task fai
 
 <tr>
 
-<td>&nbsp;</td>
+<td></td>
 
 <td>
 
