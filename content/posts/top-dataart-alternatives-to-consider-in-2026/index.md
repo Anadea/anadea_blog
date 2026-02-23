@@ -151,7 +151,7 @@ The table below contains the most important information about each of them.
 
 <td>
 
-<p><span style="font-weight: 400;">Startups, ISVs, and Global 2000 organizations requiring niche cloud-native specialization&nbsp;</span></p>
+<p><span style="font-weight: 400;">Startups, ISVs, and Global 2000 organizations requiring niche cloud-native specialization</span></p>
 
 </td>
 
@@ -167,7 +167,7 @@ The table below contains the most important information about each of them.
 
 <td>
 
-<p><span style="font-weight: 400;">AI, data, and content-driven platforms&nbsp;</span></p>
+<p><span style="font-weight: 400;">AI, data, and content-driven platforms</span></p>
 
 </td>
 
@@ -233,7 +233,7 @@ The table below contains the most important information about each of them.
 
 <td>
 
-<p><span style="font-weight: 400;">Full-cycle product engineering, data engineering, cloud, and big data solutions&nbsp;</span></p>
+<p><span style="font-weight: 400;">Full-cycle product engineering, data engineering, cloud, and big data solutions</span></p>
 
 </td>
 
