@@ -139,7 +139,7 @@ The table below presents the key obligations of organizations from different cat
 
 <td>
 
-<p><span style="font-weight: 400;">Providers&nbsp;</span></p>
+<p><span style="font-weight: 400;">Providers</span></p>
 
 </td>
 
@@ -173,7 +173,7 @@ The table below presents the key obligations of organizations from different cat
 
 <td>
 
-<p><span style="font-weight: 400;">Must monitor the system&rsquo;s performance and ensure human oversight</span></p>
+<p><span style="font-weight: 400;">Must monitor the system's performance and ensure human oversight</span></p>
 
 </td>
 
@@ -279,7 +279,7 @@ For SMEs and startups, the Act specifies that fines should be the lower of the t
 
 <td>
 
-<p><span style="font-weight: 400;">&euro;35,000,000</span></p>
+<p><span style="font-weight: 400;">€35,000,000</span></p>
 
 </td>
 
@@ -301,7 +301,7 @@ For SMEs and startups, the Act specifies that fines should be the lower of the t
 
 <td>
 
-<p><span style="font-weight: 400;">&euro;15,000,000</span></p>
+<p><span style="font-weight: 400;">€15,000,000</span></p>
 
 </td>
 
@@ -323,7 +323,7 @@ For SMEs and startups, the Act specifies that fines should be the lower of the t
 
 <td>
 
-<p><span style="font-weight: 400;">&euro;7,500,000</span></p>
+<p><span style="font-weight: 400;">€7,500,000</span></p>
 
 </td>
 
