@@ -271,6 +271,12 @@ The EU has established a tiered fine structure based on the severity of the viol
 
 For SMEs and startups, the Act specifies that fines should be the lower of the two amounts. Thanks to this approach, a single misstep won’t automatically lead to bankruptcy for smaller innovators.
 
+<table>
+
+<tbody>
+
+<tr>
+
 <td>
 
 <p><span style="font-weight: 400;">Using prohibited AI</span></p>
