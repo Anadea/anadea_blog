@@ -367,6 +367,8 @@ Key strengths: 
 
 Anadea offers flexible engagement models (project-based outsourcing, [staff augmentation](https://anadea.info/services/staff-augmentation),  and dedicated teams), as well as direct developer-to-client communication. Thanks to this, it can become a reliable partner for high-growth startups and mid-market innovators.
 
+{{< advert_with_cta title="Still shipping at the same speed as two years ago?" description="AI has already changed how the best engineering teams work. We've published a full breakdown of how we integrate AI into every stage of development and what that means for timelines, team size, and budget." button="See how AI-enabled engineering works" url="https://anadea.info/free-project-estimate" >}}
+
 ### Tensorway
 
 Founded in 2019, Tensorway is an AI-focused software development and innovation company. While EPAM and SoftServe are large, full-spectrum technology and consulting firms, Tensorway offers a more specialized alternative. 
