@@ -64,8 +64,6 @@ Some providers concentrate on the technical layer, building custom models or int
 
 What sets AI transformation apart from a standard software project is the organizational scope involved. A new feature ships and the team moves on. A transformation effort reshapes how decisions get made and how entire business units are structured. If you want a broader picture of what that looks like in practice,[ this overview of digital transformation](https://anadea.info/blog/digital-transformation/) covers the organizational side in more depth.
 
-{{< advert_with_cta title="78% of companies use AI. 80% see no measurable results." description="The gap isn't technology. It's how transformation gets set up from day one. If you've been on the wrong side of that statistic, Anadea's team will tell you why before any contract is signed. " button="Get a straight answer" url="https://anadea.info/free-project-estimate" >}}
-
 ## Who Delivers AI Transformation Services Today
 
 Not every company that offers AI services has actually run a transformation. The list below focuses on providers with real delivery track records across different industries, team sizes, and engagement models.
@@ -81,6 +79,8 @@ The team covers the full delivery cycle. That includes data sourcing, preparatio
 Industry depth is concentrated in fintech, healthcare, real estate, insurance, and edtech, with a newer but notable specialization in private equity. A recent project involved building a[ multi-agent platform for a large European PE fund](https://anadea.info/projects/agentic-ai-platform-private-equity) that cut initial deal screening time by 80% and tripled qualified leads per month. The system runs five specialized AI agents coordinated through LangGraph, each targeting a specific bottleneck in the investment process.
 
 The company is currently pursuing ISO certification and works primarily with clients from the US, Europe, and Australia.
+
+{{< advert_with_cta title="78% of companies use AI. 80% see no measurable results." description="The gap isn't technology. It's how transformation gets set up from day one. If you've been on the wrong side of that statistic, Anadea's team will tell you why before any contract is signed. " button="Get a straight answer" url="https://anadea.info/free-project-estimate" >}}
 
 ### BairesDev
 
