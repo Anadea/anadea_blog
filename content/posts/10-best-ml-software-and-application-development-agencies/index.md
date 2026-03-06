@@ -93,6 +93,8 @@ The machine learning agency focuses on long-term partnerships rather than one-of
 
 If you're exploring [how machine learning can unlock new business opportunities](https://anadea.info/blog/how-machine-learning-can-unlock-new-business-opportunities/), Anadea's approach to combining AI agents with domain expertise is worth a closer look.
 
+{{< advert_with_cta title="ML works when the engineering behind it works" description="We've been shipping ML-powered products since 2019. See how our engineering team takes machine learning from concept to production." button="Book a free consultation" url="https://anadea.info/free-project-estimate" >}}
+
 ## Tensorway
 
 * Founded: 2019 
