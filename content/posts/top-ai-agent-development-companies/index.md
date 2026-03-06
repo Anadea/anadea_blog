@@ -122,6 +122,8 @@ Meanwhile, with an AI agent for legal document processing, medical staff can avo
 
 All the developed AI agents and other solutions are 100% compliant with all the related regulations, such as GDPR, HIPAA, ISO 9001, and ISO 27001.
 
+{{< advert_with_cta title="Need AI agents that actually work in production?" description="Most agent projects never make it past the demo. Ours run daily for a $10B+ investment fund. Let's see if agents make sense for your case." button="Book a call" url="https://anadea.info/free-project-estimate" >}}
+
 ### Tensorway
 
 Tensorway is a software development company founded in 2019 that specializes in making custom AI, ML, deep learning, and generative AI solutions.
