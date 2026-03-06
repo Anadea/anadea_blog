@@ -285,6 +285,8 @@ Another example of long-term cooperation is the [Visdeal](https://anadea.info/pr
 
 The Anadea team offers flexible engagement models, such as IT outsourcing, dedicated teams, and [staff augmentation](https://anadea.info/services/staff-augmentation), that can address a wide range of business needs.
 
+{{< advert_with_cta title="Your engineering team could be shipping twice as fast" description="Anadea's AI department has been running since 2019. We've put together a detailed guide on how we embed AI into every stage of development, from planning to production, and what it changes for release speed, team size, and project cost." button="Explore AI-enabled engineering" url="https://anadea.info/free-project-estimate" >}}
+
 ### NeoWork
 
 NeoWork is a global staffing and operations partner that started its business journey in 2017. The key idea behind its foundation was to transform how companies leverage international talent for IT, software development, and operational support. 
