@@ -316,6 +316,8 @@ The table below summarizes each alternative's core strengths.
 
 Anadea has a 25-year history in the[ software development](https://anadea.info/services/custom-software-development) industry. With more than 800 successful launches behind the company, it can become a long-term technical partner for businesses working in different domains. [Anadea](https://anadea.info/) stays with a product through its entire evolution and handles everything from the first discovery session to the day-to-day maintenance long after the initial release.
 
+![](anadea_1-3-.png)
+
 Here’s how Anadea helps eliminate your operational overhead:
 
 * **Streamlined onboarding**. Anadea has a pre-vetted pool of developers, QA, DevOps, and other specialists. Thanks to this, it can assemble dedicated development teams in 2-3 weeks, as the company. Such teams will integrate into your Slack, Jira, and stand-ups as a native extension of your company.
@@ -334,6 +336,8 @@ One of the projects that highlights Anadea’s ability to manage complex, long-t
 
 Since its foundation in 2010, Simform has operated as a specialized product engineering firm. It functions more like a technical partner than a traditional service provider. The company focuses on a co-engineering philosophy. It means that its developers embed directly into a client’s internal team. This integration ensures that every line of code remains synchronized with the client’s broader business goals. Moreover, it leads to more predictable releases and faster iteration cycles.
 
+![](simform.png)
+
 What does Simform offer as an outsourcing partner?
 
 * **Co-engineering approach.** Simform works as an extension of in-house teams to provide better alignment with business goals and smoother collaboration.
@@ -346,6 +350,8 @@ What does Simform offer as an outsourcing partner?
 
 Netguru was established in 2008. As of today, this custom software development company has delivered over 2,500 projects for startups and global brands like IKEA, Volkswagen, and OLX. Netguru has solid expertise in tech product design and bridges the gap between heavy backend architecture and front-end user retention.
 
+![](netguru-1-.png)
+
 Why choose Netguru as an outsourcing partner?
 
 * **Flexible outsourcing and scaling**. Businesses can access specialized talent and reduce operational costs without investing in in-house capabilities. Netguru guarantees high flexibility as its clients’ needs evolve.
@@ -357,6 +363,8 @@ Why choose Netguru as an outsourcing partner?
 
 This outsourcing software development firm brings together 3,500+ IT specialists and has delivered over 2,000 successful projects. Andersen was founded more than 19 years ago and today, it operates 19 offices worldwide. It can support businesses at every stage of digital growth.
 
+![](andersen.png)
+
 What is special about Andersen’s delivery model?
 
 * **Deployment velocity (14-28 days).** Andersen can introduce pre-vetted engineers into your staging environment in under a month, which allows its clients to bypass the standard 6-month recruitment lag.
@@ -366,6 +374,8 @@ What is special about Andersen’s delivery model?
 ### Radix
 
 With over 25 years of experience, Radix is a technology outsourcing partner that delivers scalable software solutions to businesses worldwide. The company has flexible engagement models. It offers dedicated teams, project-based delivery, and long-term collaborations to meet diverse needs.
+
+![](radix.png)
 
 What does Radixweb offer?
 
@@ -378,6 +388,8 @@ What does Radixweb offer?
 
 Ciklum positions itself as an AI-powered experience engineering company. It was founded more than 25 years ago. Its staff includes over 4,000 engineers who are across EMEA, the US, and APAC. The company’s expertise covers foundational AI, agentic automation, and accelerated software engineering. Now, delivers high-quality solutions for fintech, retail, healthcare, hi-tech, and other sectors.
 
+![](ciklum.png)
+
 What can Ciklum provide to its customers?
 
 * **Global follow-the-sun delivery**. With delivery centers across Europe, Asia, and Latin America, Ciklum solves the time-zone latency issue.
@@ -387,6 +399,8 @@ What can Ciklum provide to its customers?
 ### Yalantis
 
 Yalantis is a certified software, hardware, and AI development partner that has been on the market for more than 17 years. Yalantis positions itself as a product-first engineering house. It takes full technical ownership of complex ecosystems, especially in IoT, healthcare, and fintech.
+
+![](yalantis.png)
 
 Key strengths of Yalantis:
 
@@ -398,6 +412,8 @@ Key strengths of Yalantis:
 
 With over two decades of experience, Oxagile helps businesses innovate and build future‑ready products through flexible engagement models and deep technical expertise. The company has the richest experience in online video (OTT), computer vision, and adtech development. Its client list includes Google, Disney, Discovery, and other prominent names.
 
+![](oxagile-1-.png)
+
 Why Oxagile can become an appropriate outsourcing tech partner: 
 
 * **Hybrid delivery models**. They offer a managed team approach that functions as a self-healing engineering unit. Clients need to provide the high-level roadmap. All operational tasks can be handled by Oxagile.
@@ -408,6 +424,8 @@ Why Oxagile can become an appropriate outsourcing tech partner: 
 
 Fingent is a strategic technology outsourcing partner with more than 20 years of experience. Over this time, it has completed over 800 projects for clients across 14+ countries. Fingent supports clients through full‑cycle development, flexible staff augmentation, and strategically aligned global capability centers that can be located in different regions of the world. Developers at such centers fully follow the client’s security standards, corporate culture, and long-term product roadmap. But at the same time, all administrative tasks (like local labor laws, office real estate, payroll, and regional taxes) remain the responsibility of Fingent.
 
+![](fingent.png)
+
 What Fingent offers:
 
 * **Proprietary low-code and no-code acceleration.** Fingent uses a hybrid development approach. It leverages modern low-code platforms where appropriate to deliver functional MVPs or internal tools up to 50% faster than it is possible with traditional development methods only.
@@ -417,6 +435,8 @@ What Fingent offers:
 ### Belitsoft
 
 Belitsoft is a custom software development company that was founded in 2004. The company focuses on long-term engineering partnerships. 50% of its current clients have relied on its services for more than 5 years. Today, its staff includes 250+ employees, 51% of whom are senior-level experts.
+
+![](belitsoft.png)
 
 Belitsoft’s strengths:
 
