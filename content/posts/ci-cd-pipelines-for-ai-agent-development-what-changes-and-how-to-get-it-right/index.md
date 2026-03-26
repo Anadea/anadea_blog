@@ -19,7 +19,31 @@ authors:
 categories:
   - ai-ml
   - development
-questionary: []
+questionary:
+  - question: Can I use the same CI/CD pipeline for multiple AI agents with
+      different architectures?
+    answer: You can share the infrastructure (CI/CD tooling, model registry,
+      evaluation service), but each agent should have its own pipeline
+      configuration. An agent built on an external LLM via API and an agent
+      running a custom-trained model have different artifacts, different testing
+      needs, and different deployment risks. Trying to force them into one
+      universal pipeline usually ends with the pipeline being too loose for
+      both.
+  - question: What's the minimum viable CI/CD pipeline for an AI agent?
+    answer: Version control for all artifacts (code, prompts, configs), a set of 20
+      to 30 behavioral tests that run before every deployment, and one
+      agent-specific metric in your monitoring (response quality or
+      hallucination rate). You can build this on top of any existing CI/CD tool
+      in a few days. Everything else, like canary deployments, MLOps
+      integration, and LLM-as-judge evaluation, can be added incrementally as
+      the agent matures.
+  - question: Do I need a separate evaluation service in production?
+    answer: You can start by logging agent responses and reviewing them manually on
+      a weekly basis. But as traffic grows, manual review stops scaling. At that
+      point, a lightweight evaluation service that samples a percentage of
+      production responses and scores them automatically becomes necessary. This
+      is also what feeds the agent-specific metrics into your deployment
+      pipeline for automated rollback.
 ---
 In a [LangChain survey of over 1,300 professionals](https://www.langchain.com/state-of-agent-engineering), 32% named output quality as the biggest barrier to getting AI agents into production. These are concrete problems with output. The agent hallucinates, gives different answers to the same request, and violates internal policies. More often than not, teams only find out after deployment, when users start complaining.
 
@@ -230,7 +254,7 @@ Testing AI agents works in multiple layers. Each one catches a different type of
 
 <td>
 
-<p><span style="font-weight: 400;">LLM-as-judge, human review, or a combination.&nbsp;</span></p>
+<p><span style="font-weight: 400;">LLM-as-judge, human review, or a combination</span></p>
 
 </td>
 
@@ -331,17 +355,13 @@ In each of these cases, the output of the ML pipeline becomes the input for CI/C
 
 Google describes three MLOps maturity levels in their[ MLOps framework](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning). Level 0 is a fully manual process where training, evaluation, and deployment all happen by hand. Level 1 automates training but deploying a new model still requires manual approval. Level 2 automates the entire cycle from data to production. Most teams today sit somewhere between Level 0 and Level 1 when it comes to CI/CD for machine learning. If you're just getting started, the first practical step is adopting a model registry and automating model validation in the CI/CD pipeline. The rest can be added incrementally.
 
+![](google-cloud-mlops-infographic.png)
+
 Building a full ML pipeline from scratch can take months. Teams looking to shorten that path work with partners who have already been through it.[ Anadea specializes in ML development](https://anadea.info/services/machine-learning-software-development) and can help at any stage.
 
-***<CTA Block>***
+{{< advert_with_cta title="Building AI agents in-house or looking for a development partner?" description="We compared companies that actually ship agents to production." button="Read the overview" url="https://anadea.info/blog/top-ai-agent-development-companies/" >}}
 
-Title - Building AI agents in-house or looking for a development partner?
-
-Subtitle - We compared companies that actually ship agents to production. 
-
-Button - [Read the overview](https://anadea.info/blog/top-ai-agent-development-companies/)
-
-## Common Mistakes Teams Make with AI Agent Pipelines
+## [](https://anadea.info/blog/top-ai-agent-development-companies/)Common Mistakes Teams Make with AI Agent Pipelines
 
 Most mistakes we see in AI agent CI/CD pipelines have nothing to do with tool selection or technical complexity.  They come from teams carrying over habits from conventional CI/CD without adapting the process to how agents actually work.
 
@@ -358,6 +378,8 @@ Title - Have the product vision but need the engineers?
 Subtitle - Anadea builds AI agents with CI/CD, behavioral testing, and production monitoring set up from the first sprint. 
 
 Button - Talk to us
+
+{{< advert_with_cta title="Have the product vision but need the engineers?" description="Anadea builds AI agents with CI/CD, behavioral testing, and production monitoring set up from the first sprint." button="Talk to us" url="https://anadea.info/free-project-estimate" >}}
 
 ## Practical Recommendations for Engineering Teams
 
