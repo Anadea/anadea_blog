@@ -288,7 +288,7 @@ Even if our list of questions seems to be rather impressive, you need to underst
 
 <td>
 
-<p><span style="font-weight: 400;">$15,000 &ndash; $40,000</span></p>
+<p><span style="font-weight: 400;">$15,000 - $40,000</span></p>
 
 </td>
 
@@ -304,7 +304,7 @@ Even if our list of questions seems to be rather impressive, you need to underst
 
 <td>
 
-<p><span style="font-weight: 400;">$40,000 &ndash; $80,000</span></p>
+<p><span style="font-weight: 400;">$40,000 - $80,000</span></p>
 
 </td>
 
@@ -320,7 +320,7 @@ Even if our list of questions seems to be rather impressive, you need to underst
 
 <td>
 
-<p><span style="font-weight: 400;">$80,000 &ndash; $150,000</span></p>
+<p><span style="font-weight: 400;">$80,000 - $150,000</span></p>
 
 </td>
 
@@ -336,7 +336,7 @@ Even if our list of questions seems to be rather impressive, you need to underst
 
 <td>
 
-<p><span style="font-weight: 400;">$120,000 &ndash; $250,000</span></p>
+<p><span style="font-weight: 400;">$120,000 - $250,000</span></p>
 
 </td>
 
@@ -352,7 +352,7 @@ Even if our list of questions seems to be rather impressive, you need to underst
 
 <td>
 
-<p><span style="font-weight: 400;">$200,000 &ndash; $400,000+</span></p>
+<p><span style="font-weight: 400;">$200,000 - $400,000+</span></p>
 
 </td>
 
