@@ -5,7 +5,7 @@ title: "Travel & Tourism Market Overview: What to Consider When Developing a
 breadcrumbs: Travel and Tourism App Development
 slug: app-for-travel-and-tourism
 draft: false
-publishDate: 2022-08-01T00:00:00.000Z
+publishDate: 2026-04-02T16:00:00+03:00
 image: flamingos.jpg
 og_image: flamingos.jpg
 description: Travel app development is still relevant in 2022. However, some
