@@ -95,6 +95,18 @@ As you see, there are many 'near me' requests, so it’s a great idea to add a *
 What else can you consider while creating your own travel app in terms of the audience and value?
 First of all, it’s good to know what countries are the biggest spenders in the tourism industry and where they go for vacation. Traditionally, the **2 top spenders are China and USA**, among others we can name Germany, the United Kingdom, France, Australia, Russia, and Canada. While the top 10 destinations receive 40% of worldwide arrivals. These countries are France, Spain, the United States of America, China, Italy, Turkey, Mexico, Germany, Thailthe, and the United Kingdom (data of 2018). This gives us a hint that it’s better to target these markets and develop digital possibilities for these directions mostly to maximize the revenue.
 
+### Don't compete, find untapped needs
+
+With Expedia Group and Booking Holdings controlling most of the market, building yet another hotel aggregator is an uphill battle. A smarter approach is to solve travel problems that these giants overlook.
+
+Getting to a destination is often the most stressful part of any trip, yet very few apps address the journey itself. LoungeBuddy carved out a niche by giving travelers access to over 300 airport lounges, something most people wouldn't think to look for but immediately value once they discover it. A sun exposure app that calculates safe time in the sun based on skin type and local UV index is another example. It's a small, unexpected tool that earns loyalty by showing genuine care for travelers.
+
+This "think beyond the obvious" strategy also ties into the data we'll see below. Instead of fighting for broad queries like "cheap hotels," a niche app can own more specific searches such as "pet-friendly beaches near me" or "airport lounges near me," where competition is lower and user intent is much clearer. As the search data shows, there's real demand for these kinds of specialized services.
+
+
+
+
+
 ## Travel and tourism industry trends
 
 It’s not a secret that the growth of the world’s economy drives the growth of the Travel and Tourism industry. 2022 faced the negative influence of the events in Ukraine that slowed down the growth of the Gross Domestic Product all over the world. Still, at a smaller pace, it is still predicted to grow.
@@ -138,6 +150,16 @@ Let’s take a look at what travel app types can be interesting for development.
 * **Find a travel buddy.** Users connect with each other to travel together, plan and discuss their future trips. Core features include users profile, search, messages, calendar.
 * **Plan a route and find cheap tickets.** Without repeating the value, let’s say that core features are aggregation of cheap tickets of all kinds, map, and aggregation of cheap accommodation facilities.
 * **Eco traveling.** Help users travel eco-minded. Core features can be a map with goals to help ecology, eco-friendly shops, and community.
+
+**Smart personalization with predictive analytics**
+
+Remember the statistic that travelers visit about 38 sites before making a decision? Predictive analytics can drastically cut that number. By analyzing past purchasing tendencies, search history, and spending patterns, travel apps can offer highly relevant recommendations — from hotels and destinations to flight times that match the user's unique lifestyle and budget.
+
+This approach has already proven its worth in e-commerce. For instance, product recommendation engines are known to drive significant sales increases for major online retailers. The same logic applies to travel: instead of overwhelming users with endless options (which, as we mentioned, is a major roadblock according to Travelport), a smart travel app narrows the choice down to what actually fits.
+
+The technology works particularly well for the app types we described above. A route planning app can suggest destinations based on where a user has traveled before. A travel buddy app can match people with similar travel styles. Even an eco-traveling app can recommend sustainable options that align with the user's previous preferences.
+
+However, there's an important caveat. With growing global attention to data privacy regulations, travel app developers must be transparent about how they collect and use personal data. Building trust through clear privacy policies and giving users control over their data is not just a legal requirement — it's a competitive advantage. Users are more willing to share preferences when they understand the value they get in return.
 
 ## Instead of conclusions
 
