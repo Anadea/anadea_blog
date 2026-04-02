@@ -1,6 +1,8 @@
 ---
-ceoTitle: "Digital Transformation in Higher Education: Challenges & Solutions"
-title: Digital Transformation in Education
+ceoTitle: "Digital Transformation in Education: Challenges, Strategy for Schools
+  and Universities"
+title: "Universities vs. the Internet: Can Traditional Education Survive the
+  Digital Age?"
 breadcrumbs: Digital Transformation in Education
 slug: digital-transformation-in-higher-education
 draft: false
