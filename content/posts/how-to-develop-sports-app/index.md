@@ -4,7 +4,7 @@ title: "How to Build a Sports App: A Practical Guide from Idea to Launch"
 breadcrumbs: " Sports App Development"
 slug: how-to-develop-sports-app-guide
 draft: false
-publishDate: 2022-05-12T00:00:00.000Z
+publishDate: 2026-04-02T16:51:00+03:00
 image: sports-apps.jpg
 og_image: sports-apps.jpg
 description: Explore the spots app market and develop your own sports app with
