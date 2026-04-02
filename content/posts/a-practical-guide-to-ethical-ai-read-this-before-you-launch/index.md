@@ -18,6 +18,27 @@ authors:
 categories:
   - ai-ml
   - news
+questionary:
+  - question: "Does the EU AI Act apply to my company if we are based outside the EU? "
+    answer: Yes, if your AI system is used by people in the EU or affects decisions
+      about EU residents. The Act has extraterritorial scope similar to GDPR. A
+      US-based company selling an AI hiring tool to a client with European
+      employees falls under its jurisdiction.
+  - question: "Do we need a dedicated AI ethics team? "
+    answer: Not necessarily. Smaller organizations can distribute ethical oversight
+      across existing roles if they have the right governance structure. What
+      matters more than headcount is whether someone has the authority and
+      accountability to block a deployment that fails fairness or compliance
+      checks. A cross-functional review board with actual decision-making power
+      is more effective than a single ethics officer without enforcement
+      authority.
+  - question: "Can ethical AI governance slow down our development process? "
+    answer: It adds process, but well-implemented governance does not create
+      bottlenecks. Teams that integrate bias testing and documentation into
+      their standard CI/CD workflows report minimal impact on velocity. The real
+      slowdown comes when ethical issues surface after launch, in the form of
+      lawsuits, regulatory investigations, or forced product shutdowns that cost
+      months of engineering time and millions in damages.
 ---
 The[ EU AI Act's high-risk compliance deadline](https://anadea.info/blog/eu-ai-act-compliance-requirements/) hits in August 2026. Four months from now. Any company that sells or deploys AI in hiring, credit scoring, healthcare, or law enforcement within the EU needs risk management systems, technical documentation, and conformity assessments in place by then. Non-compliance carries penalties of up to 7% of global annual revenue.
 
@@ -131,7 +152,7 @@ Four frameworks have emerged as the practical reference points for companies bui
 
 <td>
 
-<p><span style="font-weight: 400;">Mandatory. Tiered penalties up to &euro;35M / 7% of global revenue</span></p>
+<p><span style="font-weight: 400;">Mandatory. Tiered penalties up to €35M / 7% of global revenue</span></p>
 
 </td>
 
