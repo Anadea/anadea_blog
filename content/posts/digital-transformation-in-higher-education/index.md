@@ -6,7 +6,7 @@ title: "Universities vs. the Internet: Can Traditional Education Survive the
 breadcrumbs: Digital Transformation in Education
 slug: digital-transformation-in-higher-education
 draft: false
-publishDate: 2019-07-02T00:00:00.000Z
+publishDate: 2026-04-02T16:10:00+03:00
 image: higher-education-technology.jpg
 og_image: higher-education-technology.jpg
 description: Higher education is evolving rapidly, with universities adapting to
