@@ -75,9 +75,9 @@ If you are planning a new GenAI project or need expert support with your existin
 
 ### Anadea
 
-[Anadea](https://anadea.info/) is a custom software development company founded in 2000. With strong expertise in engineering custom artificial intelligence, machine learning systems, and complex generative AI applications, Anadea is known as one of the top companies for generative AI consulting.
+[Anadea](https://anadea.info/services/ai-consulting) is a custom software development company founded in 2000. With strong expertise in engineering custom artificial intelligence, machine learning systems, and complex generative AI applications, Anadea is known as one of the top companies for generative AI consulting.
 
-![](anadea-3-.png)
+![](anadea_consulting.png)
 
 Anadea’s core offerings in this domain include:
 
