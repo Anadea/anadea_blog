@@ -56,7 +56,7 @@ Companies rarely struggle to find a use case for AI. The difficulty starts when 
 
 The most common mistake is launching a pilot without documenting what the current process costs. How many hours does a task take today? What is the error rate? What does each error cost downstream? Without these numbers, any improvement stays anecdotal and falls apart in a board conversation.
 
-When Anadea built an [AI agent for a US law firm](https://anadea.info/projects/ai-legal-automation) handling disability benefits cases, the baseline was specific: each case required roughly a week of manual review across hundreds of pages of medical documents. After deployment, that review took five minutes at 90% accuracy. The ROI conversation was straightforward because the starting point had been measured before anyone touched a model.
+When Anadea built an AI agent for a US law firm handling disability benefits cases, the baseline was specific: each case required roughly a week of manual review across hundreds of pages of medical documents. After deployment, that review took five minutes at 90% accuracy. The ROI conversation was straightforward because the starting point had been measured before anyone touched a model.
 
 ### Culture, Governance, Workflow
 
