@@ -138,13 +138,13 @@ The table below contains the key differences between these two models.
 
 <td>
 
-<p><span style="font-weight: 400;">Core advantage&nbsp;</span></p>
+<p><span style="font-weight: 400;">Core advantage</span></p>
 
 </td>
 
 <td>
 
-<p><span style="font-weight: 400;">Global talent access &amp; 24/7 velocity</span></p>
+<p><span style="font-weight: 400;">Global talent access & 24/7 velocity</span></p>
 
 </td>
 
