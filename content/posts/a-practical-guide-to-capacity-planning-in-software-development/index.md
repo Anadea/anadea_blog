@@ -18,6 +18,29 @@ authors:
 categories:
   - development
   - business
+questionary:
+  - question: What tools are commonly used for engineering capacity planning?
+    answer: The right capacity planning tools depend on team size. Most teams start
+      with Google Sheets or Excel, and for teams of up to 15 to 20 engineers
+      that's enough. Jira, Linear, and Asana have built-in capacity tracking,
+      but it requires discipline in logging all the work that's actually
+      happening. For organizations of 50 engineers and up, there are specialized
+      platforms like Jellyfish, Faros, or Haystack that integrate with Git and
+      CI/CD and provide automated workload analytics.
+  - question: How does capacity planning work in agile teams?
+    answer: In an agile setting, agile capacity planning happens at every sprint
+      planning session. The team calculates the available hours after accounting
+      for vacations, meetings, and focus factor, lines those up against the
+      estimates for tasks in the backlog, and only commits to the volume of work
+      that fits within available capacity. Historical velocity from the previous
+      3 to 4 sprints serves as a reference point for calibrating estimates.
+  - question: What is the difference between capacity planning and resource planning?
+    answer: Capacity planning answers the question of whether the team has enough
+      people and hours to deliver the planned scope of work. Engineering
+      resource planning is broader in scope and covers the allocation of
+      specific resources to tasks, including budget, tools, and infrastructure.
+      Capacity planning focuses on people and their time, while resource
+      planning covers everything needed to deliver a project.
 ---
 In pro cycling there's a metric called FTP, Functional Threshold Power. It's the power output a rider can sustain for roughly an hour before performance collapses. Push past it and you'll hold on for about five minutes at most. This is the number coaches build training plans around, because the theoretical peak tells you very little about what an athlete can actually deliver over a race.
 
@@ -116,3 +139,318 @@ The focus factor accounts for time spent in meetings, code reviews, sprint cerem
 Planned absences are then subtracted from that number: vacations, sick days, public holidays, training.
 
 Example for a team of 6 engineers on a two-week sprint:
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><strong>Parameter</strong></p>
+
+</td>
+
+<td>
+
+<p><strong>Value</strong></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Number of engineers</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">6</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Working days in the sprint</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">10</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Hours per day</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">8</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Total time pool</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">480 hrs</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Planned absences (1 engineer on vacation for 5 days)</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">-40 hrs</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Focus factor 0.7</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">&times; 0.7</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Available capacity</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">308 hrs</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+308 hours out of an initial 480. The 36% gap is the share that disappears into meetings, context switching, and operational overhead.
+
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Discuss your capacity gap{{< /ctabutton >}}
+
+### Step 4. Measure the Capacity Gap
+
+This step compares two numbers: required capacity (Step 2) and available capacity (Step 3). If required exceeds available, that's a capacity gap. If available is greater than required, the team has slack that can go into tech debt or R&D work.
+
+It's useful to express the capacity gap in both absolute hours and percentages. A gap of 15%, for example, can usually be closed by reviewing scope. A gap of 40% signals a need for additional engineers.
+
+### Step 5. Align Capacity with Demand
+
+The last step in workload planning is to bring demand in line with available capacity. There are several options, and most teams use a combination of them.
+
+* **Scope prioritization**. Work with the product owner to review the backlog and keep only what fits within available capacity. Lower-priority items move to the next iteration.
+* **Workload redistribution**. If some engineers on the team have free capacity, part of the work can be rebalanced. Skill sets matter here, because a frontend engineer with 20 free hours won't close a backend ticket.
+* **Team scaling**. If the capacity gap holds steady across several sprints or quarters, that's a signal to expand. Either through in-house hiring or by bringing in external engineers via staff augmentation.
+* **Process optimization**. Sometimes the capacity gap can be reduced by cutting operational overhead. Automating the CI/CD pipeline, reducing the number or length of meetings, improving documentation so engineers spend less time looking for information. [AI automation](https://anadea.info/services/ai-automation) is the newer lever in this category – code generation for boilerplate, automated PR review, and anomaly detection in production routinely free up 15 to 25% of engineering time that used to disappear into repetitive work.
+
+Once aligned, the capacity plan becomes a working document for the sprint or quarter, reviewed and updated with each iteration.
+
+{{< advert_with_cta title="If your gap turned out to be north of 20-25%, scope cuts alone probably won't fix it" description="We regularly help teams figure out where capacity is actually leaking and which scaling path makes sense for their setup " button="Book a short consultation" url="https://anadea.info/free-project-estimate" >}}
+
+## Lead, Lag, or Match: Which Scaling Strategy Fits Your Team
+
+Once the capacity gap is identified, the next question is how exactly to scale the team against growing demand. There are three baseline strategies, and each one balances the risk of overspending against the risk of running short on resources differently.
+
+![Lag Capacity Planning, Lead Capacity Planning, Match Capacity Planning](lag-lead-match-strategy.png)
+
+**Lag strategy** means adding capacity only after demand has already grown. The team scales reactively, in response to confirmed load. Costs stay low, because resources are added only when they are clearly needed. The downside is that 2 to 4 months pass between the moment the capacity gap becomes obvious and the moment new engineers reach full productivity. The team operates in overload that whole time.
+
+**Lead strategy** works in the opposite direction. Capacity is built up in advance, before demand reaches the current ceiling. The team is ready to absorb new workload the moment it shows up. The approach works well in product companies with a predictable roadmap and stable funding. The risk here is financial: if demand grows more slowly than projected, part of that capacity sits idle.
+
+**Match strategy** sits between the first two. Capacity is added in parallel with demand, in small increments. The core team handles baseline load, and additional engineers are brought in for peak periods or new initiatives through staff augmentation or short-term contracts. For most engineering organizations in the 15 to 50 person range, match strategy turns out to be the most pragmatic option, since it preserves flexibility without taking on significant financial risk.
+
+The choice between strategies comes down to three factors: how predictable demand is, how much financial risk the company is willing to carry, and how quickly the organization can actually onboard new engineers.
+
+## When Your Capacity Isn't Enough: Scaling Options
+
+A capacity gap that shows up in a single sprint is usually solved by re-prioritizing the scope. A capacity gap that holds for a quarter or longer points to a structural problem. The team simply doesn't have enough people for the volume of work the business is generating. At that point there are a few paths forward.
+
+### In-House Hiring
+
+The most obvious option, and at the same time the slowest. Sourcing a senior engineer with the right stack takes 2 to 3 months. Onboarding to full productivity adds another 1 to 2 months. The capacity gap stays open the entire time, and the team keeps operating in overload.
+
+Hiring works well for closing long-term needs, when the company is confident the role is required for years to come. For temporary capacity gaps or project peaks, it's too slow and too expensive a tool.
+
+### Staff Augmentation
+
+Staff augmentation lets you reinforce the team with external engineers who work under the client's processes and management. The key advantage is speed. An experienced provider lines up specialists with the right stack within days, and by the second week the engineer is closing tickets.
+
+The model is especially effective for the match strategy described above and integrates cleanly into existing workload planning routines. The core team stays in-house and retains product knowledge, while external engineers close the capacity gap for specific initiatives or periods of higher load. Once the need is gone, the team scales back down without going through a layoff process.
+
+Another important detail is that augmented engineers integrate into the existing team. They work in the same sprints, attend the same standups, and push code into the same repository. From a product owner or stakeholder perspective, the difference between an in-house and an augmented engineer is practically invisible.
+
+### Outsourcing Individual Modules or Projects
+
+When the capacity gap covers an entire workstream rather than individual tasks, it makes sense to carve it out as a separate project for an external team. Outsourcing works well for work with clearly defined scope: migrating a legacy system, building an MVP for a new product, integrating with a third-party platform.
+
+The advantage over staff augmentation is that the external team takes on delivery end to end, including project management and QA. The internal team keeps its focus on the core product, while the external one moves a separate workstream in parallel.
+
+{{< advert_with_cta title="Anadea has been running this model for 25 years" description="150+ engineers, matched to your stack within days, fully embedded in your sprints and processes" button="Explore IT outsourcing options " url="https://anadea.info/services/it-outsourcing" >}}
+
+### Which Option to Choose
+
+In practice, mature engineering organizations combine these approaches depending on the nature of the capacity gap.
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><strong>Situation</strong></p>
+
+</td>
+
+<td>
+
+<p><strong>Best fit</strong></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Long-term need for a specific role</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">In-house hiring</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Temporary capacity gap of 2 to 6 months</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Staff augmentation</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">A separate project with clear scope</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Outsourcing</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Peak period before a major release</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Staff augmentation</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Required competence isn't available in-house</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Staff augmentation or outsourcing</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Companies that already have experience working with external engineering partners can scale within days. That fundamentally changes the approach to capacity planning, because the capacity gap stops being a problem you have to live with for months while waiting on a new hire.
+
+## Conclusion
+
+Capacity planning starts working when it becomes part of the team's operational rhythm, not a one-off exercise at the start of the quarter. Count the available hours, line them up against the volume of work, identify the gap, and act on it. Sprint by sprint, the practice gets calibrated against real data, and with every iteration it produces a more accurate picture of what the team is actually capable of.
+
+When the gap between demand and supply turns out to be a steady one, the fastest way to close it is to reinforce the team with engineers who have the right stack and experience. Anadea has been doing exactly that for 25 years. 150+ engineers, specialists matched within days, full integration into the client's existing processes. If a capacity gap is slowing down your delivery, [book a consultation](https://calendly.com/irina_anadea/30min?back=1) to discuss your scaling options.
