@@ -250,7 +250,7 @@ Example for a team of 6 engineers on a two-week sprint:
 
 <td>
 
-<p><span style="font-weight: 400;">&times; 0.7</span></p>
+<p><span style="font-weight: 400;">×0.7</span></p>
 
 </td>
 
