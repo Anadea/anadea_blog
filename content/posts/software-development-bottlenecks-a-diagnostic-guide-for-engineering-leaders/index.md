@@ -396,7 +396,7 @@ Migrating from a monolith to a modular or service-oriented architecture is the m
 
 The diagram shows that architecture is only one of four parallel layers. Each has its own trajectory, and architectural bottlenecks often emerge not from the monolith itself but from the layers falling out of sync. A monolithic system on cloud infrastructure doesn't capture the benefits of the cloud. Microservices on physical servers lose their flexibility. Migrating one layer without the rest rarely delivers the expected result.
 
-{{< advert_with_cta title="From a monolithic platform to modular architecture at one of the largest real estate portals in the US" description="undefined" button="Read the case study" url="https://anadea.info/projects/streeteasy" >}}
+{{< advert_with_cta title="From a monolithic platform to modular architecture at one of the largest real estate portals in the US" description="How Anadea helped StreetEasy scale its engineering capacity" button="Read the case study" url="https://anadea.info/projects/streeteasy" >}}
 
 ## Delivery Pipeline Bottlenecks
 
@@ -450,7 +450,7 @@ But if the bottleneck is procedural or architectural, augmentation turns into an
 
 Anadea's approach to augmentation rests on engineers contributing from the first week. That's possible not because they somehow learn exceptionally fast, but because the engagement starts with diagnosis. Before adding people, you need to understand whether people are actually what's missing.
 
-{{< advert_with_cta title="We've been doing this since 2001" description="undefined" button="Get a staffing diagnosis" url="https://anadea.info/contacts" >}}
+{{< advert_with_cta title="We've been doing this since 2001" description="25 years of building and scaling production systems" button="Get a staffing diagnosis" url="https://anadea.info/contacts" >}}
 
 ## AI Readiness
 
