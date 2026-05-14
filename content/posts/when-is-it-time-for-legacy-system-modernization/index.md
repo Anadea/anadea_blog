@@ -76,7 +76,7 @@ The table below can help you quickly audit your current system health.
 
 <td>
 
-<p><strong>Fear-driven development</strong><span style="font-weight: 400;">. Engineers don&rsquo;t want to touch core modules because a single change triggers unpredictable regressions elsewhere.</span></p>
+<p><strong>Fear-driven development</strong><span style="font-weight: 400;">. Engineers don't want to touch core modules because a single change triggers unpredictable regressions elsewhere.</span></p>
 
 </td>
 
@@ -98,7 +98,7 @@ The table below can help you quickly audit your current system health.
 
 <td>
 
-<p><span style="font-weight: 400;">You need to invest large amounts in building connectors between tools instead of launching new revenue-generating functionality.&nbsp;</span></p>
+<p><span style="font-weight: 400;">You need to invest large amounts in building connectors between tools instead of launching new revenue-generating functionality.</span></p>
 
 </td>
 
@@ -392,7 +392,7 @@ Here’s a summary matrix that helps you find the right legacy application moder
 
 <td>
 
-<p><span style="font-weight: 400;">System scaling&nbsp;</span></p>
+<p><span style="font-weight: 400;">System scaling</span></p>
 
 </td>
 
