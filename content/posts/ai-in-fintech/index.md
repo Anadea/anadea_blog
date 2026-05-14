@@ -57,7 +57,7 @@ However, for traditional organizations, it was rather challenging to change thei
 
 ## Benefits of using AI and ML in fintech
 
-The implementation of AI-powered tools is one of the latest trends in <a href="https://anadea.info/blog/fintech-mobile-app-development" target="_blank">fintech app development</a>. But here it is vital to understand that the reasons behind this are hidden not in the "fashion" for such functionality but in the key advantages that AI brings to the fintech sector. Before we consider examples of using AI in fintech, we'd like to focus on the core benefits that will brightly demonstrate why so many companies today are interested in implementing AI and ML features into their newly created or already existing solutions.
+The implementation of AI-powered tools is one of the latest trends in <a href="https://anadea.info/blog/fintech-mobile-app-development">fintech app development</a>. But here it is vital to understand that the reasons behind this are hidden not in the "fashion" for such functionality but in the key advantages that AI brings to the fintech sector. Before we consider examples of using AI in fintech, we'd like to focus on the core benefits that will brightly demonstrate why so many companies today are interested in implementing AI and ML features into their newly created or already existing solutions.
 
 ### Better customer experience
 
@@ -83,7 +83,7 @@ Process automation and facilitation are among the most important factors that ca
 
 ![Benefits of using AI and ML in fintech](Benefits_of_AI___ML_in_Fintech.png)
 
-All these benefits are relevant for all the cases of using Artificial Intelligence in fintech but it is also important to keep in mind that there can be some unique, company- or app-specific advantages. We recommend you discuss them with your <a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI and ML software development team</a> in advance in order to make sure that you will get a solution that will bring the highest value to you and your clients. At Anadea, we always focus on these specific advantages while discussing project requirements as we believe that our task is to deliver solutions that will be fully tailored to customers' needs.
+All these benefits are relevant for all the cases of using Artificial Intelligence in fintech but it is also important to keep in mind that there can be some unique, company- or app-specific advantages. We recommend you discuss them with your <a href="https://anadea.info/services/machine-learning-software-development">AI and ML software development team</a> in advance in order to make sure that you will get a solution that will bring the highest value to you and your clients. At Anadea, we always focus on these specific advantages while discussing project requirements as we believe that our task is to deliver solutions that will be fully tailored to customers' needs.
 
 {{< ctabutton url="https://anadea.info/free-project-estimate" >}}Talk to AI experts{{< /ctabutton >}}
 
@@ -105,7 +105,7 @@ According to the [research](https://www.fatf-gafi.org/content/dam/fatf-gafi/guid
 
 ### Virtual assistance and chatbots
 
-As we've already mentioned above, the use of a chatbot can significantly enhance the quality of your customer support service and help you achieve higher loyalty and satisfaction of your clients. By timely getting all the required information about your services, products, and special offers, people are more likely to opt for your company instead of choosing one of your rivals. On our blog, we've already shared our recommendations on <a href="https://anadea.info/blog/chatbot-development" target="_blank">how to build a chatbot for your business</a>.
+As we've already mentioned above, the use of a chatbot can significantly enhance the quality of your customer support service and help you achieve higher loyalty and satisfaction of your clients. By timely getting all the required information about your services, products, and special offers, people are more likely to opt for your company instead of choosing one of your rivals. On our blog, we've already shared our recommendations on <a href="https://anadea.info/blog/chatbot-development">how to build a chatbot for your business</a>.
 
 ### Personalized investment and budget planning
 
