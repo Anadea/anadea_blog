@@ -53,29 +53,29 @@ So you're working with Flutter, and you're staring down the barrel of 33,000+ pa
 
 What are our criteria? After all, 'best' is subjective. Here's what we evaluate:
 
-- Compatibility with the latest stable version of Flutter;
-- AndroidX support (yeah, it still matters);
-- Multi-platform versatility (web, iOS, Android, you name it);
-- Test coverage: both integration and unit;
-- Well-maintained documentation (because who has time to decipher crappy docs?);
-- Active maintenance: frequent updates and responsive maintainers are the name of the game.
+* Compatibility with the latest stable version of Flutter;
+* AndroidX support (yeah, it still matters);
+* Multi-platform versatility (web, iOS, Android, you name it);
+* Test coverage: both integration and unit;
+* Well-maintained documentation (because who has time to decipher crappy docs?);
+* Active maintenance: frequent updates and responsive maintainers are the name of the game.
 
 There you have it. Let's get to it!
 
 ## State Management
 
-### [Flutter\_bloc](https://bloclibrary.dev/#/)
+### [Flutter_bloc](https://bloclibrary.dev/#/)
 
 Flutter Bloc is a predictable state management library for Dart that is Simple, Lightweight & Highly Testable.
 
 The library enables you to:
 
-- Make sure the current state of your application at any given moment.
- Conduct comprehensive tests to ensure your application responds as expected.
-- Document each user interaction within your application for data-driven decision-making.
-- Optimize efficiency through component reusability within and across various applications.
-- Facilitate smooth collaboration among multiple developers by adhering to consistent patterns and conventions.
-- Accelerate the development of fast, responsive applications.
+* Make sure the current state of your application at any given moment.
+  Conduct comprehensive tests to ensure your application responds as expected.
+* Document each user interaction within your application for data-driven decision-making.
+* Optimize efficiency through component reusability within and across various applications.
+* Facilitate smooth collaboration among multiple developers by adhering to consistent patterns and conventions.
+* Accelerate the development of fast, responsive applications.
 
 #### Alternative
 
@@ -83,15 +83,15 @@ The library enables you to:
 
 ## Networking
 
-### [**Chopper**](https://pub.dev/packages/chopper)
+### **[Chopper](https://pub.dev/packages/chopper)**
 
-Chopper is an HTTP client generator for Dart and Flutter using source\_gen. It focuses on making API calls more straightforward and cleaner by using code generation.
+Chopper is an HTTP client generator for Dart and Flutter using source_gen. It focuses on making API calls more straightforward and cleaner by using code generation.
 
 Chopper is built on top of the HTTP package, which means it supports all of the same HTTP methods (GET, POST, PUT, DELETE, etc.) and options as the HTTP package. However, Chopper makes it easier to write clean, organized code for making API calls in Flutter apps.
 
 #### Alternative
 
-**[Retrofit](https://pub.dev/packages/retrofit)**: type conversion [dio](https://github.com/flutterchina/dio/) client generator using [source\_gen](https://github.com/dart-lang/source_gen) and inspired by [Chopper](https://github.com/lejard-h/chopper).
+**[Retrofit](https://pub.dev/packages/retrofit)**: type conversion [dio](https://github.com/flutterchina/dio/) client generator using [source_gen](https://github.com/dart-lang/source_gen) and inspired by [Chopper](https://github.com/lejard-h/chopper).
 
 ## Code Generator & Build Tools
 
@@ -117,7 +117,7 @@ ObjectBox Flutter database is a great option for storing Dart objects in your cr
 
 #### Alternative
 
-**[Drift](https://pub.dev/packages/drift)**: Drift is a powerful and flexible SQLite library for Dart and <a href="https://anadea.info/blog/flutter-development" target="_blank">Flutter development</a>. It enables developers to work with databases in a type-safe and intuitive manner. With Drift, developers can create and interact with databases using Dart's expressive language features, such as async/await and streams.
+**[Drift](https://pub.dev/packages/drift)**: Drift is a powerful and flexible SQLite library for Dart and <a href="https://anadea.info/blog/flutter-development">Flutter development</a>. It enables developers to work with databases in a type-safe and intuitive manner. With Drift, developers can create and interact with databases using Dart's expressive language features, such as async/await and streams.
 
 ## Navigation
 
@@ -127,7 +127,7 @@ It's a Flutter navigation package that allows for strongly typed arguments passi
 
 #### Alternative
 
-**[go\_router](https://pub.dev/packages/go_router)**: A declarative routing package for Flutter that uses the Router API to provide a convenient, URL-based API for navigating between different screens. You can define URL patterns, navigate using a URL, handle deep links, and a number of other navigation-related scenarios.
+**[go_router](https://pub.dev/packages/go_router)**: A declarative routing package for Flutter that uses the Router API to provide a convenient, URL-based API for navigating between different screens. You can define URL patterns, navigate using a URL, handle deep links, and a number of other navigation-related scenarios.
 
 ## Localization
 
@@ -137,10 +137,10 @@ Slang is a library characterized by its minimal setup requirements. It facilitat
 
 #### Alternative
 
-**[Easy\_localization](https://pub.dev/packages/easy_localization)**: Not only helps with localization but also has support for plural, gender, nesting, and RTL locales. It supports extension methods on both Text and BuildContext widgets for easy translation. It is also reactive to locale changes.
+**[Easy_localization](https://pub.dev/packages/easy_localization)**: Not only helps with localization but also has support for plural, gender, nesting, and RTL locales. It supports extension methods on both Text and BuildContext widgets for easy translation. It is also reactive to locale changes.
 
 ## Conclusion
 
-Flutter's package ecosystem is expansive and ever-changing, thanks to a committed developer community. The list here is by no means definitive; it's based on our experience and the requirements we've encountered in our <a href="https://anadea.info/services/mobile-development/flutter-development-services" target="_blank">Flutter app development</a> projects. Your own project might call for different solutions, and that's perfectly fine. Feel free to explore and find what's best for you!
+Flutter's package ecosystem is expansive and ever-changing, thanks to a committed developer community. The list here is by no means definitive; it's based on our experience and the requirements we've encountered in our <a href="https://anadea.info/services/mobile-development/flutter-development-services">Flutter app development</a> projects. Your own project might call for different solutions, and that's perfectly fine. Feel free to explore and find what's best for you!
 
 {{< ctabutton url="https://anadea.info/free-project-estimate" >}}Hire Flutter Developers{{< /ctabutton >}}
