@@ -72,7 +72,7 @@ Many of your younger audiences prefer visual content - videos, photos, GIFs, emo
 
 ### Tip #4. Ensure that your CTA buttons work across all devices
 
-It’s just frustrating for web visitors or app users to click or tap on a CTA button that doesn’t work or lead to an error. You want your app to be <a href="https://anadea.info/blog/10-tips-to-improve-usability-of-your-app" target="_blank">100% usable</a>. If an element, especially something as important as a CTA button fails to work, that’s not going to reflect well on you. Additionally, you should <a href="https://redstagfulfillment.com/online-store-work-across-all-devices/" target="_blank">optimize for mobile and all other devices</a>. Consider the placement and color, as well as factors like white space and the “thumb zone” when deciding how and where to place your CTA button.
+It’s just frustrating for web visitors or app users to click or tap on a CTA button that doesn’t work or lead to an error. You want your app to be <a href="https://anadea.info/blog/10-tips-to-improve-usability-of-your-app">100% usable</a>. If an element, especially something as important as a CTA button fails to work, that’s not going to reflect well on you. Additionally, you should <a href="https://redstagfulfillment.com/online-store-work-across-all-devices/" target="_blank">optimize for mobile and all other devices</a>. Consider the placement and color, as well as factors like white space and the “thumb zone” when deciding how and where to place your CTA button.
 
 ### Tip #5. Always go for a straightforward CTA
 
@@ -124,6 +124,6 @@ Playing to their audience’s curiosity and applying the concept of reverse psyc
 
 ## Final thoughts
 
-Do not make the mistake of dealing with your CTAs like an afterthought because they’re far too important not to be taken seriously. Like with the rest of <a href="https://anadea.info/services/ui-ux-design" target="_blank">web design elements</a>, your CTA needs careful consideration. It should go well with the brand image and resonate with the audience. It should be compelling enough that they wouldn’t risk not hitting the button but also reassuring so they won’t feel like they’re taking a risk. A lot depends on those CTA buttons, and if you want to reap the rewards, dedicate time and effort in creating them, too.
+Do not make the mistake of dealing with your CTAs like an afterthought because they’re far too important not to be taken seriously. Like with the rest of <a href="https://anadea.info/services/ui-ux-design">web design elements</a>, your CTA needs careful consideration. It should go well with the brand image and resonate with the audience. It should be compelling enough that they wouldn’t risk not hitting the button but also reassuring so they won’t feel like they’re taking a risk. A lot depends on those CTA buttons, and if you want to reap the rewards, dedicate time and effort in creating them, too.
 
 Do you have any CTA design ideas you’d like to share? Tell us all about them!
