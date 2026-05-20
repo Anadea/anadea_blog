@@ -169,7 +169,7 @@ The table below demonstrates clear differences between projects with discovery a
 
 <td>
 
-<p><span style="font-weight: 400;">Risk management&nbsp;</span></p>
+<p><span style="font-weight: 400;">Risk management</span></p>
 
 </td>
 
@@ -265,7 +265,7 @@ The table below outlines the potential expenses. 
 
 <td>
 
-<p><span style="font-weight: 400;">Development&nbsp;</span></p>
+<p><span style="font-weight: 400;">Development</span></p>
 
 </td>
 
