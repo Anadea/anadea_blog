@@ -52,7 +52,7 @@ In this article, we are going to explain how allocating time to writing software
 
 A software requirements specification connects what the business needs with how the system will be built. It establishes a documented agreement between the stakeholder and the development team. For instance, your specification should clearly state what the system must execute. Moreover, it should also cover a row of other parameters and aspects, including the target user base and the operational constraints of the project.
 
-![Functional vs. Non-functional Requirements](chatgpt-image-21-мая-2026-г.-09_57_45-1-.png "Functional vs. Non-functional Requirements")
+![Structure of SRS](chatgpt-image-21-мая-2026-г.-10_08_42.png "Structure of SRS")
 
 [Software requirements](https://anadea.info/blog/when-business-analysts-run-into-problems-with-project-requirements-this-is-what-they-do/) help to avoid situations where developers write code based on unvalidated assumptions. 
 
@@ -61,7 +61,7 @@ The specification is divided into two layers: functional and non functional requ
 * **Functional requirements** define the core system behavior, including the explicit workflows, as well as inputs and data outputs. Among functional requirements examples, we can mention: "The platform must generate a PDF invoice and dispatch it via Webhook within 60 seconds of payment confirmation."
 * **Non-functional requirements** dictate the performance guardrails. They indicate how the system must handle stress and what security compliance standards it must meet. For example: "The database must encrypt all stored user data at rest using AES-256 standards."
 
-![]()
+![Functional vs Non-functional Requirements](chatgpt-image-21-мая-2026-г.-09_57_45-1-.png "Functional vs Non-functional Requirements")
 
 Ambiguity within these parameters forces engineering teams to guess, which generates high-interest technical debt. When requirements lack precision, engineers optimize for the wrong metrics. As a result, the team needs to correct errors during production. And in this case, code refactoring costs increase tenfold.
 
