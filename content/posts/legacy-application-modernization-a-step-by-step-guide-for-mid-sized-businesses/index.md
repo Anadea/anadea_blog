@@ -285,6 +285,8 @@ You modernize without disruption by phasing the work, running old and new in par
 
 A concrete example pulls these together. Consider a mid-sized financial services firm running a ten-year-old invoicing and payments system on a deprecated framework. Rather than gambling on a full rebuild, the team started with a [code audit](https://anadea.info/blog/what-is-code-audit/) to assess the real condition of the system, then chose a combination of replatforming and incremental refactoring. They kept the old and new systems running in parallel for 60 days, and measured the result against two specific KPIs, transaction processing time and error rate. The legacy system integration points, meaning the connections to banking partners and the accounting backend, were migrated last, once the core was stable, because those were the riskiest seams to disturb. That sequencing, fragile core first and integrations last, is what kept the business running while the system underneath it changed.
 
+{{< advert_with_cta title=" Find out what your legacy code is actually worth" description="Anadea assesses the system, scores it by risk and business value, and hands you a sequenced plan. No rewrite pitched by default" button="Talk to an engineer" url="https://anadea.info/free-project-estimate" >}}
+
 ## What Are the Most Common Legacy Modernization Mistakes?
 
 The most common legacy modernization mistakes are organizational, not technical. The code is rarely the hardest part. The hardest part is sequencing, expectation-setting, and knowing when to stop. Five mistakes account for most failed projects.
