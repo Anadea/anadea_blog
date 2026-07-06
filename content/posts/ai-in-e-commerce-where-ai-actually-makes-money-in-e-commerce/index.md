@@ -21,6 +21,8 @@ categories:
 industries:
   - retail
 ---
+{{< advert >}}This article breaks down eleven directions where AI actually makes money in e-commerce, and for each one it provides concrete figures from primary sources along with honest caveats about how to measure them.{{< /advert >}}
+
 By 2030, AI agents could handle up to [$5 trillion in global commerce](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-automation-curve-in-agentic-commerce). This reflects McKinsey's conservative baseline estimate rather than an overly optimistic forecast. The entire customer journey is collapsing into a single moment driven by machines instead of humans.
 
 To capture this momentum, businesses must first organize their internal processes. Currently, [88% of companies use AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), but only 39% report a clear impact on profitability. This article bridges that gap by exploring 11 specific AI use cases in e-commerce, complete with key metrics and deployment requirements. It also outlines the essential foundation needed to make autonomous commerce possible.
@@ -1943,7 +1945,6 @@ McKinsey frames the same shift at the level of the whole organization. Its [Q2 2
 </table>
 
 The through-line to the other blocks: the gap is a workflow-design problem, not a technology one. A chatbot bolted onto a legacy process delivers little; agents embedded across a redesigned process is where value shows up.
-
 
 {{< advert_with_cta title="Start small" description="You don't need all eleven directions — just the right first one" button="Schedule a call" url="https://anadea.info/free-project-estimate" >}}
 
