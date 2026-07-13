@@ -18,6 +18,37 @@ authors:
   - ihor-kozar
 categories:
   - development
+questionary:
+  - question: What is the difference between an API and an API integration?
+    answer: >
+      An API is the interface a system exposes so others can request its data or
+      functions. An api integration is the working connection built on top of
+      that interface, so two systems exchange data automatically. 
+  - question: How long does an API integration take to build?
+    answer: "A single integration with a modern, well-documented SaaS API often
+      takes a few weeks; enterprise integrations with legacy systems, stricter
+      authentication, and compliance run longer. Timeline tracks the same
+      drivers as cost: number of systems, data volume, authentication
+      complexity, and how well the third-party API is documented."
+  - question: What is the difference between custom API integration and iPaaS tools?
+    answer: Custom api integration means bespoke code that gives full control over
+      logic and data, suited to complex or business-critical workflows. iPaaS
+      tools such as Zapier or Make connect systems quickly through a
+      subscription, with limited customization. Many teams combine both, using
+      no-code for simple connections and custom work for the parts that carry
+      real business logic.
+  - question: Why do API integrations break after they go live?
+    answer: Third-party APIs change versions and deprecate endpoints, often without
+      much notice. Per Postman's 2025 State of the API Report, only 26% of teams
+      use semantic versioning, so most changes reach consumers without a clear
+      signal about their impact. This is why ongoing monitoring and a
+      maintenance budget matter as much as the initial build.
+  - question: How do I choose an API integration company?
+    answer: Check whether the api integration company has built integrations with
+      your specific systems before, how it handles authentication and access
+      scoping, and what it leaves behind at handover. Clear documentation and
+      diagrams your in-house team can maintain matter more than working code
+      alone.
 ---
 ## TL;DR
 
@@ -314,3 +345,146 @@ A few drivers shape the cost. The number of systems and endpoints — more “do
 The expense most buyers miss is annual maintenance. Industry estimates put it at roughly 10-20% of the build cost per year, because APIs change versions and deprecate endpoints without warning. Anyone budgeting api integration cost as a one-time build alone underestimates the real figure.
 
 {{< advert_with_cta title="Planning a multi-system integration? " description="We analyze your existing setup to determine the optimal integration sequence" button="Talk to an expert" url="https://anadea.info/contacts" >}}
+
+## How Do You Choose the Right API Integration Provider?
+
+Choosing a provider comes down to four questions, and none of them is about price. They overlap with the broader question of [how to choose a software development partner](https://anadea.info/blog/how-to-choose-software-development-partner), narrowed to what matters for integration work.
+
+1. First, relevant experience. Whether this api integration company (or api integration consultant) has built integrations with your specific systems — your CRM, ERP, payment gateway — before. Experience with Salesforce does not automatically carry over to SAP.
+2. Second, security practices. How the provider handles authentication, encryption, and access scoping. When sensitive data flows through the integration — payment, personal — this is not a place for compromise.
+3. Third, documentation and handover. Whether the provider leaves clear API diagrams and documentation your in-house team can maintain, rather than just working code with no explanation. This ties directly to the 93% of teams drowning in scattered documentation.
+4. Fourth, the support model. Whether to hire an api developer in-house, work with an enterprise api integration provider through [IT outsourcing](https://anadea.info/services/it-outsourcing), or bring in a freelance consultant depends on integration volume and internal capacity. A one-off integration and a steady stream of new connections call for different decisions.
+
+**What to check when evaluating a provider**
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>
+
+<p><strong>Evaluation area</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>What good looks like</strong></p>
+
+</th>
+
+<th>
+
+<p><strong>Red flag</strong></p>
+
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Experience with your systems</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Cases with your CRM / ERP / payment stack</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">"We'll figure it out as we go"</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Security</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">OAuth, encryption, scoped access defined upfront</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Asks for broad access to keep it simple</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Documentation</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Living diagrams and docs at handover</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Code only, docs "later"</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Estimation</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Detailed scope questions before a number</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">One fixed price with no clarifying questions</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## What Are Common API Integration Challenges to Watch For?
+
+The most common integration problems are predictable, and almost all of them appear after launch rather than during the build.
+
+Legacy systems with undocumented or fragile APIs are the first source of pain: the code depends on behavior no one wrote down. Third-party API version changes break a working integration without warning, and the fact that only 26% of teams use semantic versioning means most give no early signal about breaking changes. Rate limits and quotas produce surprises at scale, when a sync hits the ceiling of someone else's API. And overly broad access scopes are the most common security misconfiguration: per Postman, [51% of developers name unauthorized or excessive access](https://www.postman.com/state-of-api/2025/) — including from AI agents — as their top security risk.
+
+## Conclusion
+
+A dependable API integration comes from defining scope, security, and maintenance before a single endpoint is written. Choose a provider with real experience across your CRM, ERP, and payment stack, insist on documentation your own team can maintain, and treat annual upkeep as part of the budget from day one. We build and maintain integrations for teams that can't afford a fragile connection, so if that's where you are,[ contact us](https://anadea.info/contacts) and we'll scope the work with you before anything gets built.
