@@ -19,6 +19,38 @@ categories:
   - development
 industries:
   - oil-and-gas
+questionary:
+  - question: What is custom energy management software, and who needs it?
+    answer: This software is a tailored digital platform that connects to physical
+      hardware (utility meters, IoT sensors, BAS, and SCADA systems). It is
+      engineered around your specific infrastructure and data reporting needs.
+      Custom energy management software development is recommended for
+      multi-site commercial real estate and industrial plants, as well as
+      expanding enterprises that outgrow off-the-shelf software limits.
+  - question: Can custom software integrate with legacy equipment and proprietary
+      hardware?
+    answer: "Yes. Custom software connects to standard equipment protocols, like
+      BACnet or Modbus. In such a way, it fixes missing data issues that are
+      typical for off-the-shelf tools. Thanks to this, you can capture all your
+      telemetry without replacing your existing hardware. "
+  - question: How can AI enhance energy management software?
+    answer: With AI features, energy software becomes an automated optimization
+      engine. Machine learning models can analyze live usage and weather
+      forecasts. This allows them to provide accurate predictions for power
+      demand and adjust setpoints. AI can also flag minor equipment anomalies
+      early and alert facility teams to fix mechanical issues before they cause
+      breakdowns or inflate power bills.
+  - question: How does custom energy software handle multi-site operations?
+    answer: Custom platforms are designed to unify data from hundreds of scattered
+      facilities into a single interactive dashboard. This allows operations
+      leaders to compare energy efficiency across different locations and manage
+      all site alerts from one place.
+  - question: How can we estimate energy management software ROI?
+    answer: "You need to compare your total investment (software and maintenance)
+      against three projected savings: immediate billing error recoveries,
+      reduced peak demand fees, and overall energy savings. Then, divide your
+      total initial investment by your estimated annual savings to calculate
+      your payback period in months or years."
 ---
 ## TL;DR
 
