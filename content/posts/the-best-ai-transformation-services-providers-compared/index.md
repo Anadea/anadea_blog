@@ -388,7 +388,7 @@ Here is how the eight providers compare before the detail. Scale and delivery mo
 
 <td>
 
-<p><strong>If you are&hellip;</strong></p>
+<p><strong>If you are...;</strong></p>
 
 </td>
 
