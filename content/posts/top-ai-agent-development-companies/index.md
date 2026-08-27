@@ -82,13 +82,13 @@ questionary:
       also works with smaller companies through flexible time-and-materials
       engagements, which suit an SMB budget better than a large fixed rollout.
 ---
-The best AI agent development companies in 2026 are Anadea, ELEKS, S-PRO, Cognizant, Deviniti, and Markovate. Each has documented AI agent work, named clients, and verifiable profiles, rather than a landing page and a promise. This list ranks them on criteria that decide an agent project: agentic framework expertise, LLM integration depth, compliance posture, and proof of production deployments, not marketing copy.
+The best AI agent development companies in 2026 are Anadea, ELEKS, Tensorway, S-PRO, Cognizant, Deviniti, and Markovate. Each has documented AI agent work, named clients, and verifiable profiles, rather than a landing page and a promise. This list ranks them on criteria that decide an agent project: agentic framework expertise, LLM integration depth, compliance posture, and proof of production deployments, not marketing copy. 
 
-Anadea leads it for custom, production-grade agentic work. The company has built software since 2000, moved into AI and ML in 2019, and now runs a portfolio of 9-plus AI agents in production, including a deal-sourcing agent for a private equity firm and a legal-document agent that cuts medical record analysis from days to minutes. Its work is compliant with GDPR, HIPAA, ISO 9001, and ISO 27001. ELEKS, S-PRO, Cognizant, Deviniti, and Markovate each hold a distinct position, from enterprise-scale delivery to fintech compliance to voice AI agents, and the sections below show which one fits which kind of agent project.
+Anadea leads it for custom, production-grade agentic work. The company has built software since 2000, moved into AI and ML in 2019, and now runs a portfolio of 9-plus AI agents in production, including a deal-sourcing agent for a private equity firm and a legal-document agent that cuts medical record analysis from days to minutes. Its work is compliant with GDPR, HIPAA, ISO 9001, and ISO 27001. ELEKS, Tensorway, S-PRO, Cognizant, Deviniti, and Markovate each hold a distinct position, from enterprise-scale delivery to fast-shipping LLM agent specialists to fintech compliance to voice AI agents, and the sections below show which one fits which kind of agent project. 
 
 ## Which Are the Best AI Agent Development Companies in 2026?
 
-The best AI agent development companies in 2026 are Anadea, ELEKS, S-PRO, Cognizant, Deviniti, and Markovate, ranging from product-focused specialists to enterprise-scale IT firms. They split by scale and focus: Anadea and Markovate build custom agents for product teams, ELEKS and Cognizant deliver at enterprise scale, and S-PRO and Deviniti concentrate on regulated, compliance-heavy sectors like finance. The table below compares all six on the criteria buyers check first.
+The best AI agent development companies in 2026 are Anadea, ELEKS, Tensorway, S-PRO, Cognizant, Deviniti, and Markovate, ranging from product-focused specialists to enterprise-scale IT firms. They split by scale and focus: Anadea and Markovate build custom agents for product teams, ELEKS and Cognizant deliver at enterprise scale, S-PRO and Deviniti concentrate on regulated, compliance-heavy sectors like finance, and Tensorway ships evaluated LLM agents on short timelines. The table below compares all seven on the criteria buyers check first. 
 
 **Table 1. Best AI agent development companies in 2026, compared at a glance** (data from Clutch and company sources, retrieved June 2026)
 
@@ -211,6 +211,46 @@ The best AI agent development companies in 2026 are Anadea, ELEKS, S-PRO, Cogniz
 <td>
 
 <p><span style="font-weight: 400;">4.8</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Fast-to-production LLM agents and agent MVPs</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Custom, LLM orchestration, FastAPI + Kubernetes</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">10-49</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">T&M, fixed price</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">5</span></p>
 
 </td>
 
@@ -601,7 +641,7 @@ The best AI agent development companies in 2026 are Anadea, ELEKS, S-PRO, Cogniz
 
 #### Anadea
 
-Anadea builds custom AI agents as part of full-cycle product development, for clients who want a long-term engineering partner. Founded in 2000 and headquartered in Alicante, Spain, it runs a team of 50 to 249 specialists and has focused on AI and ML since 2019, through its R&D unit Tensorway. Its AI work centers on LangChain and LangGraph, applied to machine learning, NLP, and conversational systems.
+Anadea builds custom AI agents as part of full-cycle product development, for clients who want a long-term engineering partner. Founded in 2000 and headquartered in Alicante, Spain, it runs a team of 50 to 249 specialists and has focused on AI and ML since 2019. Its AI work centers on LangChain and LangGraph, applied to machine learning, NLP, and conversational systems.
 
 Anadea has delivered agents including a deal-sourcing agent for a private equity firm that speeds investment data preparation, and a legal-document agent that cuts medical record review from days to minutes. It works across fintech, healthcare, real estate, and eLearning, and its projects are compliant with GDPR, HIPAA, ISO 9001, and ISO 27001. Pricing runs $25 to $49 per hour on a time-and-materials or dedicated-team model, and it holds a 4.8-star Clutch rating across 35 reviews.
 
@@ -616,6 +656,14 @@ ELEKS builds agents for defined enterprise tasks like document processing, forec
 ELEKS pairs AI work with data engineering and custom software, so agents run reliably inside existing enterprise systems rather than as standalone tools. It works across financial services, cybersecurity, manufacturing, and logistics, with a client base that has included Vodafone. Pricing runs $40 to $100 per hour on a time-and-materials or dedicated-team model, and Clutch lists 31 reviews.
 
 *Best for*: enterprises that need domain-specific agents embedded in complex, regulated systems.
+
+## Tensorway
+
+Tensorway builds LLM-powered AI agents for teams that want a working system in production quickly, with the evaluation work done properly rather than skipped. Founded in 2019 and run as a distributed team across Europe, it employs 10 to 49 specialists in machine learning, deep learning, computer vision, and NLP. Its agent work centers on custom LLM orchestration on an API-first FastAPI and Kubernetes stack, scoped around the single highest-value workflow and delivered as a functional MVP within a month.
+
+Tensorway has delivered agents including an LLM-powered tutoring agent that acts as a digital twin of a top-level human tutor for university admission preparation, and a document-understanding agent that goes past conventional OCR to extract structured data from invoices and scanned files. It works across fintech, private equity, healthcare, and retail, integrates models including GPT, Gemini, and DeepSeek, and validates them against evaluation frameworks such as HELM and lm-eval-harness. Pricing runs $50 to $99 per hour on a time-and-materials or fixed-price model, with projects from $10,000, and it holds a 5-star Clutch rating.
+
+*Best for*: companies that want a measured, production-ready LLM agent shipped in weeks rather than quarters.
 
 #### S-PRO
 
@@ -699,12 +747,6 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 
 </td>
 
-<td>
-
-<p><strong>Clutch reviews</strong></p>
-
-</td>
-
 </tr>
 
 <tr>
@@ -748,12 +790,6 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 <td>
 
 <p><span style="font-weight: 400;">T&M, dedicated team</span></p>
-
-</td>
-
-<td>
-
-<p><span style="font-weight: 400;">4.8</span></p>
 
 </td>
 
@@ -803,9 +839,49 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
-<p><span style="font-weight: 400;">4.8</span></p>
+<p><span style="font-weight: 400;">Tensorway</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">2019</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Alicante, Spain</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">10-49</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Custom, LLM orchestration, FastAPI + Kubernetes</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Fintech, private equity, healthcare, retail, eLearning</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">T&M, fixed price</span></p>
 
 </td>
 
@@ -855,12 +931,6 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 
 </td>
 
-<td>
-
-<p><span style="font-weight: 400;">4.9</span></p>
-
-</td>
-
 </tr>
 
 <tr>
@@ -904,12 +974,6 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 <td>
 
 <p><span style="font-weight: 400;">Managed services</span></p>
-
-</td>
-
-<td>
-
-<p><span style="font-weight: 400;">enterprise</span></p>
 
 </td>
 
@@ -959,12 +1023,6 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 
 </td>
 
-<td>
-
-<p><span style="font-weight: 400;">5</span></p>
-
-</td>
-
 </tr>
 
 <tr>
@@ -1011,12 +1069,6 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 
 </td>
 
-<td>
-
-<p><span style="font-weight: 400;">5</span></p>
-
-</td>
-
 </tr>
 
 </tbody>
@@ -1026,6 +1078,8 @@ Markovate has delivered agents including LegalAlly, a legal-research and documen
 ## Which Companies Are Best for Custom AI Agent Development?
 
 Anadea approaches agent development as a core part of full-cycle product engineering. Their portfolio features production-ready systems designed for specific business problems, including a private-equity deal-sourcing agent and a legal-document tool that cuts medical record review times from days to minutes. They deploy LangChain and LangGraph frameworks within the client infrastructure, backed by GDPR, HIPAA, and ISO 27001 compliance for highly regulated markets.
+
+Tensorway treats custom agent work as an engineering problem with a deadline attached. They scope the single workflow with the highest strategic value, set KPIs against it, and deliver a functional MVP within a month on an API-first FastAPI and Kubernetes stack that connects to Salesforce, SAP, or a custom platform. Their delivered agents span LLM-powered tutoring and document understanding that extracts structured data from invoices and scanned files, and every model integration is validated with evaluation frameworks like HELM and lm-eval-harness, so agent quality is measured rather than asserted.
 
 S-PRO specializes in bespoke agents for banking and finance. They build secure retrieval-augmented pipelines with ISO 27001 and ISO 27701 certifications. By providing self-hosted deployment options, they cater directly to financial institutions that need custom automation but face strict restrictions against external cloud data transfers.
 
@@ -1088,6 +1142,34 @@ The other four providers handle distinct areas of custom development, detailed b
 <td>
 
 <p><span style="font-weight: 400;">$25-49/hr</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">LLM-powered agents and one-month MVPs (tutoring, document understanding, invoice extraction)</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Custom, LLM orchestration, FastAPI + Kubernetes</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">$50-99/hr</span></p>
 
 </td>
 
@@ -1239,11 +1321,15 @@ The other four providers handle distinct areas of custom development, detailed b
 
 ## Which Are the Best AI Agent Development Companies for Enterprise?
 
-The best AI agent development companies for enterprise are Cognizant, ELEKS, S-PRO, and Anadea, because each combines the team scale to staff a multi-stream program with the compliance and integration a large organization requires. Enterprise agent work turns on three things beyond the build: team scale, a verifiable compliance posture, and the ability to run on the LLM platforms an enterprise already uses.
+The best AI agent development companies for enterprise are Cognizant, ELEKS, S-PRO, Anadea, and Tensorway, because each combines the team scale to staff a multi-stream program with the compliance and integration a large organization requires. Enterprise agent work turns on three things beyond the build: team scale, a verifiable compliance posture, and the ability to run on the LLM platforms an enterprise already uses. 
 
-Cognizant is the largest-scale option, running governed multi-agent networks on Microsoft Azure AI, Azure OpenAI, and Salesforce Agentforce for banking, insurance, and healthcare clients. ELEKS brings around 2,000 engineers and a Microsoft Solutions Partner status for Data and AI, with agents built into regulated enterprise systems. S-PRO and Anadea are smaller but carry strong compliance, S-PRO with ISO 27001 and ISO 27701 for fintech clients, and Anadea with GDPR, HIPAA, ISO 9001, and ISO 27001 across its production agents.
+Cognizant is the largest-scale option, running governed multi-agent networks on Microsoft Azure AI, Azure OpenAI, and Salesforce Agentforce for banking, insurance, and healthcare clients. ELEKS brings around 2,000 engineers and a Microsoft Solutions Partner status for Data and AI, with agents built into regulated enterprise systems. 
+
+S-PRO and Anadea are smaller but carry strong compliance, S-PRO with ISO 27001 and ISO 27701 for fintech clients, and Anadea with GDPR, HIPAA, ISO 9001, and ISO 27001 across its production agents. Tensorway is the specialist option inside an enterprise program, with a Kubernetes-based architecture that connects to Salesforce and SAP and a benchmarking practice that gives enterprise buyers measured agent performance rather than a demo. 
 
 **Table 5. Enterprise readiness of AI agent development companies**
+
+
 
 <table>
 
@@ -1348,6 +1434,40 @@ Cognizant is the largest-scale option, running governed multi-agent networks on 
 <td>
 
 <p><span style="font-weight: 400;">Enterprise agents for finance and manufacturing</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">10-49</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">GDPR-aligned delivery, security built into the development process</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">GPT, Gemini, DeepSeek, custom models, HELM and lm-eval-harness benchmarking</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">LLM tutoring agent, document-understanding agent for invoice workflows</span></p>
 
 </td>
 
@@ -1773,7 +1893,63 @@ For regulated sectors, compliance and data control matter most. S-PRO and Devini
 
 <td>
 
-<p><span style="font-weight: 400;">S-PRO, Deviniti, Anadea</span></p>
+<p><span style="font-weight: 400;">S-PRO, Deviniti, Anadea, Tensorway</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Finance back office</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Invoice and document data extraction</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Computer vision, NLP, structured output</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Education / eLearning</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">AI tutoring, personalized learning agents</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">LLM orchestration, evaluation and benchmarking</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway</span></p>
 
 </td>
 
@@ -1801,7 +1977,7 @@ For regulated sectors, compliance and data control matter most. S-PRO and Devini
 
 <td>
 
-<p><span style="font-weight: 400;">Markovate, Anadea</span></p>
+<p><span style="font-weight: 400;">Markovate, Anadea, Tensorway</span></p>
 
 </td>
 
@@ -1885,7 +2061,7 @@ For regulated sectors, compliance and data control matter most. S-PRO and Devini
 
 <td>
 
-<p><span style="font-weight: 400;">Anadea (via Tensorway)</span></p>
+<p><span style="font-weight: 400;">Tensorway</span></p>
 
 </td>
 
@@ -1941,7 +2117,7 @@ For regulated sectors, compliance and data control matter most. S-PRO and Devini
 
 <td>
 
-<p><span style="font-weight: 400;">Markovate</span></p>
+<p><span style="font-weight: 400;">Markovate, Tensorway</span></p>
 
 </td>
 
@@ -2019,7 +2195,35 @@ The fastest shortcut is to start from your project type and work back to a compa
 
 <td>
 
-<p><span style="font-weight: 400;">Anadea</span></p>
+<p><span style="font-weight: 400;">Anadea, Tensorway</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">Agent MVP on a tight timeline</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">A team that scopes, ships, and benchmarks fast</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Focused AI/ML specialist with an MVP-first process</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway</span></p>
 
 </td>
 
@@ -2113,6 +2317,34 @@ The fastest shortcut is to start from your project type and work back to a compa
 
 <td>
 
+<p><span style="font-weight: 400;">Document or invoice automation agent</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Computer vision and NLP beyond standard OCR</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">ML-first team with document understanding experience</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Tensorway, Deviniti</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
 <p><span style="font-weight: 400;">SMB automation or voice agent</span></p>
 
 </td>
@@ -2153,7 +2385,7 @@ The fastest shortcut is to start from your project type and work back to a compa
 
 <td>
 
-<p><span style="font-weight: 400;">Firm offering dedicated AI engineers</span></p>
+<p><span style="font-weight: 400;">Skilled AI engineers who join your existing team</span></p>
 
 </td>
 
