@@ -14,6 +14,47 @@ authors:
   - ai-ml-team
 categories:
   - ai-ml
+questionary:
+  - question: Does my product need AI features to benefit from AI-enabled development?
+    answer: >-
+      No. AI-enabled development describes how the engineering team works. Your
+      product could be a booking platform, an internal management system, or a
+      customer portal without any AI features.
+
+      The team may use AI to help prepare tests, review changes, or document existing code. Building AI into the finished product is a separate decision that should follow from a specific user need.
+  - question: Will AI-enabled development reduce my project’s cost?
+    answer: >-
+      It can, but the effect depends on the work involved and how the engagement
+      is priced. Time saved on implementation needs to be considered alongside
+      setup, review, testing, and revisions.
+
+      Under hourly billing, fewer billable hours may reduce the invoice. With a fixed project price, the agreed fee does not automatically change when the team works faster. Compare the total price for an equivalent result and clarify what is included. A provider’s reported time savings on another project are useful context, but they are not a reliable estimate for yours.
+  - question: Do I need an internal CTO to work with a development partner?
+    answer: >-
+      You can work with a partner without an internal CTO if technical
+      leadership and development management are included in the engagement. The
+      proposal should identify who will make architectural decisions, coordinate
+      engineers, and manage releases.
+
+      Your business will still need someone to explain operational needs, set priorities, and accept completed features. If you choose staff augmentation, plan for internal technical management: adding developers alone does not establish who will lead their work.
+  - question: Do I need a machine learning development company for generative AI
+      software development?
+    answer: >-
+      That depends on the technical work your product requires. Generative AI
+      software development can involve integrating an existing model into an
+      application, connecting it to business data, and evaluating its responses.
+      Training a model from scratch is not a prerequisite.
+
+      A machine learning development company may be a better fit when the project requires substantial work on datasets, custom model training, or predictive systems. For an application built around an existing generative model, assess the provider’s experience with integration, evaluation, and production support. Choose according to the work involved rather than the company’s label.
+  - question: When should I consider AI transformation services instead of a
+      development engagement?
+    answer: >-
+      Consider a broader transformation engagement when the work spans several
+      departments or involves choosing which business processes to change. That
+      scope may include prioritizing use cases, preparing data, and organizing
+      adoption across teams.
+
+      A development engagement is more focused: building a product, improving an existing system, or changing how an engineering team delivers software. If your needs extend beyond one product or team, our comparison of AI transformation services can help you explore that wider scope.
 ---
 ## TL;DR
 
