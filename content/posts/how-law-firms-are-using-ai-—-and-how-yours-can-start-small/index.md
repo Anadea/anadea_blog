@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Meta title AI for Law Firms: Practical Uses and How to Start Small"
+ceoTitle: "AI for Law Firms: Practical Uses and How to Start Small"
 title: How law firms are using AI — and how yours can start small
 breadcrumbs: Meta title AI for Law Firms
 slug: ai-for-law-firms
