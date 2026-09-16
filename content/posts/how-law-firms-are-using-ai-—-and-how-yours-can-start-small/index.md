@@ -1,7 +1,7 @@
 ---
 ceoTitle: "AI for Law Firms: Practical Uses and How to Start Small"
 title: How law firms are using AI — and how yours can start small
-breadcrumbs: Meta title AI for Law Firms
+breadcrumbs: AI for Law Firms
 slug: ai-for-law-firms
 draft: false
 publishDate: 2026-09-16T13:35:00+03:00
@@ -18,8 +18,8 @@ authors:
 categories:
   - ai-ml
 ---
-<div><span style="display:inline-block;padding:8px 14px;background:#F9EDF2;color:#B92F61;border:1px solid #EFD6E0;border-radius:24px;font-family:Arial,sans-serif;font-size:13px;font-weight:600;line-height:18px;white-space:nowrap;">4 min read</span></div>
 
+<div style="display:block;padding-bottom:24px;"><span style="display:inline-block;padding:8px 14px;background:#F9EDF2;color:#B92F61;border:1px solid #EFD6E0;border-radius:24px;font-family:Arial,sans-serif;font-size:13px;font-weight:600;line-height:18px;white-space:nowrap;">4 min read</span></div>
 
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
 
