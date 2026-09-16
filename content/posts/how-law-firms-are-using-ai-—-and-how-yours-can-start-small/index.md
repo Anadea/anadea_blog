@@ -18,7 +18,71 @@ authors:
 categories:
   - ai-ml
 ---
-{{< sub >}}4 min rea{{< /sub >}}
+<style>
+
+  .anadea-read-time {
+
+\    display: inline-flex;
+
+\    align-items: center;
+
+\    gap: 8px;
+
+\    padding: 8px 14px;
+
+\    border: 1px solid #efd6e0;
+
+\    border-radius: 999px;
+
+\    background: #f9edf2;
+
+\    color: #b92f61;
+
+\    font: 600 13px/1.2 "Wix Madefor Display", Arial, sans-serif;
+
+\    letter-spacing: 0.02em;
+
+\    white-space: nowrap;
+
+\    vertical-align: middle;
+
+  }
+
+
+
+  .anadea-read-time > svg {
+
+\    width: 16px;
+
+\    height: 16px;
+
+\    flex: none;
+
+  }
+
+</style>
+
+
+
+<span class="anadea-read-time" lang="en">
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+
+\    fill="none" stroke="currentColor" stroke-width="1.7"
+
+\    stroke-linecap="round" stroke-linejoin="round"
+
+\    aria-hidden="true" focusable="false">
+
+\    <circle cx="12" cy="12" r="9" />
+
+\    <path d="M12 7v5l3 2" />
+
+  </svg>
+
+  <span>4 min read</span>
+
+</span>
 
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
 
