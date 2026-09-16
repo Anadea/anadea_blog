@@ -13,9 +13,13 @@ description: See how law firms use AI and automation to review records, track
 promote:
   promote: false
 top: false
+authors:
+  - business-analysis-team
 categories:
   - ai-ml
 ---
+{{< sub >}}4 min rea{{< /sub >}}
+
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
 
 A new case brings a familiar round of work. Documents need to be reviewed, missing records requested, dates checked and the latest details entered into the right systems. Each task has a purpose. But across a busy caseload, keeping all that information in order can take hours out of the day before your team gets to the questions that need their judgment. 
@@ -59,7 +63,6 @@ Your practice may work with different documents. Look for tasks where people rep
 Research your current software and **off-the-shelf tools**. Test a real task: how much manual work remains, and how does the time saved compare with setup cost and effort?
 
 Put important needs those tools cannot meet on a separate list. Consider **custom automation** for these: a solution built around your process. Then choose one worthwhile improvement, using an existing tool or exploring a custom solution.
-
 
 ![](exec-2d8d902a-ce25-43a2-a140-44874e298350.png)
 
