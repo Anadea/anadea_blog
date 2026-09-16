@@ -18,7 +18,6 @@ authors:
 categories:
   - ai-ml
 ---
-
 <div style="display:block;padding-bottom:24px;"><span style="display:inline-block;padding:8px 14px;background:#F9EDF2;color:#B92F61;border:1px solid #EFD6E0;border-radius:24px;font-family:Arial,sans-serif;font-size:13px;font-weight:600;line-height:18px;white-space:nowrap;">4 min read</span></div>
 
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
@@ -37,7 +36,7 @@ At Liner Legal, a US law firm specializing in disability benefits, a client’s 
 
 The system reads scanned documents and handwritten notes, then organizes the information by date, diagnosis, doctor, and facility. Attorneys start with a structured Medical Summary. Every fact links back to the source so they can verify it.
 
-![](exec-7b072f80-375b-4978-a665-22c14d0bd7a7.png)
+![](download.png)
 
 ## 2. Track case statuses and hearing dates
 
