@@ -18,59 +18,41 @@ authors:
 categories:
   - ai-ml
 ---
-  <title>4 min read</title>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"
 
-</head>
+\    style="border-collapse:separate; width:auto;">
 
-<body style="margin:0; padding:12px; background:transparent;">
+  <tr>
 
-
-
-  <span style="
-
-\    display:inline-flex;
-
-\    align-items:center;
-
-\    gap:8px;
+\    <td bgcolor="#F9EDF2" style="
 
 \    padding:8px 14px;
 
-\    border:1px solid #efd6e0;
+\    border:1px solid #EFD6E0;
 
-\    border-radius:999px;
+\    border-radius:20px;
 
-\    background:#f9edf2;
+\    color:#B92F61;
 
-\    color:#b92f61;
+\    font-family:Arial,Helvetica,sans-serif;
 
-\    font:600 13px/1.2 Arial,sans-serif;
+\    font-size:13px;
 
-\    letter-spacing:0.02em;
+\    font-weight:bold;
+
+\    line-height:18px;
 
 \    white-space:nowrap;
 
-  ">
+\    ">
 
-\    <svg xmlns="http://www.w3.org/2000/svg"
+\    4 min read
 
-\    width="16" height="16" viewBox="0 0 24 24"
+\    </td>
 
-\    fill="none" stroke="currentColor" stroke-width="1.7"
+  </tr>
 
-\    stroke-linecap="round" stroke-linejoin="round"
-
-\    aria-hidden="true" focusable="false">
-
-\    <circle cx="12" cy="12" r="9"></circle>
-
-\    <path d="M12 7v5l3 2"></path>
-
-\    </svg>
-
-\    <span>4 min read</span>
-
-  </span>
+</table>
 
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
 
