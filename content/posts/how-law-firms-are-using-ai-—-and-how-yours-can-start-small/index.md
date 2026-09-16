@@ -36,7 +36,7 @@ At Liner Legal, a US law firm specializing in disability benefits, a client’s 
 
 The system reads scanned documents and handwritten notes, then organizes the information by date, diagnosis, doctor, and facility. Attorneys start with a structured Medical Summary. Every fact links back to the source so they can verify it.
 
-![](download.png)
+![](download.svg)
 
 ## 2. Track case statuses and hearing dates
 
