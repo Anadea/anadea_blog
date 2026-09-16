@@ -18,41 +18,8 @@ authors:
 categories:
   - ai-ml
 ---
-<table role="presentation" border="0" cellpadding="0" cellspacing="0"
+<div><span style="display:inline-block;padding:8px 14px;background:#F9EDF2;color:#B92F61;border:1px solid #EFD6E0;border-radius:24px;font-family:Arial,sans-serif;font-size:13px;font-weight:600;line-height:18px;white-space:nowrap;">4 min read</span></div>
 
-\    style="border-collapse:separate; width:auto;">
-
-  <tr>
-
-\    <td bgcolor="#F9EDF2" style="
-
-\    padding:8px 14px;
-
-\    border:1px solid #EFD6E0;
-
-\    border-radius:20px;
-
-\    color:#B92F61;
-
-\    font-family:Arial,Helvetica,sans-serif;
-
-\    font-size:13px;
-
-\    font-weight:bold;
-
-\    line-height:18px;
-
-\    white-space:nowrap;
-
-\    ">
-
-\    4 min read
-
-\    </td>
-
-  </tr>
-
-</table>
 
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
 
