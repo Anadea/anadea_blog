@@ -18,55 +18,43 @@ authors:
 categories:
   - ai-ml
 ---
-<style>
+  <title>4 min read</title>
 
-  .anadea-read-time {
+</head>
 
-\    display: inline-flex;
-
-\    align-items: center;
-
-\    gap: 8px;
-
-\    padding: 8px 14px;
-
-\    border: 1px solid #efd6e0;
-
-\    border-radius: 999px;
-
-\    background: #f9edf2;
-
-\    color: #b92f61;
-
-\    font: 600 13px/1.2 "Wix Madefor Display", Arial, sans-serif;
-
-\    letter-spacing: 0.02em;
-
-\    white-space: nowrap;
-
-\    vertical-align: middle;
-
-  }
+<body style="margin:0; padding:12px; background:transparent;">
 
 
 
-  .anadea-read-time > svg {
+  <span style="
 
-\    width: 16px;
+\    display:inline-flex;
 
-\    height: 16px;
+\    align-items:center;
 
-\    flex: none;
+\    gap:8px;
 
-  }
+\    padding:8px 14px;
 
-</style>
+\    border:1px solid #efd6e0;
 
+\    border-radius:999px;
 
+\    background:#f9edf2;
 
-<span class="anadea-read-time" lang="en">
+\    color:#b92f61;
 
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+\    font:600 13px/1.2 Arial,sans-serif;
+
+\    letter-spacing:0.02em;
+
+\    white-space:nowrap;
+
+  ">
+
+\    <svg xmlns="http://www.w3.org/2000/svg"
+
+\    width="16" height="16" viewBox="0 0 24 24"
 
 \    fill="none" stroke="currentColor" stroke-width="1.7"
 
@@ -74,15 +62,15 @@ categories:
 
 \    aria-hidden="true" focusable="false">
 
-\    <circle cx="12" cy="12" r="9" />
+\    <circle cx="12" cy="12" r="9"></circle>
 
-\    <path d="M12 7v5l3 2" />
+\    <path d="M12 7v5l3 2"></path>
 
-  </svg>
+\    </svg>
 
-  <span>4 min read</span>
+\    <span>4 min read</span>
 
-</span>
+  </span>
 
 {{< advert >}}AI is changing what law firms can get done with the time and people they have. That’s an opportunity worth acting on.{{< /advert >}}
 
