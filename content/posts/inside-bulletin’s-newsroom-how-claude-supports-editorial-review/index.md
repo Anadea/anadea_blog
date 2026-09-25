@@ -56,7 +56,7 @@ The tools are now part of the newsroom’s regular workflow, supporting translat
 
 Sanandaji describes the approach in terms of a familiar challenge for journalists: working quickly while maintaining quality.
 
-*“In journalism there is a tradeoff between quality and speed. Using advanced AI tools combined with human judgement articles can be written fast while maintaining and even raising quality and consistency”*
+> *“In journalism there is a tradeoff between quality and speed. Using advanced AI tools combined with human judgement articles can be written fast while maintaining and even raising quality and consistency”*
 
 *Tino Sanandaji, Chairman of the Board, Bulletin Media Sverige AB*
 
