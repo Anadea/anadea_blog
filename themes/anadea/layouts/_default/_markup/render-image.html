@@ -3,25 +3,30 @@
 {{ else }}
   {{ $alt := .Text }}
   {{ with $image := .Page.Resources.GetMatch (printf "*%s*" (.Destination | safeURL)) }}
-    {{ $src := ($image.Process "webp").RelPermalink -}}
-    <img
-      src="{{ $src }}"
-      width="{{ $image.Width }}"
-      height="{{ $image.Height }}"
-      alt="{{ $alt }}"
-      loading="lazy"
-      decoding="async"
-      srcset="
-        {{- with site.Params.deviceSizes -}}
-          {{- range $i, $e := . -}}
-            {{- if ge $image.Width . -}}
-              {{- if $i }},{{ end -}}
-              {{- ($image.Resize (print . `x webp`) ).RelPermalink }} {{ . }}w
+    {{ if eq $image.MediaType.SubType "svg" }}
+      {{/* SVG is not a raster image: Process/Resize/Width are unavailable, serve as-is */}}
+      <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async" />
+    {{ else }}
+      {{ $src := ($image.Process "webp").RelPermalink -}}
+      <img
+        src="{{ $src }}"
+        width="{{ $image.Width }}"
+        height="{{ $image.Height }}"
+        alt="{{ $alt }}"
+        loading="lazy"
+        decoding="async"
+        srcset="
+          {{- with site.Params.deviceSizes -}}
+            {{- range $i, $e := . -}}
+              {{- if ge $image.Width . -}}
+                {{- if $i }},{{ end -}}
+                {{- ($image.Resize (print . `x webp`) ).RelPermalink }} {{ . }}w
+              {{- end -}}
             {{- end -}}
           {{- end -}}
-        {{- end -}}
-      "
-      sizes="(min-width: 992px) 660px, 100vw"
-    />
+        "
+        sizes="(min-width: 992px) 660px, 100vw"
+      />
+    {{ end }}
   {{ end }}
 {{ end }}
