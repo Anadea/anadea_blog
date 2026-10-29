@@ -5,7 +5,7 @@ title: "How to Control OpenAI and Anthropic Costs: An Engineering Approach to
 breadcrumbs: LLM Gateway Guide
 slug: llm-cost-optimization-gateway
 draft: false
-publishDate: 2026-10-29T13:25:00+02:00
+publishDate: 2026-10-29T13:44:00+02:00
 image: 2149635463.jpg
 og_image: 2149635463.jpg
 description: Learn how to reduce OpenAI and Anthropic API spend using a central
